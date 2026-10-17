@@ -1,0 +1,148 @@
+@0
+{05}{05}{04}{02}g{02}{01}{02}{02}{01}Jｸa{05}{05}{05}{05}{05}{04}{02}h{02}{01}{02}{02}{01}Jﾈa{05}{05}{05}{05}{05}{04}{02}{01}{81}{06}&{02}{02}{82}{06}&{02}d30{01}Jｩa{05}{05}{05}{05}{05}{04}{02}{02}{81}{06}&{02}{01}{82}{06}&{02}d30{01}Jｪa{05}{05}{05}{01}S{02}e17You dodged my blade? Not bad.{05}{05}{05}I underestimated you. Now I'm serious{01}C7{00}!{05}{05}{05}As expected of {02}{02}ﾈ, not easily beaten{01}C9{00}{01}C2{00}.{05}{05}{05}Better than I thought{01}C2{00}{01}C8{00}. Then take this!{05}{05}{05}Not bad, but how about this?{05}{05}{05}I've found a worthy rival{01}C5{00}. Hold back and I'll lose{01}C0{00}{01}C8{00}.{05}{05}{05}Useless{01}C-{00}! Where are you aiming?{05}{05}{05}Tch, I slipped{01}C2{00}.{05}{05}{05}You dodged my thrust... It seems I must get serious{01}C2{00}.{05}{05}{05}What, you dodged? You're fun! My blood's boiling for the first time in ages.{05}{05}{05}You dodged {01}C{03}{00}'s blow? Not bad!{05}{05}{05}I see through you{01}C7{00}! You twist your arm right before you strike.{05}{05}{05}With skill like that... You underestimate me{01}C2{00}{01}C8{00}. Playtime's over. Die!{05}{05}{05}A dull attack{01}C2{00}. Time to get serious{01}C:{00}. Ready{01}C2{00}{01}C8{00}?{05}{05}{05}Ugh, what strength... My hands are numb from blocking... Tough{01}C2{00}.{05}{05}{05}Damn, I can barely dodge. I must go on the attack or I can't win{01}C2{00}.{05}{05}{05}What fighting spirit{01}C2{00}! It sends chills down my spine.{05}{05}{05}
+@1
+{01}S{02}e4Underestimate me because I'm a woman and you'll regret it.{05}{05}{05}Go easy on me because I'm a woman and you'll get hurt.{05}{05}{05}Don't judge by looks, or you'll get hurt. {01}CA{00}{05}{05}{05}Ever heard "every rose has its thorn"? Let me teach you.{05}{05}{05}
+@2
+{01}S{02}e5This one's wasted as a woman.{05}{05}{05}A warrior beyond any woman. Not bad at all.{05}{05}{05}What a thrust! That's a woman's thrust? I might fall for her!{05}{05}{05}This woman's strength is monstrous{01}C-{00}. One hit could be fatal.{05}{05}{05}{01}C{03}{00} can't lose to a woman!{05}{05}{05}
+@3
+{05}{05}{04}{02}g{02}{01}{02}{02}{01}Jｻa{05}{05}{05}{05}{05}{04}{02}h{02}{01}{02}{02}{01}Jﾑa{05}{05}{05}{05}{05}{04}{02}{01}{81}{06}&{02}{02}{82}{06}&{02}d30{01}Jｬa{05}{05}{05}{01}S{02}e16With skill like that, you'll never take my head{01}C9{00}{01}C7{00}.{05}{05}{05}You're no match for me{01}C9{00}{01}C7{00}.{05}{05}{05}Fighting the likes of you is a waste of time{01}C-{00}.{05}{05}{05}You dared show up with skill like that{01}C2{00}?{05}{05}{05}What's wrong, struggling? Is that all?{05}{05}{05}Too slow, too slow! There! How's that?{05}{05}{05}You beating me? A hundred years too soon{01}C0{00}!{05}{05}{05}Now, time to finish you off.{05}{05}{05}There, there! Is that all you've got?{05}{05}{05}You're wide open{01}C0{00}. Where'd all that bravado go?{05}{05}{05}Got you{01}C7{00}! I'll finish this at once.{05}{05}{05}Hyaaah! Spirit{01}C-{00}! Spirit decides the duel{01}C-{00}!{05}{05}{05}There{01}C-{00}! This duel is mine{01}C0{00}!{05}{05}{05}Can't dodge even this? I'm not even trying{01}C7{00}.{05}{05}{05}Oh dear? The gap in skill seems too wide{01}C2{00}{01}C8{00}.{05}{05}{05}Fighting me with spearwork like that... Don't take duels lightly.{05}{05}{05}
+@4
+{01}S{02}e3Underestimate me because I'm a woman and you'll get hurt.{05}{05}{05}You underestimated me. It's not too late... Come at me seriously!{05}{05}{05}What's wrong? Where's all that spirit? {01}CA{00}{05}{05}{05}
+@5
+{05}{05}{04}{02}g{02}{01}{02}{02}{01}Jｾa{05}{05}{05}{05}{05}{04}{02}h{02}{01}{02}{02}{01}Jﾚa{05}{05}{05}{05}{05}{04}{02}{01}{82}{06}&{02}{02}{81}{06}&{02}d30{01}Jｯa{05}{05}{05}{05}{05}{04}{02}{01}{82}{06}&{02}{02}{82}{06}&{02}d20{01}Jｮa{05}{05}{05}{01}S{02}e17Even if we both fall, I'll cut {01}C{0B}{00} down!{05}{05}{05}To die in battle is a warrior's wish!{05}{05}{05}It's not over till it's over{01}C9{00}!{05}{05}{05}Hmm... N-not bad{01}C2{00}.{05}{05}{05}Ugh, this is bad. What's going on?{05}{05}{05}You dodged my blade... Not to be underestimated.{05}{05}{05}Hmm, it seems I underestimated {01}C{0B}{00} a little{01}C2{00}.{05}{05}{05}Now I'll have to fight to the death{01}C0{00}.{05}{05}{05}Wh-what... I can't touch them{01}C9{00}.{05}{05}{05}This one is no pushover{01}C9{00}{01}C0{00}.{05}{05}{05}Grr, unbelievable{01}C9{00}... This one's tough{01}C0{00}.{05}{05}{05}Ow... It's not over yet{01}C-{00}! The duel isn't decided till the end{01}C9{00}!{05}{05}{05}Tch, what a thrust! I barely dodged a fatal blow{01}C2{00}.{05}{05}{05}Hmph, fine technique{01}C2{00}. But that won't beat me{01}C7{00}.{05}{05}{05}Careless of me{01}C2{00}. Yesterday's wine must still be in me{01}C2{00}. Time to get serious!{05}{05}{05}Damn it! I won't die in a place like this!{05}{05}{05}Not bad... It's been ages since I met someone this good{01}C-{00}. My blood's boiling{01}C7{00}!{05}{05}{05}
+@6
+{01}S{02}e3There's still such a man?{05}{05}{05}Such a man exists! It sends shivers through me.{05}{05}{05}To think there's a man this strong besides me...{05}{05}{05}
+@7
+{01}S{02}e4Hmm, unbelievable. Is this really a woman?{05}{05}{05}This is bad. I underestimated her because she's a woman.{05}{05}{05}A mere woman wounding me... You'll pay dearly for this.{05}{05}{05}I went easy on you because you're a woman and you got cocky. Unforgivable!{05}{05}{05}
+@8
+{05}{05}{04}{02}g{02}{01}{02}{02}{01}Jﾁa{05}{05}{05}{05}{05}{04}{02}h{02}{01}{02}{02}{01}J綢{05}{05}{05}{01}S{02}e12Admirable, for an enemy. But next time won't go like this{01}C9{00}{01}C7{00}.{05}{05}{05}We'll call this a draw{01}C-{00}. Next time we meet, be ready.{05}{05}{05}Admirable, for an enemy{01}C-{00}. I'll let you win today{01}C0{00}.{05}{05}{05}I'm off today... Lucky you. Remember{01}C'{00}!{05}{05}{05}I'll let you off for today.{05}{05}{05}This one's too much for me. Bah, I'll fall back for now{01}C-{00}.{05}{05}{05}I can't win this. Running is winning.{05}{05}{05}It can't be helped. Life comes first{01}C-{00}.{05}{05}{05}I can't win like this. I'll try again later.{05}{05}{05}Don't think you've won.{05}{05}{05}Of the 36 stratagems, running away is best.{05}{05}{05}I'll let you have the win today{01}C5{00}.{05}{05}{05}
+@9
+{01}S{02}e3Looks like I got away{01}C2{00}.{05}{05}{05}Whew, they nearly caught me{01}C2{00}.{05}{05}{05}Phew, that was close{01}C0{00}.{05}{05}{05}
+@10
+{05}{05}{04}{02}g{02}{01}{02}{02}{01}Jﾂa{05}{05}{05}{05}{05}{04}{02}h{02}{01}{02}{02}{01}J鐶{05}{05}{05}{01}S{02}e5Coward! Running is cowardly{01}C0{00}!{05}{05}{05}Wait! Running away, coward!{05}{05}{05}{01}CA{00} Running with their tail between their legs{01}C7{00}! Everyone, laugh at them!{05}{05}{05}Cowardly{01}C0{00}! Call yourself a warrior?{05}{05}{05}Turning your back on the enemy? Curse you, I won't let you escape{01}C9{00}{01}C7{00}!{05}{05}{05}
+@11
+{05}{05}{04}{02}g{02}{01}{02}{02}{01}Jﾄa{05}{05}{05}{05}{05}{04}{02}h{02}{01}{02}{02}{01}J{uE021}{05}{05}{05}{01}S{02}e5Turning your back on the enemy... Call yourself a warrior?{05}{05}{05}What a letdown. I'll laugh at you for generations.{05}{05}{05}Now you know your weakness, never brag again.{05}{05}{05}Coward. I'll laugh at you for generations.{05}{05}{05}Turning your back on the enemy... a disgrace to warriors. Next time I'll finish you{01}C0{00}.{05}{05}{05}
+@12
+{01}S{02}e6Time to get serious{01}C7{00}! Prepare yourself{01}C'{00}!{05}{05}{05}Hyahyahyaaah!{05}{05}{05}Playtime's over{01}C-{00}. Now I'm serious{01}C0{00}!{05}{05}{05}Oraoraoraaah!{05}{05}{05}Take this attack!{05}{05}{05}Dodge this if you can!{05}{05}{05}
+@13
+{01}S{02}e7Gwah!{05}{05}{05}Gueh!{05}{05}{05}Ugh!{05}{05}{05}Gyah!{05}{05}{05}Blast, my sword arm... I can't grip{01}C9{00}!{05}{05}{05}Tch, careless{01}C2{00}. At this rate...{05}{05}{05}Ow, this wound is nothing... Not yet{01}C-{00}, not yet... I won't fall...{05}{05}{05}
+@14
+{01}S{02}e5Gwaaaaah!{05}{05}{05}I can't die... Urgh.{05}{05}{05}Waaaaah!{05}{05}{05}How... bitter...!{05}{05}{05}Beaten by the likes of you... Gwah.{05}{05}{05}
+@15
+{05}{05}{04}{02}g{02}{01}{02}{02}{01}Jﾆa{05}{05}{05}{05}{05}{04}{02}h{02}{01}{02}{02}{01}J{uE0DD}{05}{05}{05}{01}S{02}e13This fight... was decided before it began{01}C0{00}!{05}{05}{05}Oops{01}C2{00}. I got a little too serious{01}C4{00}.{05}{05}{05}{01}CA{00} What a letdown{01}C2{00}{01}C8{00}.{05}{05}{05}No matter how many like {01}C{0B}{00} come, they'll never take my head{01}C9{00}.{05}{05}{05}Phew, they didn't know their place{01}C2{00}.{05}{05}{05}Anyone with more backbone{01}C${00}?!{05}{05}{05}See that? That's {01}C{03}{00}'s strength!{05}{05}{05}I've slain {02}{02}ﾈ!{05}{05}{05}You picked the wrong opponent{01}C2{00}{01}C8{00}.{05}{05}{05}With skill like that, you'd have lost even if it weren't me{01}C2{00}.{05}{05}{05}Skill like that, I could beat bare-handed{01}C5{00}.{05}{05}{05}Your defeat came from challenging without knowing your opponent's strength{01}C-{00}.{05}{05}{05}Challenging {01}C{03}{00} with that? Ridiculous!{05}{05}{05}
+@16
+=
+@17
+{01}S{02}e3{02}{02}ﾈ, you've grown a lot{01}C2{00}{01}C8{00}.{05}{05}{05}Dodging my blade... {02}{02}ﾈ has grown strong{01}C2{00}{01}C8{00}.{05}{05}{05}You've improved since I last saw you{01}C2{00}{01}C8{00}.{05}{05}{05}
+@18
+{05}{05}{04}{02}{02}{81}{06}&{02}{01}{81}Between women, the younger one is bound to be stronger.{05}{05}{05}{05}{05}{04}{02}{02}{81}{06}&{02}{01}{82}Even if she's a woman, impressive.{05}{05}{05}{01}S{02}e3As expected of Father. Not so easy.{05}{05}{05}I'm not holding back, but Father is still Father.{05}{05}{05}Tch, Father's as good as ever.{05}{05}{05}
+@19
+=
+@20
+{05}{05}{04}{02}{01}{81}You're no match for me yet.{05}{05}{05}{01}S{02}e3Still just a child after all.{05}{05}{05}Your father won't be beaten by the likes of you.{05}{05}{05}With skill like that you'll never surpass your father.{05}{05}{05}
+@21
+{05}{05}{04}{02}{02}{81}{06}&{02}{01}{81}Your time is over.{05}{05}{05}{05}{05}{04}{02}{02}{81}I didn't want to be rough, but it can't be helped{01}C {00}.{05}{05}{05}{01}S{02}e4Somehow I'm in tears... Your skill has declined with age{01}C.{00}.{05}{05}{05}Your time is over, Father{01}C {00}{01}C0{00}.{05}{05}{05}Father's era seems to be over{01}C2{00}.{05}{05}{05}Old men should retire and sit in the sun!{05}{05}{05}
+@22
+=
+@23
+{05}{05}{04}{02}{01}{81}Not bad. And I thought you were just a child.{05}{05}{05}{01}S{02}e4That's the spirit! Surpass your father!{05}{05}{05}I took you lightly as a child, but you're good.{05}{05}{05}As expected of my child. Not bad.{05}{05}{05}A mere whelp... Curse youuu!{05}{05}{05}
+@24
+{05}{05}{04}{02}{02}{81}{06}&{02}{01}{81}No way, she's strong! Can't mock old people.{05}{05}{05}{05}{05}{04}{02}{02}{81}Why is she so strong? She's just a woman.{05}{05}{05}{01}S{02}e3Father really is strong{01}C2{00}. If I don't get serious, I'll lose{01}C0{00}{01}C8{00}.{05}{05}{05}I can't dodge Father's blade... The fight's just beginning{01}C6{00}!{05}{05}{05}As expected of my father. But I'll surpass you{01}C7{00}!{05}{05}{05}
+@25
+{05}{05}{04}{02}{02}v{04}={02}{01}uMust be age{01}C9{00}{01}C2{00}{01}C8{00}. Let's call it a draw for now{01}C0{00}.{05}{05}{05}Can't beat my parent{01}C2{00}{01}C8{00}. I'll run for now{01}C4{00}.{05}{05}{05}
+@26
+{05}{05}{04}{02}{02}v{04}={02}{01}u{01}Jﾃa{05}{05}{05}Don't you think it's pathetic for a parent to run?{05}{05}{05}
+@27
+{01}S{02}e2Run along. I'll catch you soon{01}C0{00}.{05}{05}{05}Running with your tail between your legs after all{01}C,{00}.{05}{05}{05}
+@28
+{05}{05}{04}{02}{02}v{04}={02}{01}u{01}Jﾅa{05}{05}{05}Even I will be laughed at.{05}{05}{05}
+@29
+All talk and no skill. How pathetic{01}C2{00}{01}C8{00}.{05}{05}{05}
+@30
+{05}{05}{04}{02}{02}v{04}={02}{01}u{02}{02}ﾈ, forgive me.{05}{05}{05}I truly didn't want to fight{01}C-{00}.{05}{05}{05}
+@31
+Parent and child shouldn't fight.{05}{05}{05}
+@32
+=
+@33
+{01}S{02}e4As expected of my {01}C{0D}{00}{01}C-{00}. You've grown since I last saw you.{05}{05}{05}{02}{02}ﾈ, when did you get so strong?{05}{05}{05}So strong now... I'm proud of you, my {01}C{0D}{00}.{05}{05}{05}Not bad, {02}{02}ﾈ. But you won't beat your elder so easily!{05}{05}{05}
+@34
+{01}S{02}e3{01}C{0E}{00}, of course you'd dodge something like that.{05}{05}{05}You dodged that? As expected of my {01}C{0E}{00}.{05}{05}{05}{01}C{0E}{00}, go easy on me because I'm younger and you'll get hurt.{05}{05}{05}
+@35
+{01}S{02}e3You can dodge my blade now.{05}{05}{05}I went easy on you. Of course you dodged.{05}{05}{05}My cute little {01}C{0D}{00} became this strong...{05}{05}{05}
+@36
+{01}S{02}e3I didn't think that would work.{05}{05}{05}{01}C{0E}{00}, you're good at dodging.{05}{05}{05}As expected of my {01}C{0E}{00}. I didn't think you'd dodge that.{05}{05}{05}
+@37
+{01}S{02}e2You dodged that... Impressive.{05}{05}{05}It reminds me of when we were young... We trained together so often...{05}{05}{05}
+@38
+{01}S{02}e2Ugh... Tough as expected... We know each other's every move...{05}{05}{05}Fine fighting spirit... You've polished your skill!{05}{05}{05}
+@39
+{01}S{02}e2I know your strength... I didn't think that would work.{05}{05}{05}I went easy on you. Of course you dodged.{05}{05}{05}
+@40
+{01}S{02}e2You dodged!? Not making it easy for me...{05}{05}{05}You can dodge my blade now.{05}{05}{05}
+@41
+=
+@42
+{01}S{02}e3How's that? I'm still stronger.{05}{05}{05}If you're going to run, now's the time, {02}{02}ﾈ.{05}{05}{05}You're no match for your elder after all.{05}{05}{05}
+@43
+{01}S{02}e3{01}C{0E}{00}, is that all you've got?{05}{05}{05}You're no match for me anymore.{05}{05}{05}Is that all, {01}C{0E}{00}? You must have gotten rusty.{05}{05}{05}
+@44
+{01}S{02}e3This is a waste of time. Why not run?{05}{05}{05}You can't keep up with me yet.{05}{05}{05}In the end, you can't beat your big sister.{05}{05}{05}
+@45
+{01}S{02}e3{01}C{0E}{00}, you underestimated my skill.{05}{05}{05}Going easy like that, it's no contest.{05}{05}{05}Don't take me lightly. I've already surpassed you, {01}C{0E}{00}.{05}{05}{05}
+@46
+{01}S{02}e2Hmph! You've gotten rusty since we last met!{05}{05}{05}Is that all...? You shame the family!{05}{05}{05}
+@47
+{01}S{02}e2What's wrong!? You had more fight as a child!{05}{05}{05}Weak! Gone soft!? To think we share the same blood...{05}{05}{05}
+@48
+{01}S{02}e2You can't beat me with that skill anymore... Give up.{05}{05}{05}Still going? You always hated losing, even as a child...{05}{05}{05}
+@49
+{01}S{02}e2How pathetic... Don't make a fool of yourself any longer.{05}{05}{05}Same blood, different paths... Your path couldn't surpass mine.{05}{05}{05}
+@50
+=
+@51
+{01}S{02}e3Hmm, losing to my {01}C{0D}{00} would be shameful.{05}{05}{05}Not bad, {02}{02}ﾈ. I didn't expect this much.{05}{05}{05}I won't lose to the likes of my {01}C{0D}{00}!{05}{05}{05}
+@52
+{01}S{02}e3I won't lose to my {01}C{0E}{00}!{05}{05}{05}This is bad. At this rate I'll be beaten.{05}{05}{05}Damn, I don't want to lose... I'll surpass my {01}C{0E}{00}!{05}{05}{05}
+@53
+{01}S{02}e3S-strong... To think you've become this strong...{05}{05}{05}I can't lose here.{05}{05}{05}Eh, I'm being pushed back...{05}{05}{05}
+@54
+{01}S{02}e3As expected of my {01}C{0E}{00}. This is bad.{05}{05}{05}Ugh, I was a little careless.{05}{05}{05}At this rate I'll lose. But I don't want to lose to my {01}C{0E}{00}. I don't want to lose!{05}{05}{05}
+@55
+{01}S{02}e2Wha... When did the gap grow this wide...!?{05}{05}{05}As expected... no, I can't afford to relax.{05}{05}{05}
+@56
+{01}S{02}e2Tch...! Not bad... But the same blood runs in me too...!{05}{05}{05}Ugh... I'm cornered... You've trained hard.{05}{05}{05}
+@57
+{01}S{02}e2Wha... When did the gap grow this wide...!?{05}{05}{05}The same blood runs in me... So why this gap!?{05}{05}{05}
+@58
+{01}S{02}e2Sharp as ever... Can't I win after all!?{05}{05}{05}I won't lose... I don't want to lose... I've worked hard too!{05}{05}{05}
+@59
+=
+@60
+{01}S{02}e3It can't be helped. I'll fall back for now.{05}{05}{05}It's galling, but I'll withdraw.{05}{05}{05}I never thought you'd be this good... I'm happy and sad. I'll withdraw.{05}{05}{05}
+@61
+{01}S{02}e3Th-th-th-this isn't running away!{05}{05}{05}I'm not feeling well. I'll withdraw for now.{05}{05}{05}I'll back off this time. See you...{05}{05}{05}
+@62
+{01}S{02}e3The odds are against me today.{05}{05}{05}Going easy was a mistake.{05}{05}{05}You win today.{05}{05}{05}
+@63
+{01}S{02}e2I'll admit defeat today.{05}{05}{05}The odds are against me. I'll withdraw.{05}{05}{05}
+@64
+=
+@65
+{01}S{02}e3Running, coward? Watch your back!{05}{05}{05}Running away! You always did, since we were kids...{05}{05}{05}Turning your back on the enemy... And you call yourself my {01}C{0D}{00}!{05}{05}{05}
+@66
+{01}S{02}e3Turning your back on me... I'll give chase.{05}{05}{05}Running, {01}C{0E}{00}! I won't let you escape. Wait!{05}{05}{05}Running from your younger sibling... I misjudged you, {01}C{0E}{00}!{05}{05}{05}
+@67
+{01}S{02}e3Run so I can't catch you.{05}{05}{05}Wait! I won't let you escape.{05}{05}{05}Turning your back on me... Wait!{05}{05}{05}
+@68
+{01}S{02}e3I'll catch you for sure.{05}{05}{05}Running away... And you call yourself my {01}C{0E}{00}!{05}{05}{05}I misjudged you, {01}C{0E}{00}. You won't escape.{05}{05}{05}
+@69
+{01}S{02}e2Running, coward? Watch your back!{05}{05}{05}Running away! You always did, since we were kids...{05}{05}{05}
+@70
+{01}S{02}e2Turning your back on me... I'll give chase.{05}{05}{05}Running!? Come back! This isn't a children's quarrel!{05}{05}{05}
+@71
+{01}S{02}e2I'll catch you for sure.{05}{05}{05}Running away... I don't want to see you like that! Wait!{05}{05}{05}
+@72
+{01}S{02}e3Not bad... At least your running has gotten faster{01}C2{00}.{05}{05}{05}One of our clan fleeing the enemy with tail tucked... A disgrace to the family{01}C-{00}.{05}{05}{05}Turning your back on the enemy... How pathetic...{05}{05}{05}
+@73
+{01}S{02}e3Why must I fight my own kin... Is this fate?{05}{05}{05}Why must those of the same blood fight{01}C9{00}... How ironic fate is...{05}{05}{05}"Flesh and blood devouring each other"... Why has it come to this...{05}{05}{05}

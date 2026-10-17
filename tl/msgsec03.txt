@@ -1,0 +1,610 @@
+@0
+Select a topic.{05}{05}{05}
+@1
+Select what you want to know.{05}{05}{05}
+@2
+{1B}C6Basics{1B}C1\nWhere do I start?\nQuestions and answers on the basics.\nTopics covered:\n{1B}C4- Goal\t- Orders per month\n- Fame\t- Council\n- Ministers\t- Advisor\n- Strategist\t- General rank{1B}C1\n{05}{05}{05}
+@3
+{1B}C6Domestic Affairs{1B}C1\nHow do I make my realm rich?\nQuestions and answers on domestic affairs.\nTopics covered:\n{1B}C4- Domestic minister\t- Patrol\n- Commerce\t- Farming\n- Flood control\t- Defense\n- Trade{1B}C1\n{05}{05}{05}
+@4
+{1B}C6Military{1B}C1\nOnly the strong survive!\nQuestions and answers on military affairs.\nTopics covered:\n{1B}C4- Military minister\t- Raising troops\n- Enlist\t- Conscript\n- Train\t- Organize\n- Move{1B}C1\n{05}{05}{05}
+@5
+{1B}C6Personnel{1B}C1\nNothing happens without people!\nQuestions and answers on personnel.\nTopics covered:\n{1B}C4- Personnel minister\t- Search\n- Recruit\t- Reward\n- Items\t- Banquet\n- Training{1B}C1\n{05}{05}{05}
+@6
+{1B}C6Schemes{1B}C1\nWin with your head!\nQuestions and answers on schemes.\nTopics covered:\n{1B}C4- Scheme minister\t- Rumor\n- Turncoat\t- Rival Tigers\n- Incite\t- Sabotage\n- Plant Agent{1B}C1\n{05}{05}{05}
+@7
+{1B}C6Diplomacy{1B}C1\nMake use of other realms!\nQuestions and answers on diplomacy.\nTopics covered:\n{1B}C4- Diplomacy minister\t- Alliance\n- Gift\t- Threaten\n- Aid\t- Research{1B}C1\n\n{05}{05}{05}
+@8
+{1B}C6Battle{1B}C1\nBecome a master of war!\nQuestions and answers on battle.\nTopics covered:\n{1B}C4- Winning battles\t- Morale\n- Wounded troops\t- Reinforcements\n- Follow-up armies\t- Provisions\n- Unit facing{1B}C1\n{05}{05}{05}
+@9
+{1B}C6Formations{1B}C1\nFormations are the key to victory!\nQuestions and answers on formations.\nTopics covered:\n{1B}C4- Changing formations\t- Plains formations\n- Mountain formations\t- Water formations\n- Siege weapons{1B}C1\n\n{05}{05}{05}
+@10
+{1B}C6Special Abilities{1B}C1\nEvery officer has their own talents!\nQuestions and answers on special abilities.\nTopics covered:\n{1B}C4- Learning abilities\t- Scheme abilities\n- Combat abilities\t- Effect abilities{1B}C1\n\n\n{05}{05}{05}
+@11
+What is the goal?{05}{05}{05}
+@12
+{1B}C6What is the goal?{1B}C1\nThe goal of this game is simple: take {1B}C4"all 47 cities"{1B}C1 for yourself.\n\nStudy this book of strategy and make all of China yours. Of course, that's easier said than done.{05}{05}{05}
+@13
+How do I expand my territory?{05}{05}{05}
+@14
+{1B}C6How do I expand my territory?{1B}C1\nThere are three ways to expand:\n{1B}C4- Move into an empty city\n{1B}C4- War (Military command)\n{1B}C4- Threaten (Diplomacy command){1B}C1\nMoving into an empty city is easiest, but if an enemy ruler holds it you must take it by war or threats. Threats rarely work without a huge gap in national power.{05}{05}{05}
+@15
+Can I get more orders?{05}{05}{05}
+@16
+{1B}C6Can I get more orders?{1B}C1\nThe number of orders you can give each month depends on your ruler's fame. As fame rises, so do your monthly orders.\n\nThe most you can have is {1B}C410{1B}C1 and the fewest is {1B}C43{1B}C1.\n\n{05}{05}{05}
+@17
+What is fame?{05}{05}{05}
+@18
+{1B}C6What is fame?{1B}C1\nFame is how the people judge their ruler's deeds. Doing praiseworthy things raises it, and doing evil lowers it.\nWith more fame you can give more orders each month, and it brings many other advantages too.{05}{05}{05}
+@19
+How do I raise fame?{05}{05}{05}
+@20
+{1B}C6How do I raise fame?{1B}C1\nFirst, hold a {1B}C4"Council"{1B}C1 in January and achieve the goal set there within the year. Failing lowers your fame, so choose the goal carefully.\nNext, {1B}C4"Patrol"{1B}C1 your lands and do what the people want. How you respond to the various events that occur will also test your worth as a ruler.{05}{05}{05}
+@21
+What is a council?{05}{05}{05}
+@22
+{1B}C6What is a council?{1B}C1\nA {1B}C4"Council"{1B}C1 is a meeting that sets the year's goal. It can be held each January.\nIf you achieve the goal within the year your fame rises; if not, it falls.\nIf no goal looks achievable, choosing {1B}C4"No goal"{1B}C1 is also an option.{05}{05}{05}
+@23
+How do I hold a council?{05}{05}{05}
+@24
+{1B}C6How do I hold a council?{1B}C1\nTo hold a "Council", {1B}C4at least 4 of the 5 departments must have a minister appointed{1B}C1.\n\nIf they do, your advisor will suggest holding a council in January. Then simply decide whether to hold it.\n{05}{05}{05}
+@25
+What are ministers?{05}{05}{05}
+@26
+{1B}C6What are ministers?{1B}C1\nUnder the {1B}C4minister system{1B}C1, each officer has a fixed kind of work.\nThere are five departments: {1B}C4Domestic, Military, Personnel, Schemes and Diplomacy{1B}C1. Officers for each task are chosen from that department's ministers.\nMinisters can only be appointed in {1B}C4January, April, July and October{1B}C1, so take care.{05}{05}{05}
+@27
+My officers won't work!{05}{05}{05}
+@28
+{1B}C6My officers won't work!{1B}C1\nThere are two likely reasons:\n{1B}C4- The task is outside the officer's department\n- The officer lacks vigor{1B}C1\nFor example, a military minister cannot do domestic work or anything else outside their department.{05}{05}{05}
+@29
+What is a strategist?{05}{05}{05}
+@30
+{1B}C6What is a strategist?{1B}C1\nA strategist is an expert in schemes and formations with high intelligence and politics.\nStrategists have these traits:\n\n{1B}C4- They can lead 20,000 troops from the start\n- Changing formation in battle costs them no AP{1B}C1\n\n\n{05}{05}{05}
+@31
+How do I become a strategist?{05}{05}{05}
+@32
+{1B}C6How do I become a strategist?{1B}C1\nA strategist needs high intelligence and politics:\n{1B}C4- Intelligence 90 or more\n- Politics 80 or more{1B}C1\nOfficers can also qualify by raising those stats with items. Lately there seem to be other ways to raise stats, too...\n{05}{05}{05}
+@33
+What is an advisor?{05}{05}{05}
+@34
+{1B}C6What is an advisor?{1B}C1\nAn advisor stays at the ruler's side and gives sound advice.\nIt's easy to confuse with a strategist, but any officer can be an advisor. Still, the accuracy of the advice depends on the advisor's intelligence, so appoint a strategist-class officer.\nChoose your advisor with {1B}C4"Appoint"{1B}C1 in the {1B}C4"Personnel"{1B}C1 command.{05}{05}{05}
+@35
+What is general rank?{05}{05}{05}
+@36
+{1B}C6What is general rank?{1B}C1\nGeneral rank shows an officer's standing. The higher the rank, the more troops the officer can lead.\nHowever, an officer with no record can't be made a general. To raise an officer's rank, a certain amount of {1B}C4"valor"{1B}C1 is needed.\nChoose generals with {1B}C4"Appoint"{1B}C1 in the {1B}C4"Personnel"{1B}C1 command.{05}{05}{05}
+@37
+Who makes a good domestic minister?{05}{05}{05}
+@38
+{1B}C6Who makes a good domestic minister?{1B}C1\n{1B}C4"Develop"{1B}C1, done by domestic ministers, is affected by {1B}C4all of an officer's stats{1B}C1. Don't assume only politics matters.\n{1B}C4"Develop"{1B}C1 is carried out by every domestic minister in the city, so making all your otherwise idle officers domestic ministers is a good idea.{05}{05}{05}
+@39
+The people won't cooperate!{05}{05}{05}
+@40
+{1B}C6The people won't cooperate!{1B}C1\nWhen you {1B}C4"Develop"{1B}C1, the people are sometimes uncooperative and the effect is halved.\nThis happens when the people of that city don't like their ruler. {1B}C4"Patrol"{1B}C1 right away and meet the people.\nSteady effort is sure to win their hearts!{05}{05}{05}
+@41
+What does "Patrol" do?{05}{05}{05}
+@42
+{1B}C6What does "Patrol" do?{1B}C1\n{1B}C4"Patrol"{1B}C1 raises the people's support. Meeting them gives you a chance to win their hearts.\n\nWhenever a disaster or other event occurs, patrol at once and mingle with the people. You might discover something new.{05}{05}{05}
+@43
+How do I get lots of gold?{05}{05}{05}
+@44
+{1B}C6How do I get lots of gold?{1B}C1\nGold income depends on four things:\n{1B}C4- Commerce\n- Population\n- Support\n- Officers' salaries{1B}C1\nDomestic affairs are vital for raising income. More officers also means more spending, so moving into empty cities and expanding your lands matters too.{05}{05}{05}
+@45
+How do I get lots of food?{05}{05}{05}
+@46
+{1B}C6How do I get lots of food?{1B}C1\nFood income depends on four things:\n{1B}C4- Farming\n- Population\n- Support\n- Number of troops{1B}C1\nIn autumn, food is automatically handed out to feed the troops in your realm, so too many troops will cut your food income.{05}{05}{05}
+@47
+When do I get gold?{05}{05}{05}
+@48
+{1B}C6When do I get gold?{1B}C1\nGold is collected as tax at the change of each season: {1B}C4January, April, July and October{1B}C1.\n{1B}C4January brings the most.{1B}C1\nDon't count on much in the other months.\n\n{05}{05}{05}
+@49
+When do I get food?{05}{05}{05}
+@50
+{1B}C6When do I get food?{1B}C1\nFood comes in {1B}C4July{1B}C1. Note that this differs from gold, which comes four times a year.\nWithout food you can't hold out when the enemy invades, so always keep an eye on your supplies.\n\n{05}{05}{05}
+@51
+More cities, but no more taxes{05}{05}{05}
+@52
+{1B}C6More cities, but no more taxes{1B}C1\nDo you have a city with no officers in it?\nA city with no officers yields no taxes.\n\n{05}{05}{05}
+@53
+What is flood control?{05}{05}{05}
+@54
+{1B}C6What is flood control?{1B}C1\nIt shows how well a city is protected from water damage. With high flood control, there is less damage from:\n{1B}C4- Floods\n- Typhoons{1B}C1\nFlood control rises when you "Develop" the city. {1B}C4The maximum is 100.{1B}C1\n{05}{05}{05}
+@55
+What is defense?{05}{05}{05}
+@56
+{1B}C6What is defense?{1B}C1\nIt shows the strength of a city's walls and gates when it becomes a battlefield.\nWith high defense, units holding the castle gain the advantage and can hold out stubbornly.\nDefense rises when you {1B}C4"Develop"{1B}C1 the city. {1B}C4The maximum is 999.{1B}C1\n\n{05}{05}{05}
+@57
+Who makes a good military minister?{05}{05}{05}
+@58
+{1B}C6Who makes a good military minister?{1B}C1\nNaturally, {1B}C4officers with high war{1B}C1 make good military ministers, as war affects all military work.\nThe number of troops gathered by {1B}C4"Enlist"{1B}C1 is also affected by {1B}C4the minister's charisma{1B}C1. An officer with high war and charisma is ideal.\n{05}{05}{05}
+@59
+How do I get more troops?{05}{05}{05}
+@60
+{1B}C6How do I get more troops?{1B}C1\nThere are two main ways to raise troops:\n{1B}C4- Enlist\n- Conscript{1B}C1\nEither way, the number gathered depends on the city's population, so raise troops in populous cities.{05}{05}{05}
+@61
+"Enlist" vs. "Conscript"?{05}{05}{05}
+@62
+{1B}C6"Enlist" vs. "Conscript"?{1B}C1\n{1B}C4"Enlist"{1B}C1 gathers young men who want to serve, while {1B}C4"Conscript"{1B}C1 forces people into the army.\n{1B}C4"Conscript"{1B}C1 gathers more troops at once, but lowers support and fame.\nExcept in emergencies, {1B}C4"Enlist"{1B}C1 is the better choice.{05}{05}{05}
+@63
+Who should Enlist?{05}{05}{05}
+@64
+{1B}C6Who should Enlist?{1B}C1\nThe number of troops gathered by "Enlist" depends on two of the officer's stats:\n{1B}C4- Charisma\n- Valor{1B}C1\nThe training and morale of the new troops depend on the officer's war.{05}{05}{05}
+@65
+Who should Conscript?{05}{05}{05}
+@66
+{1B}C6Who should Conscript?{1B}C1\nThe officer's stats hardly affect how many troops {1B}C4"Conscript"{1B}C1 gathers.\nHowever, the training and morale of conscripts depend on the officer's war.\nThere's also a rumor that officers with nasty personalities round up more men...{05}{05}{05}
+@67
+Who should Train?{05}{05}{05}
+@68
+{1B}C6Who should Train?{1B}C1\n{1B}C4"Train"{1B}C1 raises the troops' training and morale. How much depends on the officer's war.\nIt raises the training and morale of every soldier in the city, not just the officer's own troops, so an officer with no troops can do it just fine.{05}{05}{05}
+@69
+What does "Organize" do?{05}{05}{05}
+@70
+{1B}C6What does "Organize" do?{1B}C1\n{1B}C4"Organize"{1B}C1 divides a city's troops among the officers in that city.\nSo you're ready whenever the enemy attacks, keep plenty of troops with your best officers.\nYou can {1B}C4"Organize"{1B}C1 right after you {1B}C4"Enlist" or "Conscript"{1B}C1.{05}{05}{05}
+@71
+What does "Move" do?{05}{05}{05}
+@72
+{1B}C6What does "Move" do?{1B}C1\n{1B}C4"Move"{1B}C1 sends officers from one city to another.\nWhen you hold several cities, place your officers in a balanced way, thinking of both defense and domestic affairs.\n{05}{05}{05}
+@73
+Who makes a good personnel minister?{05}{05}{05}
+@74
+{1B}C6Who makes a good personnel minister?{1B}C1\nA personnel minister needs {1B}C4politics{1B}C1. Officers high in it succeed more often at {1B}C4"Search"{1B}C1 and {1B}C4"Recruit"{1B}C1.\nOfficers also have compatibility. Even a capable officer will struggle to {1B}C4"Recruit"{1B}C1 someone they don't get along with. If {1B}C4"Recruit"{1B}C1 fails, try another officer.{05}{05}{05}
+@75
+How do I get more officers?{05}{05}{05}
+@76
+{1B}C6How do I get more officers?{1B}C1\nThere are several ways:\n{1B}C4- Successfully recruit an officer\n- A free officer offers to serve you\n- A child of your ruler or officers turns 15\n- Recruit captives after a battle{1B}C1{05}{05}{05}
+@77
+What does "Search" do?{05}{05}{05}
+@78
+{1B}C6What does "Search" do?{1B}C1\n{1B}C4"Search"{1B}C1 finds officers who haven't been discovered yet.\nCities sometimes hide talented people unknown to the world.\nBut {1B}C4"Search"{1B}C1 only finds someone when an undiscovered officer is actually there.{05}{05}{05}
+@79
+What are free officers?{05}{05}{05}
+@80
+{1B}C6What are free officers?{1B}C1\nFree officers serve no ruler and live as wanderers.\nYou can check for free officers on the city information screen.\nIf a capable free officer is in your lands, recruit them right away.\n\n{05}{05}{05}
+@81
+How do I recruit free officers?{05}{05}{05}
+@82
+{1B}C6How do I recruit free officers?{1B}C1\nUse {1B}C4"Recruit"{1B}C1 in a city with a free officer; if it succeeds, they join you.\nYou can only recruit free officers in your own lands.\n\n\n{05}{05}{05}
+@83
+How do I recruit enemy officers?{05}{05}{05}
+@84
+{1B}C6How do I recruit enemy officers?{1B}C1\nUse {1B}C4"Recruit"{1B}C1 on another realm's officer; if it succeeds, they join you.\nWhen poaching, watch the officer's loyalty. The lower it is, the easier it is.\nTo lower enemy loyalty, the {1B}C4"Rumor"{1B}C1 scheme works well.{05}{05}{05}
+@85
+What do items do?{05}{05}{05}
+@86
+{1B}C6What do items do?{1B}C1\nGiving an item to a retainer can:\n{1B}C4- Raise loyalty\n- Raise stats\n- Grant special abilities{1B}C1\nThe stat boosts and abilities differ for each item, so go looking for them.{05}{05}{05}
+@87
+What does "Banquet" do?{05}{05}{05}
+@88
+{1B}C6What does "Banquet" do?{1B}C1\nHold a {1B}C4"Banquet"{1B}C1 and officers who attend recover all their vigor.\nOfficers are only human; now and then they need a drink and a good time.\nJust don't let them overdo it...\n{05}{05}{05}
+@89
+What does "Training" do?{05}{05}{05}
+@90
+{1B}C6What does "Training" do?{1B}C1\nWith {1B}C4"Training"{1B}C1, an officer goes on a year-long journey and returns with experience.\nIt's modest but very useful. Send idle officers, or ones who aren't living up to their potential. However, {1B}C4only officers with 100 loyalty can go{1B}C1.{05}{05}{05}
+@91
+What is compatibility?{05}{05}{05}
+@92
+{1B}C6What is compatibility?{1B}C1\nIt isn't shown, but officers have personality traits. Officers with similar traits get along; very different ones don't.\nYou could say they just click, or they don't.\nCompatibility affects every situation involving two officers, such as {1B}C4"Recruit"{1B}C1 and {1B}C4"Search"{1B}C1.{05}{05}{05}
+@93
+Who makes a good scheme minister?{05}{05}{05}
+@94
+{1B}C6Who makes a good scheme minister?{1B}C1\nA scheme's success depends on {1B}C4the intelligence of the officer carrying it out{1B}C1.\nSo officers with high intelligence make the best scheme ministers. Politics or war affect some schemes a little, but not enough to worry about.\n{05}{05}{05}
+@95
+What is "Rumor"?{05}{05}{05}
+@96
+{1B}C6What is "Rumor"?{1B}C1\nSpread ugly rumors about the ruler in an enemy city to lower the people's support and the loyalty of the officers there.\nOne attempt has little effect, so repeat it several times.\n\n{05}{05}{05}
+@97
+"Rumor" keeps failing...{05}{05}{05}
+@98
+{1B}C6"Rumor" keeps failing...{1B}C1\nIf the target city's support is very high, {1B}C4"Rumor"{1B}C1 rarely succeeds.\nIt also succeeds less often against a ruler with high fame or charisma.{05}{05}{05}
+@99
+What is "Turncoat"?{05}{05}{05}
+@100
+{1B}C6What is "Turncoat"?{1B}C1\n{1B}C4"Turncoat"{1B}C1 persuades an enemy officer to promise to switch sides in battle.\nDuring a battle, use {1B}C4"Defect"{1B}C1 to bring that officer over to you. Win over a {1B}C4"Turncoat"{1B}C1 before attacking, and picture the enemy ruler turning pale.{05}{05}{05}
+@101
+How do I succeed at "Turncoat"?{05}{05}{05}
+@102
+{1B}C6How do I succeed at "Turncoat"?{1B}C1\nIn short:\n{1B}C4- Target officers with low loyalty\n- Spread "Rumor" first{1B}C1\nTargeting officers of bad character also works, though they might cause you trouble later...{05}{05}{05}
+@103
+What is "Rival Tigers"?{05}{05}{05}
+@104
+{1B}C6What is "Rival Tigers"?{1B}C1\n{1B}C4"Rival Tigers"{1B}C1 is a bold move that incites an enemy governor to declare independence.\nIt rarely succeeds, but it can be fun to try.{05}{05}{05}
+@105
+How do I succeed at "Rival Tigers"?{05}{05}{05}
+@106
+{1B}C6How do I succeed at "Rival Tigers"?{1B}C1\n{1B}C4"Rival Tigers"{1B}C1 is a very difficult scheme, but you can:\n{1B}C4- Target governors with low loyalty\n- Target governors with little honor\n- Target governors with great ambition\n- Spread "Rumor" first{1B}C1\nThese conditions rarely line up, so timing is everything.{05}{05}{05}
+@107
+What is "Incite"?{05}{05}{05}
+@108
+{1B}C6What is "Incite"?{1B}C1\n{1B}C4"Incite"{1B}C1 stirs up the people of an enemy city to riot.\nIf it succeeds, when you attack that city you can use the {1B}C4"Incite"{1B}C1 command to start a riot, cutting enemy troops and lowering the city's defense.{05}{05}{05}
+@109
+How do I succeed at "Incite"?{05}{05}{05}
+@110
+{1B}C6How do I succeed at "Incite"?{1B}C1\nFor "Incite", these work well:\n{1B}C4- Target cities with low support\n- Use an officer with high politics\n- Spread "Rumor" first{1B}C1\nIf your ruler's fame is very low, the people won't trust you, so take care.{05}{05}{05}
+@111
+What is "Sabotage"?{05}{05}{05}
+@112
+{1B}C6What is "Sabotage"?{1B}C1\nA city with high defense is hard to take even when you attack it.\n{1B}C4"Sabotage"{1B}C1 lowers a city's defense beforehand.\n\n{05}{05}{05}
+@113
+How do I succeed at "Sabotage"?{05}{05}{05}
+@114
+{1B}C6How do I succeed at "Sabotage"?{1B}C1\nBesides intelligence, {1B}C4"Sabotage"{1B}C1 also depends on war.\n{1B}C4- Use an officer with high war\n- Target cities whose governor has low intelligence and war{1B}C1\nOf course, high intelligence on your side helps too.\n\n{05}{05}{05}
+@115
+What is "Plant Agent"?{05}{05}{05}
+@116
+{1B}C6What is "Plant Agent"?{1B}C1\n{1B}C4"Plant Agent"{1B}C1 is an elaborate scheme: you send one of your officers into an enemy realm as a free officer, and it succeeds if the enemy recruits them.\nAfterwards, schemes against a city with your agent in it succeed more often, and if the agent joins a battle, you can make them defect.{05}{05}{05}
+@117
+Who makes a good agent?{05}{05}{05}
+@118
+{1B}C6Who makes a good agent?{1B}C1\n{1B}C4"Plant Agent"{1B}C1 works best with officers who have:\n{1B}C4- Low stats\n- Low valor{1B}C1\nIn other words, a capable, well-known officer turning up as a free officer just looks suspicious and is hard to get recruited.{05}{05}{05}
+@119
+Who makes a good diplomacy minister?{05}{05}{05}
+@120
+{1B}C6Who makes a good diplomacy minister?{1B}C1\nPersuading other rulers and negotiating on favorable terms... such work calls for {1B}C4politics{1B}C1. Officers with high politics make good diplomacy ministers.{05}{05}{05}
+@121
+Why form an "Alliance"?{05}{05}{05}
+@122
+{1B}C6Why form an "Alliance"?{1B}C1\nAn alliance offers these benefits:\n{1B}C4- No surprise attacks from your ally\n- You can ask for reinforcements\n- You can develop new weapons with "Research"{1B}C1\nEven a strong realm struggles to fight several at once. Using {1B}C4"Alliance"{1B}C1 well is a shortcut to unifying the land.{05}{05}{05}
+@123
+How do I succeed at "Alliance"?{05}{05}{05}
+@124
+{1B}C6How do I succeed at "Alliance"?{1B}C1\nIf alliances keep failing, try:\n{1B}C4- Choosing a ruler with little hostility\n- Winning favor first with "Gift"\n- Proposing a shorter term{1B}C1\nNaturally, offering more gold as a condition helps too.\n\n{05}{05}{05}
+@125
+What does "Gift" do?{05}{05}{05}
+@126
+{1B}C6What does "Gift" do?{1B}C1\nSending a {1B}C4"Gift"{1B}C1 to another realm lowers its hostility toward you.\n{05}{05}{05}
+@127
+When should I "Threaten"?{05}{05}{05}
+@128
+{1B}C6When should I "Threaten"?{1B}C1\nTry {1B}C4"Threaten"{1B}C1 on weak rulers on the brink of ruin, with few cities and officers.\nIf it succeeds, the cities of the ruler who submits become yours, and all their officers become your retainers.\n{05}{05}{05}
+@129
+How do I succeed at "Threaten"?{05}{05}{05}
+@130
+{1B}C6How do I succeed at "Threaten"?{1B}C1\nTo succeed with threats, conditions such as these must be met:\n{1B}C4- The target holds only one city\n- Your realm borders the target city\n- Your troops vastly outnumber theirs\n- The target ruler's hostility is 60 or less{1B}C1\nEven so, it's a very hard command to pull off.{05}{05}{05}
+@131
+What does "Aid" do?{05}{05}{05}
+@132
+{1B}C6What does "Aid" do?{1B}C1\n{1B}C4"Aid"{1B}C1 asks an allied ruler to share gold and food with you.\nIf you run out of gold and food and have nowhere left to turn, ask an ally.\n{05}{05}{05}
+@133
+How do I succeed at "Aid"?{05}{05}{05}
+@134
+{1B}C6How do I succeed at "Aid"?{1B}C1\nGetting gold and food for free is a lot to ask, so some conditions must be met:\n{1B}C4- The other realm's hostility is low\n- They have plenty of gold and food\n- You haven't asked for aid too often{1B}C1\nBut relying on aid too much will hurt your fame.{05}{05}{05}
+@135
+What can "Research" do?{05}{05}{05}
+@136
+{1B}C6What can "Research" do?{1B}C1\nWith {1B}C4"Research"{1B}C1 you can develop new weapons for battle together with an allied ruler.\nA new weapon shores up the weaknesses of its matching formation.\n{1B}C4"Research"{1B}C1 costs a great deal of money and time, but it's well worth it.\n\n{05}{05}{05}
+@137
+How do I succeed at "Research"?{05}{05}{05}
+@138
+{1B}C6How do I succeed at "Research"?{1B}C1\n{1B}C4"Research"{1B}C1 fails if the time left on your alliance is shorter than the time needed.\nIt also fails if the other ruler lacks enough gold. In that case, a generous option is to send them gold first with a {1B}C4"Gift"{1B}C1.{05}{05}{05}
+@139
+I just can't win battles!{05}{05}{05}
+@140
+{1B}C6I just can't win battles!{1B}C1\nTo win, work out what matters tactically and concentrate your forces there:\n{1B}C4- Target the enemy ruler\n- Target the enemy's provisions\n- Aim to take every castle{1B}C1\nChoose your goal to suit the situation and find a way to win with minimal losses.{05}{05}{05}
+@141
+What are the victory conditions?{05}{05}{05}
+@142
+{1B}C6What are the victory conditions?{1B}C1\nMeet either condition below to win.\n{1B}C4<Attacker wins>{1B}C1\n1. Defeat the defending ruler's unit\n2. Capture every castle\n{1B}C4<Defender wins>{1B}C1\n1. Defeat the attacking ruler's unit\n2. Hold out for 30 days\n\n{05}{05}{05}
+@143
+What does training affect?{05}{05}{05}
+@144
+{1B}C6What does training affect?{1B}C1\nTraining affects:\n{1B}C4- A unit's defense\n- Success when using schemes\n- Evasion against enemy schemes{1B}C1\nIn other words, however many troops you have, with low training they're just a rabble.{05}{05}{05}
+@145
+What does morale affect?{05}{05}{05}
+@146
+{1B}C6What does morale affect?{1B}C1\nMorale shows the troops' fighting spirit.\nHigh morale raises a unit's attack. Low morale makes soldiers start deserting, so watch out.\n\n\n{05}{05}{05}
+@147
+What if my provisions are taken?{05}{05}{05}
+@148
+{1B}C6What if my provisions are taken?{1B}C1\nLose your provisions and you've all but lost.\n{1B}C4Without provisions, an army's morale steadily drops.{1B}C1 Low morale slashes attack, and soldiers start deserting. You won't win like that.\nWhen defending, if you can seize the enemy's provisions, the battle is as good as won.{05}{05}{05}
+@149
+What are wounded troops?{05}{05}{05}
+@150
+{1B}C6What are wounded troops?{1B}C1\nWhen an enemy attack hurts a unit, not everyone dies. Some are merely injured: these are wounded troops.\nThey can't fight, but recover after the battle.\nThey can also recover during a battle by resting in a castle or through special abilities.{05}{05}{05}
+@151
+Enemy troops appeared mid-battle!{05}{05}{05}
+@152
+{1B}C6Enemy troops appeared mid-battle!{1B}C1\nEven if the city you attacked had few defenders, enemy follow-up armies can suddenly appear and turn the tide.\nUnits can be sent from cities far from the battlefield as long as a road connects them, so be careful.{05}{05}{05}
+@153
+What does unit facing affect?{05}{05}{05}
+@154
+{1B}C6What does unit facing affect?{1B}C1\nDamage taken from an attack depends on the direction it comes from.\n{1B}C4Attacks from the front do the least damage, then the flank, and attacks from behind do the most.{1B}C1\nAttack enemies from behind whenever you can, and never turn your back on them.{05}{05}{05}
+@155
+What are formations?{05}{05}{05}
+@156
+{1B}C6What are formations?{1B}C1\nA formation arranges troops to suit a purpose so they fight as an organized force.\nSome stress attack, some defense, some extend bow range, and more.\nA true general uses each one as the situation demands.\n{05}{05}{05}
+@157
+Tell me the formations{05}{05}{05}
+@158
+{1B}C6Tell me the formations{1B}C1\nThere are 12 formations:\n{1B}C4<Plains formations>{1B}C1\nAwl, Fan, Scales, Moon, Circle, Crane, Geese\n{1B}C4<Mountain formations>{1B}C1\nSnake, Yoke, Arrow, Hook\n{1B}C4<Water formation>{1B}C1\nWater\nEach is strongest on its own terrain.{05}{05}{05}
+@159
+What is the Awl formation?{05}{05}{05}
+@160
+{1B}C6What is the Awl formation?{1B}C1\nThe Awl formation puts speed above all. It shines when moving across plains.\nIt's good for quickly raiding enemy provisions, capturing enemy castles, or covering long distances.\nIt's not suited to bow fighting.{05}{05}{05}
+@161
+What is the Fan formation?{05}{05}{05}
+@162
+{1B}C6What is the Fan formation?{1B}C1\nThe Fan formation excels at defense. When attacked, {1B}C4its troops are often only wounded{1B}C1.\nTake position somewhere wounded troops can recover, such as a castle, and you can hold out stubbornly.{05}{05}{05}
+@163
+What is the Scales formation?{05}{05}{05}
+@164
+{1B}C6What is the Scales formation?{1B}C1\nScales has the highest attack of the plains formations, plus good mobility. It can also use the powerful {1B}C4"Assault"{1B}C1 attack.\nOn the other hand, its defense is very low and it's poor at defending.\nUse it when you want to crush the enemy fast and can accept some losses.{05}{05}{05}
+@165
+What is the Moon formation?{05}{05}{05}
+@166
+{1B}C6What is the Moon formation?{1B}C1\nThis formation {1B}C4doubles the chance of critical hits{1B}C1.\nCritical hit chance depends on an officer's valor, so an officer with high valor using Moon can do great things.\n{05}{05}{05}
+@167
+What is the Circle formation?{05}{05}{05}
+@168
+{1B}C6What is the Circle formation?{1B}C1\nSquare has the highest defense of all formations. It also {1B}C4suffers no penalty from any direction{1B}C1, making it ideal for defending castles.\nIts attack and mobility are almost nil, so develop the new {1B}C4"Catapult"{1B}C1 to boost its bow attack.{05}{05}{05}
+@169
+What is the Crane formation?{05}{05}{05}
+@170
+{1B}C6What is the Crane formation?{1B}C1\nSending even one officer who can use Crane gives you an edge, because it's the only formation that can use {1B}C4"Surround"{1B}C1.\nSurround is an attack made when several units encircle an enemy. It deals huge damage, so go for it whenever you can.{05}{05}{05}
+@171
+What is the Geese formation?{05}{05}{05}
+@172
+{1B}C6What is the Geese formation?{1B}C1\nGeese is a formation for attacking with bows. It has the best bow attack and range, but almost no direct attack.\nPlace allied units in front and give covering fire from behind.\n{05}{05}{05}
+@173
+What is the Snake formation?{05}{05}{05}
+@174
+{1B}C6What is the Snake formation?{1B}C1\nSnake moves quickly through mountains and forests. Even on rough, mountainous ground it moves fast.\nOtherwise it has nothing special. Switch to another formation once you're near the enemy.{05}{05}{05}
+@175
+What is the Yoke formation?{05}{05}{05}
+@176
+{1B}C6What is the Yoke formation?{1B}C1\nYoke has no particular strength in attack. But it places many troops on its flanks, so {1B}C4it suffers no penalty from flank attacks{1B}C1.\nWith allies behind it or impassable terrain at its back it can fight on stubbornly. It's especially useful on mountainous battlefields.{05}{05}{05}
+@177
+What is the Arrow formation?{05}{05}{05}
+@178
+{1B}C6What is the Arrow formation?{1B}C1\nArrow is Scales adapted to the mountains. It has the same high attack and can use {1B}C4"Assault"{1B}C1, and like Scales it has almost no defense.\nIf you find units in plains formations wandering in the mountains, charge them mercilessly.{05}{05}{05}
+@179
+What is the Hook formation?{05}{05}{05}
+@180
+{1B}C6What is the Hook formation?{1B}C1\nLike Fan, the Hook formation means {1B}C4troops rarely suffer fatal wounds{1B}C1. Fan suits the plains; Hook suits the mountains.\nIts direct attack is low, but its bow attack is high and it moves quickly through hills and forests, making it ideal for support.{05}{05}{05}
+@181
+What is the Water formation?{05}{05}{05}
+@182
+{1B}C6What is the Water formation?{1B}C1\nOf all the formations, only Water is suited to fighting on water. On water it is all but invincible.\nIf you can use it, lure the enemy onto the water. Conversely, challenging it on water is reckless.{05}{05}{05}
+@183
+What is the Chariot?{05}{05}{05}
+@184
+{1B}C6What is the Chariot?{1B}C1\nBoosts the defense of the Arrow formation. Built with the Diplomacy {1B}C4"Research"{1B}C1 command.\nA handy weapon that's quick and fairly cheap to develop.\n\n\n{1B}C4Cost: 4500{1B}C1\n{1B}C4Time: 6 months{1B}C1{05}{05}{05}
+@185
+What is Sleeved Armor?{05}{05}{05}
+@186
+{1B}C6What is Sleeved Armor?{1B}C1\nBoosts the defense and bow defense of the Snake formation. Built with the Diplomacy {1B}C4"Research"{1B}C1 command.\nAvoid partners in the mountainous west; choose a ruler on the eastern coast.\n\n{1B}C4Cost: 9000{1B}C1\n{1B}C4Time: 12 months{1B}C1{05}{05}{05}
+@187
+What is the Repeating Crossbow?{05}{05}{05}
+@188
+{1B}C6What is the Repeating Crossbow?{1B}C1\nBoosts the bow attack and range of the Hook formation. Built with the Diplomacy {1B}C4"Research"{1B}C1 command.\nWith it, you'll have a big edge in bow fighting.\n\n\n{1B}C4Cost: 13500{1B}C1\n{1B}C4Time: 18 months{1B}C1{05}{05}{05}
+@189
+What is Heavy Cavalry?{05}{05}{05}
+@190
+{1B}C6What is Heavy Cavalry?{1B}C1\nBoosts the attack and defense of the Awl formation. Built with the Diplomacy {1B}C4"Research"{1B}C1 command.\nIt costs a lot and takes long, but strengthens the mobile Awl formation in both attack and defense. Very valuable.\n{1B}C4Cost: 18000{1B}C1\n{1B}C4Time: 24 months{1B}C1{05}{05}{05}
+@191
+What is the Tower Ship?{05}{05}{05}
+@192
+{1B}C6What is the Tower Ship?{1B}C1\nBoosts the attack, defense and bow defense of the Water formation. Built with the Diplomacy {1B}C4"Research"{1B}C1 command.\nWith it you're truly invincible on water, but Water is already strong there, so develop it when you can spare the funds.\n{1B}C4Cost: 22500{1B}C1\n{1B}C4Time: 30 months{1B}C1{05}{05}{05}
+@193
+What is the Catapult?{05}{05}{05}
+@194
+{1B}C6What is the Catapult?{1B}C1\nBoosts the bow attack of the Circle formation. Built with the Diplomacy {1B}C4"Research"{1B}C1 command.\nIt's expensive and takes three years, but it's very effective, so do develop it.\n\n{1B}C4Cost: 27000{1B}C1\n{1B}C4Time: 36 months{1B}C1{05}{05}{05}
+@195
+What is the Battering Ram?{05}{05}{05}
+@196
+{1B}C6What is the Battering Ram?{1B}C1\nBoosts the defense of the Scales formation. How to develop it is unknown, so find out for yourself.\nWith this weapon, {1B}C4attacks on castles and gates deal more damage to enemy units than usual{1B}C1.\n{05}{05}{05}
+@197
+What is the Longbow?{05}{05}{05}
+@198
+{1B}C6What is the Longbow?{1B}C1\nBoosts the bow attack and bow defense of the Geese formation. How to develop it is unknown, so find out for yourself.\nWith it, Geese becomes {1B}C4the strongest formation in bow combat{1B}C1.\n\n{05}{05}{05}
+@199
+What is the War Drum Tower?{05}{05}{05}
+@200
+{1B}C6What is the War Drum Tower?{1B}C1\nBoosts the defense and bow defense of the Crane formation. How to develop it is unknown, so find out for yourself.\nWith it, {1B}C4officers recover stamina faster than usual{1B}C1. Give it to a clever officer skilled at schemes.\n{05}{05}{05}
+@201
+What is Light Armor?{05}{05}{05}
+@202
+{1B}C6What is Light Armor?{1B}C1\nBoosts the defense and bow defense of the Moon formation. How to develop it is unknown, so find out for yourself.\nWith it, {1B}C4the Moon formation can also "Assault"{1B}C1. Moon has a high critical rate, so it's powerful with an officer high in war.{05}{05}{05}
+@203
+What is the Wooden Ox?{05}{05}{05}
+@204
+{1B}C6What is the Wooden Ox?{1B}C1\nBoosts the defense and bow defense of the Fan formation. How to develop it is unknown, so find out for yourself.\nWith it, {1B}C4wounded troops recover once every 3 turns{1B}C1.\n\n{05}{05}{05}
+@205
+What is the Tiger Chariot?{05}{05}{05}
+@206
+{1B}C6What is the Tiger Chariot?{1B}C1\nBoosts the attack, defense and bow defense of the Yoke formation. How to develop it is unknown, so find out for yourself.\nWith it, {1B}C4you can use a powerful "Fire"{1B}C1. Used well, it can engulf the enemy in flames.\n{05}{05}{05}
+@207
+What are special abilities?{05}{05}{05}
+@208
+{1B}C6What are special abilities?{1B}C1\nThey are each officer's own special skills, mostly used on the battlefield.\nOfficers {1B}C4learn new abilities as they gain experience{1B}C1.\nEven an officer with modest stats can match a strong foe by using abilities well.{05}{05}{05}
+@209
+What is "Fire"?{05}{05}{05}
+@210
+{1B}C6What is "Fire"?{1B}C1\nOfficers with {1B}C4"Fire"{1B}C1 can set fires around themselves in battle. Each turn the fire spreads with the wind, so you can attack or stall enemies downwind.\nBut rain puts fires out, and they can turn back on your own army, so be careful.{05}{05}{05}
+@211
+What is "Panic"?{05}{05}{05}
+@212
+{1B}C6What is "Panic"?{1B}C1\n{1B}C4"Panic"{1B}C1 can be used on an adjacent enemy unit. If it works, the enemy can't act for several turns and is very weak, so it's easy to defeat.\nIt works best on units with low intelligence and training.{05}{05}{05}
+@213
+What is "Feud"?{05}{05}{05}
+@214
+{1B}C6What is "Feud"?{1B}C1\nOfficers with this ability can make enemy units fight each other. It can be used when your unit is next to an enemy unit that is itself next to another enemy unit.\nThe conditions are strict, but the effect is huge. Again, target units with low intelligence and training.{05}{05}{05}
+@215
+What is "Order"?{05}{05}{05}
+@216
+{1B}C6What is "Order"?{1B}C1\nOfficers with this ability can use {1B}C4"Order"{1B}C1 to bring a confused allied unit next to them back to order.\nConfused units are useless in battle, so restore them right away.{05}{05}{05}
+@217
+What is "Mystic"?{05}{05}{05}
+@218
+{1B}C6What is "Mystic"?{1B}C1\n{1B}C4"Mystic"{1B}C1 heals wounded troops in every allied unit and raises their morale.\nIt may also give bonus effects, such as letting units that have already acted move again, or restoring confused units.\n\n{1B}C4Stamina cost: 50{1B}C1{05}{05}{05}
+@219
+What is "Rouse"?{05}{05}{05}
+@220
+{1B}C6What is "Rouse"?{1B}C1\n{1B}C4"Rouse"{1B}C1 raises the morale of your unit and adjacent allied units.\nHigher morale means higher attack, so inspire your troops whenever the chance comes.\n\n\n{1B}C4Stamina cost: 25{1B}C1{05}{05}{05}
+@221
+What is "Heal"?{05}{05}{05}
+@222
+{1B}C6What is "Heal"?{1B}C1\n{1B}C4"Heal"{1B}C1 restores wounded troops in your unit and every adjacent allied unit. Invaluable in long battles.\nIt's even more effective on units in low-casualty formations such as Hook and Fan.\n\n{1B}C4Stamina cost: 35{1B}C1{05}{05}{05}
+@223
+What is "Rain"?{05}{05}{05}
+@224
+{1B}C6What is "Rain"?{1B}C1\nSurrounded by flames with no way out... that's when {1B}C4"Rain"{1B}C1 helps.\nIf it works, the weather turns to rain or a downpour and the fire goes out. Combine it with {1B}C4"Water God"{1B}C1, which raises defense in rain.\n{1B}C4Stamina cost: 20{1B}C1{05}{05}{05}
+@225
+What is "Skies"?{05}{05}{05}
+@226
+{1B}C6What is "Skies"?{1B}C1\n{1B}C4"Skies"{1B}C1 is a higher art than {1B}C4"Rain"{1B}C1, which only calls rain. It lets you change the weather as you like.\nMake it clear to use Fire or fire arrows, or make it rain to put fires out.\n\n{1B}C4Stamina cost: 30{1B}C1{05}{05}{05}
+@227
+What is "Extinguish"?{05}{05}{05}
+@228
+{1B}C6What is "Extinguish"?{1B}C1\nThis ability puts out the fires burning around the officer. An officer with it can put out every fire nearby.\nModest, but useful.\n{05}{05}{05}
+@229
+What is "Rocks"?{05}{05}{05}
+@230
+{1B}C6What is "Rocks"?{1B}C1\nRockfall drops huge stones from a castle onto nearby enemies.\nIf an officer with this ability is in a castle with an enemy unit next to it, the stones deal heavy damage.\n\n{1B}C4Stamina cost: 30{1B}C1{05}{05}{05}
+@231
+What is "Divination"?{05}{05}{05}
+@232
+{1B}C6What is "Divination"?{1B}C1\n{1B}C4"Divination"{1B}C1 is fortune-telling. Not even the caster knows what it will do. Sometimes it may even backfire.\n\n\n{1B}C4Stamina cost: 50{1B}C1{05}{05}{05}
+@233
+What is "Lurk"?{05}{05}{05}
+@234
+{1B}C6What is "Lurk"?{1B}C1\nOfficers with this ability can use {1B}C4"Lurk"{1B}C1 on enemies in forests within 4 squares.\nIf it works, it deals heavy damage and confuses the enemy. Effective on mountainous battlefields.\n\n{1B}C4Stamina cost: 30{1B}C1{05}{05}{05}
+@235
+What is "Mirage"?{05}{05}{05}
+@236
+{1B}C6What is "Mirage"?{1B}C1\n{1B}C4"Mirage"{1B}C1 is a scheme of terrifying power. Truly, it's almost too strong.\nEvery enemy within 4 squares of the caster takes heavy damage, loses morale, and most units are confused.\n\n{1B}C4Stamina cost: 60{1B}C1{05}{05}{05}
+@237
+What is "Hex"?{05}{05}{05}
+@238
+{1B}C6What is "Hex"?{1B}C1\nSlightly weaker than Mirage, {1B}C4"Hex"{1B}C1 is still a very powerful scheme.\nEvery enemy unit within 3 squares of the caster takes heavy damage and loses morale and training.\n\n{1B}C4Stamina cost: 60{1B}C1{05}{05}{05}
+@239
+What is "Flood"?{05}{05}{05}
+@240
+{1B}C6What is "Flood"?{1B}C1\n{1B}C4"Flood"{1B}C1 strikes enemies on water with a raging torrent. Officers with it can flood enemies within 4 squares.\nLure enemies onto the water and use it on many units for massive damage.\n\n{1B}C4Stamina cost: 50{1B}C1{05}{05}{05}
+@241
+What is "Slide"?{05}{05}{05}
+@242
+{1B}C6What is "Slide"?{1B}C1\nOfficers with this ability can strike enemy units on mountains within 4 squares with {1B}C4"Slide"{1B}C1.\nUnits caught in the falling earth lose 2,000 to 3,000 troops.\n\n{1B}C4Stamina cost: 50{1B}C1{05}{05}{05}
+@243
+What is "Rally"?{05}{05}{05}
+@244
+{1B}C6What is "Rally"?{1B}C1\nOfficers with this ability rally every allied unit on the battlefield, greatly raising morale.\nIt may also restore confused allied units.\n\n\n{1B}C4Stamina cost: 60{1B}C1{05}{05}{05}
+@245
+What is "Vines"?{05}{05}{05}
+@246
+{1B}C6What is "Vines"?{1B}C1\n{1B}C4"Vines"{1B}C1 is special armor invented by the southern tribes. Arrows can't harm units wearing it, and it also raises defense against normal attacks.\nBut it burns easily. Hit by {1B}C4"Fire"{1B}C1 or {1B}C4"Flame"{1B}C1, it won't last a moment.{05}{05}{05}
+@247
+What is "Mighty"?{05}{05}{05}
+@248
+{1B}C6What is "Mighty"?{1B}C1\nWhen surrounded by several enemies, their attack grows and you're at a disadvantage, especially against Surround attacks.\nBut officers with {1B}C4"Mighty"{1B}C1 suffer no penalty when surrounded. It's the mark of a warrior worth a thousand men.{05}{05}{05}
+@249
+What is "Calm"?{05}{05}{05}
+@250
+{1B}C6What is "Calm"?{1B}C1\nOfficers with Calm are very rarely caught by schemes such as {1B}C4"Panic"{1B}C1, {1B}C4"Feud"{1B}C1 and {1B}C4"Lurk"{1B}C1.\nThey also resist schemes like {1B}C4"Hex", "Mirage" and "Foil"{1B}C1.\n{05}{05}{05}
+@251
+What is "Water God"?{05}{05}{05}
+@252
+{1B}C6What is "Water God"?{1B}C1\nOfficers with Water God are protected by the dragon god of water.\nEnemy {1B}C4"Flood"{1B}C1 does them no harm at all, and their defense rises sharply when it rains.\n{05}{05}{05}
+@253
+What is "Foil"?{05}{05}{05}
+@254
+{1B}C6What is "Foil"?{1B}C1\nWhen an enemy uses {1B}C4"Fire", "Panic" or "Feud"{1B}C1 on you, you may turn the scheme back on them.\nBut against a clever foe, the counter may fail.\n{05}{05}{05}
+@255
+What is "Reply"?{05}{05}{05}
+@256
+{1B}C6What is "Reply"?{1B}C1\nOfficers with Reply answer enemy arrows with arrows of their own.\nPair it with a formation strong in bows and you'll never lose an archery duel.\n{05}{05}{05}
+@257
+What is "March"?{05}{05}{05}
+@258
+{1B}C6What is "March"?{1B}C1\nUnits sent from distant cities take days to reach the battlefield. Officers with March arrive 5 days sooner.\nA capable officer with this ability can strike faster than the enemy expects, even from far away.{05}{05}{05}
+@259
+What is "Shift"?{05}{05}{05}
+@260
+{1B}C6What is "Shift"?{1B}C1\nApart from rulers and strategists, officers can do nothing else in a turn after changing formation.\nBut officers with {1B}C4"Shift"{1B}C1 can still act after changing formation, allowing flexible tactics.\n{05}{05}{05}
+@261
+What is "Mounted Archery"?{05}{05}{05}
+@262
+{1B}C6What is "Mounted Archery"?{1B}C1\nNormally a unit can't fire arrows right after moving. But officers with {1B}C4"Mounted Archery"{1B}C1 can shoot right after moving.\n\n{05}{05}{05}
+@263
+What is "Flame"?{05}{05}{05}
+@264
+{1B}C6What is "Flame"?{1B}C1\nOfficers with this ability can attack enemies in bow range with flaming arrows. They hit harder than normal arrows and may set fires where they land.\nThe effect is like {1B}C4"Fire"{1B}C1, but Fire starts fires more easily.{05}{05}{05}
+@265
+What is "Spray"?{05}{05}{05}
+@266
+{1B}C6What is "Spray"?{1B}C1\nOfficers with this ability can use {1B}C4"Spray"{1B}C1 to shoot at every unit within range.\nBut allied units in range may be hit too.\n\n{1B}C4Stamina cost: 50{1B}C1{05}{05}{05}
+@267
+What is "Fury"?{05}{05}{05}
+@268
+{1B}C6What is "Fury"?{1B}C1\n{1B}C4"Fury"{1B}C1 lets you attack every adjacent enemy unit at once, and slightly raises your unit's morale.\nIt's handy when defending a castle surrounded by enemies.\n\n{1B}C4Stamina cost: 30{1B}C1{05}{05}{05}
+@269
+What is "Snipe"?{05}{05}{05}
+@270
+{1B}C6What is "Snipe"?{1B}C1\nUnits led by officers with Snipe have 1 more square of bow range.\nCombine it with long-range formations such as Geese or Circle for an edge.\n{05}{05}{05}
+@271
+What is "Rush"?{05}{05}{05}
+@272
+{1B}C6What is "Rush"?{1B}C1\nOfficers with this ability can use {1B}C4"Rush"{1B}C1 to temporarily boost a unit's mobility and movement range.\nUse it when you need to move fast, such as taking a castle before enemy reinforcements arrive.\n\n{1B}C4Stamina cost: 25{1B}C1{05}{05}{05}
+@273
+What is "Stealth"?{05}{05}{05}
+@274
+{1B}C6What is "Stealth"?{1B}C1\nOfficers with this ability can use "Stealth" to become invisible to enemy units, so they can't be targeted. Reaching an enemy while hidden allows a "Surprise Attack".\nBut enemy officers with "Scout" will spot you.\n{1B}C4Stamina cost: 40{1B}C1{05}{05}{05}
+@275
+What is "Pitfall"?{05}{05}{05}
+@276
+{1B}C6What is "Pitfall"?{1B}C1\nOfficers with this ability can use {1B}C4"Pitfall"{1B}C1 to set a trap on their own square when no enemy is adjacent. Lure an enemy onto it for heavy damage.\nIt can't be set near castles or gates.\n\n{1B}C4Stamina cost: 45{1B}C1{05}{05}{05}
+@277
+What is "Taunt"?{05}{05}{05}
+@278
+{1B}C6What is "Taunt"?{1B}C1\nOfficers with this ability can use {1B}C4"Taunt"{1B}C1 on non-adjacent enemies within 6 squares. If it works, the enemy targets and charges your unit.\nUse it to lure enemies in. It works well with {1B}C4"Pitfall"{1B}C1.\n\n{1B}C4Stamina cost: 30{1B}C1{05}{05}{05}
+@279
+What is "Infiltrate"?{05}{05}{05}
+@280
+{1B}C6What is "Infiltrate"?{1B}C1\nUse {1B}C4"Infiltrate"{1B}C1 on enemies within 4 squares to send spies to attack the enemy officer directly, draining their stamina and perhaps injuring them.\nUse it to wear down officers with powerful abilities.\n{1B}C4Stamina cost: 40{1B}C1{05}{05}{05}
+@281
+What is "Sway"?{05}{05}{05}
+@282
+{1B}C6What is "Sway"?{1B}C1\nOfficers with this ability can use {1B}C4"Sway"{1B}C1 to win enemy soldiers over to their side. Use it on officers low in charisma and intelligence.\nBut you can't exceed the most troops you can lead.\n\n{1B}C4Stamina cost: 40{1B}C1{05}{05}{05}
+@283
+What is "Wall"?{05}{05}{05}
+@284
+{1B}C6What is "Wall"?{1B}C1\nOfficers with this ability can use {1B}C4"Wall"{1B}C1 to raise their unit's defense until their next turn. Use it to buy time until reinforcements arrive.\nCombined with Circle, your defense is truly an iron wall.\n{1B}C4Stamina cost: 30{1B}C1{05}{05}{05}
+@285
+What is "Death Charge"?{05}{05}{05}
+@286
+{1B}C6What is "Death Charge"?{1B}C1\nOfficers with this ability can use {1B}C4"Death Charge"{1B}C1 when they have 4,000 troops or fewer. It's a desperate attack that fears no death: hugely powerful, but your unit takes heavy losses too.\nUse it to deal big damage even at a sacrifice.\n{1B}C4Stamina cost: 60{1B}C1{05}{05}{05}
+@287
+What is "Beast"?{05}{05}{05}
+@288
+{1B}C6What is "Beast"?{1B}C1\nWhen in a forest or on a mountain, officers with this ability can use {1B}C4"Beast"{1B}C1 on enemies within 2 squares. Wild animals attack, and may confuse units with low training.\nBest of all, your unit takes no damage.\n{1B}C4Stamina cost: 40{1B}C1{05}{05}{05}
+@289
+What is "Siren"?{05}{05}{05}
+@290
+{1B}C6What is "Siren"?{1B}C1\nA special ability for female officers only. When an officer with it attacks a unit led by a man, it may confuse them.\nA rare ability that works even better on compatible officers.\n\n{05}{05}{05}
+@291
+What is "Awe"?{05}{05}{05}
+@292
+{1B}C6What is "Awe"?{1B}C1\nOfficers with this ability may lower the morale of enemy units they attack. Lower morale means lower attack, giving you the upper hand.\nIt works even better for famous officers with high valor.\n{05}{05}{05}
+@293
+What is "Fire God"?{05}{05}{05}
+@294
+{1B}C6What is "Fire God"?{1B}C1\nAn ability of masters of fire. It grants these benefits:\n{1B}C4- No damage from fire\n- Wider Fire area\n- Wider Flame area\n- Can move onto burning squares{1B}C1\nBut your allies are there too, so don't get carried away with fire.{05}{05}{05}
+@295
+What is "Scout"?{05}{05}{05}
+@296
+{1B}C6What is "Scout"?{1B}C1\nOfficers with this ability can spot enemies in "Stealth" within 6 squares.\nIf the enemy uses "Stealth", keeping an officer with this ability nearby makes surprise attacks less likely.\n\n{05}{05}{05}
+@297
+What is "Sense"?{05}{05}{05}
+@298
+{1B}C6What is "Sense"?{1B}C1\nOfficers with this ability can find and disarm {1B}C4"Pitfall"{1B}C1 traps within 4 squares.\nIf you know the enemy has officers with {1B}C4"Pitfall"{1B}C1, bring an officer with this ability to stay safe.\n\n{05}{05}{05}
+@299
+What is "Grit"?{05}{05}{05}
+@300
+{1B}C6What is "Grit"?{1B}C1\nAn ability of officers who are at their best in a crisis. When their troops fall far below their starting number, their wounded recover once.\nWhen facing such an officer, don't let your guard down even when they seem cornered.\n{05}{05}{05}
+@301
+What is "Hold"?{05}{05}{05}
+@302
+{1B}C6What is "Hold"?{1B}C1\nOfficers with this ability heal wounded troops faster in castles and gates.\nCombined with low-casualty formations such as Fan and Hook, it's very powerful when holding a castle.\n{05}{05}{05}
+@303
+What is "Luck"?{05}{05}{05}
+@304
+{1B}C6What is "Luck"?{1B}C1\nWhen an officer with this ability is in battle, lucky things sometimes happen. They vary, so try it and see.\n\n\n\n{05}{05}{05}

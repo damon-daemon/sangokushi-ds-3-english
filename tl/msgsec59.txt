@@ -1,0 +1,46 @@
+@0
+Obtained {02}{01}ﾈ's\nofficer card!{05}{05}{05}
+@1
+You now have\n{1B}C3{02}({1B}C1 officer cards!{05}{05}{05}
+@2
+As a reward, {1B}C3{02}{01}ﾈ{1B}C1\nis now available!{05}{05}{05}
+@3
+As a reward, you can now\n{1B}C3change the BGM{1B}C1 in Options!{05}{05}{05}
+@4
+As a reward,\n{1B}C3"Dragon of Radiance"{1B}C1 was\nadded to the BGM list!{05}{05}{05}
+@5
+As a reward,\n{1B}C3"Land of Peach Blossoms"{1B}C1\nwas added to the BGM list!{05}{05}{05}
+@6
+As a reward, the\n{1B}C3Three Kingdoms Quiz (Medium){1B}C1\ncan now occur in events!{05}{05}{05}
+@7
+As a reward, the\n{1B}C3Three Kingdoms Quiz (Hard){1B}C1\ncan now occur in events!{05}{05}{05}
+@8
+As a reward,\nobtained {1B}C3%s{1B}C1!{05}{05}{05}
+@9
+As a reward, {1B}C3%s{1B}C1 can be used\nin Fictional mode on Hard\nwith 800+ fame!{05}{05}{05}
+@10
+An assault formation built for mobility. Good for closing on the enemy fast.{05}{05}{05}
+@11
+A defensive mountain formation. Fewer troops die when attacked.{05}{05}{05}
+@12
+Fewer troops die when attacked. Effective when posted on a castle.{05}{05}{05}
+@13
+The only formation with "Joint Attack." Use it when you surround enemies.{05}{05}{05}
+@14
+Can use "Charge." Top attack, but low defense, so be careful.{05}{05}{05}
+@15
+Critical hits come easily. Even better for officers with high valor.{05}{05}{05}
+@16
+An aggressive formation that can "Charge." Mobile in hills and forests.{05}{05}{05}
+@17
+Defensive; no loss of defense from the side. Good with bows too.{05}{05}{05}
+@18
+Amazingly mobile in hills and forests. Use it to close in fast.{05}{05}{05}
+@19
+A purely defensive formation. Defense is the same from every side.{05}{05}{05}
+@20
+Specialized in archery. Best used for covering fire behind allies.{05}{05}{05}
+@21
+The only water formation. Useless on land, but invincible on water.{05}{05}{05}
+@22
+The secret scenario {1B}C3"Heroes Unite"{1B}C1\ncan now be played!{05}{05}{05}

@@ -1,0 +1,182 @@
+@0
+Select the chapter to view.{05}{05}{05}
+@1
+You must view the previous chapter first.{05}{05}{05}
+@2
+{1B}C4Prologue{1B}C1\nSun Ce, son of Sun Jian, the Tiger of Jiangdong,\nhas taken up his father's dream of unity.\nHis realm is poor and his troops few, yet\nwith his sworn brother Zhou Yu, he is\nabout to take flight...\n\n{1B}C8Cast:{1B}C1 Sun Ce, Zhou Yu{05}{05}{05}
+@3
+{1B}C4The Basics{1B}C1\nExplains how the game proceeds.\nIt also explains how to read\nthe strategy screen.\n\n{1B}C8Cast:{1B}C1 Sun Ce, Zhou Yu{05}{05}{05}
+@4
+{1B}C4Gathering Talent{1B}C1\n Explains the importance of ministers,\n of gathering able officers, and how\n to obtain officers. Loyalty and vigor\n are also covered.\n\n {1B}C8Cast:{1B}C1 Sun Ce, Zhou Yu, Lu Su{05}{05}{05}
+@5
+{1B}C4Enriching the Realm{1B}C1\n Explains gold and food income and\n how to build national strength\n through domestic affairs. Support\n and patrols are also covered.\n\n {1B}C8Cast:{1B}C1 Sun Ce, Zhou Yu, Hua Xin, Kan Ze{05}{05}{05}
+@6
+{1B}C4Strengthening the Army{1B}C1\nExplains how to increase troops\nand how to organize them.\nTraining troops is also covered.\n\n{1B}C8Cast:{1B}C1 Sun Ce, Zhou Yu, Han Dang, Cheng Pu{05}{05}{05}
+@7
+{1B}C4Diplomacy and Schemes{1B}C1\n Learn the importance of diplomacy,\n focusing on alliances. How schemes\n give you an edge is also covered.\n\n {1B}C8Cast:{1B}C1 Sun Ce, Zhou Yu,\n Zhang Zhao, Zhang Hong{05}{05}{05}
+@8
+{1B}C4Preparing to March{1B}C1\n Explains organizing units: who to\n deploy, which formation to use...\n How days and food relate is also\n covered.\n\n {1B}C8Cast:{1B}C1 Sun Ce, Zhou Yu{05}{05}{05}
+@9
+{1B}C4War{1B}C1\nExplains the basic flow of war.\nYou'll actually move units\nand attack.\n\n{1B}C8Cast:{1B}C1 Sun Ce, Zhou Yu{05}{05}{05}
+@10
+{1B}C4Epilogue{1B}C1\nSun Ce has learned the basics of rule,\nhelped by his able (?) retainers. The fight\nfor his father's dream has just begun.\n\n{1B}C8Cast:{1B}C1 Sun Ce, Zhou Yu, Lu Su, Hua Xin,\nKan Ze, Han Dang, Cheng Pu, Zhang Zhao,\nZhang Hong{05}{05}{05}
+@11
+Quit the tutorial and return\nto chapter select?{05}{05}{05}
+@12
+Go to the next chapter?{05}{05}{05}
+@13
+Look, Zhou Yu! Father's soldiers have come back! Bowing to Yuan Shu was worth it!{05}{05}{05}
+@14
+Yes... I see. Now we can take the first step toward ruling the land.{05}{05}{05}
+@15
+The land... Yes... I must fulfill Father's dream of unifying it.{05}{05}{05}
+@16
+Spoken like the Tiger's son... You may already know, but let's go over "the land."{05}{05}{05}
+@17
+Right! I wanted to go over our path to conquest once more anyway.{05}{05}{05}
+@18
+Then look at this... As you can see, this land has {1B}C347 cities{1B}C1...{05}{05}{05}
+@19
+If you can bring all of them under your rule, you'll have unified the land.{05}{05}{05}
+@20
+The flashing part is your territory. Still small, and far from unification.{05}{05}{05}
+@21
+I see... Unifying the land is easier said than done.{05}{05}{05}
+@22
+Yes, but with your valor and caliber, if you master both strategy and battle, it can be done.{05}{05}{05}
+@23
+All right, got it! First let's master strategy. What are you doing? Hurry!{05}{05}{05}
+@24
+Hey, don't forget! {1B}C3If you lose all your cities{1B}C1, it's over!{05}{05}{05}
+@25
+Oh dear... Such speed... such passion... Truly the son of the Tiger of Jiangdong...{05}{05}{05}
+@26
+Lord Sun Jian... We two will make your dream come true.{05}{05}{05}I swear it...!{05}{05}{05}
+@27
+Now, let's master strategy! First I need to know what I can do right now.{05}{05}{05}
+@28
+Yes. Where we are now is the {1B}C3strategy screen{1B}C1.{05}{05}{05}
+@29
+Got it! So I give orders here?{05}{05}{05}
+@30
+Exactly. You can give orders each month.{05}{05}{05}
+@31
+Right! Zhou Yu! Go cut the grass!{05}{05}{05}
+@32
+.........{05}{05}{05}
+@33
+Just kidding. Don't make that scary face.{05}{05}{05}
+@34
+You can't give such petty orders. Here you can only give orders needed to enrich the realm.{05}{05}{05}
+@35
+Those orders are called {1B}C3strategy commands{1B}C1, and they look like this.{05}{05}{05}
+@36
+I see! But I doubt I can give unlimited orders?{05}{05}{05}
+@37
+Ha ha ha! Right! {1B}C3The number of orders you can give is shown by the orders on the top screen{1B}C1.{05}{05}{05}
+@38
+Here's the point! The greater your fame, the more orders you can give.{05}{05}{05}
+@39
+Ha ha ha! I knew it! Zhou Yu wouldn't want to cut grass several times a month!{05}{05}{05}
+@40
+Not funny. Press the {1B}C3advance button{1B}C1. This month is over.{05}{05}{05}
+@41
+Oh, so this is how we move to the next month. This is getting fun!{05}{05}{05}
+@42
+Zhou Yu would be angry, so you can't press it.{05}{05}{05}
+@43
+Zhou Yu is glaring at you with a scary face.{05}{05}{05}
+@44
+To make the realm strong, we need plenty of talent. Isn't there someone good somewhere...{05}{05}{05}
+@45
+I know a sage named Lu Su, but whether he's still here in Lujiang...{05}{05}{05}
+@46
+Right! Huang Gai! Huang Gai! Go {1B}C3search{1B}C1 for this Lu Su!{05}{05}{05}
+@47
+.........{05}{05}{05}
+@48
+H-hey! Huang Gai! You're right there! I know you can hear me!{05}{05}{05}
+@49
+It's not my department.{05}{05}{05}
+@50
+??? Zhou Yu! What's with Huang Gai? Shall I give him a hundred lashes?{05}{05}{05}
+@51
+No, too soon... I mean, Lord Huang Gai can't carry out that task.{05}{05}{05}
+@52
+What do you mean? He just said something about a department...{05}{05}{05}
+@53
+Just as you guessed. Well, take a look. Press the {1B}C3Personnel command{1B}C1.{05}{05}{05}
+@54
+As you see, {1B}C3Search{1B}C1 can't be selected. It seems no officer can carry it out.{05}{05}{05}
+@55
+But Huang Gai's right there... !!! The department!!!{05}{05}{05}
+@56
+So to carry out {1B}C3Search{1B}C1, {1B}C3I have to change his department{1B}C1?{05}{05}{05}
+@57
+Yes. As a special case, Huang Gai will be made a personnel minister automatically.{05}{05}{05}
+@58
+We'll skip it here, but normally you'd choose {1B}C3Assign{1B}C1 in the Personnel command to change it.{05}{05}{05}
+@59
+Not just Lord Huang Gai; every officer has work they're good at. A wise ruler sees that clearly.{05}{05}{05}
+@60
+And remember, {1B}C3ministers can only be changed in January, April, July and October{1B}C1.{05}{05}{05}
+@61
+Ahem! Once more... Huang Gai! Go {1B}C3search{1B}C1!{05}{05}{05}
+@62
+...And with that, let's actually give the order. Choose {1B}C3Personnel{1B}C1, then {1B}C3Search{1B}C1...{05}{05}{05}
+@63
+Oh! So you're Lu Su! If Zhou Yu calls you a sage, it must be true.{05}{05}{05}
+@64
+A sage? Heavens no. I merely...{05}{05}{05}
+@65
+...opened one of my storehouses to your army.{05}{05}{05}
+@66
+A whole storehouse! That's the act of a true sage! Please keep helping me, Sun Ce!{05}{05}{05}
+@67
+Yes, my lord! I'm honored.{05}{05}{05}
+@68
+Then let me say a little about talent right away.{05}{05}{05}
+@69
+There are many ways to bring {1B}C3sages{1B}C1 like me into your service.{05}{05}{05}
+@70
+(Hm? Sage? Did he just call himself a sage...?){05}{05}{05}
+@71
+Are you listening? This is about welcoming {1B}C3sages{1B}C1 like me.{05}{05}{05}
+@72
+(He said it again! Is that just his personality!?){05}{05}{05}
+@73
+With {1B}C3Recruit{1B}C1 in the Personnel command, you can recruit free officers or lure them from other realms.{05}{05}{05}
+@74
+Also, if you win a war, you can recruit captured officers afterward.{05}{05}{05}
+@75
+Please gather {1B}C3sages{1B}C1 like me. Ruling the land will draw near.{05}{05}{05}
+@76
+(A-again...) Y-yes, got it! Now, next is enriching the realm...{05}{05}{05}
+@77
+Ah! I forgot to mention! Just bringing them in isn't enough.{05}{05}{05}
+@78
+There's something called {1B}C3loyalty{1B}C1, which you can raise with {1B}C3Reward{1B}C1 or {1B}C3items{1B}C1 in the Personnel command.{05}{05}{05}
+@79
+Loyalty... I see, if it's not high enough, they'll betray me?{05}{05}{05}
+@80
+Exactly! You're as wise as I am! Ha ha ha!{05}{05}{05}
+@81
+Ha ha ha! I understand! You may go!{05}{05}{05}
+@82
+No, there's one more thing.{05}{05}{05}
+@83
+Hmm... There's more? Out with it.{05}{05}{05}
+@84
+Some strategy commands use up an officer's {1B}C3vigor{1B}C1.{05}{05}{05}
+@85
+So even if an officer is a minister, they can't act without enough vigor. At such times...{05}{05}{05}
+@86
+Drink some wine and restore their vigor?{05}{05}{05}
+@87
+Exactly! You're {1B}C3wise{1B}C1 like m...{05}{05}{05}
+@88
+Enough. At such times, I'll hold a {1B}C3banquet{1B}C1.{05}{05}{05}
+@89
+Then I'll expect no formalities.{05}{05}{05}
+@90
+Not happening. Zhou Yu! On to the next!{05}{05}{05}

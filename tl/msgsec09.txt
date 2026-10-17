@@ -1,0 +1,129 @@
+@0
+The people praise Lord {02}{01}ﾈ for achieving the goal.{05}{05}{05}
+@1
+The people are disappointed that Lord {02}{01}ﾈ failed to achieve the goal.{05}{05}{05}
+@2
+Lord {02}{01}ﾈ's fame is now {1B}C4{02}({1B}C1 (+{1B}C4{02}){1B}C1).{05}{05}{05}
+@3
+Lord {02}{01}ﾈ's fame is now {1B}C4{02}({1B}C1 (-{1B}C4{02}){1B}C1).{05}{05}{05}
+@4
+Lord {02}{01}ﾈ, thanks to everyone's efforts, we achieved last year's goal.{05}{05}{05}
+@5
+Lord {02}{01}ﾈ, sadly, we did not achieve last year's goal.{05}{05}{05}
+@6
+{05}{05}{04}{02}{01}{81}{01}J/#{05}{05}{05}{01}S{02}v3A pity{01}C2{00}, we didn't reach the goal...{05}{05}{05}It seems {01}C{00}{00} led poorly{01}C2{00}. We fell far short of the goal...{05}{05}{05}We failed to reach the goal{01}C9{00}... Was it too ambitious?{05}{05}{05}
+@7
+{01}S{02}v3A pity{01}C2{00}, we didn't reach the goal...{05}{05}{05}It seems {01}C{00}{00} led poorly. We fell far short of the goal...{05}{05}{05}We failed to reach the goal... Was it too ambitious?{05}{05}{05}
+@8
+We raised the {02}- of the target city{01}C2{00}. Thanks to you all, we achieved our goal.{05}{05}{05}
+@16
+We won the hearts of the target city{01}C2{00}. Goal achieved{01}C-{00}!{05}{05}{05}
+@17
+We won the hearts of the people in our lands{01}C2{00}. Goal achieved{01}C-{00}!{05}{05}{05}
+@19
+{05}{05}{04}{02}{01}{81}{01}J<#{05}{05}{05}Well done, everyone! We took {02}{14}ﾈ{01}C0{00}. Goal achieved{01}C-{00}!{05}{05}{05}
+@20
+Thanks to everyone's hard work, we took {02}{14}ﾈ. Goal achieved{01}C-{00}!{05}{05}{05}
+@27
+Through everyone's efforts we expanded our lands{01}C0{00}. Goal achieved{01}C-{00}!{05}{05}{05}
+@30
+We increased our troops as planned{01}C2{00}{01}C8{00}. Goal achieved{01}C-{00}!{05}{05}{05}
+@33
+Thanks to everyone's efforts, we defeated {02}{02}ﾈ. Goal achieved{01}C-{00}!{05}{05}{05}
+@34
+Thanks to everyone's efforts, we defeated {02}{02}ﾈ. Goal achieved{01}C-{00}!{05}{05}{05}
+@35
+We achieved the goal{01}C0{00}. Our realm is now rich in talent{01}C2{00}.{05}{05}{05}
+@42
+Having the great general {02}{02}ﾈ on our side is reassuring. We achieved the goal{01}C0{00}.{05}{05}{05}
+@43
+Having the great general {02}{02}ﾈ on our side is reassuring. We achieved the goal{01}C0{00}.{05}{05}{05}
+@44
+We gained talent from {02}{02}ﾈ{01}C,{00}. We achieved the goal{01}C2{00}.{05}{05}{05}
+@45
+We found talent in our lands{01}C0{00}. The goal is met, but we must always keep seeking talent...{05}{05}{05}
+@46
+Goal achieved{01}C/{00}... More than that, I look forward to {02}{02}ﾈ's growth{01}C,{00}.{05}{05}{05}
+@48
+"Rival Tigers" succeeded in {02}{02}ﾈ's realm{01}C2{00}.{05}{05}{05}With that, the goal is achieved{01}C-{00}!{05}{05}{05}
+@49
+We used "Rival Tigers" on {02}{02}ﾈ and stirred their ambition.{05}{05}{05}Goal achieved{01}C-{00}!{05}{05}{05}
+@50
+{01}CA{00}, we sparked a revolt in {02}{14}ﾈ. The goal is met{01}C0{00}.{05}{05}{05}
+@51
+The people of {02}{14}ﾈ are wavering{01}C2{00}. Goal achieved{01}C,{00}.{05}{05}{05}
+@54
+We made {02}{02}ﾈ defect to our army. The goal is achieved{01}C0{00}.{05}{05}{05}
+@55
+We incited the people of {02}{14}ﾈ{01}C2{00}. Goal achieved{01}C-{00}!{05}{05}{05}
+@57
+We broke down the walls of {02}{14}ﾈ{01}C2{00}. We achieved the goal{01}C0{00}.{05}{05}{05}
+@58
+We formed a {02}(-month alliance with {02}{02}ﾈ{01}C0{00}. Goal achieved{01}C-{00}!{05}{05}{05}
+@61
+As planned, we researched {02}- with {02}{02}ﾈ{01}C0{00}.{05}{05}{05}
+@62
+We lowered {02}{02}ﾈ's hostility to {02}( or less; goal achieved{01}C-{00}. Well done, diplomacy minister{01}C2{00}{01}C8{00}.{05}{05}{05}
+@70
+This year's goal is already achieved{01}C6{00}.{05}{05}{05}
+@71
+This year's goal... looks out of reach now{01}C2{00}.{05}{05}{05}
+@72
+This year's goal... there wasn't one{01}C2{00}{01}C8{00}.{05}{05}{05}
+@73
+What was this year's goal{01}C4{00}?{05}{05}{05}
+@74
+Raise {02}- in {02}{14}ﾈ by {1B}C4{02}({1B}C1 more{05}{05}{05}
+@78
+{02}{14}ﾈ: raise {02}- by {1B}C4{02}({1B}C1
+{02}{15}ﾈ: raise {02}- by {1B}C4{02}){1B}C1{05}{05}{05}
+@82
+Raise support in {02}{14}ﾈ by {1B}C4{02}({1B}C1 more{05}{05}{05}
+@83
+Raise support in every city\nto {1B}C480{1B}C1 or more{05}{05}{05}
+@84
+Raise support in every city\nto {1B}C490{1B}C1 or more{05}{05}{05}
+@85
+Capture {02}{14}ﾈ{05}{05}{05}
+@92
+Rule {02}( cities by year's end{05}{05}{05}
+@95
+Add {1B}C4{02}({1B}C1 more troops{05}{05}{05}
+@98
+Destroy {02}{01}ﾈ's force\nby year's end{05}{05}{05}
+@99
+Capture {02}{01}ﾈ in battle\nby year's end{05}{05}{05}
+@100
+Add {02}( more officers{05}{05}{05}
+@103
+Add officers with {02}- {1B}C4{02}({1B}C1+:\n{02}) more{05}{05}{05}
+@107
+Recruit {02}{01}ﾈ in {02}{14}ﾈ{05}{05}{05}
+@109
+Recruit {02}( more of\n{02}{02}ﾈ's officers{05}{05}{05}
+@110
+Search your lands and find talent{05}{05}{05}
+@111
+Send {02}{01}ﾈ training{05}{05}{05}
+@113
+Use "Rival Tigers" on a governor\nof {02}{01}ﾈ's realm to make them rebel{05}{05}{05}
+@114
+Use "Rival Tigers" on {02}{01}ﾈ,\ngovernor of {02}{14}ﾈ, to make them rebel{05}{05}{05}
+@115
+Use schemes to spark\na revolt in {02}{14}ﾈ{05}{05}{05}
+@116
+"Rumor" {02}{14}ﾈ to lower\nsupport by {1B}C4{02}({1B}C1 more{05}{05}{05}
+@118
+"Rumor" {02}{14}ﾈ to lower\nsupport to {1B}C4{02}({1B}C1 or less{05}{05}{05}
+@119
+"Turncoat" {02}{01}ﾈ so they\ndefect in battle{05}{05}{05}
+@120
+Succeed at "Incite" on {02}{14}ﾈ{05}{05}{05}
+@122
+"Sabotage" {02}{14}ﾈ to lower\ndefense by {1B}C4{02}({1B}C1 more{05}{05}{05}
+@123
+Form a {02}(-month alliance with {02}{01}ﾈ{05}{05}{05}
+@126
+Research {02}- with {02}{01}ﾈ{05}{05}{05}
+@127
+Lower {02}{01}ﾈ's hostility\nto {1B}C4{02}({1B}C1 or less{05}{05}{05}

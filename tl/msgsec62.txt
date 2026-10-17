@@ -1,0 +1,274 @@
+@0
+{1B}C5Victory{1B}C1\n　All enemies lost\n　30 days pass\n\n{1B}C3Defeat{1B}C1\n　All allies lost\n　All castles taken{05}{05}{05}
+@1
+{1B}C5Victory{1B}C1\n　All enemies lost\n\n{1B}C3Defeat{1B}C1\n　All allies lost\n　30 days pass{05}{05}{05}
+@2
+{1B}C5Victory{1B}C1\n　All enemies lost\n\n{1B}C3Defeat{1B}C1\n　All allies lost\n　All castles taken\n　30 days pass{05}{05}{05}
+@3
+{1B}C5Victory{1B}C1\n　All enemies lost\n\n{1B}C3Defeat{1B}C1\n　All allies lost\n　30 days pass{05}{05}{05}
+@4
+{1B}C5Victory{1B}C1\n　Defeat Liu Bang, Xiang Ji\n\n{1B}C3Defeat{1B}C1\n　All allies lost\n　30 days pass{05}{05}{05}
+@5
+{1B}C5Victory{1B}C1\n　Defeat Song Jiang\n\n{1B}C3Defeat{1B}C1\n　All allies lost\n　30 days pass{05}{05}{05}
+@6
+{1B}C6Special Reward!{1B}C1\n　Shot Xiahou Yuan, took his grain\n　A hidden battle has opened!{05}{05}{05}
+@7
+{1B}C6Special Reward!{1B}C1\n　Beat Meng Huo twice, "Sway"\n　Obtained a new weapon!{05}{05}{05}
+@8
+{1B}C6Special Reward!{1B}C1\n　An ally triggered "Grit"\n　SP officers now available!{05}{05}{05}
+@9
+{1B}C6Special Reward!{1B}C1\n　Met the elders' magic with magic\n　SP officers now available!{05}{05}{05}
+@10
+{1B}C6Special Reward!{1B}C1\n　"Joint Attack" surrounding Xiang Ji\n　SP officers now available!{05}{05}{05}
+@11
+{1B}C6Special Reward!{1B}C1\n　Beat 5 units without losing one\n　SP officers now available!{05}{05}{05}
+@12
+A fitting stage for the\ndecisive battle! We'll crush them.\nWho will win first glory?{05}{05}{05}
+@13
+Watch me, my lord.\n{1B}C6No one can match me\nwith a bow.{1B}C6{05}{05}{05}
+@14
+Hm... Lord Xiahou Yuan,\nwhy dawdle?\nReturn to your post.{05}{05}{05}
+@15
+{1B}C6Weren't you put in charge\nof guarding the granary?{1B}C1{05}{05}{05}
+@16
+Hmph... I know that.\nLord Zhang He, try to do at\nleast half as well as me.{05}{05}{05}
+@17
+Say what you like. I won't\nlet you in the rear\nsteal the show.{05}{05}{05}
+@18
+Wahaha!\nWhat dependable generals!\nNow, withstand our onslaught!{05}{05}{05}
+@19
+Ugh! Such sharp arrows...!\nThere's always someone\nbetter... Fall back!{05}{05}{05}
+@20
+Ugh... To beat the mighty\nXiahou Yuan and go for our\nlifeline, the granary...{05}{05}{05}
+@21
+Such incredible skill in\nwar! It's a pity they're\nthe enemy!{05}{05}{05}
+@22
+To lose with such strength...\n...Unthinkable.{05}{05}{05}
+@23
+It is because my efforts\nfell short. I'm too ashamed\neven to cry.{05}{05}{05}
+@24
+No, no, if only I had shown\nthe enemy no mercy...{05}{05}{05}
+@25
+We fall back this time,\nbut I will surely destroy\nyou, %s army...!{05}{05}{05}
+@26
+Remember this!\nThe world needs only\none hero!{05}{05}{05}
+@27
+Don't underestimate Wei!\nHowever often you come,\nwe'll swat you like flies!{05}{05}{05}
+@28
+Hot-blooded as\never.{05}{05}{05}
+@29
+That taught the %s army.\nWhile I live, I won't let\nthem do as they please.{05}{05}{05}
+@30
+Oh ho ho!\nThe %s army has come\nstrolling in together!{05}{05}{05}
+@31
+They sure underestimate us.\nJust look at them.\nEvery one a sap...{05}{05}{05}
+@32
+Wahaha! Zhurong, that's\nbecause you see strong\nmen like me every day.{05}{05}{05}
+@33
+With the might and magic of\nNanzhong, we'll turn those\nsaps' faces to tears!{05}{05}{05}
+@34
+Ufufu.\nThat I'd like to see.{05}{05}{05}
+@35
+...Lord Meng Huo.{05}{05}{05}
+@36
+Whoa?!\nOh, it's you...\nDon't startle me.{05}{05}{05}
+@37
+All the cave chiefs have\narrived. And... the hungry\nbeasts as well...{05}{05}{05}
+@38
+Good!\nNow, see that they never\ndefy us again!{05}{05}{05}
+@39
+W-wahaha!\nI was just teasing the men.\nWe retreat for now!{05}{05}{05}
+@40
+Now, let's start over!\nThis time I won't go easy!\nRaaah!{05}{05}{05}
+@41
+Twice, curse you...!\nB-but now I know all\ntheir tactics! ...Next!{05}{05}{05}
+@42
+Perhaps I pushed the men too\nhard. But I can't let it\nend in defeat!{05}{05}{05}
+@43
+Men, {1B}C6if you want to leave,\nthen leave!{1B}C1{05}{05}{05}
+@44
+Though I'll cut down any\ncoward's back myself!\nWahaha!{05}{05}{05}
+@45
+Ah! Wait!\nSome are really leaving!\nI said wait!{05}{05}{05}
+@46
+We lost, we lost!\nThey beat us so well it\nfelt good!{05}{05}{05}
+@47
+And those %s fellows\nseem to be more than just\ngood fighters.{05}{05}{05}
+@48
+You felt it too? The way\nthey fought... they had the\nvirtue of the truly strong.{05}{05}{05}
+@49
+What say you, Lord Meng Huo?\nWhy not invite the %s\narmy to a feast tonight?{05}{05}{05}
+@50
+I'll treat them with\nall my skill...\nHee hee hee.{05}{05}{05}
+@51
+O-oh.\nA fine idea...\nShould I leave it to him?{05}{05}{05}
+@52
+Wahaha! Too easy! Did the\nheat of Nanzhong get to them?\nPathetic!{05}{05}{05}
+@53
+Indeed...\nPerfect timing. Let's feed\nthem to the beasts.{05}{05}{05}
+@54
+Understood...\nHee hee hee.{05}{05}{05}
+@55
+%s army, you seem to be\nrunning wild as you please,\nbut that ends today...{05}{05}{05}
+@56
+Your strength now threatens\nthe whole land... We will use\nany means necessary.{05}{05}{05}
+@57
+Oh... The Five Tigers, the\nSleeping Dragon and the\nPhoenix. Truly a sight.{05}{05}{05}
+@58
+Lord Sima Yi,\nit's not your turn yet.{05}{05}{05}
+@59
+I know. Lord Zhuge Liang,\nleave some enemies\nfor us.{05}{05}{05}
+@60
+{1B}C6I look forward to seeing\nhow they struggle against\nsuch overwhelming odds{1B}C1.{05}{05}{05}
+@61
+Heh... Now, %s army,\nwe shall face you with the\nfinest might and wisdom!{05}{05}{05}
+@62
+As expected, they are\nno pushovers...{05}{05}{05}
+@63
+It's about time...\nLord Sima Yi! Lord Zhou Yu!{05}{05}{05}
+@64
+Good! We march!\n%s army, burn the might\nof Wei into your eyes!{05}{05}{05}
+@65
+It feels good to be asked\nfor help by you!\nNow, we go too!{05}{05}{05}
+@66
+Far stronger than I imagined...!\nWe've run out of\nschemes.{05}{05}{05}
+@67
+...Enough jokes on the\nbattlefield. Let us play\nour trump card.{05}{05}{05}
+@68
+Found you...!{05}{05}{05}
+@69
+I've waited for this day...\nLearn in terror that there\nis a hero in this world.{05}{05}{05}
+@70
+Lu Bu the Flying\nGeneral is here!{05}{05}{05}
+@71
+Beaten, yet they rise like\na phoenix... So this is the\n%s army's strength!{05}{05}{05}
+@72
+What is this?\nEven Lu Bu is no match for\nthe %s army's valor...!{05}{05}{05}
+@73
+......{05}{05}{05}
+@74
+Even our schemes could not\nbreak them... They command\ntheir troops skillfully too.{05}{05}{05}
+@75
+...I admit it.{05}{05}{05}
+@76
+The %s army are the\nmightiest heroes.{05}{05}{05}
+@77
+Well done, Lord Zhuge Liang.\nThey're the %s army,\nbut I feel for them.{05}{05}{05}
+@78
+No, it was\nwith Lord Sima Yi's\nhelp.{05}{05}{05}
+@79
+Then from tomorrow we're foes\nagain. If I find you on the\nfield, I'll shoot you first.{05}{05}{05}
+@80
+Heh...\nI'd expect nothing less.{05}{05}{05}
+@81
+You came all the way to these\nmountains. So you're the %s\narmy stirring up the world.{05}{05}{05}
+@82
+I've heard of them too.\nWell, since they're here,\nshall we play a little?{05}{05}{05}
+@83
+Kakaka! Very well.\nWe have time to\nspare!{05}{05}{05}
+@84
+Entertain us.\n{1B}C6Don't just sit there\ntaking our magic{1B}C1.{05}{05}{05}
+@85
+Good, good.{05}{05}{05}
+@86
+Oho, not bad!\nThen...{05}{05}{05}
+@87
+Kakaka!\nCome on, over here!{05}{05}{05}
+@88
+Disappointed?\nCan't be helped. We haven't\nhad our fill of play yet.{05}{05}{05}
+@89
+%s army...\nI see death in your faces.{05}{05}{05}
+@90
+I was quietly playing go...\nWas it you who\ninterrupted?{05}{05}{05}
+@91
+Heh, a whole crowd\nof old folks...\nThen here I come!{05}{05}{05}
+@92
+What... you know magic too...!\nNot as good as ours, but\nI like your spirit!{05}{05}{05}
+@93
+Ow, ow... my back...\nFacing young folk is\nhard on the body.{05}{05}{05}
+@94
+I surely saw death in the\n%s army's faces... Hm?\nTired eyes, maybe.{05}{05}{05}
+@95
+Kakaka!\nWhat fun!\nThank you, %s army.{05}{05}{05}
+@96
+You must be tired from\nall the fighting. Why not\nchat for a while?{05}{05}{05}
+@97
+Good idea. Tell us of the\nworld below, and we'll show\nyou some magic for fun.{05}{05}{05}
+@98
+Perhaps we bullied them a\nbit much... It's been so long\nsince a fight, I forgot myself.{05}{05}{05}
+@99
+Don't let this put you off.\nCome play again!\nKakaka!{05}{05}{05}
+@100
+The %s army may be strong,\nbut only in this age...\nCan they challenge me?{05}{05}{05}
+@101
+...I've come back to life.\nI'd hate for them to be\ntoo easy.{05}{05}{05}
+@102
+Right, right.\nXiang Yu came back too...\nHm...? X-Xiang Yu?!{05}{05}{05}
+@103
+...Don't worry.\nI have no intention of\ndoing anything to you.{05}{05}{05}
+@104
+W-well, good, but...\n{1B}C6don't get yourself\nsurrounded like last time{1B}C1.{05}{05}{05}
+@105
+Mind your tongue...\nI won't repeat my blunder\nof 400 years ago...!{05}{05}{05}
+@106
+Surround me on all sides,\nand next you'll sing songs?\n...You jest too much.{05}{05}{05}
+@107
+I'll show you what happens\nwhen you rouse the Hegemon's\nwrath... Too late for regrets!{05}{05}{05}
+@108
+Uoooooh!{05}{05}{05}
+@109
+How bitter... but their\nstrength is reassuring. The\nHan will be safe with them.{05}{05}{05}
+@110
+Safe... How dull.\nI've decided. I'll overturn\nthe world once more.{05}{05}{05}
+@111
+X-Xiang Yu?!\nLeave this age to the\npeople of this age... right?{05}{05}{05}
+@112
+Heh... Just a jest.\nThen perhaps I'll take out\nmy frustration on you.{05}{05}{05}
+@113
+Haha.\nThat's a joke too, right?\nUh... his eyes aren't laughing.{05}{05}{05}
+@114
+Well, that's settled.\nEven the mighty %s army\nis no match for us!{05}{05}{05}
+@115
+The natural result...\nNow, next we settle\nthings between us...{05}{05}{05}
+@116
+I knew it!\nI won't fight you!\nFarewell!{05}{05}{05}
+@117
+Fuhahaha!\nRun all you like.\nI'll chase you to the ends of the earth.{05}{05}{05}
+@118
+Fighting the heroes of the\nThree Kingdoms, what a bad\njoke. Stay sharp, everyone!{05}{05}{05}
+@119
+Heh! Bring it on!\nI'll send the lot of 'em\nback to the grave!{05}{05}{05}
+@120
+Blasphemer.\nWell, with the strength of\nLiangshan, we won't lose.{05}{05}{05}
+@121
+That's the spirit!\nFirst blood is mine!\nUooh...!{05}{05}{05}
+@122
+Hey, Iron Ox!{05}{05}{05}
+@123
+...Whoa!\nNearly tripped there!\nWhat is it, brother Song Jiang?{05}{05}{05}
+@124
+Rush out and then\n{1B}C6fail to beat even one unit,\nand Liangshan's honor...{1B}C1{05}{05}{05}
+@125
+Wahahaha!\nBrother Song Jiang, I'll blow\nthat worry right away!{05}{05}{05}
+@126
+That's exactly my worry...\nHonestly, I envy your\ncarefree nature.{05}{05}{05}
+@127
+Hmm... The enemy hasn't\nlost a single unit. The\nancient art of war, so fine!{05}{05}{05}
+@128
+This is no time to admire\nthem! They're gloating!\nArgh, it makes me mad!{05}{05}{05}
+@129
+Truly legendary heroes.\nLucky we weren't born\nin the same age.{05}{05}{05}
+@130
+Brother... how pathetic...!\nHey, %s army!\nI was just off today!{05}{05}{05}
+@131
+That's unseemly!\nA true hero accepts\ndefeat gracefully!{05}{05}{05}
+@132
+Now, now... let him have\nhis say. It stings,\ndoesn't it, Iron Ox?{05}{05}{05}
+@133
+Doesn't sting...\nThose guys... *sniff*...{05}{05}{05}
+@134
+Wahahahaha!\nThe %s army?\nWeak, weak!{05}{05}{05}
+@135
+Hey, Iron Ox!\nDon't get carried away!{05}{05}{05}
+@136
+Why do I get scolded\nwhen we won?!\nThis is the %s army's fault too!{05}{05}{05}

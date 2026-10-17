@@ -1,0 +1,288 @@
+@0
+Good! The alliance with Yuan\nShu is made! Liu Biao worries\nme, but we're ready for Jiangdong!{05}{05}{05}
+@1
+Yes, as I said before,\nfirst we must build our\nstrength. For that...{05}{05}{05}
+@2
+Jianye, held by Liu Yao...\nWe take it first as our\nbridgehead into Jiangdong.{05}{05}{05}
+@3
+Oh, what a spineless face.\nThe new Sun army's first battle!\nA fine first prey.{05}{05}{05}
+@4
+Heh... As you say, he's one\nwho enjoyed his riches far\nfrom the wars of the center...{05}{05}{05}
+@5
+Your valor, the Sun clan's\nunity! And above all, my\nwisdom! We cannot lose.{05}{05}{05}
+@6
+Uh... yes...\n(Lu Su's influence... I told\n him to choose his friends...){05}{05}{05}
+@7
+Now, the time is ripe...\nNo need to hesitate further.\nSpeed is prized in war... we march.{05}{05}{05}
+@8
+Hmm... he stole the good lines\nfrom me... So, what exactly\ndo we do?{05}{05}{05}
+@9
+Choose {1B}C3War{1B}C1 from the Military\ncommands, pick the city to\nattack and the officers.{05}{05}{05}
+@10
+The city to attack...\nThis time, Jianye.{05}{05}{05}
+@11
+Right... You can only attack\ncities next to your own,\nand never an ally.{05}{05}{05}
+@12
+Hmm... And the officers?\nAnything to keep\nin mind?{05}{05}{05}
+@13
+Let's see... {1B}C3At most 10 units\ncan sortie at once{1B}C1.\n...The defender has the same.{05}{05}{05}
+@14
+And, naturally, an officer\nwith no troops assigned\ncannot sortie.{05}{05}{05}
+@15
+Heh... Explaining the obvious\nso grandly...\nThat's Zhou Yu for you.{05}{05}{05}
+@16
+What does that mean? ...Anyway,\nno matter how able an officer,\nwithout troops he can't fight.{05}{05}{05}
+@17
+Officers likely to shine in\nbattle, mighty ones like you\nabove all, get troops first.{05}{05}{05}
+@18
+I see... By the way,\nwho are we taking this time?\nYou and me...{05}{05}{05}
+@19
+Lord Huang Gai, Lord Cheng\nPu... and your uncle,\nLord Wu Jing.{05}{05}{05}
+@20
+The whole Sun army?!\nWhat about guarding\nLujiang?{05}{05}{05}
+@21
+A fair worry, but if we win,\nwe can reassign the officers\nwho fought.{05}{05}{05}
+@22
+First, win! For that we must\nfight with all our strength\nand overwhelm the foe.{05}{05}{05}
+@23
+I see... A lion hunts even\na rabbit with all its might...\nHeh... poor Liu Yao.{05}{05}{05}
+@24
+Though if we lose, we may\nnever recover. Now, let me\nexplain a bit more...{05}{05}{05}
+@25
+(Didn't he just boast\n "We cannot lose"?){05}{05}{05}
+@26
+What is this screen?{05}{05}{05}
+@27
+The {1B}C3unit setup screen{1B}C1.\nHere we make final preparations.\nFor example, these officer buttons...{05}{05}{05}
+@28
+Our names are\nlined up.{05}{05}{05}
+@29
+It lists the officers going\nto battle. You can change or\nadd officers here.{05}{05}{05}
+@30
+Look up there.{05}{05}{05}
+@31
+Oh... You can see our strength\nand Liu Yao's at\na glance...{05}{05}{05}
+@32
+Yes, and you can check\nthe battlefield terrain\ntoo.{05}{05}{05}
+@33
+Seeing this, you change or\nadd officers to shape\nyour force.{05}{05}{05}
+@34
+Hmm, but this time this is\nthe whole Sun army, so we\ncan't add or change anyone...{05}{05}{05}
+@35
+So, is there more?\nI'm starting to lose\nmy patience...{05}{05}{05}
+@36
+The privy?\nGo on, don't mind me.\nI'll always wait for you.{05}{05}{05}
+@37
+No! Battle!\nThe tiger blood in my veins\nroars to get to the field!{05}{05}{05}
+@38
+All right, all right... Lastly...\nlet's see, I'll explain\n{1B}C3formations{1B}C1 and {1B}C3rice{1B}C1.{05}{05}{05}
+@39
+Make it quick.{05}{05}{05}
+@40
+Don't rush... Hurrying\nthings never brings\ngood results.{05}{05}{05}
+@41
+(And earlier it was\n "speed is prized"...){05}{05}{05}
+@42
+First, rice.\nNaturally, troops can't fight\nwithout supplies.{05}{05}{05}
+@43
+Well, a man can't move\nif he eats too much\neither.{05}{05}{05}
+@44
+No victory without supply.\nWhy, the very reason Xiao He\nis one of the Three Heroes...{05}{05}{05}
+@45
+O-okay, I get it...!\nSupply matters, I understand.\nGo on.{05}{05}{05}
+@46
+Hm... Very well...\nFirst, {1B}C3each war is decided\nwithin 30 days{1B}C1.{05}{05}{05}
+@47
+So basically you take enough\nrice for your officers and\ntroops to fight 30 days.{05}{05}{05}
+@48
+Hmm, this here?{05}{05}{05}
+@49
+Yes. Normally it's set\nautomatically as you change\nofficers, but you can set it freely.{05}{05}{05}
+@50
+Still, taking more than 30\ndays' rice is little use.\nJust know you can change it.{05}{05}{05}
+@51
+Right, next was formations.\nExplain quickly.\nAnd then we march.{05}{05}{05}
+@52
+Honestly...\nThen look at this.{05}{05}{05}
+@53
+Hmm... Formations.\nRight now I'm in the\n{1B}C3"Awl formation"{1B}C1.{05}{05}{05}
+@54
+A formation built for\nmobility, allowing\nfast movement.{05}{05}{05}
+@55
+Formations decide movement\nand attack in battle; they\ncan decide victory or defeat.{05}{05}{05}
+@56
+{1B}C3Each formation has terrain\nit's best on{1B}C1. You should\nchange to suit the terrain...{05}{05}{05}
+@57
+Use the lay of the land...\nGot it, formations matter.\nEnough, I'm going!{05}{05}{05}
+@58
+W-wait!\nI just said formations matter...\nJianye means water battles...{05}{05}{05}
+@59
+I'll hear the details\non the battlefield!{05}{05}{05}
+@60
+No, that's too late once\nyou're there! Besides, my\nelegant planning...{05}{05}{05}
+@61
+No need!\nNow, only real battle\nwill do!{05}{05}{05}
+@62
+Huang Gai! Cheng Pu! Uncle!\nTo the new Sun army's\nfirst battle!{05}{05}{05}
+@63
+......{05}{05}{05}
+@64
+...Ah! No!\nI've fallen behind!{05}{05}{05}
+@65
+Wait! Sun Ce!\nWithout me, this story\ncan't go on!{05}{05}{05}
+@66
+War...\nAt last the time has come\nfor my strength to shine!{05}{05}{05}
+@67
+Right, all of you,\nfollow me!\nCharge!!{05}{05}{05}
+@68
+Wait, don't rush, Sun Ce!\nFirst let me tell you the\nconditions for victory.{05}{05}{05}
+@69
+The attacker wins by\n{1B}C3・Defeating the defender's ruler\n・Taking every castle{1B}C1{05}{05}{05}
+@70
+The defender wins by\n{1B}C3・Defeating the attacker's ruler\n・Lasting 30 days{1B}C1{05}{05}{05}
+@71
+That's it.\nSo what does it mean?\nDo you see?{05}{05}{05}
+@72
+Basically, I smash\nLiu Yao and it's over,\nright?{05}{05}{05}
+@73
+And at the same time,\nif you go down,\nwe lose.{05}{05}{05}
+@74
+!!{05}{05}{05}
+@75
+Your might is unmatched,\nbut now you're the ruler.\nDon't charge in recklessly.{05}{05}{05}
+@76
+Damn, I can't charge\nin first? That's a disgrace\nto the name Sun Bofu...{05}{05}{05}
+@77
+And the {1B}C3granary{1B}C1 we placed\nfirst: if the enemy takes it,\nour rice is lost and morale drops.{05}{05}{05}
+@78
+So I have to fight\nwhile watching the granary.\nWar runs deep.{05}{05}{05}
+@79
+Heh, war isn't like the\nbrawls of our boyhood.{05}{05}{05}
+@80
+The basic art of war: "Mass\nyour forces, beat them one by\none." Don't forget!{05}{05}{05}
+@81
+(Come to think of it, back then\n the one who got most fired up\n in brawls was Zhou Yu...){05}{05}{05}
+@82
+Hm?{05}{05}{05}
+@83
+Right, let's go!{05}{05}{05}
+@84
+Crossing the water\nis slow going...{05}{05}{05}
+@85
+Sun Ce!\nOne of the most important\nthings in war is {1B}C3formation{1B}C1.{05}{05}{05}
+@86
+I know.\nSo on water, it's the\nWater formation, right?{05}{05}{05}
+@87
+Right.\nThe Water formation is\ninvincible on water, weak on land.{05}{05}{05}
+@88
+And some formations are\nstrong in attack, others\nfirm in defense.{05}{05}{05}
+@89
+A true general uses all 12\nformations as the\nsituation demands.{05}{05}{05}
+@90
+By the way, strategists like\nme and rulers can act at once\neven after changing formation.{05}{05}{05}
+@91
+Hmm...\nLooks like I can only\nuse 4 formations...{05}{05}{05}
+@92
+Defeat foes using\nformations you lack.{05}{05}{05}
+@93
+Then you may learn\nthat formation.\nWhat's more...{05}{05}{05}
+@94
+In direct combat, it's best\nto attack from the rear\nor flank, right?{05}{05}{05}
+@95
+Exactly.\nIn war, position\nis everything.{05}{05}{05}
+@96
+The secret of war:\n"Master formations and\nyou master war." Don't forget!{05}{05}{05}
+@97
+(Come to think of it, back then\n Zhou Yu often hit me\n from behind...){05}{05}{05}
+@98
+Hm?{05}{05}{05}
+@99
+Right, let's go!{05}{05}{05}
+@100
+Now I'm getting fired up!\nShall we go all out?{05}{05}{05}
+@101
+Sun Ce!\nDon't forget {1B}C3skills{1B}C1.{05}{05}{05}
+@102
+Hm?\nWhat's that?{05}{05}{05}
+@103
+Skills are each\nofficer's special\ntalents.{05}{05}{05}
+@104
+For example, Lord Wu Jing\nhas the skill {1B}C3"Rush"{1B}C1.{05}{05}{05}
+@105
+With it, Lord Wu Jing can\nraise his unit's mobility\nfor a time.{05}{05}{05}
+@106
+I see.\nSo that's what makes\neach officer unique.{05}{05}{05}
+@107
+Yes. Even a weak civil official\ncan be useful in battle if he\nuses his skills well.{05}{05}{05}
+@108
+By the way, I have {1B}C3"Fire"{1B}C1\nand {1B}C3"Flame"{1B}C1.\nI'm good with fire, you could say.{05}{05}{05}
+@109
+(Come to think of it, back then\n Zhou Yu would grin while\n watching fires...){05}{05}{05}
+@110
+(Wait, and wasn't there a\n fire scare at the castle\n once...?){05}{05}{05}
+@111
+Hm?{05}{05}{05}
+@112
+R-right, let's go!{05}{05}{05}
+@113
+Damn...\nSun Ce, the rest is\nup to you...{05}{05}{05}
+@114
+Victory for the\nSun Ce army!{05}{05}{05}
+@115
+Ha, we won,\nZhou Yu!{05}{05}{05}
+@116
+Naturally.\nNow, let's go back.{05}{05}{05}
+@117
+Defeat for the\nSun Ce army.{05}{05}{05}
+@118
+We lost...?{05}{05}{05}
+@119
+Victory and defeat are part\nof war. Don't brood.\nWe'll try again.{05}{05}{05}
+@120
+We did it, Zhou Yu!\nJianye is ours!{05}{05}{05}
+@121
+Naturally.\nBut it's too soon to rejoice.\nAfter a war, defenses are thin.{05}{05}{05}
+@122
+So we need to reassign\ntroops right away...{05}{05}{05}
+@123
+Right.\nNewly taken cities often\nhave low domestic stats too.{05}{05}{05}
+@124
+So toward uniting the realm,\nwe've only just taken\nthe first step.{05}{05}{05}
+@125
+Yes. Cao Cao, Liu Bei, Lu Bu,\nYuan Shao, Ma Teng... There\nare many heroes to defeat.{05}{05}{05}
+@126
+Heh heh heh...{05}{05}{05}
+@127
+What is it?{05}{05}{05}
+@128
+I'm getting fired up!\nThe harder the road,\nthe more it's worth it!{05}{05}{05}
+@129
+Hohoho.\nThat's our Lord Sun Ce.{05}{05}{05}
+@130
+A king must have\nthat kind of spirit.\nHohoho.{05}{05}{05}
+@131
+I worried he was just a boy,\nbut he fights like Lord Sun Jian.\nI'll follow him with my life.{05}{05}{05}
+@132
+Hey, you're saying\nthat out loud!{05}{05}{05}
+@133
+Ah...!\nI got lost in thought\nagain...!{05}{05}{05}
+@134
+Aim to be a king who thinks\nof the people. Don't\nbecome a tyrant.{05}{05}{05}
+@135
+Phew, that's better.\nLord Kan Ze, Lord Sun Ce knows\nthat without being told.{05}{05}{05}
+@136
+You were in the privy\nthis whole time?!{05}{05}{05}
+@137
+I, the {1B}C3Great Sage{1B}C1, will also\nlend my strength to\nLord Sun Ce!{05}{05}{05}
+@138
+Hahaha!\nEveryone, follow me!\nTogether we'll walk the kingly path!{05}{05}{05}
+@139
+Heh...\nSuch openness truly befits\na king.{05}{05}{05}
+@140
+I, Zhou Yu, and all your\nministers will follow you,\nLord Sun Ce!{05}{05}{05}
+@141
+Sun Ce went on to be called\nthe "Little Conqueror,"\nbut died at just 26.{05}{05}{05}
+@142
+But that is the story\ntold in the Three Kingdoms...{05}{05}{05}
+@143
+How it ends in this world\nis for you to create\nwith your own hands.{05}{05}{05}

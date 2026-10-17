@@ -1,0 +1,392 @@
+@0
+The long age of chaos has come to an end.{05}{05}{05}
+@1
+Having unified the land, {02}{01}ﾈ gathered the chief retainers before beginning true rule.{05}{05}{05}
+@2
+Everyone, thank you for coming today.{05}{05}{05}
+@3
+Thanks to all of you, we have at last unified this land, but...{05}{05}{05}
+@4
+I'd like you to speak your minds freely about the future of our rule.{05}{05}{05}
+@5
+What... Talking of the future without even a breather?{05}{05}{05}
+@6
+How very like {01}C{0A}{00}...{05}{05}{05}
+@7
+Naturally... A man's time is limited.{05}{05}{05}
+@8
+What I wish to do, what must be done... I can't waste a single moment.{05}{05}{05}
+@9
+Just as expected of Lord Cao Cao... That grand spirit is what ended this age of chaos...{05}{05}{05}
+@10
+Truly the caliber of a conqueror that never ceases to captivate us{01}C2{00}.{05}{05}{05}
+@11
+Then first, we should restore the vigor of the people, exhausted by the chaos...{05}{05}{05}
+@12
+Hmm... The people are the nation's foundation. Peace alone won't do; we need production and trade.{05}{05}{05}
+@13
+The bandits who ran rampant in the chaos are still a threat{01}C {00}.{05}{05}{05}
+@14
+Hmph, show weakness and you'll be scorned. We should show our military might once more.{05}{05}{05}
+@15
+I hear the barbarians are watching for a chance to invade while China is in turmoil...{05}{05}{05}
+@16
+Hmm... First, we strengthen the border defenses.{05}{05}{05}
+@17
+Once domestic affairs are in order, {01}C{00}{00} will lead elite troops and subdue them personally.{05}{05}{05}
+@18
+Oh dear... Now that we talk it over, there are indeed mountains of problems{01}C.{00}.{05}{05}{05}
+@19
+But that's exactly what makes it worthwhile.{05}{05}{05}
+@20
+{01}C{00}{00} and all of you will join forces and build a new age!{05}{05}{05}
+@21
+As you command.{05}{05}{05}
+@22
+As you wish.{05}{05}{05}
+@23
+In that case, we must organize the army and revise the laws at once...{05}{05}{05}
+@24
+The age of chaos is over... But our battle is not.{05}{05}{05}
+@25
+Now, let's go, my proud elite!{05}{05}{05}
+@26
+Called "the villain of a chaotic age," Cao Cao was a hero beyond compare... But his true battle began after the chaos ended.{05}{05}{05}
+@27
+Not only abolishing old evils but rethinking all old ways from the roots and replacing them one by one with the new... such was Cao Cao's rule...{05}{05}{05}
+@28
+The sudden changes provoked resistance. Local clans and landlords rose in arms at every turn, and the land fell into turmoil.{05}{05}{05}
+@29
+We can't keep up with Cao Cao's ways! Enough is enough!{05}{05}{05}
+@30
+Oh... another uprising. Lord Cao Cao was an ill star that shines only in chaos after all...{05}{05}{05}
+@31
+After Cao Cao's death the land was swallowed by chaos again... The new age Cao Cao sought vanished in the dust of war...{05}{05}{05}
+@32
+Called "the villain of a chaotic age," Cao Cao was a hero beyond compare... But his true battle began after the chaos ended.{05}{05}{05}
+@33
+Not only abolishing old evils but breaking old customs one after another and eagerly adopting new ideas and techniques... such was Cao Cao...{05}{05}{05}
+@34
+Many were bewildered by such sudden reform, but with superb skill at governing, he breathed new life into the land.{05}{05}{05}
+@35
+My, Lord Cao Cao's reign is so exciting.{05}{05}{05}
+@36
+But familiar things are disappearing bit by bit... It's a little lonely...{05}{05}{05}
+@37
+Cao Cao's reforms greatly influenced Chinese history, and later historians praised him highly as the leader of a new age.{05}{05}{05}
+@38
+Called "the villain of a chaotic age," Cao Cao was a hero beyond compare... But his true battle began after the chaos ended.{05}{05}{05}
+@39
+Not only abolishing old evils but reforming old customs and eagerly adopting new ideas and techniques...{05}{05}{05}
+@40
+Politics, economy, culture... Cao Cao's reign brought progress and reform in every field, an age of great change.{05}{05}{05}
+@41
+Thanks to Lord Cao Cao, life is richer and trade is easier.{05}{05}{05}
+@42
+That one is a true hero... A great genius who changed the very shape of China.{05}{05}{05}
+@43
+In later ages, Cao Cao's name was recorded in history as the peerless hero who brought about the greatest leap of innovation and growth in Chinese history...{05}{05}{05}
+@44
+Looking back, it was a long road...{05}{05}{05}
+@45
+Thanks to all of you, we have at last unified this land and restored peace.{05}{05}{05}
+@46
+Let me thank you once more.{05}{05}{05}
+@47
+Don't be so formal... We merely admired {01}C{09}{00}'s virtue and followed those ideals...{05}{05}{05}
+@48
+{05}{05}{04}{02}{01}{81}{01}J傳{05}{05}{05}Indeed... Today's peace was brought about by Lord Liu Bei's virtue.{05}{05}{05}
+@49
+Just so... Today's peace was brought about by Lord Liu Bei's virtue.{05}{05}{05}
+@50
+{05}{05}{04}{02}{01}{81}{01}J妝{05}{05}{05}Who but {01}C{09}{00} could have ended this age of chaos?{05}{05}{05}
+@51
+Who but {01}C{09}{00} could have ended this age of chaos?{05}{05}{05}
+@52
+My friends...{05}{05}{05}
+@53
+Without you, my lofty ambitions would have been nothing but empty dreams.{05}{05}{05}
+@54
+Now we have pacified the land and restored the great Han.{05}{05}{05}
+@55
+But the wounds the chaos left on the people run deep...{05}{05}{05}
+@56
+For the people's smiles, we must make a better, stronger nation.{05}{05}{05}
+@57
+Just as you say... The people's suffering began with the court's disorder.{05}{05}{05}
+@58
+We must not repeat the mistakes of that foolish age{01}C {00}.{05}{05}{05}
+@59
+Still, {01}C{09}{00}'s path won't change from what it's been.{05}{05}{05}
+@60
+Yes... A nation exists for its people.{05}{05}{05}
+@61
+The root of my rule is the people's happiness... That doesn't change.{05}{05}{05}
+@62
+It's because {01}C{09}{00} is like that that we and the people have followed{01}C{17}{00}.{05}{05}{05}
+@63
+I'm grateful... I'll rely on you more than ever.{05}{05}{05}
+@64
+Yes, my lord!{05}{05}{05}
+@65
+Of course.{05}{05}{05}
+@66
+With all my wisdom.{05}{05}{05}
+@67
+Now... a new Han begins!{05}{05}{05}
+@68
+The people had high hopes for the rule of Liu Bei, whose virtue was known throughout the land.{05}{05}{05}
+@69
+But Liu Bei's government, taking the form of a Han restoration, was seen by scholars as going against the times...{05}{05}{05}
+@70
+Nor could he quench the burning ambitions of the warlords who had once bowed to him, and unrest never ceased.{05}{05}{05}
+@71
+Ah... Another revolt... This time in Liang Province.{05}{05}{05}
+@72
+Heaven's mandate for the Han had run out after all... Even Lord Liu Bei can't help it.{05}{05}{05}
+@73
+After Liu Bei's death the Han lost the power to rule again, and a new age of war began... Liu Bei's name is recorded only in a small corner of the history of that great turmoil...{05}{05}{05}
+@74
+The people had high hopes for the rule of Liu Bei, whose virtue was known throughout the land.{05}{05}{05}
+@75
+Liu Bei's government, begun as a Han restoration, carried on tradition while sweeping away old abuses...{05}{05}{05}
+@76
+It lacked innovation, but it became a calm age in which the people could live in peace.{05}{05}{05}
+@77
+That we can live safely with our families is thanks to Lord Liu Bei.{05}{05}{05}
+@78
+Peace is nice, but every day is so dull... A luxury of a complaint, I suppose...{05}{05}{05}
+@79
+Thus the Han, restored by Liu Bei, lived on, and his name was recorded in history as a restorer alongside Emperor Guangwu, Liu Xiu...{05}{05}{05}
+@80
+The people had high hopes for the rule of Liu Bei, whose virtue was known throughout the land.{05}{05}{05}
+@81
+Liu Bei's government, begun as a Han restoration, carried on tradition while brimming with fresh vigor...{05}{05}{05}
+@82
+It became an age as happy as the reigns of the ancient sages Yao and Shun.{05}{05}{05}
+@83
+Thanks to Lord Liu Bei, our lives have gotten better.{05}{05}{05}
+@84
+That one is truly a great ruler. Truly a wonderful person.{05}{05}{05}
+@85
+In later ages, Liu Bei's name was recorded in history, transcending the Han dynasty itself, as the ruler who loved the people most in all of Chinese history...{05}{05}{05}
+@86
+Everyone, thank you for following the house of Sun all this time.{05}{05}{05}
+@87
+Thanks to all of you, our Wu has at last unified the land.{05}{05}{05}
+@88
+The Sun family's long-held dream... {01}C{00}{00} feel a weight has finally been lifted.{05}{05}{05}
+@89
+Lord Sun Quan... I understand how you feel.{05}{05}{05}
+@90
+We're proud to have done our small part in Wu's unification{01}C0{00}.{05}{05}{05}
+@91
+But though it is unified, the land is still unsettled{01}C{1B}{00}.{05}{05}{05}
+@92
+{05}{05}{04}{02}{01}{81}{01}JﾅB{05}{05}{05}Hmm... Many still don't submit to the Sun family's authority...{05}{05}{05}
+@93
+Indeed... Many still don't submit to the Sun family's authority...{05}{05}{05}
+@94
+After such a great age of chaos... The people are weary and the land is barren.{05}{05}{05}
+@95
+Peace across the land is still just a dream{01}C{17}{00}.{05}{05}{05}
+@96
+What {02}{02}ﾈ says is true.{05}{05}{05}
+@97
+To make Wu's rule rock-solid, I still need your help.{05}{05}{05}
+@98
+Of course. For Lord Sun Quan, we'll work ourselves to the bone.{05}{05}{05}
+@99
+Use our strength more than ever{01}C{13}{00}.{05}{05}{05}
+@100
+Lord Sun Quan... The Central Plains were ravaged by this war.{05}{05}{05}
+@101
+Meanwhile, Jiangnan has flourished greatly through the efforts of our Wu.{05}{05}{05}
+@102
+Hmm... {01}C{00}{00} had been thinking the same.{05}{05}{05}
+@103
+Make Jiangnan the center of the land... That's what you mean, {02}{02}ﾈ.{05}{05}{05}
+@104
+Exactly.{05}{05}{05}
+@105
+I see... There's no need to cling to the ruined Central Plains{01}C{1C}{00}.{05}{05}{05}
+@106
+The Jiangnan we built will become the heart of the land...{05}{05}{05}
+@107
+A grand plan worthy of Wu's rule, I believe.{05}{05}{05}
+@108
+Yes... The land as we of Wu envision it...{05}{05}{05}
+@109
+Now let the winds of Jiangnan blow across this whole land!{05}{05}{05}
+@110
+Sun Quan, who made the Sun family's dream real from his base in Jiangnan... The chaos ended, and by his hand the land regained its peace.{05}{05}{05}
+@111
+Sun Quan set his capital not in the war-ravaged Central Plains but in Jiangnan, the land of his forefathers. But...{05}{05}{05}
+@112
+Unlike Jiangnan, which flourished under the Sun family, the ruined north suffered, until at last revolt broke out.{05}{05}{05}
+@113
+Lord Sun Quan is a southerner after all. He doesn't care a bit about us northerners!{05}{05}{05}
+@114
+That's right! We'll just have to fend for ourselves!{05}{05}{05}
+@115
+Sun Quan's development of Jiangnan sowed the seeds of conflict between north and south, and history entered a new age of war...{05}{05}{05}
+@116
+Sun Quan, who made the Sun family's dream real from his base in Jiangnan... The chaos ended, and by his hand the land regained its peace.{05}{05}{05}
+@117
+Sun Quan set his capital not in the war-ravaged Central Plains but in Jiangnan, the land of his forefathers.{05}{05}{05}
+@118
+From then on Jiangnan developed rapidly, until the south's wealth surpassed the north's, driving great migrations from the Central Plains to Jiangnan.{05}{05}{05}
+@119
+So Jiangnan is the future... People and goods are all gathering in the south.{05}{05}{05}
+@120
+We'll have to go to Jiangnan too. There's nothing for us in the north.{05}{05}{05}
+@121
+Jiangnan's growth shifted the center of the land to the south, and Sun Quan's name was carved in history as a turning point in Chinese history...{05}{05}{05}
+@122
+Sun Quan, who made the Sun family's dream real from his base in Jiangnan... The chaos ended, and by his hand the land regained its peace.{05}{05}{05}
+@123
+Sun Quan set his capital not in the war-ravaged Central Plains but in Jiangnan, the land of his forefathers, and built roads linking north and south.{05}{05}{05}
+@124
+Jiangnan grew and the Central Plains recovered swiftly. Trade between north and south flourished, bringing prosperity to the whole land.{05}{05}{05}
+@125
+Thanks to Lord Sun Quan, trade between north and south is booming and things are lively.{05}{05}{05}
+@126
+Lately you often see foreigners too. Every day is so lively.{05}{05}{05}
+@127
+In later ages, Sun Quan's name was recorded in history as the great ruler who developed Jiangnan and truly unified the land...{05}{05}{05}
+@128
+{05}{05}{04}{02}{01}{81}{01}J顳{05}{05}{05}Everyone, thank you for coming.{05}{05}{05}
+@129
+Everyone, thank you for coming.{05}{05}{05}
+@130
+{05}{05}{04}{02}{01}{81}{01}J{EB}B{05}{05}{05}At last, I, {02}{01}ﾈ, have unified the land.{05}{05}{05}
+@131
+At last, I, {02}{01}ﾈ, have unified the land.{05}{05}{05}
+@132
+{05}{05}{04}{02}{01}{81}{01}J鍈{05}{05}{05}You've all worked hard. Let me thank you once more.{05}{05}{05}
+@133
+You've all worked hard. Let me thank you once more.{05}{05}{05}
+@134
+Lord {02}{02}ﾈ... We don't deserve such words...{05}{05}{05}
+@135
+Our humble efforts were worthwhile...{05}{05}{05}
+@136
+But the hearts of the people are not yet settled{01}C {00}.{05}{05}{05}
+@137
+The long turmoil has exhausted both people and land.{05}{05}{05}
+@138
+Just so{01}C-{00}.{05}{05}{05}
+@139
+{01}C{00}{00} must now take on the great task of rebuilding the land{01}C9{00}.{05}{05}{05}
+@140
+{05}{05}{04}{02}{01}{81}{01}J{05}{05}{05}It will be a far harder task than unifying the land.{05}{05}{05}
+@141
+It will be a far harder task than unifying the land.{05}{05}{05}
+@142
+We'll stake our lives to support {01}C{09}{00}'s reign{01}C!{00}.{05}{05}{05}
+@143
+There are still lawless rogues. Use my arms as you see fit{01}C{13}{00}.{05}{05}{05}
+@144
+{01}C{09}{00} will surely build a paradise of benevolent rule{01}C{1A}{00}.{05}{05}{05}
+@145
+{05}{05}{04}{02}{01}{81}{01}J{FA}B{05}{05}{05}Yes... I'm counting on you all to work even harder{01}C7{00}.{05}{05}{05}
+@146
+Yes... I'm counting on you all to work even harder{01}C7{00}.{05}{05}{05}
+@147
+Yes, my lord!{05}{05}{05}
+@148
+As Lord {02}{02}ﾈ wishes.{05}{05}{05}
+@149
+Then, Lord {02}{02}ﾈ... The people await your words.{05}{05}{05}
+@150
+Come, proudly proclaim the dawn of a new age{01}C{13}{00}!{05}{05}{05}
+@151
+{05}{05}{04}{02}{01}{81}{01}J{00}C{05}{05}{05}Very well. Shall we go...{05}{05}{05}
+@152
+Very well. Shall we go...{05}{05}{05}
+@153
+{05}{05}{04}{02}{01}{81}{01}J{02}C{05}{05}{05}{01}C{00}{00} am {02}{01}ﾈ... the one who will bring prosperity and peace to China...!{05}{05}{05}
+@154
+{01}C{00}{00} am {02}{01}ﾈ... the one who will bring prosperity and peace to China...!{05}{05}{05}
+@155
+{02}{01}ﾈ, who pacified China... The people greeted with awe this conqueror who united the land with sometimes ruthless force, but...{05}{05}{05}
+@156
+Seeking to rebuild the land swiftly, {02}{01}ﾈ ruled with extreme severity, which in time became tyranny that terrorized all.{05}{05}{05}
+@157
+They say there's a revolt in Xu Province now. Lord {02}{01}ﾈ just doesn't understand the people.{05}{05}{05}
+@158
+I hear even their own retainers are being purged... What a horrid world.{05}{05}{05}
+@159
+The people's anger at {02}{01}ﾈ's reign of terror soon brought back chaos, and the great feat of unification vanished in vain...{05}{05}{05}
+@160
+{02}{01}ﾈ, who pacified China... Many people welcomed the coming of a new age with hope.{05}{05}{05}
+@161
+{02}{01}ﾈ's government was slow but achieved steady results, and the land gradually regained its former peace.{05}{05}{05}
+@162
+Peace is best. It's all thanks to Lord {02}{01}ﾈ.{05}{05}{05}
+@163
+True. Though every day is a bit dull, I suppose.{05}{05}{05}
+@164
+{02}{01}ﾈ ended a century of chaos, yet is remembered not as a conqueror but as a capable ruler...{05}{05}{05}
+@165
+{02}{01}ﾈ, who pacified China... Highly esteemed, their reign was welcomed by all the people.{05}{05}{05}
+@166
+Righting old wrongs, setting laws in order, promoting industry, improving safety... Under {02}{01}ﾈ's skilled rule the land quickly regained its vigor.{05}{05}{05}
+@167
+I'm so glad Lord {02}{01}ﾈ rules the land.{05}{05}{05}
+@168
+If we follow that one, we can live in peace from now on.{05}{05}{05}
+@169
+The land was filled with happy voices, and {02}{01}ﾈ's name was recorded in history as one of China's greatest and most beloved rulers.{05}{05}{05}
+@170
+Dong Zhuo, demon king of a chaotic age, who committed every atrocity and at last seized the land itself...{05}{05}{05}
+@171
+His whirlwind of destruction raged regardless of old notions of good and evil, and everything in the land was painted in Dong Zhuo's colors.{05}{05}{05}
+@172
+A truly terrifying man... Lord Dong Zhuo fears not even Heaven.{05}{05}{05}
+@173
+Ah... How long will this lawless world go on...{05}{05}{05}
+@174
+After Dong Zhuo's death, the discontent suppressed by terror exploded, and the land fell into great turmoil again.{05}{05}{05}
+@175
+And the name of the demon king Dong Zhuo never faded from memory, passed down for ages as a nightmare of Chinese history...{05}{05}{05}
+@176
+Rising in Jiangdong, the conqueror Sun Ce swept the battlefields and unified the land... Surpassing his father Sun Jian, he was hailed as a new hero.{05}{05}{05}
+@177
+As ruler, Sun Ce did not grow proud of his might but tended to domestic affairs, guided his ministers well, and laid the foundations of the nation.{05}{05}{05}
+@178
+Lord Sun Ce is a true hero. Strong and kind, he watches over us.{05}{05}{05}
+@179
+Lord Sun Ce... so dreamy... Surely even the great Xiang Yu couldn't match him...{05}{05}{05}
+@180
+Sun Ce, who pacified the chaos and was loved by the people... His name spread far beyond the official histories, told as a legend of a rare hero...{05}{05}{05}
+@181
+Yuan Shao, who led the illustrious Yuan clan of the Han and won the land by the kingly way... Some had doubts about his rule.{05}{05}{05}
+@182
+But as king, Yuan Shao showed true dignity, and with steady, tenacious government he surely revived the land.{05}{05}{05}
+@183
+Lord Yuan Shao has the insight and caliber worthy of a king... He is worth serving.{05}{05}{05}
+@184
+Under Lord Yuan Shao, we can look forward to more growth in trade.{05}{05}{05}
+@185
+Yuan Shao, who bore his noble house's pride and held to the kingly way through the chaos... History says his rule was clear and steadfast, and supported by all.{05}{05}{05}
+@186
+The peerless Flying General Lu Bu... Once Dong Zhuo's enforcer, he reveled in war and at last unified the land by force...{05}{05}{05}
+@187
+But on the road to rule he fought and competed with many heroes and honed his caliber, and the people accepted Lu Bu as their king.{05}{05}{05}
+@188
+Lord Lu Bu today is truly a hero.{05}{05}{05}
+@189
+The other day Lord Lu Bu taught me archery! He told me to protect this land...{05}{05}{05}
+@190
+Lu Bu, the embodiment of war, who shook the land and reigned as its conqueror... His heroic life was passed down to later ages with admiration...{05}{05}{05}
+@191
+Thanks to {02}{01}ﾈ, who gave up a hermit's life to rise for the people, the land regained its peace...{05}{05}{05}
+@192
+{02}{01}ﾈ placed able retainers where they fit and secured the foundations of rule. Then one day, they passed the throne to a minister and vanished from the palace...{05}{05}{05}
+@193
+Lord {02}{01}ﾈ... I wonder how they're doing now... I hope they're well...{05}{05}{05}
+@194
+Come to think of it, a youngster from the next village said he saw someone who looked like Lord {02}{01}ﾈ...{05}{05}{05}
+@195
+{02}{01}ﾈ fought for the people's peace and brought calm to the land... The tale of this sage, who gave up the throne to return to seclusion, is still told everywhere...{05}{05}{05}

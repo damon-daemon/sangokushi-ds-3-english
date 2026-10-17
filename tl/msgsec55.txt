@@ -1,0 +1,74 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+At {02}{01}ﾈ's residence,\n{02}{14}ﾈ{05}{05}{05}
+@3
+My son...\nIt seems Heaven has come\nfor me at last.{05}{05}{05}
+@4
+F-Father!\nHold on!{05}{05}{05}
+@5
+Father, what's wrong?\nWhy so faint-hearted...?{05}{05}{05}
+@6
+This state still\nneeds you, Father!{05}{05}{05}
+@7
+...No, I know my body best.\n...My son, listen well.{05}{05}{05}
+@8
+I worked for the state for\nmany years, yet was suspected\nof treason and never at ease.{05}{05}{05}
+@9
+That is my own lack of virtue.\n...Do you understand\nwhat I mean...?{05}{05}{05}
+@10
+Y-yes...\nEven in high office, be\nmodest and give no cause for doubt.{05}{05}{05}
+@11
+...Just so.\nIf you understand that, I\nhave no regrets...{05}{05}{05}
+@12
+F-Father!\nZhao! A doctor!\nCall a doctor!{05}{05}{05}
+@13
+Father, are you all right?\nPlease, hold on.{05}{05}{05}
+@14
+Ke, there is something I\nmust tell you. Listen well.{05}{05}{05}
+@15
+Your talent is splendid.\nTruly worthy of one\nwho aids a king.{05}{05}{05}
+@16
+But...\nBecause of it, you have a bad\nhabit of scorning others.{05}{05}{05}
+@17
+Do not look down on your peers.\nRespect your lord and care\nfor your men.{05}{05}{05}
+@18
+Otherwise you will not keep\nour house safe...\nTake this to heart.{05}{05}{05}
+@19
+...Yes.\nI will engrave your words\non my heart.{05}{05}{05}
+@20
+...Do not betray your\nlord's hopes...{05}{05}{05}
+@21
+Guo Jia, are you all right?\nI had no idea your illness\nwas so grave.{05}{05}{05}
+@22
+I am truly an\nunlucky man...{05}{05}{05}
+@23
+To have this happen just before\nmy lord unites the realm...{05}{05}{05}
+@24
+Lord {02}{02}ﾈ, please unite\nthe realm and bring peace\nto this land...{05}{05}{05}
+@25
+G-Guo Jia!\nHold on!{05}{05}{05}
+@26
+...Ah, how tragic, Fengxiao.\nSuch genius, lost\nso young...{05}{05}{05}
+@27
+...How bitter to leave\nthe world at this age.{05}{05}{05}
+@28
+Zhou Yu, hold on!\nIf you leave me now,\nwhat am I to do?{05}{05}{05}
+@29
+Lord Lu Zijing is a loyal man.\nTrust him, and the state\nwill be secure.{05}{05}{05}
+@30
+Lu Su...\nVery well, I will\nremember.{05}{05}{05}
+@31
+Zhou Yu!\nWhat's wrong?!{05}{05}{05}
+@32
+Zhou Yu! Zhou Yu!\nHold on!{05}{05}{05}
+@33
+Leave things to him,\nand the state will\nbe secure...{05}{05}{05}
+@34
+My lord...\nPlease, the realm...{05}{05}{05}
+@35
+...Why...\n...Why did Heaven...{05}{05}{05}
+@36
+Why did Heaven send Kongming\ninto the world as well as me?!\n...Why not... me alone...{05}{05}{05}

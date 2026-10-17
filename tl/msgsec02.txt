@@ -1,0 +1,90 @@
+@0
+Save the current game.{05}{05}{05}
+@1
+Load saved data.{05}{05}{05}
+@2
+There is no data to load.{05}{05}{05}
+@3
+Adjust display and volume settings.{05}{05}{05}
+@4
+Set which SP officers appear.{05}{05}{05}
+@5
+You have no SP officers.{05}{05}{05}
+@6
+No SP officers can appear.{05}{05}{05}
+@7
+Set the music for strategy and battle.{05}{05}{05}
+@8
+Collect officer cards and...?{05}{05}{05}
+@9
+Questions and answers about the game.{05}{05}{05}
+@10
+Let the computer play your ruler.{05}{05}{05}
+@11
+Quit the game.{05}{05}{05}
+@12
+Save your progress and suspend the game.{05}{05}{05}
+@13
+Check the clear conditions for this stage.{05}{05}{05}
+@14
+Save here.\nIs that all right?{05}{05}{05}
+@15
+Overwrite this save.\nIs that all right?{05}{05}{05}
+@16
+Saving. Do not turn off the power\nor remove the card.{05}{05}{05}
+@17
+Saved.{05}{05}{05}
+@18
+Continue playing?{05}{05}{05}
+@19
+Load this save.\nIs that all right?{05}{05}{05}
+@20
+{1B}C6Message Speed{1B}C1\nChoose Normal or Wait.\n\nWith Wait, messages stay on screen until you press a button.{05}{05}{05}
+@21
+{1B}C6Music{1B}C1\nChange the music volume.\n{05}{05}{05}
+@22
+{1B}C6Sound Effects{1B}C1\nChange the sound effect volume.\n{05}{05}{05}
+@23
+{1B}C6{02}-{1B}C1\nCurrent: {1B}C3"{02}."{1B}C1{05}{05}{05}
+@24
+{1B}C6"Fragrant Spring"{1B}C1\nStrategy music for spring.{05}{05}{05}
+@25
+{1B}C6"Summer in the Old Hills"{1B}C1\nStrategy music for summer.{05}{05}{05}
+@26
+{1B}C6"Phoenix Orchid"{1B}C1\nStrategy music for autumn.{05}{05}{05}
+@27
+{1B}C6"Winter Stars"{1B}C1\nStrategy music for winter.{05}{05}{05}
+@28
+{1B}C6"Council"{1B}C1\nPlays during council meetings.{05}{05}{05}
+@29
+{1B}C6"Banquet of Jade Blossoms"{1B}C1\nPlays during diplomacy scenes.{05}{05}{05}
+@30
+{1B}C6"Thunder Dragon Strikes"{1B}C1\nPlays during battles in cities ruled by Cao Cao.{05}{05}{05}
+@31
+{1B}C6"March of the Flower Dragon"{1B}C1\nPlays during battles in cities ruled by Liu Bei.{05}{05}{05}
+@32
+{1B}C6"Coming of the Sea Dragon"{1B}C1\nPlays during battles in cities ruled by Sun Quan.{05}{05}{05}
+@33
+{1B}C6"General of the Demon Path"{1B}C1\nPlays during battles in cities ruled by Dong Zhuo.{05}{05}{05}
+@34
+{1B}C6"Wolf General"{1B}C1\nPlays during battles in cities ruled by Lu Bu.{05}{05}{05}
+@35
+{1B}C6"Ominous Clouds"{1B}C1\nPlays during battles in cities ruled by Zhang Jiao.{05}{05}{05}
+@36
+{1B}C6"Dragon War"{1B}C1\nThe usual battle music.{05}{05}{05}
+@37
+{1B}C6"Flash of Fire"{1B}C1\nPlays during duels.{05}{05}{05}
+@38
+{1B}C6"Dragon of Light"{1B}C1\nThe main theme.{05}{05}{05}
+@39
+{1B}C6"Land of Peach Skies"{1B}C1\nPlays during the ending.{05}{05}{05}
+@41
+Apply these settings.\nIs that all right?{05}{05}{05}
+@42
+Apply the SP officer settings.\nIs that all right?{05}{05}{05}
+@43
+Let the computer play your ruler.\nYou cannot see the ending\nin a computer-played game.{05}{05}{05}
+@44
+Let the computer play your ruler\nand watch a demo game?{05}{05}{05}
+@45
+Quit the game. Your current\nprogress will be lost.\nIs that all right?{05}{05}{05}

@@ -1,0 +1,325 @@
+@0
+{1B}C5Victory{1B}C1
+　Defeat Zhang Jiao
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@1
+{1B}C5Victory{1B}C1
+　Defeat Dong Zhuo
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@2
+{1B}C5Victory{1B}C1
+　Defeat Tao Qian
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@3
+{1B}C5Victory{1B}C1
+　Defeat Liu Yao, Wang Lang,
+　Yan Baihu
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@4
+{1B}C5Victory{1B}C1
+　Defeat Cao Cao
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@5
+{1B}C5Victory{1B}C1
+　Defeat Yuan Shu
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@6
+{1B}C5Victory{1B}C1
+　All enemies lost
+　20 days pass
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　All castles taken{05}{05}{05}
+@7
+{1B}C6Special Reward!{1B}C1\n　"Calm" blocked the magic\n　Obtained a new weapon!{05}{05}{05}
+@8
+{1B}C6Special Reward!{1B}C1\n　Beat Lu Bu and Hua Xiong in duels\n　A hidden battle has opened!{05}{05}{05}
+@9
+{1B}C6Special Reward!{1B}C1\n　Defeated enemy reinforcements\n　Obtained a new weapon!{05}{05}{05}
+@10
+{1B}C6Special Reward!{1B}C1\n　"Pitfall" worked on Taishi Ci\n　Obtained a new weapon!{05}{05}{05}
+@11
+{1B}C6Special Reward!{1B}C1\n　"Infiltrate" worked on Cao Cao\n　Obtained a new weapon!{05}{05}{05}
+@12
+{1B}C6Special Reward!{1B}C1\n　"Taunt" worked on Yuan Shu\n　Obtained a new weapon!{05}{05}{05}
+@13
+{1B}C6Special Reward!{1B}C1\n　"Rocks" hit Yuan Shao's army\n　Obtained a new weapon!{05}{05}{05}
+@14
+The Blue Heaven is dead!\nThe Yellow Heaven shall rise!\nHaaah!{05}{05}{05}
+@15
+Heh heh. Once our secret\narts take hold, {1B}C6they won't\nlook so cool{1B}C1.{05}{05}{05}
+@16
+......!{05}{05}{05}
+@17
+Only our eldest brother, the\nGreat Sage, can lead us to\nthe Yellow Heaven!{05}{05}{05}
+@18
+Brother, say someth...\nOh, right, he's got a\ncharm in his mouth...!{05}{05}{05}
+@19
+What!\nOur arts, broken...?!{05}{05}{05}
+@20
+Hey, look at them... They're\nunfazed by the miracle of\nthe Yellow Heaven!{05}{05}{05}
+@21
+No, the men are wavering...\nEveryone, calm down!{05}{05}{05}
+@22
+The age of the Yellow\nHeaven... Yellow Heaven...{05}{05}{05}
+@23
+L-Lord Zhang Jiao is down!\nWaaah!{05}{05}{05}
+@24
+Ah... Even the men are\nrunning. The Yellow Turbans\nare finished.{05}{05}{05}
+@25
+Right, brother! A beaten\ngeneral should go gracefully...\nI leave the rest to you!{05}{05}{05}
+@26
+Fools, to reject the age\nof the Yellow Heaven.\nZhang Bao, laugh at them.{05}{05}{05}
+@27
+Yes, brother! And we three\nbrothers would have brought\nthe realm great fortune.{05}{05}{05}
+@28
+Lu Bu the Flying General\nis here. Whoever wants to\ndie, face me.{05}{05}{05}
+@29
+Whoa there! Don't forget me,\nHua Xiong! I won't let you\nhog the glory.{05}{05}{05}
+@30
+Two mighty generals at once.\nWhichever pass they come by,\nit's hell for them.{05}{05}{05}
+@31
+While they struggle to\nattack, their bodies will\nfreeze... That's the plan.{05}{05}{05}
+@32
+Ufufu.\nLord Dong Zhuo is\nso clever.{05}{05}{05}
+@33
+Guhuhu, of course. Or perhaps\nthey'll {1B}C6test their might\nagainst both generals{1B}C1?{05}{05}{05}
+@34
+Lu Bu... Hua Xiong...!\nIs this a dream?!{05}{05}{05}
+@35
+The %s army...!\nHave I been fighting\nmonsters? Awawa...{05}{05}{05}
+@36
+Lord Dong Zhuo!\nPull yourself together!{05}{05}{05}
+@37
+Retreat...\nHuh, Diaochan?\nWhere's Diaochan?{05}{05}{05}
+@38
+Lord Fengxian,\nare you hurt?{05}{05}{05}
+@39
+Never mind.\nTch...\nTo lose with me here...{05}{05}{05}
+@40
+Lord Fengxian...{05}{05}{05}
+@41
+The %s army...\nI won't forget this day.{05}{05}{05}
+@42
+You really think you can\ndefeat me?\n...Dream on.{05}{05}{05}
+@43
+I have Lu Bu and Hua Xiong,\nand above all, Diaochan,\nI have you.{05}{05}{05}
+@44
+Guhuhu...\nCome, it's cold out here.\nDance for me again tonight.{05}{05}{05}
+@45
+Defend, defend!\nHold fast!{05}{05}{05}
+@46
+My lord, unless we strike\nout, the battle will\nnever turn.{05}{05}{05}
+@47
+But Mi Zhu, what can we\ndo with so few men?{05}{05}{05}
+@48
+Heh heh, we needn't fight\nwith so few.{05}{05}{05}
+@49
+We'll borrow troops from\nLord Kong Rong, the famed\ngentleman of Beihai.{05}{05}{05}
+@50
+...And the envoy?{05}{05}{05}
+@51
+Ha!\nMe, of course.\nI'm off!{05}{05}{05}
+@52
+Ah, hey!\nHe's gone already...\nW-well, hold on for now!{05}{05}{05}
+@53
+Sorry to keep you waiting!\nMi Zizhong is back with\nstrong reinforcements!{05}{05}{05}
+@54
+I could not refuse Lord Mi\nZhu's plea. You have a\nfine retainer.{05}{05}{05}
+@55
+Lord Tao Qian is needed to\nrestore the Han. I'll lend\nmy sword too.{05}{05}{05}
+@56
+{1B}C6With this many men,\nvictory is certain{1B}C1.\nNow, my lord, counterattack!{05}{05}{05}
+@57
+Mi Zhu...\nUgh...\nMy tears blind me.{05}{05}{05}
+@58
+The reinforcements, wiped out!\nWhat was it all for...\nAh, more tears...{05}{05}{05}
+@59
+Awawa...\nWhat's this?\nWe got careless with the edge.{05}{05}{05}
+@60
+This is why I hated this...\nOh well, prepare to welcome\nthe %s army.{05}{05}{05}
+@61
+As you wish!\nHurry, everyone!{05}{05}{05}
+@62
+So fast... he's gone already.\nIs he reliable or just\nhopeless...?{05}{05}{05}
+@63
+We won...\nWhy, we didn't need\nreinforcements after all!{05}{05}{05}
+@64
+My lord!\n*pant*... *pant*...\nAre you safe?!{05}{05}{05}
+@65
+Safe and sound!\nAs safe as can be! Kakaka!{05}{05}{05}
+@66
+Thank you for coming,\nlords of Jiangdong.{05}{05}{05}
+@67
+Wahaha! Indeed! With me, the\nVirtuous King of East Wu,\nand Lord Wang Lang here...{05}{05}{05}
+@68
+Yes, any foe is but a babe!\nLord Liu Yao is a\nlucky man.{05}{05}{05}
+@69
+Truly, truly.\nWhat's more, our army has\nTaishi Ci.{05}{05}{05}
+@70
+I'm uneasy about our rear...\nbut until I've shown my might,\nmen, follow me!{05}{05}{05}
+@71
+Hmph, the youngster's eager.\nWe'd be enough on our own.{05}{05}{05}
+@72
+Indeed, that hothead.\n{1B}C6If he doesn't watch his\nstep, he'll get hurt{1B}C1.{05}{05}{05}
+@73
+Ahh! Taishi Ci!{05}{05}{05}
+@74
+Ugh... a blunder.\nI hope our army's morale\nholds up...{05}{05}{05}
+@75
+See, I told you!\n...This is bad.{05}{05}{05}
+@76
+Ugh...\nDidn't you say we'd win,\nLord Wang Lang?!{05}{05}{05}
+@77
+Well, I... Didn't Lord\nYan Baihu slack off?{05}{05}{05}
+@78
+Shame on you, Lord Yan Baihu!\nYou lose, then call yourself\nthe Virtuous King?!{05}{05}{05}
+@79
+What?!\nYou, with your\nstray-dog face!{05}{05}{05}
+@80
+Wha...!\nStray dog?!\nWhy, you...!{05}{05}{05}
+@81
+Wahaha!\nThey're running!\nTruly the Virtuous King!{05}{05}{05}
+@82
+Heh heh. It's embarrassing\nto be called that.{05}{05}{05}
+@83
+No, no! Splendid!\nIt was worth trusting\nyou two.{05}{05}{05}
+@84
+My lord, too much wine\nwill harm your\nhealth.{05}{05}{05}
+@85
+What... *hic*\nYou dare lecture me, Mengde?\nYou've gotten big.{05}{05}{05}
+@86
+N-no, not at all.\nIt's simply my duty to\nprotect you, my lord.{05}{05}{05}
+@87
+Haha, you loyal fool.\nWant a reward, eh?\nHere, have a cup.{05}{05}{05}
+@88
+Here you are,\nLord Dian Wei.{05}{05}{05}
+@89
+No, I...\nVery well, I accept.{05}{05}{05}
+@90
+*gulp*... Amid such chaos,\nevery night... unbelievable.\n...Tasty.{05}{05}{05}
+@91
+Well, Dian Wei,\nnow you're getting into it!\nDon't hold back.{05}{05}{05}
+@92
+No, that's enough...\nmy lo... my lord... my...\n...zzz...{05}{05}{05}
+@93
+Oh my,\nhe's fallen asleep.\nUfufu.{05}{05}{05}
+@94
+What, a big lug like you?\nPathetic!\nWahaha! *hic*{05}{05}{05}
+@95
+...Mustn't... At this rate...\n{1B}C6assassins may strike my\nlord in the night{1B}C1... zzz...{05}{05}{05}
+@96
+...Huh?!\nMy lord! Curse you...!{05}{05}{05}
+@97
+Ah, Dian Wei... *hic*\nShow me your\npeerless might.{05}{05}{05}
+@98
+Hm?! Intruders!\nWhere did they come from?!\nDamn... my legs are wobbly.{05}{05}{05}
+@99
+This disgrace... Unless I wash\nit away with my might, I can't\nface the world... Uoooh!{05}{05}{05}
+@100
+I have no excuse...\nPlease,\ncut me down.{05}{05}{05}
+@101
+Fine, fine... ouch.\nMy head hurts, blast it.\nWho did they say they were?{05}{05}{05}
+@102
+Sir!\nThe %s army.{05}{05}{05}
+@103
+%s army, remember this!\nWe withdraw!{05}{05}{05}
+@104
+Spoiling a perfectly good\nparty. What boors.{05}{05}{05}
+@105
+Even in chaos, *hic*\nhaving no room to relax\nshows a small man.{05}{05}{05}
+@106
+I'll take it to heart...\nugh... with the foe gone, the\nwine's back... zzz...{05}{05}{05}
+@107
+Listen, Ji Ling.\nThey say the one to replace\nthe Han is Dangtu Gao.{05}{05}{05}
+@108
+I see! Your Majesty!\nAnd what is Dangtu Gao?!{05}{05}{05}
+@109
+Dangtu Gao means "road"...\nMy names Shu and Gonglu both\nmean road, and the Yuan...{05}{05}{05}
+@110
+......!\nThe enemy, Your Majesty.{05}{05}{05}
+@111
+I'm at the good part! ...The\nYuan come from Chen, and their\nEarth virtue replaces Han's Fire...{05}{05}{05}
+@112
+Tch... Damn it...\n{1B}C6I hope that arrogance\ndoesn't come back to bite us{1B}C1.{05}{05}{05}
+@113
+Now, let us scatter the\nenemy! Your Majesty!{05}{05}{05}
+@114
+That Ji Ling sure has\ngotten used to being His\nMajesty's lackey...{05}{05}{05}
+@115
+Grr... I am emperor!\nEmp... Grrr!\nEmperor! I'm the emperor!{05}{05}{05}
+@116
+Your Ma...\nLord Yuan Shu...?{05}{05}{05}
+@117
+Unforgivable, unforgivable!\nSomeone! Seize him!\nKyaaa! Unforgivable!{05}{05}{05}
+@118
+That's not how an emperor\nacts... No, the troops are\nwavering.{05}{05}{05}
+@119
+Well, we're off.\nThanks for everything,\nMr. Emperor.{05}{05}{05}
+@120
+Hehi...\nI am emperor...{05}{05}{05}
+@121
+Hyahaha!\nGrab the treasure\nwhile we can!{05}{05}{05}
+@122
+That's right, I want the\nseal. Hand it over,\nwill ya?{05}{05}{05}
+@123
+You scum...!\nLeave it, Emp...\nLord Yuan Shu.{05}{05}{05}
+@124
+Now, with the rabble gone...\nWhere was I?{05}{05}{05}
+@125
+I forgot! Your Majesty!\nLong live the Emperor!\nLong live! Long live!{05}{05}{05}
+@126
+Ahem...\nI am the hero of Hebei,\nYuan Benchu.{05}{05}{05}
+@127
+......?\nI'm aware of that...{05}{05}{05}
+@128
+I wasn't talking to you!\nNow, I'll crush that little\ncastle in one go.{05}{05}{05}
+@129
+Quite right. But {1B}C6even a\nsmall castle may hold\nclever traps...{1B}C1{05}{05}{05}
+@130
+Traps? Ha! If it's traps...\n...Are there traps?{05}{05}{05}
+@131
+There may be,\nor there may not.{05}{05}{05}
+@132
+Grr...\nThis fellow, every time...!{05}{05}{05}
+@133
+Oh well, we march. Let's see...\n20 days. I'll take it within\n20 days.{05}{05}{05}
+@134
+Wah! Rocks raining from\nthe castle! See?\nThat's what rushing gets you!{05}{05}{05}
+@135
+And I warned you...{05}{05}{05}
+@136
+Cowards, %s army...!\nI took you for small fry.{05}{05}{05}
+@137
+I never thought it'd be this\nhard. All troops, retre...\nMmph!{05}{05}{05}
+@138
+Hey, Tian Feng!\nWho do you take for\nthe commander?!{05}{05}{05}
+@139
+Wha... Huh?\nHave you a plan to\nturn things around?{05}{05}{05}
+@140
+No, it's the commander's job...\nAhem...\nAll troops, retreat!\n
+@141
+Don't be so glum.\nYou were up against me,\nYuan Shao. Hahaha.{05}{05}{05}
+@142
+Ah, my lord,\nyour belt has slipped.{05}{05}{05}
+@143
+Wh-why, you!\nI can fix it myself!{05}{05}{05}

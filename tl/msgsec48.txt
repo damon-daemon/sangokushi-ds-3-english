@@ -1,0 +1,198 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+As you wish.{05}{05}{05}
+@3
+Just so.{05}{05}{05}
+@4
+Lord Dong Zhuo, there is\nsomething I would discuss...\nIf I may?{05}{05}{05}
+@5
+Wang Yun, what is\nthis about?{05}{05}{05}
+@6
+It is hard to speak of in the\npalace. Would you visit my\nhumble home tomorrow?{05}{05}{05}
+@7
+Hmm, very well.\nHave some wine ready.{05}{05}{05}
+@8
+I am honored you came.\nFirst, a drink.{05}{05}{05}
+@9
+So, Wang Yun, what is it\nyou wanted to discuss?\nSpeak.{05}{05}{05}
+@10
+One moment, please...\nMy daughter will\nperform a dance.{05}{05}{05}
+@11
+Oh? I didn't know the\nMinister had a daughter.{05}{05}{05}
+@12
+She is my\nbeloved daughter.{05}{05}{05}
+@13
+...Y-you there,\nwhat is your name?{05}{05}{05}
+@14
+Diaochan, come now.\nWhy so shy?{05}{05}{05}
+@15
+Ah, so you are Diaochan.\nYour dance just now\nwas splendid.{05}{05}{05}
+@16
+Yes...\nThank you, my lord.{05}{05}{05}
+@17
+Lord Dong Zhuo, here is\nwhat I wished to say.{05}{05}{05}
+@18
+I would like this girl to\nserve at your side.\nWould you allow it?{05}{05}{05}
+@19
+O-of course!\nHow could I refuse?{05}{05}{05}
+@20
+Thank you, my lord.\nI am sure she will\nbe delighted.{05}{05}{05}
+@21
+Diaochan...\nWhere is Diaochan?!{05}{05}{05}
+@22
+Lady Diaochan is viewing\nthe flowers at the\nFengyi Pavilion.{05}{05}{05}
+@23
+Fengyi Pavilion...\nAh, I see, I see.{05}{05}{05}
+@24
+Hm? Who's that there\nwith Diaochan...?\nLu Bu?!{05}{05}{05}
+@25
+...If it cannot be,\nthen let us meet\nin the next life.{05}{05}{05}
+@26
+If I can't make you my wife,\nI'm no hero...{05}{05}{05}
+@27
+Lu Bu! What do you\nthink you're doing here?!{05}{05}{05}
+@28
+Lord Dong Zhuo! How long\nhave you been there?{05}{05}{05}
+@29
+Never mind that! Trying to\nseduce my Diaochan?\nThe nerve of you!{05}{05}{05}
+@30
+You insolent dog...\nBah! Get out!{05}{05}{05}
+@31
+Diaochan, why were you\ntalking with Lu Bu?{05}{05}{05}
+@32
+I was admiring the flowers\nat Fengyi Pavilion when\nthat man appeared.{05}{05}{05}
+@33
+Hmm... So Lu Bu came in\nwithout permission?{05}{05}{05}
+@34
+I was no match for his\nstrength, and he took\nme in his arms.{05}{05}{05}
+@35
+Then you appeared,\nLord Dong Zhuo,\nand saved me.{05}{05}{05}
+@36
+I see...\nYou need not cry\nanymore.{05}{05}{05}
+@37
+Lord Dong Zhuo, I believe\nthat woman is dangerous.{05}{05}{05}
+@38
+Li Ru, what woman?\n...You mean Diaochan?{05}{05}{05}
+@39
+Yes, my lord. At this rate,\nwe will all be ruined by\na single woman.{05}{05}{05}
+@40
+I think it best to\ndismiss her and send her\nback to Lord Wang Yun.{05}{05}{05}
+@41
+Take Li Ru's advice and\ndismiss Diaochan?{05}{05}{05}
+@42
+Diaochan, I have decided to\nlet you go... You should\nreturn to Wang Yun.{05}{05}{05}
+@43
+What is this...? I see,\nthis must be Li Ru's\ndoing.{05}{05}{05}
+@44
+Why do you think\nit is Li Ru's doing?{05}{05}{05}
+@45
+Li Ru and Lu Bu are friends...\nIt's Li Ru's scheme to make\na laughingstock of you.{05}{05}{05}
+@46
+I wish to stay by\nyour side, my lord.{05}{05}{05}
+@47
+Dismiss Diaochan\nanyway?{05}{05}{05}
+@48
+It was all too short, but I\nwill never forget my days\nwith you, my lord.{05}{05}{05}
+@49
+Here and now,\nI bid you farewell.{05}{05}{05}
+@50
+D-Diaochan!\nAh, what have I done...{05}{05}{05}
+@51
+Diaochan has taken her own\nlife. The men are\nin an uproar.{05}{05}{05}
+@52
+Curse you, Dong Zhuo! You\nstole Diaochan from me,\nand now killed her!{05}{05}{05}
+@53
+Lord Dong Zhuo, why keep that\nwoman at your side after\nall I told you?{05}{05}{05}
+@54
+Shut up! Li Ru, not another\nword about Diaochan!\n...Understood?!{05}{05}{05}
+@55
+...Ah, are we all to be\nruined by a single\nwoman?{05}{05}{05}
+@56
+N-no, I was only joking.\nYou need not go back.{05}{05}{05}
+@57
+I am so happy to\nserve you, my lord.{05}{05}{05}
+@58
+Lord Dong Zhuo, Lord Li Su\nhas come as an envoy.{05}{05}{05}
+@59
+Lord Dong Zhuo, I, Li Su,\ncome as the Emperor's\nenvoy.{05}{05}{05}
+@60
+What does the Emperor's\nenvoy want?\nSpeak quickly.{05}{05}{05}
+@61
+After consulting all his\nofficials, the Emperor has\nchosen to abdicate to you.{05}{05}{05}
+@62
+Then...?! I am to replace\nthe present emperor\nand reign?{05}{05}{05}
+@63
+Very well. Tell them\nI will come to the\npalace at once.{05}{05}{05}
+@64
+Lord Wang Yun has prepared\nthe abdication and awaits\nyou. Be sure to come.{05}{05}{05}
+@65
+Diaochan, when I am emperor,\nI will make you my\nnoble consort.{05}{05}{05}
+@66
+Thank you, my lord.\nI am so happy.{05}{05}{05}
+@67
+Together we shall enjoy\nwealth and honor\nforever.{05}{05}{05}
+@68
+Lord Dong Zhuo, Lord Lu Bu\nis here to see you.{05}{05}{05}
+@69
+Lu Bu has come...\nGood, send him in.{05}{05}{05}
+@70
+Lu Bu, forgive me for the\nother day. I am a small man,\nand lost my temper.{05}{05}{05}
+@71
+No, it was I who was rude,\nunbecoming a subject.\nPlease forgive me.{05}{05}{05}
+@72
+Think nothing of it... Yes,\nwhen I am emperor, I will\ngive you the whole army.{05}{05}{05}
+@73
+Thank you, my lord.\nI will never forget\nyour kindness.{05}{05}{05}
+@74
+Whew...\nWe've reached the palace at\nlast. A long road it was.{05}{05}{05}
+@75
+Forgive me, but custom\nforbids troops inside\nthe palace.{05}{05}{05}
+@76
+Hm, so it does.\nThen the troops wait outside.\nLu Bu, come with me.{05}{05}{05}
+@77
+The palace was crowded with\nofficials, as lively as befits\nan abdication... But...{05}{05}{05}
+@78
+Hm...\nWang Yun, where\nis the Emperor?{05}{05}{05}
+@79
+Heh, you've come at last...\nThe Emperor is not here.{05}{05}{05}
+@80
+What do you mean? And why\nare you all armed?\n...Could it be?!{05}{05}{05}
+@81
+So you finally see it...\nYou beast who brought\nthe Han to ruin!{05}{05}{05}
+@82
+Wh-what?!\nWang Yun, what is\nthe meaning...{05}{05}{05}
+@83
+Men, the traitor is here!\nSend this fool who styled\nhimself Grand Tutor to hell!{05}{05}{05}
+@84
+Wang Yun, you tricked me!\nLu Bu! Fengxian,\nwhere are you?!{05}{05}{05}
+@85
+Fear not, Lord Dong Zhuo...\nLu Bu is here.{05}{05}{05}
+@86
+Ah, Fengxian! Cut down\nWang Yun and the rest\nwho defy me!{05}{05}{05}
+@87
+By imperial decree, I slay\nthe traitor to the realm.\nPrepare yourself, Dong Zhuo.{05}{05}{05}
+@88
+Wh-what...\nLu Bu, why betray me...?\nIt was Diaochan, wasn't it...{05}{05}{05}
+@89
+The throne was only a few\nsteps away... How bitter.{05}{05}{05}
+@90
+Dong Zhuo, the traitor\nto the Han, is slain!{05}{05}{05}
+@91
+Li Ru, Dong Zhuo's son-in-law,\nwas handed over to Lu Bu and\nWang Yun by his own servants\nand beheaded.{05}{05}{05}
+@92
+I, who reveled in glory in\nboth capitals, caught\nby a mere servant...{05}{05}{05}
+@93
+Dong Zhuo's brother Dong Min\nwas judged guilty with him,\nand his head was displayed.{05}{05}{05}
+@94
+My brother was just a step\naway from ruling the realm...{05}{05}{05}
+@95
+His followers, {02}{01}ﾈ and\nothers, fled toward\nXiliang.{05}{05}{05}
+@96
+We will go back to Xiliang\nand plan our return...{05}{05}{05}
+@97
+Diaochan, the beauty who\ntoppled a state, was taken\ninto Lu Bu's house.{05}{05}{05}
+@98
+Diaochan...\nI will never let you\ngo again.{05}{05}{05}

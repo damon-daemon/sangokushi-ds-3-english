@@ -1,0 +1,112 @@
+@0
+Select the city.{05}{05}{05}
+@1
+Select the city (Avg. training: {1B}C4{02}({1B}C1).{05}{05}{05}
+@2
+This is not our territory.{05}{05}{05}
+@3
+No military minister can carry this out.{05}{05}{05}
+@4
+No city has been selected.{05}{05}{05}
+@5
+Select the officer.{05}{05}{05}
+@6
+No officer has been selected.{05}{05}{05}
+@7
+No more enlisting is possible this month.{05}{05}{05}
+@8
+The population is under 30,000.{05}{05}{05}
+@9
+No more troops can join the reserves.{05}{05}{05}
+@10
+No more conscription is possible this month.{05}{05}{05}
+@11
+There are no troops to train.{05}{05}{05}
+@12
+The troops are already elite.{05}{05}{05}
+@13
+No more plundering is possible this month.{05}{05}{05}
+@14
+The city's farming and commerce are too low.{05}{05}{05}
+@15
+No officer can carry this out.{05}{05}{05}
+@16
+Select the destination city.{05}{05}{05}
+@17
+There is no connected city.{05}{05}{05}
+@18
+Select the city to organize.{05}{05}{05}
+@19
+There are no troops to organize.{05}{05}{05}
+@20
+No officer can be assigned troops.{05}{05}{05}
+@21
+Reserves: {1B}C4%7u{1B}C1 (Training: {1B}C4{02}({1B}C1 Morale: {1B}C4{02}){1B}C1){05}{05}{05}
+@22
+There are no troops to organize.{05}{05}{05}
+@23
+How many troops will you assign to {02}{01}ﾈ?{05}{05}{05}
+@24
+Select the city to attack.{05}{05}{05}
+@25
+You cannot march on that city.{05}{05}{05}
+@26
+You cannot attack an empty city.{05}{05}{05}
+@27
+You cannot attack an ally.{05}{05}{05}
+@28
+No officer can attack.{05}{05}{05}
+@29
+Spend Gold {1B}C42000{1B}C1\nto raise troops in {02}{14}ﾈ?{05}{05}{05}
+@30
+{1B}C4%u{1B}C1 soldiers gathered.{05}{05}{05}
+@31
+Forcibly conscript troops in {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@32
+Gathered {1B}C4{02}({1B}C1 soldiers.{05}{05}{05}
+@33
+Lord {02}{01}ﾈ's fame fell.{05}{05}{05}
+@34
+Train the troops in {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@35
+Troops in {02}{14}ﾈ:\nAvg. training {1B}C4%u{1B}C1 (+{1B}C4%u{1B}C1)\nAvg. morale {1B}C4%u{1B}C1 (+{1B}C4%u{1B}C1){05}{05}{05}
+@36
+Forcibly seize supplies from\nthe people of {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@37
+{05}{05}{04}{02}{01}d{04}=0{06}&{02}{01}{87}{04}>1{01}Jﾗ6{05}{05}{05}{05}{05}{04}{02}{01}{87}{04}>1{01}Jﾙ6{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}Jﾖ6{05}{05}{05}{01}S{02}e5We stripped the people bare, and here's the haul{01}C{17}{00}. Let's live in luxury.{05}{05}{05}Look{01}C{13}{00}! Food and gold galore! I can't stop laughing{01}C8{00}.{05}{05}{05}Look{01}C{13}{00} at all these goods. A banquet tonight, perhaps...{05}{05}{05}The people were stingy, so I taught them a lesson. They should've just handed it over...{05}{05}{05}With this much, tonight should be great fun{01}C{17}{00}.{05}{05}{05}
+@38
+{01}CA{00}, how delightful! All the gold, food and everything in this land belongs to me{01}C-{00}.{05}{05}{05}
+@39
+{05}{05}{04}{02}{01}{81}{01}Jﾘ6{05}{05}{05}Ah... Forgive me{01}C9{00}... But this too is for the great cause of ending the chaos...{05}{05}{05}
+@40
+Ah... Forgive me... This too is for the great cause of ending the chaos...{05}{05}{05}
+@41
+{01}S{02}e2The people are weeping{01}C{1B}{00}... To think I'd have to stoop to such evil{01}C9{00}...{05}{05}{05}Here are the goods you wanted{01}C0{00}. But please, let this be the last time{01}C{13}{00}.{05}{05}{05}
+@42
+Obtained Gold {1B}C4{02}({1B}C1\nand Food {1B}C4{02}){1B}C1.{05}{05}{05}
+@43
+Obtained {02}- {1B}C4{02}({1B}C1.{05}{05}{05}
+@44
+Lord {02}{01}ﾈ's fame fell.{05}{05}{05}
+@45
+Move {02}{01}ﾈ\nto {02}{14}ﾈ?{05}{05}{05}
+@46
+Move {02}{01}ﾈ and others ({02}( in all)\nto {02}{14}ﾈ?{05}{05}{05}
+@47
+Moved to {02}{14}ﾈ.{05}{05}{05}
+@48
+Carry out the organization\nof {02}{14}ﾈ?{05}{05}{05}
+@49
+Nothing has been organized.\nFinish anyway?\n{1B}C6* No order will be used.{1B}C1{05}{05}{05}
+@50
+Nothing has been organized.\nFinish anyway?{05}{05}{05}
+@51
+Organized the troops in {02}{14}ﾈ.{05}{05}{05}
+@52
+No soldiers gathered.{05}{05}{05}
+@53
+Not enough gold.{05}{05}{05}
+@54
+Cannot plunder.{05}{05}{05}
+@55
+Not enough food.{05}{05}{05}

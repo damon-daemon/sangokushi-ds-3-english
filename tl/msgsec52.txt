@@ -1,0 +1,102 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+As you wish.{05}{05}{05}
+@3
+It is my wish.\nI will serve you with\nmy valor.{05}{05}{05}
+@4
+Gan Ning, what's wrong?\nYou've seemed down\nlately.{05}{05}{05}
+@5
+You fight well but never get\npromoted. That's what's\nbothering you, isn't it?{05}{05}{05}
+@6
+Lord Su Fei, you saw\nright through me.{05}{05}{05}
+@7
+So that's it.\nYou only live once.\nThink it over well.{05}{05}{05}
+@8
+I'll cover for you.\nGan Ning, go wherever\nyou like.{05}{05}{05}
+@9
+Lord Su Fei...\nI can't thank you\nenough.{05}{05}{05}
+@10
+Gan Ning, Liu Biao's officer,\nhas defected to Sun Quan.{05}{05}{05}
+@11
+I am Gan Ning. I have come\nin hopes of serving\nLord Sun Quan.{05}{05}{05}
+@12
+I humbly ask for\nyour favor.{05}{05}{05}
+@13
+I'm truly glad\nyou've come.{05}{05}{05}
+@14
+Lend me your strength\nand show us what\nyou can do.{05}{05}{05}
+@15
+Reports say Lord Pang Tong\nof {02}{14}ﾈ ignores his duties\nand drinks all day.{05}{05}{05}
+@16
+Lucky guy...\nUh, never mind.{05}{05}{05}
+@17
+Pang Tong, whom I sent south!\nThis will throw the land into\ndisorder. Brother, go see.{05}{05}{05}
+@18
+Got it.\nLeave it to me.{05}{05}{05}
+@19
+Zhang Fei went to\nPang Tong.{05}{05}{05}
+@20
+Pang Tong, is it? Why are\nyou neglecting the job\nyou were given?{05}{05}{05}
+@21
+Heh, a backwater job like\nthis just isn't worth\nthe effort...{05}{05}{05}
+@22
+Pang Tong cleared his\npiled-up work in\nhalf a day.{05}{05}{05}
+@23
+Now, what was that about\nneglecting my duties,\nLord Zhang Fei?{05}{05}{05}
+@24
+Forgive my rudeness...\nI'll be sure to recommend\nyou to my brother.{05}{05}{05}
+@25
+Pang Shiyuan's talent is\nwasted in so remote\na place.{05}{05}{05}
+@26
+I... I mean, I agree with\nLord Zhuge Liang.{05}{05}{05}
+@27
+The frontier doesn't suit the\nPhoenix. Let him show his\ngenius on the front line.{05}{05}{05}
+@28
+Pang Tong has returned\nto Liu Bei.{05}{05}{05}
+@29
+In the hills near {02}{14}ﾈ{05}{05}{05}
+@30
+General, there seems to be\na tiger in those hills.{05}{05}{05}
+@31
+It's a tiger all right.\nHm? What's that\nchasing it?{05}{05}{05}
+@32
+Looks like some kind\nof beast.{05}{05}{05}
+@33
+No, that's a man! Amazing,\na man chasing a tiger!\nBring him here.{05}{05}{05}
+@34
+You there,\nwhat is your name?{05}{05}{05}
+@35
+My name is Dian Wei.{05}{05}{05}
+@36
+I see you are a peerless\nwarrior. Would you serve\nmy lord?{05}{05}{05}
+@37
+A remarkable man indeed.\nTruly the great warrior\nE Lai reborn.{05}{05}{05}
+@38
+On Xiahou Dun's recommendation,\nDian Wei, the new E Lai,\njoined Cao Cao.{05}{05}{05}
+@39
+Lord Dian Wei, those bandits\nare Yellow Turban\nremnants.{05}{05}{05}
+@40
+So it seems...\nHm? Their leader is\nfighting someone.{05}{05}{05}
+@41
+Someone has captured\nthe bandit leader.{05}{05}{05}
+@42
+You there,\nhand over that bandit.{05}{05}{05}
+@43
+Heh heh. Take my blade\nfrom me, and I'll hand\nhim over.{05}{05}{05}
+@44
+Dian Wei and the warrior\nfought for hours, but\nneither could win.{05}{05}{05}
+@45
+In that case, we should use\na trick. Let's dig a pit\nand wait for him.{05}{05}{05}
+@46
+Curse you, wait...\nDamn! A pit trap!{05}{05}{05}
+@47
+What is your name?\nWhy were you fighting\nthe bandits?{05}{05}{05}
+@48
+I am Xu Chu. The bandits\nhave been running wild,\nso I fought them.{05}{05}{05}
+@49
+To fight me to a draw,\nyou're quite something.\nWill you serve my lord?{05}{05}{05}
+@50
+On Dian Wei's recommendation,\nthe mighty Xu Chu joined\nCao Cao.{05}{05}{05}

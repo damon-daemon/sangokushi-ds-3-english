@@ -1,0 +1,84 @@
+@0
+{05}{05}{04}{02}{01}u{04}=365{06}&{02}d90Zhang Secret "Whirlwind Fang"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=367{06}&{02}d90Zhang Secret "Whirlwind Fang"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=83{06}&{02}d90Guan Secret "Demon Beard Slash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=89{06}&{02}d90Guan Secret "Demon Beard Slash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=90{06}&{02}d90Guan Secret "Demon Beard Slash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=331{06}&{02}d90Zhao Secret "Exploding Dragon"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=346{06}&{02}d90Zhao Secret "Exploding Dragon"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=362{06}&{02}d90Zhao Secret "Exploding Dragon"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98{06}&{02}d90Gan Secret "Black Shark"{05}{05}{05}{01}S{02}e8Uoooraaaaah!{05}{05}{05}Here I come!! Eeeyaaaah!{05}{05}{05}Seeyaaaaaaaah!{05}{05}{05}Take my all-out blow! Haaaaaah!{05}{05}{05}This blow ends it!{05}{05}{05}See through this move if you can! {01}C粗{05}{05}{05}To think I'd use this on the likes of you! Take it! {01}C粗{05}{05}{05}Here we goooooo! {01}C粗{05}{05}{05}
+@1
+{05}{05}{04}{02}{01}u{04}=365Zhang Secret "Whirlwind Fang"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=367Zhang Secret "Whirlwind Fang"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=83Guan Secret "Demon Beard Slash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=89Guan Secret "Demon Beard Slash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=90Guan Secret "Demon Beard Slash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=331Zhao Secret "Exploding Dragon"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=346Zhao Secret "Exploding Dragon"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=362Zhao Secret "Exploding Dragon"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98Gan Secret "Black Shark"{05}{05}{05}Super Deadly Thrust{05}{05}{05}
+@2
+{05}{05}{04}{02}{01}u{04}=365{06}&{02}d90Zhang Style "Endless Wolf Fang"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=367{06}&{02}d90Zhang Style "Endless Wolf Fang"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=83{06}&{02}d90Guan Style "Gale Flash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=89{06}&{02}d90Guan Style "Gale Flash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=90{06}&{02}d90Guan Style "Gale Flash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=331{06}&{02}d90Zhao Style "Dark Wind"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=346{06}&{02}d90Zhao Style "Dark Wind"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=362{06}&{02}d90Zhao Style "Dark Wind"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98{06}&{02}d90Gan Style "Pirate 100 Thrusts"{05}{05}{05}{01}S{02}e6Hyahyahyahyahyahya!{05}{05}{05}Can't dodge these thrusts? I can strike a hundred times in an instant{01}C-{00}!{05}{05}{05}You can't even see these lightning thrusts.{05}{05}{05}Lost the will to fight{01}C/{00}? You're wide open! Ora, ora, ora!{05}{05}{05}This is the end{01}C-{00}! Take this to the grave{01}C:{00}! {01}C兎{05}{05}{05}To think I'd have to use this... Don't hold it against me when you die! {01}C兎{05}{05}{05}
+@3
+{05}{05}{04}{02}{01}u{04}=365Zhang Style "Endless Wolf Fang"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=367Zhang Style "Endless Wolf Fang"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=83Guan Style "Gale Flash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=89Guan Style "Gale Flash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=90Guan Style "Gale Flash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=331Zhao Style "Dark Wind"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=346Zhao Style "Dark Wind"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=362Zhao Style "Dark Wind"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98Gan Style "Pirate 100 Thrusts"{05}{05}{05}Deadly Rapid Thrusts, hya!{05}{05}{05}
+@4
+{05}{05}{04}{02}{01}u{04}=365{06}&{02}d90Zhang Style "Dragon Sky Dance"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=367{06}&{02}d90Zhang Style "Dragon Sky Dance"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=83{06}&{02}d90Guan Style "Rakshasa Slash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=89{06}&{02}d90Guan Style "Rakshasa Slash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=90{06}&{02}d90Guan Style "Rakshasa Slash"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=331{06}&{02}d90Zhao Style "Flying Hawk"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=346{06}&{02}d90Zhao Style "Flying Hawk"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=362{06}&{02}d90Zhao Style "Flying Hawk"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98{06}&{02}d90Gan Style "Blood Vortex"{05}{05}{05}{01}S{02}e3Duoooraaaaah!{05}{05}{05}Tooooraaaah! My all-out blow! Take it!{05}{05}{05}Iyaaaaaaaah!{05}{05}{05}
+@5
+{01}S{02}e5Take this blow of fury! Sooooraaaah!{05}{05}{05}Getting cocky! Dodge this!! Raaaaaah!{05}{05}{05}Don't mess with me! I'll kill you!{05}{05}{05}Don't underestimate meeeee! Uoooooooh!{05}{05}{05}It's your fault for angering {01}C{02}{00}{01}C-{00}! Regret it{01}C'{00}!{05}{05}{05}
+@6
+{05}{05}{04}{02}{01}u{04}=162{01}J容{05}{05}{05}{01}S{02}e3Behold my archery! Can you dodge it{01}C4{00}?{05}{05}{05}Take my arrow! Haah!{05}{05}{05}Now{01}C-{00}! You can't dodge this.{05}{05}{05}
+@7
+No one surpasses Huang Zhong at archery! Take this!{05}{05}{05}
+@8
+{05}{05}{04}{02}{01}u{04}=162{01}J册{05}{05}{05}{01}S{02}e3Got you! Dodge this!{05}{05}{05}You chased too far! Take this!{05}{05}{05}I fled on purpose for this! Take my arrow!{05}{05}{05}
+@9
+This was my plan too! Take Huang Zhong's arrow that threads a needle!{05}{05}{05}
+@10
+{05}{05}{04}{02}{01}u{04}=162{01}J嫺{05}{05}{05}{01}S{02}e3Running is useless. You'll only feed my arrows{01}C7{00}!{05}{05}{05}Coward! My arrows will feast on you! Die!{05}{05}{05}You won't escape! I'll skewer you! Diiiie!{05}{05}{05}
+@11
+Running away! Huang Zhong's arrows won't let you escape!{05}{05}{05}
+@12
+{01}S{02}e3As if I couldn't dodge such a feeble arrow!{05}{05}{05}I saw through that cheap trick.{05}{05}{05}How dare you! Did you think an arrow like that could fell {01}C{02}{00}?{05}{05}{05}
+@13
+{05}{05}{04}{02}{01}u{04}=400{01}J枡{05}{05}{05}{01}S{02}e4Take this!{05}{05}{05}Behold my dagger-throwing skill.{05}{05}{05}Lord {02}{02}ﾈ, can you dodge this{01}C4{00}?{05}{05}{05}Strike first and win! Now{01}C-{00}!{05}{05}{05}
+@14
+Take Dian Wei's never-missing short halberds!{05}{05}{05}
+@15
+{01}S{02}e4Coward, I won't forgive you!{05}{05}{05}Such tricks... You won't leave alive{01}C9{00}{01}C0{00}!{05}{05}{05}A petty trick{01}C2{00}{01}C8{00}. But the duel is just beginning{01}C-{00}!{05}{05}{05}Blast, I was careless! Grr, I'll kill you!{05}{05}{05}
+@16
+{01}S{02}e4Did you think that would work on me{01}C/{00}?{05}{05}{05}Clever{01}C2{00}{01}C8{00}. But it's useless against me{01}C,{00}.{05}{05}{05}{01}CA{00} Did you think {01}C{02}{00} couldn't dodge that{01}C9{00}{01}C/{00}?{05}{05}{05}Trying to beat {01}C{03}{00} with that? You really underestimate me.{05}{05}{05}
+@17
+{01}S{02}e5An opening!! Hah!{05}{05}{05}How long will you flail about{01}C-{00}? {01}C{02}{00} won't wait{01}C0{00}! {01}C:{00}, hyah!{05}{05}{05}Wide open{01}C6{00}! Hyaah!{05}{05}{05}I've waited for this moment{01}C0{00}... this one opening...{05}{05}{05}Fool... I've already seen through your technique.{05}{05}{05}
+@18
+{01}S{02}e5I'll leave the rest to you{01}C7{00}.{05}{05}{05}Good timing{01}C2{00}{01}C8{00}. I'm counting on you{01}C0{00}.{05}{05}{05}You came to help{01}C,{00}. That one's quite skilled{01}C-{00}. Be careful{01}C.{00}.{05}{05}{05}I'm counting on you{01}C0{00}. Now's your turn{01}C-{00}!{05}{05}{05}Oh, it's you! I owe you one{01}C2{00}{01}C8{00}. Drinks are on me later.{05}{05}{05}
+@19
+{01}S{02}e5Now you face me{01}C-{00}!{05}{05}{05}You're not bad{01}C,{00}. Now {01}C{03}{00} will face{01}C{14}{00} you.{05}{05}{05}I've long wanted to cross blades with {01}C{0B}{00}{01}C0{00}. I am {01}C{03}{00}! {01}C:{00}{05}{05}{05}I've been watching. You're quite good{01}C2{00}{01}C8{00}. But it won't work on me{01}C9{00}{01}C0{00}.{05}{05}{05}My name is {01}C{03}{00}! I'll lend a hand{01}C!{00}!{05}{05}{05}
+@20
+{05}{05}{04}{02}{01}u{04}=365{06}&{02}d90Zhang Ultimate "Doom Thunder"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=367{06}&{02}d90Zhang Ultimate "Doom Thunder"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=83{06}&{02}d90Guan Ultimate "Storm Conqueror"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=89{06}&{02}d90Guan Ultimate "Storm Conqueror"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=90{06}&{02}d90Guan Ultimate "Storm Conqueror"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=339{06}&{02}d90Illusion: Summon "Thunder Emperor"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=247{06}&{02}d90Feather Fan "Thunder Dance"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=331{06}&{02}d90Zhao Ultimate "Roaring Thunder"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=346{06}&{02}d90Zhao Ultimate "Roaring Thunder"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=362{06}&{02}d90Zhao Ultimate "Roaring Thunder"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98{06}&{02}d90Gan Ultimate "Wild Thunder"{05}{05}{05}{01}S{02}e5My spirit calls the thunder!{05}{05}{05}Here I come!! Eeeyaaaah!{05}{05}{05}Thunder! Coooome!{05}{05}{05}Take the thunder of my wrath! Haaaaaah!{05}{05}{05}This is the end{01}C-{00}! Here we goooo! {01}C･e{05}{05}{05}
+@21
+{05}{05}{04}{02}{01}u{04}=365Zhang Ultimate "Doom Thunder"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=367Zhang Ultimate "Doom Thunder"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=83Guan Ultimate "Storm Conqueror"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=89Guan Ultimate "Storm Conqueror"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=90Guan Ultimate "Storm Conqueror"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=339Illusion: Summon "Thunder Emperor"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=247Feather Fan "Thunder Dance"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=331Zhao Ultimate "Roaring Thunder"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=346Zhao Ultimate "Roaring Thunder"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=362Zhao Ultimate "Roaring Thunder"{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98Gan Ultimate "Wild Thunder"{05}{05}{05}Deadly Lightning Counter{05}{05}{05}
+@22
+{05}{05}{04}{02}g{02}{01}{02}{02}{01}Jｪe{05}{05}{05}{05}{05}{04}{02}h{02}{01}{02}{02}{01}Jｮe{05}{05}{05}{05}{05}{04}{02}{01}{82}{06}&{02}{02}{81}{06}&{02}d30{01}Jｨe{05}{05}{05}{05}{05}{04}{02}{01}{82}{06}&{02}{02}{82}{06}&{02}d30{01}Jｧe{05}{05}{05}{01}S{02}e5Someday I'll settle this, I swear.{05}{05}{05}We'll call this a draw for now{01}C7{00}.{05}{05}{05}At this rate it won't be settled in a hundred years{01}C9{00}.{05}{05}{05}This is going nowhere{01}C9{00}.{05}{05}{05}We'll settle this another day.{05}{05}{05}
+@23
+{01}S{02}e3It's been ages since I met a real man!{05}{05}{05}Not bad! It's been ages since I met a man as strong as {01}C{0B}{00}!{05}{05}{05}If we live, let's meet again.{05}{05}{05}
+@24
+{01}S{02}e3{02}{02}ﾈ... It's a waste for her to be a woman.{05}{05}{05}A draw... Going easy because she's a woman was a mistake.{05}{05}{05}{02}{02}ﾈ, a tough opponent. I've fallen for her.{05}{05}{05}
+@25
+{05}{05}{04}{02}g{02}{01}{02}{02}{01}Jｬe{05}{05}{05}{05}{05}{04}{02}h{02}{01}{02}{02}{01}Jｵe{05}{05}{05}{01}S{02}e6I'll remember your name{01}C7{00}.{05}{05}{05}I'll remember the name {02}{02}ﾈ{01}C0{00}.{05}{05}{05}Next time we meet, I'll be serious.{05}{05}{05}Next time, the win goes to me{01}C6{00}.{05}{05}{05}{02}{02}ﾈ, was it? I won't forget that face{01}C9{00}{01}C7{00}.{05}{05}{05}All this fighting and still no winner... I won't forget that face{01}C9{00}{01}C7{00}.{05}{05}{05}
+@26
+{05}{05}{04}{02}{02}v{04}={02}{01}u{01}Jｫe{05}{05}{05}{05}{05}{04}{02}{01}{81}Next time, I'll show no mercy{01}C9{00}{01}C0{00}.{05}{05}{05}Next time I'll show no mercy. Be ready.{05}{05}{05}
+@27
+{05}{05}{04}{02}{01}{81}In this chaotic age, whining gets you nowhere. Be ready.{05}{05}{05}{01}S{02}e2Let us both stay loyal to our lords.{05}{05}{05}Never show yourself before me again.{05}{05}{05}
+@28
+{05}{05}{04}{02}{02}v{04}={02}{01}u{01}Jｭe{05}{05}{05}{05}{05}{04}{02}{01}{81}Next time, I'll show no mercy{01}C9{00}{01}C0{00}.{05}{05}{05}Next time I'll show no mercy. Be ready.{05}{05}{05}
+@29
+{05}{05}{04}{02}{01}{81}In this chaotic age, whining gets you nowhere. Be ready.{05}{05}{05}{01}S{02}e2Let us both stay loyal to our lords.{05}{05}{05}Never show yourself before me again.{05}{05}{05}
+@30
+=
+@31
+{01}S{02}e3Let's fight again somewhere someday.{05}{05}{05}Next time I won't hold back.{05}{05}{05}Next time, even if you're my {01}C{0D}{00}, I'll show no mercy. Be ready.{05}{05}{05}
+@32
+{01}S{02}e3Next time I won't lose.{05}{05}{05}Even though you're my {01}C{0E}{00}, I won't go easy next time.{05}{05}{05}It was a draw this time, but next time I'll surpass my {01}C{0E}{00}.{05}{05}{05}
+@33
+{01}S{02}e3I never want to fight again.{05}{05}{05}Never appear before me again.{05}{05}{05}Why did it come to this... Never appear before me again.{05}{05}{05}
+@34
+{01}S{02}e3Next time I'll settle this for sure.{05}{05}{05}We'll call it a draw until next time.{05}{05}{05}Next time we meet, I'll settle this for sure.{05}{05}{05}
+@35
+{01}S{02}e2Let's fight again somewhere someday.{05}{05}{05}Next time I won't hold back.{05}{05}{05}
+@36
+{01}S{02}e2Next time I won't lose.{05}{05}{05}Family or not, I won't go easy next time.{05}{05}{05}
+@37
+=
+@38
+{01}S{02}e3I don't want to fight you anymore.{05}{05}{05}You're the one who should be ready.{05}{05}{05}I'll spare your life until next time.{05}{05}{05}
+@39
+{01}S{02}e3What are you saying? This time I'll win!{05}{05}{05}Next time I'll show you my true strength!{05}{05}{05}Damn it... Next time...{05}{05}{05}
+@40
+{01}S{02}e3Stop turning your blade on me.{05}{05}{05}Haven't we had enough?{05}{05}{05}Why must we fight...{05}{05}{05}
+@41
+{01}S{02}e3Next time I'll settle this for sure.{05}{05}{05}We'll call it a draw until next time.{05}{05}{05}Next time I'll settle this. Be ready.{05}{05}{05}

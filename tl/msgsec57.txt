@@ -1,0 +1,162 @@
+@0
+A fine steed, 8 chi tall and red as fire, said to run a thousand li a day. It carried Lu Bu into battle: "Among men, Lu Bu; among horses, Red Hare."{05}{05}{05}
+@1
+A horse with a white blaze, said to curse its rider. Liu Bei rode it anyway, and it saved him by leaping across the Tan Torrent.{05}{05}{05}
+@2
+Cao Cao's beloved horse, said to be the one he rode at the Xutian hunt. It does not appear again in the novel.{05}{05}{05}
+@3
+Cao Cao's beloved horse in the histories, so fast it left no shadow. It died struck by arrows in the cheek and leg when Zhang Xiu attacked at Wan.{05}{05}{05}
+@4
+Wang Yun's treasured dagger, one chi long and studded with seven gems. He gave it to Cao Cao to kill Dong Zhuo, but the attempt failed.{05}{05}{05}
+@5
+One of a pair of swords made for Cao Cao, its hilt engraved "Yitian." He gave its twin, Qinggang, to Xiahou En and kept this one for himself.{05}{05}{05}
+@6
+One of a pair of swords, its hilt engraved "Qinggang." Cao Cao gave it to Xiahou En, but Zhao Yun slew him at Changban and took it.{05}{05}{05}
+@7
+Liu Bei's pair of male and female swords. He wielded them at Hulao Pass, dueling Lu Bu fiercely with Guan Yu and Zhang Fei.{05}{05}{05}
+@8
+Sun Jian's favorite sword. He held it as he led his men against Dong Zhuo.{05}{05}{05}
+@9
+Guan Yu's great glaive, weighing 82 jin, a green dragon carved on its shaft. The symbol of Guan Yu, it appears in countless battles.{05}{05}{05}
+@10
+Ji Ling's great three-pointed glaive, weighing 50 jin. He used it in his duel with Guan Yu.{05}{05}{05}
+@11
+Zhang Fei's steel spear, 1 zhang 8 chi long with a blade curved like a snake. It appears in all his great scenes, from his duel with Lu Bu to his stand at Changban Bridge.{05}{05}{05}
+@12
+Cheng Pu's spear with a snake-shaped blade. He used it to rout Cai Mao in a duel against Liu Biao.{05}{05}{05}
+@13
+Lu Bu's weapon, a spear with a crescent side blade that pierced foes whether thrusting or striking. Lu Bu swung it freely, crushing countless enemies.{05}{05}{05}
+@14
+Dian Wei's halberds, 80 jin the pair. "In the guard is Dian Wei, wielding twin halberds of 80 jin." Hu Che'er stole them before Zhang Xiu's attack.{05}{05}{05}
+@15
+Xu Huang's favorite axe, with a huge haft.{05}{05}{05}
+@16
+An ancient weapon, rare even in China. Though called an iron whip, it is shaped more like a long rod.{05}{05}{05}
+@17
+A kind of spear with countless iron spikes on its head. Favored by Shamoke, king of the Wuling tribes.{05}{05}{05}
+@18
+A thrown weapon: a rope with iron balls at each end, hurled at pursuers. Wang Shuang was a master who never missed.{05}{05}{05}
+@19
+A book of strategy by Sun Wu of Wu in the Spring and Autumn era, also called "Sunzi." Handed down as the war manual; Cao Cao loved it and wrote his own commentary.{05}{05}{05}
+@20
+A book of strategy said to be by Lu Shang (Taigong Wang), in six parts. Practical and military, it was required reading for generals.{05}{05}{05}
+@21
+Cao Cao's book of strategy in 13 parts. Famously, when Yang Xiu showed it to the Shu envoy Zhang Song, he read it once and recited it perfectly.{05}{05}{05}
+@22
+The book Zhuge Liang left to Jiang Wei before his death, listing laws, warnings and cautions. Its table of contents survives in the histories.{05}{05}{05}
+@23
+A history explaining the Confucian "Spring and Autumn Annals," by Zuo Qiuming, a disciple of Confucius. Said to be the most detailed of its commentaries.{05}{05}{05}
+@24
+The work of Sima Qian, a eunuch who served Emperor Wu of Han. A history from the Yellow Emperor to Emperor Wu, told through biographies.{05}{05}{05}
+@25
+Hua Tuo's book of his medical arts. Before his execution he gave it to a jailer, but the jailer's wife burned it out of fear.{05}{05}{05}
+@26
+A divine book the immortal Yu Ji found by the Quyang spring while gathering herbs. It records arts of healing.{05}{05}{05}
+@27
+A book of immortals Zuo Ci found in a cliff on Mount Emei after 30 years of training, in three volumes: Heaven, Earth and Man.{05}{05}{05}
+@28
+The book Zhang Jiao received from the Old Immortal of Nanhua, on calling wind and rain and curing illness. Mastering it, he called himself the Great Sage.{05}{05}{05}
+@29
+Zhang Song's map of the 41 counties of Shu. Meant for Cao Cao, he gave it instead to Liu Bei, moved by his character.{05}{05}{05}
+@30
+Lu Kai's map of the south. He presented it on Zhuge Liang's southern campaign, to Zhuge Liang's great delight.{05}{05}{05}
+@31
+The imperial seal made for the First Emperor of Qin from Lantian jade. Handed down by every emperor since, it was called the "Seal of the Realm."{05}{05}{05}
+@32
+A fine horse of Dayuan, also called the blood-sweating horse, said to run a thousand li a day. Emperor Wu of Han invaded Dayuan to obtain it.{05}{05}{05}
+@33
+Zhuge Liang's wheeled wooden chair. Sima Yi fled from a statue of Zhuge Liang seated in it: "A dead Kongming put a living Zhongda to flight."{05}{05}{05}
+@34
+A chain with an iron ball. Gan Ning used it to take Wan in 215, swatting away arrows as he scaled the wall, and felled its commander Zhu Guang in one blow.{05}{05}{05}
+@35
+Small knives thrown at foes. Zhurong was a famed master. Fighting Shu, she rode out with five knives on her back and knocked Zhang Ni from his horse.{05}{05}{05}
+@36
+Throwing halberds. Dian Wei was a master. At Puyang, to save Cao Cao, he had an aide call the range and felled foe after foe as they came in reach.{05}{05}{05}
+@37
+The bow of the Han general Li Guang. Surrounded by the Xiongnu, he ordered his men to wait with bows drawn, giving rise to a saying.{05}{05}{05}
+@38
+The bow of Yang Youji of Chu. He hit a willow leaf from a hundred paces a hundred times out of a hundred, the origin of the phrase "a hundred shots, a hundred hits."{05}{05}{05}
+@39
+The world's oldest anesthetic, prescribed by Hua Tuo. With it, he pioneered surgery under general anesthesia.{05}{05}{05}
+@40
+A stimulant refined from stalactite, sulfur and quartz. Said to grant eternal life, it was made fashionable by He Yan of Wei.{05}{05}{05}
+@41
+A book of strategy in three parts, said to be by Lu Shang. Legend says Zhang Liang received it from Huang Shigong by a bridge.{05}{05}{05}
+@42
+The book of strategy of Wu Qi, chancellor of Chu in the Warring States era. Only six chapters survive.{05}{05}{05}
+@43
+The book of Mozi of the Warring States era. Preaching universal love, it criticized Confucius and urged pacifism, and also covers fortress design and defense.{05}{05}{05}
+@44
+A history by Ban Gu of the Later Han, the official record of the Former Han in 100 volumes. He continued his father's work by imperial order.{05}{05}{05}
+@45
+A record of the orators of the Warring States, said to be edited by Liu Xiang. It gave rise to sayings such as "befriend the far, attack the near."{05}{05}{05}
+@46
+A book compiled by scholars under Liu An, Prince of Huainan, on geography, history and thought, centered on Taoist ideas.{05}{05}{05}
+@47
+A mysterious book of mountains, rivers and plants, and the strange gods and beasts of hills and seas. Said to be China's oldest fantastic geography.{05}{05}{05}
+@48
+・Gain skills\n　{1B}C6"Rush" "March" "Mounted Archery"{1B}C1\n・[War/Duel] Sure retreat{05}{05}{05}
+@49
+・Gain skills\n　{1B}C6"Rush" "March"{1B}C1\n・[War/Duel] Sure retreat{05}{05}{05}
+@50
+・Gain skill\n　{1B}C6"Rush"{1B}C1\n・[War/Duel] Sure retreat{05}{05}{05}
+@51
+・Gain skill\n　{1B}C6"March"{1B}C1\n・[War/Duel] Sure retreat{05}{05}{05}
+@52
+・[Duel] First strike hit rate up{05}{05}{05}
+@53
+・[Duel] First strike hit rate up\n・[Duel] Critical rate up{05}{05}{05}
+@54
+・[Duel] First strike hit rate up\n・[Duel] Critical rate up{05}{05}{05}
+@67
+・Gain skills\n　{1B}C6"Foil" "Calm" "Water God"{1B}C1{05}{05}{05}
+@68
+・Gain skill\n　{1B}C6"Foil"{1B}C1{05}{05}{05}
+@69
+・Gain skill\n　{1B}C6"Calm"{1B}C1{05}{05}{05}
+@70
+・Gain skill\n　{1B}C6"Shift"{1B}C1{05}{05}{05}
+@73
+・Gain skill\n　{1B}C6"Heal"{1B}C1\n・[Strategy] Heal all officers in city{05}{05}{05}
+@74
+・Gain skill\n　{1B}C6"Mystic"{1B}C1\n・[Strategy] Heal all officers in city{05}{05}{05}
+@75
+・Gain skill\n　{1B}C6"Mirage"{1B}C1{05}{05}{05}
+@76
+・Gain skill\n　{1B}C6"Hex"{1B}C1{05}{05}{05}
+@77
+・Gain skills\n　{1B}C6"Rush" "March"{1B}C1\n　(Chengdu, Zitong, Yong'an, Jiangzhou only){05}{05}{05}
+@78
+・Gain skills\n　{1B}C6"Rush" "March"{1B}C1\n　(Yunnan, Jianning only){05}{05}{05}
+@79
+・Fame +{1B}C4100{1B}C1{05}{05}{05}
+@80
+・Gain skill\n　{1B}C6"March"{1B}C1\n・[War/Duel] Sure retreat{05}{05}{05}
+@81
+・[War/Duel] Sure retreat{05}{05}{05}
+@83
+・[Duel] First strike hit rate up{05}{05}{05}
+@84
+・[Duel] First strike hit rate up{05}{05}{05}
+@85
+・Gain skills\n　{1B}C6"Mounted Archery" "Reply"{1B}C1{05}{05}{05}
+@86
+・Gain skills\n　{1B}C6"Snipe" "Spray"{1B}C1{05}{05}{05}
+@87
+・Longer lifespan\n・[Strategy] Heal your officers{05}{05}{05}
+@88
+・Longer lifespan\n・[Strategy] Heal your officers{05}{05}{05}
+@89
+・Gain skill\n　{1B}C6"Panic"{1B}C1{05}{05}{05}
+@90
+・Gain skills\n　{1B}C6"Flood" "Feud"{1B}C1{05}{05}{05}
+@91
+・Gain skill\n　{1B}C6"Rocks"{1B}C1\n・[War] Defense up when besieged{05}{05}{05}
+@92
+・[Strategy] Diplomacy success up{05}{05}{05}
+@93
+・[Strategy] "Rumor" success up{05}{05}{05}
+@94
+・Gain skill\n　{1B}C6"March"{1B}C1{05}{05}{05}
+@95
+・Gain skills\n　{1B}C6"Skies" "Divine"{1B}C1{05}{05}{05}

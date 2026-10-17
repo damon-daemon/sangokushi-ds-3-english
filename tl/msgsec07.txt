@@ -1,0 +1,406 @@
+@0
+As {02}{01}ﾈ, on a training journey, passed near {02}{14}ﾈ, an arrow suddenly struck the ground at {02}{01}ﾈ's feet!{05}{05}{05}
+@1
+{05}{05}{04}{02}{01}{81}{01}JZ{1B}{05}{05}{05}...Hm! Who goes there?!{05}{05}{05}
+@2
+...Ah! Who's there?! Show yourself!{05}{05}{05}
+@3
+Heh heh... Did I startle you? Watching how you carry yourself, I couldn't resist...{05}{05}{05}
+@4
+I travel the land seeking mastery of arms... What say you? Will you cross weapons with me?{05}{05}{05}
+@5
+I don't know who {01}C{07}{00} are, but {01}C{03}{00} never backs down from a challenge{01}C0{00}!{05}{05}{05}
+@6
+Oh... So you are... A worthy opponent... Have at you! Haaah!{05}{05}{05}
+@7
+{05}{05}{04}{02}{01}{81}{01}J`{1B}{05}{05}{05}Hah! Hah! ...Heh, want to keep going{01}C){00}?{05}{05}{05}
+@8
+There! There! Hehe... Want to keep going?{05}{05}{05}
+@9
+Nngh... Strong... I never thought the gap in skill was this great...{05}{05}{05}
+@10
+The world is wide... I still have far to go... I yield.{05}{05}{05}
+@11
+{05}{05}{04}{02}{01}{81}{01}Jd{1B}{05}{05}{05}No, it was close for me too... By the way, what is {01}C{07}{00}r name...{05}{05}{05}
+@12
+Phew, it was close for me too... By the way, what is {01}C{07}{00}r name...{05}{05}{05}
+@13
+I'm no one worth naming... Forgive my rudeness in attacking you so suddenly.{05}{05}{05}
+@14
+In tribute to your valor, I'd like to give you this bow... Please accept it.{05}{05}{05}
+@15
+{05}{05}{04}{02}{01}{81}{01}Jh{1B}{05}{05}{05}This is... I've never seen such a bow... I gratefully accept.{05}{05}{05}
+@16
+This is... I've never seen a bow like it... I gratefully accept.{05}{05}{05}
+@17
+{05}{05}{04}{02}{01}{81}{01}Jj{1B}{05}{05}{05}Ugh... This won't work either{01}C/{00}? To think my blows are so easily...{05}{05}{05}
+@18
+Ugh... This won't work either? Is my skill just not enough...{05}{05}{05}
+@19
+Heh... Is that all? But you have talent. Keep training.{05}{05}{05}
+@20
+{05}{05}{04}{02}{01}{81}{01}Jm{1B}{05}{05}{05}Nngh... I'll repay this someday. What is {01}C{07}{00}r name...{05}{05}{05}
+@21
+Ugh... I'll repay this someday. What is {01}C{07}{00}r name...{05}{05}{05}
+@22
+Well... If you walk the way of arms, we may meet again.{05}{05}{05}
+@23
+Until then, I'll leave my name to Heaven... Farewell!{05}{05}{05}
+@24
+Meanwhile, {02}{01}ﾈ, on a training journey, entered the deep mountains near {02}{14}ﾈ and came upon an old man and a youth playing go beneath a mulberry tree.{05}{05}{05}
+@25
+{01}S{02}e2Hmmm... Ah! Here! How about this?{05}{05}{05}There, there! With this move I'll corner you!{05}{05}{05}
+@26
+{01}S{02}e2Oh... You've improved... Then how about this...{05}{05}{05}Ha ha... A clever move indeed... Then how about this?{05}{05}{05}
+@27
+{01}S{02}e2Urgh... Nngh... Wait a moment! First, some wine!{05}{05}{05}What?! Hmmm... Perhaps a drink to calm myself...{05}{05}{05}
+@28
+{01}S{02}e2...Hm? The immortal wine I brought is gone.{05}{05}{05}Eh? No more immortal wine... Bah, how annoying!{05}{05}{05}
+@29
+As it happened, {02}{01}ﾈ offered them some fine wine bought in {02}{14}ﾈ, along with dried venison.{05}{05}{05}
+@30
+{01}S{02}e2Oh? For us? Then I won't hold back... Mm, this is good.{05}{05}{05}What's this? For us? Let's see... Oh! Mm-hm, this is good!{05}{05}{05}
+@31
+{01}S{02}e2Let me have some too... Oh ho... This is fine wine. Thank you, traveler.{05}{05}{05}May I have some as well... Oh, delicious... Truly a nectar...{05}{05}{05}
+@32
+{01}S{02}e2Phew... I'm satisfied. But... we must thank this mortal...{05}{05}{05}Phew... What a meal... Hey, Nandou! We should give this fellow something in thanks.{05}{05}{05}
+@33
+{01}S{02}e2Indeed... After such fine wine and food... Hmm, what is your name?{05}{05}{05}True... Kindness must be repaid. Now... what is your name?{05}{05}{05}
+@34
+Hearing {02}{01}ﾈ's name, the youth took a ledger from his robes and wrote something in it.{05}{05}{05}
+@35
+{01}S{02}e2Lord {02}{02}ﾈ, I've extended your lifespan.{05}{05}{05}...There we are. I've added a little to Lord {02}{02}ﾈ's lifespan.{05}{05}{05}
+@36
+{01}S{02}e2Lucky you. But this breaks a taboo, so tell no one.{05}{05}{05}Isn't that a bit much? Well, never mind... You there! Not a word of this to anyone.{05}{05}{05}
+@37
+Suddenly a gust of wind blew, and the two had vanished.{05}{05}{05}
+@38
+{05}{05}{04}{02}{01}{81}{01}J{7F}{1B}{05}{05}{05}Hmm... Strange things do happen.{05}{05}{05}
+@39
+Hmm... Strange things do happen.{05}{05}{05}
+@40
+{02}{01}ﾈ's lifespan has been extended.{05}{05}{05}
+@41
+As it happened, {02}{01}ﾈ offered the two some fine wine bought in {02}{14}ﾈ.{05}{05}{05}
+@42
+{01}S{02}e2Oh? For us? Then I won't hold back... Mm, this is good.{05}{05}{05}What's this? For us? Let's see... Oh! Mm-hm, this is good!{05}{05}{05}
+@43
+Let me have some too... Oh ho... This is good. Thank you, traveler.{05}{05}{05}
+@44
+{01}S{02}e2Phew... I'm satisfied. But... we must thank this mortal...{05}{05}{05}Ha ha ha... Delicious... Now, Nandou... we must thank this one, but...{05}{05}{05}
+@45
+{01}S{02}e2Indeed... And who are you...?{05}{05}{05}True... And who are you...?{05}{05}{05}
+@46
+{02}{01}ﾈ gave their name and explained they had left their lord's side to train.{05}{05}{05}
+@47
+{01}S{02}e2Oh... So you serve that {02}{03}ﾈ... Hmm...{05}{05}{05}What... You serve {02}{03}ﾈ... Hmm...{05}{05}{05}
+@48
+How interesting! I was getting bored of go.{05}{05}{05}
+@49
+{02}{03}ﾈ's quest for supremacy... Perhaps I'll lend a hand.{05}{05}{05}
+@50
+Then we'll call the game. I think I'll take a look around the mortal world...{05}{05}{05}
+@51
+{01}S{02}e2Come on, hurry and write me a letter of introduction to your lord!{05}{05}{05}Right, that's settled, so I'll be off... Oh, you go on with your journey.{05}{05}{05}
+@52
+How interesting! I was just getting bored of go.{05}{05}{05}
+@53
+Lord {02}{03}ﾈ's royal endeavor... Perhaps I'll lend a hand.{05}{05}{05}
+@54
+Hmm... So the game's over. I suppose I'll wander some sacred mountains...{05}{05}{05}
+@55
+{01}S{02}e2Then would you write a letter to your lord?{05}{05}{05}Well... Then I'll go to your lord. I'll tell them about you too.{05}{05}{05}
+@56
+{05}{05}{04}{02}{01}u{04}=432{01}J{91}{1B}{05}{05}{05}{01}S{02}e2My name is Beidou. I'll help with your conquest for a while.{05}{05}{05}My name is Beidou... Do you have what it takes to use me?{05}{05}{05}
+@57
+{01}S{02}e2My name is Nandou... I shall assist in your royal endeavor.{05}{05}{05}My name is Nandou. I wish to see your worth with my own eyes...{05}{05}{05}
+@58
+{05}{05}{04}{02}{01}u{04}=432{01}J{93}{1B}{05}{05}{05}How dull... Oh well. I'll go wander the sacred mountains.{05}{05}{05}
+@59
+I misjudged you... I'll go find Beidou and play some go...{05}{05}{05}
+@60
+Unfortunately, {02}{01}ﾈ had no wine to offer.{05}{05}{05}
+@61
+{01}S{02}e2What, you're useless... Off with you, off!{05}{05}{05}Hm? What are you? Go on, get lost!{05}{05}{05}
+@62
+{01}S{02}e2Wait, Beidou... We should be the ones to leave.{05}{05}{05}Oh dear... Beidou, it seems we've stayed too long.{05}{05}{05}
+@63
+Hm? Oh, is it that late... Well, it's a shame, but this is where we part...{05}{05}{05}
+@64
+Suddenly a gust of wind blew, and the two had vanished.{05}{05}{05}
+@65
+{05}{05}{04}{02}{01}{81}{01}J{9A}{1B}{05}{05}{05}Hmm... Who on earth were they...{05}{05}{05}
+@66
+Hmm... What was that all about...{05}{05}{05}
+@67
+Meanwhile, {02}{01}ﾈ, on a training journey, stopped in {02}{14}ﾈ to look around the town.{05}{05}{05}
+@68
+{01}S{02}e3You there, you look like someone of note. Could you be the famous Lord {02}{01}ﾈ?{05}{05}{05}Excuse me, traveler, but aren't you Lord {02}{01}ﾈ? It's Lord {02}{01}ﾈ for sure!{05}{05}{05}Traveler, I know that face... You're Lord {02}{01}ﾈ, aren't you...{05}{05}{05}
+@69
+{05}{05}{04}{02}{01}{81}{01}J{9E}{1B}{05}{05}{05}{01}S{02}e3Indeed, {01}C{00}{00} am {02}{01}ﾈ. What do you want?{05}{05}{05}Ha ha, you found me out. So, what is it{01}C4{00}?{05}{05}{05}I am indeed {02}{01}ﾈ. What is it{01}C4{00}?{05}{05}{05}
+@70
+{01}S{02}e3Yes, {01}C{00}{00} am {02}{01}ﾈ. What do you want?{05}{05}{05}Hehe, you found me out. So, what is it{01}C4{00}?{05}{05}{05}I am indeed {02}{01}ﾈ. What is it{01}C4{00}?{05}{05}{05}
+@71
+{01}S{02}e3I wish to present Lord {02}{01}ﾈ with this {1B}C6%s{1B}C1 I got from a peddler.{05}{05}{05}I found this {1B}C6%s{1B}C1 on a battlefield. Won't you accept it?{05}{05}{05}I'd like you to have this {1B}C6%s{1B}C1.{05}{05}{05}
+@72
+{05}{05}{04}{02}{01}{81}{01}J｡{1B}{05}{05}{05}{01}S{02}e3What... But I can't accept something so precious for nothing...{05}{05}{05}Wh-why, this is... I couldn't accept...{05}{05}{05}A fine piece, but isn't it precious to you?{05}{05}{05}
+@73
+{01}S{02}e3Eh... But I can't accept something so precious for nothing...{05}{05}{05}Wh-why, this is... I couldn't accept...{05}{05}{05}That's kind of you, but isn't it precious to you?{05}{05}{05}
+@74
+{01}S{02}e3It's wasted on me. I'd be honored if Lord {02}{01}ﾈ put it to use.{05}{05}{05}It doesn't suit an ordinary person like me. It belongs with a hero like you.{05}{05}{05}A fine piece chooses its owner, and the owner it deserves is you, not me.{05}{05}{05}
+@75
+{01}S{02}e3If you insist, {01}C{00}{00} can't refuse{01}C9{00}{01}C2{00}. I won't forget your kindness{01}C0{00}.{05}{05}{05}Very well, I gratefully accept this fine piece{01}C0{00}.{05}{05}{05}For me... Then I'll use it with care{01}C0{00}.{05}{05}{05}
+@76
+{02}{01}ﾈ obtained {1B}C6{02}-{1B}C1.{05}{05}{05}
+@77
+{02}{01}ﾈ can now use %s.{05}{05}{05}
+@78
+{02}{01}ﾈ's %s rose by {1B}C41{1B}C1.{05}{05}{05}
+@79
+{01}S{02}e2Meanwhile, {02}{01}ﾈ, training in {02}{14}ﾈ, visited the home of {02}{02}ﾈ to study the art of war.{05}{05}{05}{02}{01}ﾈ, training in {02}{14}ﾈ, visited the strategist {02}{02}ﾈ.{05}{05}{05}
+@80
+{05}{05}{04}{02}{01}{81}{01}Jｩ{1B}{05}{05}{05}{01}S{02}e3I heard Lord {02}{02}ﾈ was staying here and have come to ask for your teaching{01}C{11}{00}.{05}{05}{05}You must be Lord {02}{02}ﾈ. I have come to beg your instruction{01}C{11}{00}.{05}{05}{05}{01}C{00}{00} am training on a journey through the land. I humbly ask Lord {02}{02}ﾈ to teach me the art of war.{05}{05}{05}
+@81
+{01}S{02}e3I heard Lord {02}{02}ﾈ was staying here and have come to ask for your teaching{01}C{11}{00}.{05}{05}{05}You must be Lord {02}{02}ﾈ. I have come to beg your instruction{01}C{11}{00}.{05}{05}{05}{01}C{00}{00} am training on a journey through the land. I humbly ask Lord {02}{02}ﾈ to teach me the art of war.{05}{05}{05}
+@82
+{05}{05}{04}{02}{01}{81}{01}Jｫ{1B}{05}{05}{05}{01}S{02}e3How kind of you to come all this way. I'll teach you all {01}C{00}{00} know.{05}{05}{05}I can't turn away someone who came so far. Come, come inside...{05}{05}{05}I turn no one away{01}C-{00}. I'll pass on my art of war.{05}{05}{05}
+@83
+{01}S{02}e3How kind of you to come all this way. I'll teach you all {01}C{00}{00} know.{05}{05}{05}I can't turn away someone who came so far. Come, please come inside...{05}{05}{05}I turn no one away. I'll pass on my art of war.{05}{05}{05}
+@84
+{05}{05}{04}{02}{01}{81}{01}Jｭ{1B}{05}{05}{05}{01}S{02}e3You're a quick study. Then I'll teach you the secrets of my formation.{05}{05}{05}It's been a while since I met someone worth teaching{01}C5{00}. You could master this formation.{05}{05}{05}...I've taught you much; this is the last lesson. Master this formation{01}C'{00}!{05}{05}{05}
+@85
+{01}S{02}e3You're a quick study. Then I'll teach you the secrets of my formation.{05}{05}{05}It's been a while since I met someone worth teaching. You can surely master this formation.{05}{05}{05}...I've taught you much; this is the last lesson. Master this formation.{05}{05}{05}
+@86
+{05}{05}{04}{02}{01}{81}{01}Jｯ{1B}{05}{05}{05}{01}S{02}e3I see, that was very instructive. Thank you for everything.{05}{05}{05}Hmm, if attacked from here, then like this... I see. I've mastered this formation{01}C7{00}!{05}{05}{05}Oh, oh ho, I can use this formation. How can I ever thank you?{05}{05}{05}
+@87
+{01}S{02}e3I see, that was very instructive. Thank you for everything.{05}{05}{05}Yes, if attacked from here, then like this... Oh, I see! I've mastered this formation{01}C7{00}!{05}{05}{05}Um... yes, that's it...! I can use this formation. How can I ever thank you?{05}{05}{05}
+@88
+{05}{05}{04}{02}{01}{81}{01}Jｱ{1B}{05}{05}{05}{01}S{02}e3Hmm, I don't understand at all{01}C%{00}. I must need more training.{05}{05}{05}It's no good{01}C2{00}, it's too hard... I need to study the art of war more{01}C9{00}{01}C2{00}.{05}{05}{05}I just can't grasp it... I still lack the basics of the art of war{01}C2{00}.{05}{05}{05}
+@89
+{01}S{02}e3Hmm, I don't understand at all{01}C%{00}. I must need more training.{05}{05}{05}It's no good{01}C2{00}, it's too hard... I need to study the art of war more{01}C9{00}{01}C2{00}.{05}{05}{05}I just can't grasp it... I still lack the basics of the art of war.{05}{05}{05}
+@90
+Meanwhile, {02}{02}ﾈ, training in {02}{14}ﾈ, hit it off with {02}{01}ﾈ, whom they met in a tavern, and the two were sharing drinks.{05}{05}{05}
+@91
+{05}{05}{04}{02}{01}{81}{01}Jｴ{1B}{05}{05}{05}{01}S{02}e3Come, Lord {02}{02}ﾈ, to our new friendship: another cup!{05}{05}{05}So you're Lord {02}{02}ﾈ? Training, eh... Come, have a drink!{05}{05}{05}Oh, you drink like a champion! Then {01}C{00}{00} will too... Ahh! Oh, your cup is empty{01}C.{00}.{05}{05}{05}
+@92
+{01}S{02}e3Come, Lord {02}{02}ﾈ, to our new friendship: another cup!{05}{05}{05}So you're Lord {02}{02}ﾈ? Training, oh... Come, have a drink!{05}{05}{05}Oh, you drink like a champion! Then {01}C{00}{00} will too... Lovely! Oh, your cup is empty.{05}{05}{05}
+@93
+{05}{05}{04}{02}{01}{81}{01}Jｶ{1B}{05}{05}{05}{01}S{02}e3Oh, much obliged! *gulp, gulp* Ahh, that's good!{05}{05}{05}Then, another toast... To our meeting!{05}{05}{05}Ha ha ha! Great wine! Barkeep, another bottle!{05}{05}{05}
+@94
+{01}S{02}e3Oh, thank you... *sip, sip* Ahh, delicious.{05}{05}{05}Then, another toast... To this meeting!{05}{05}{05}Hehe... Ahh, such good wine... Hey... one more bottle, please!{05}{05}{05}
+@95
+{05}{05}{04}{02}{01}{81}{01}Jｸ{1B}{05}{05}{05}{01}S{02}e3Still, it's a real shame to leave someone like Lord {02}{02}ﾈ languishing out here.{05}{05}{05}...So that's why I'm training. What, you're on a training journey too?{05}{05}{05}What, Lord {02}{02}ﾈ is skilled at arms too... Hmm, what a waste.{05}{05}{05}
+@96
+{01}S{02}e3Still, it's a real waste to leave someone like Lord {02}{02}ﾈ languishing out here.{05}{05}{05}...So that's why I'm training. Oh, you're on a training journey too?{05}{05}{05}Oh, Lord {02}{02}ﾈ is skilled at arms too... Hmm, what a waste.{05}{05}{05}
+@97
+{05}{05}{04}{02}{01}{81}{01}Jｺ{1B}{05}{05}{05}{01}S{02}e3What do you say? Why not serve Lord {02}{03}ﾈ?{05}{05}{05}Will you serve my lord, Lord {02}{03}ﾈ{01}C{1C}{00}? {01}C{00}{00} ask you, for the greater good...{05}{05}{05}Lord {02}{02}ﾈ, what do you say? Won't you fight for all the people under Lord {02}{03}ﾈ{01}C9{00}?{05}{05}{05}
+@98
+{01}S{02}e3What do you think? Why not serve Lord {02}{03}ﾈ?{05}{05}{05}Will you serve my lord, Lord {02}{03}ﾈ{01}C{1C}{00}? {01}C{00}{00} ask you, for the greater good...{05}{05}{05}Lord {02}{02}ﾈ, what do you say? Won't you fight for all the people under Lord {02}{03}ﾈ?{05}{05}{05}
+@99
+{05}{05}{04}{02}{01}{81}{01}Jｼ{1B}{05}{05}{05}{01}S{02}e3Hmm, from what you say, serving {01}C{07}{00}r lord sounds interesting. I'll seek a post right away.{05}{05}{05}To think so highly of me... I'll take up service.{05}{05}{05}Going out into the world to test my strength might be fun{01}C8{00}. Right, I'll go and serve{01}C0{00}!{05}{05}{05}
+@100
+{01}S{02}e3Well, from what you say, serving {01}C{07}{00}r lord sounds interesting. Shall I seek a post right away?{05}{05}{05}To think so highly of me... I'll take up service.{05}{05}{05}Going out into the world to test my strength might be fun... Decided, I'll go and serve!{05}{05}{05}
+@101
+Lord {02}{03}ﾈ, a person named {02}{01}ﾈ has come with a letter of introduction from {02}{02}ﾈ.{05}{05}{05}
+@102
+{01}S{02}e3I heard of Lord {02}{03}ﾈ from Lord {02}{02}ﾈ and came to offer my talents{01}C{11}{00}.{05}{05}{05}I came to test my strength{01}C{11}{00}. I hope you'll have me.{05}{05}{05}In this ruined world, I wish to help, however little I can.{05}{05}{05}
+@103
+Lord {02}{01}ﾈ, will you recruit this person?{05}{05}{05}
+@104
+Meanwhile, {02}{02}ﾈ, training in {02}{14}ﾈ, challenged {02}{01}ﾈ to a bout to test the fruits of their training.{05}{05}{05}
+@105
+{05}{05}{04}{02}{01}{81}{01}Jﾂ{1B}{05}{05}{05}{01}S{02}e3You must be Lord {02}{02}ﾈ. What luck! Will you spar with me{01}C {00}?{05}{05}{05}You sensed my fighting spirit... {01}C{00}{00} am {02}{01}ﾈ. Will you spar with me{01}C {00}?{05}{05}{05}{01}C{07}{00} must be a renowned warrior. Will you give me a lesson?{05}{05}{05}
+@106
+{01}S{02}e3You must be Lord {02}{02}ﾈ. What luck! Will you spar with me{01}C {00}?{05}{05}{05}Oh... this fighting spirit... {01}C{00}{00} am {02}{01}ﾈ. Will you spar with me{01}C {00}?{05}{05}{05}{01}C{07}{00} must be a renowned warrior... Forgive me, but will you give me a lesson?{05}{05}{05}
+@107
+{05}{05}{04}{02}{01}{81}{01}Jﾄ{1B}{05}{05}{05}{01}S{02}e3Oh, a bout with Lord {02}{02}ﾈ sounds fun{01}C.{00}. I accept.{05}{05}{05}I don't mind{01}C {00}, but don't blame me if you get hurt{01}C0{00}.{05}{05}{05}Just what I wanted. Come{01}C#{00}!{05}{05}{05}
+@108
+{01}S{02}e3Oh my... a bout with Lord {02}{02}ﾈ sounds fun{01}C.{00}. I accept.{05}{05}{05}I don't mind{01}C {00}, but don't blame me if you get hurt{01}C0{00}.{05}{05}{05}Just what I wanted. Come{01}C#{00}!{05}{05}{05}
+@109
+{05}{05}{04}{02}{01}{81}{01}Jﾆ{1B}{05}{05}{05}{01}S{02}e3Thank you. Then I won't hold back{01}C7{00}! Haaaah!{05}{05}{05}Ugh, there's no opening in that stance. I'll have to go all out from the start! Raaaagh!{05}{05}{05}Hm? I'm sweating... Heh, a cold sweat. It's been a while. Here I come{01}C7{00}!{05}{05}{05}
+@110
+{01}S{02}e3Thank you. Then I won't hold back! Hyaaah!{05}{05}{05}Ugh, there's no opening in that stance. I'll have to go all out from the start! Eeeyah!{05}{05}{05}Ugh... Stronger than I thought... A cold sweat, it's been a while. Here I come{01}C7{00}!{05}{05}{05}
+@111
+{05}{05}{04}{02}{01}{81}{01}Jﾈ{1B}{05}{05}{05}{01}S{02}e3Is that all?! There! How about this?!{05}{05}{05}Quite a thrust. Then here I come{01}C7{00}! Haaah!{05}{05}{05}Oh, it seems I underestimated you{01}C2{00}. Then I'll get serious{01}C4{00}.{05}{05}{05}
+@112
+{01}S{02}e3Is that all?! Hah! How about this?!{05}{05}{05}Quite a thrust. Then here I come{01}C7{00}! Haaah!{05}{05}{05}Oh my, it seems I underestimated you... Then I'll get serious.{05}{05}{05}
+@113
+{05}{05}{04}{02}{01}{81}{01}Jﾊ{1B}{05}{05}{05}{01}S{02}e3I give up, I yield. A total defeat for me{01}C{17}{00}.{05}{05}{05}I lost... That last blow was fierce. I couldn't even dodge it{01}C9{00}...{05}{05}{05}I gave it everything, but {01}C{07}{00} were several cuts above me{01}C2{00}.{05}{05}{05}
+@114
+{01}S{02}e3I give up, I yield. A total defeat for me{01}C{17}{00}.{05}{05}{05}I lost... That last blow was fierce. I couldn't even dodge it{01}C9{00}...{05}{05}{05}I gave it everything, but {01}C{07}{00} were several cuts above me{01}C2{00}.{05}{05}{05}
+@115
+{01}S{02}e3I yield. Sadly, {01}C{00}{00} lose{01}C{17}{00}.{05}{05}{05}Y-you got me. To think I'd lose... I can't believe it{01}C9{00}.{05}{05}{05}To strike in that split-second opening... Strength alone isn't enough; you need a cool head too...{05}{05}{05}
+@116
+{05}{05}{04}{02}{01}{81}{01}Jﾍ{1B}{05}{05}{05}{01}S{02}e3All this and still no winner... Let's call it a draw for today.{05}{05}{05}Huff, huff... Neither of us can lift our arms{01}C9{00}. Let's call it a draw.{05}{05}{05}Phew, no winner{01}C9{00}. We seem evenly matched. Shall we call it even?{05}{05}{05}
+@117
+{01}S{02}e3All this and still no winner... Let's call it a draw for today.{05}{05}{05}Huff, huff... Neither of us can lift our arms. Shall we call it a draw...{05}{05}{05}Phew, no winner{01}C9{00}. We seem evenly matched. Shall we call it even...{05}{05}{05}
+@118
+{05}{05}{04}{02}{01}{81}{01}Jﾏ{1B}{05}{05}{05}{01}S{02}e3{01}CA{00}, it seems {01}C{00}{00} win{01}C2{00}. You still need more training{01}C2{00}{01}C8{00}.{05}{05}{05}Challenging me with skill like that is laughable. Know your place!{05}{05}{05}{01}C{07}{00} have doubt in your heart{01}C2{00}. That won't keep you alive on the battlefield{01}C9{00}{01}C7{00}.{05}{05}{05}
+@119
+{01}S{02}e3{01}CA{00}, it seems {01}C{00}{00} win. You still need more training.{05}{05}{05}Challenging me with skill like that makes me laugh. Know your place!{05}{05}{05}{01}C{07}{00} have doubt in your heart. That won't keep you alive on the battlefield{01}C9{00}{01}C7{00}.{05}{05}{05}
+@120
+{01}S{02}e3I've never met anyone so strong. Please take me as your pupil...{05}{05}{05}I've been looking for someone like {01}C{07}{00}. Take me as your student{01}C{13}{00}!{05}{05}{05}I feel I could improve at {01}C{07}{00}r side. Take me as your pupil{01}C{13}{00}!{05}{05}{05}
+@121
+{05}{05}{04}{02}{01}{81}{01}Jﾒ{1B}{05}{05}{05}{01}S{02}e3Very well, but {01}C{00}{00} am still training. For now, go to my lord{01}C{13}{00}.{05}{05}{05}Yes, but I am still training. Take this letter and visit {01}C{09}{00}.{05}{05}{05}Understood. Take this letter of introduction and enter the service of {01}C{09}{00} in my homeland.{05}{05}{05}
+@122
+{01}S{02}e3All right, but {01}C{00}{00} am still training. For now, go to my lord{01}C{13}{00}.{05}{05}{05}Well... but I'm still training. Take this letter and visit {01}C{09}{00}.{05}{05}{05}Understood. Take this letter of introduction and enter the service of {01}C{09}{00} in my homeland.{05}{05}{05}
+@123
+{01}S{02}e3Losing to Lord {02}{02}ﾈ showed me how wide the world is. Please take me into your service...{05}{05}{05}Fighting Lord {02}{02}ﾈ, I feel I've found my purpose. Please take me into your service...{05}{05}{05}Thanks to Lord {02}{02}ﾈ, I found a lord worth serving. Lord {02}{03}ﾈ, please take me in...{05}{05}{05}
+@124
+Meanwhile, {02}{01}ﾈ, on a training journey, was asked by the people of {02}{14}ﾈ to drive off the mountain bandits plaguing them.{05}{05}{05}
+@125
+{01}S{02}e3Bandits led by {02}{02}ﾈ are ravaging our village. Please, lend us a hand.{05}{05}{05}Bandits led by {02}{02}ﾈ are ravaging our town. Traveler, please help us.{05}{05}{05}{02}{02}ﾈ and his gang are after our town. Please help us.{05}{05}{05}
+@126
+{01}S{02}e3Traveler, I beg you. Please teach those bandits a lesson.{05}{05}{05}The bandits raid our town again and again; we're at our wits' end. Please help us.{05}{05}{05}We're so afraid of the bandits we can't sleep at night. Please save us.{05}{05}{05}
+@127
+{05}{05}{04}{02}{01}u{04}=365{01}Jﾘ{1B}{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}Jﾙ{1B}{05}{05}{05}{01}S{02}e3Hm, this too is training. Understood{01}C7{00}! Take me to their hideout at once{01}C'{00}!{05}{05}{05}Dealing with bandits is child's play. Wait here{01}C'{00}. I'll finish them off in no time{01}C7{00}!{05}{05}{05}Attacking innocent people... Bandits, I won't forgive you{01}C {00}! I'll teach you a lesson{01}C0{00}!{05}{05}{05}
+@128
+Right, let's do this... Huh? Where are these bandits, anyway?{05}{05}{05}
+@129
+{01}S{02}e3Yes, this too is training. Understood{01}C7{00}! Take me to their hideout at once{01}C'{00}!{05}{05}{05}Dealing with bandits is child's play. Wait here{01}C'{00}. I'll finish them off in no time.{05}{05}{05}Attacking innocent people... Bandits, I won't forgive you! I'll teach you a lesson{01}C0{00}!{05}{05}{05}
+@130
+After a fierce battle, {02}{01}ﾈ rounded up every last bandit.{05}{05}{05}
+@131
+{02}{01}ﾈ was soundly beaten and barely escaped with their life.{05}{05}{05}
+@132
+{01}S{02}e3I give up! I'll mend my ways, so make me {01}C{07}{00}r pupil{01}C{13}{00}!{05}{05}{05}Such splendid swordsmanship... Please, be my teacher{01}C{13}{00}!{05}{05}{05}I swallow my pride and beg you: Lord {02}{02}ﾈ, teach me the martial arts{01}C{13}{00}!{05}{05}{05}
+@133
+{05}{05}{04}{02}{01}{81}{01}Jﾞ{1B}{05}{05}{05}{01}S{02}e3Very well. Then enter the service of {01}C{09}{00}. I'll train you hard later{01}C0{00}.{05}{05}{05}Hm, once my training is done I'll train you. Serve my lord and wait for me.{05}{05}{05}Very well. Take this letter and visit {01}C{09}{00}.{05}{05}{05}
+@134
+{01}S{02}e3Well... Then enter the service of {01}C{09}{00}. I'll train you properly later.{05}{05}{05}Yes, once my training is done I'll train you. Serve my lord and wait for me.{05}{05}{05}All right. Take this letter and visit {01}C{09}{00}.{05}{05}{05}
+@135
+{01}S{02}e3Traveler, we've prepared a feast to show our thanks. Please come.{05}{05}{05}Thank you so much. We've prepared a banquet, so please, this way.{05}{05}{05}Thanks to you we can sleep soundly. It's only a small token, but please, come.{05}{05}{05}
+@136
+{01}S{02}e3It was a mistake to rely on someone like you.{05}{05}{05}We had high hopes... Sigh... What are we to do...{05}{05}{05}It's hopeless. The town is finished.{05}{05}{05}
+@137
+{05}{05}{04}{02}{01}{81}{01}J{E2}{1B}{05}{05}{05}How pathetic... I came to train and learned I need even more training.{05}{05}{05}
+@138
+How pathetic... I came to train and learned I need even more training.{05}{05}{05}
+@139
+{05}{05}{04}{02}{01}u{04}=365{01}J{E4}{1B}{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{E5}{1B}{05}{05}{05}{01}S{02}e3Then I'll accept your kind offer{01}C4{00}. {01}CA{00}!{05}{05}{05}Oh, how thoughtful. Thank you{01}C!{00}.{05}{05}{05}I only did what anyone would. I'm sorry to trouble you.{05}{05}{05}
+@140
+Whoa, wine! Thanks a lot!{05}{05}{05}
+@141
+{01}S{02}e3Then I'll accept your kind offer{01}C4{00}. {01}CA{00}!{05}{05}{05}Oh, how thoughtful. Thank you{01}C!{00}.{05}{05}{05}I only did what anyone would. I'm sorry to trouble you.{05}{05}{05}
+@142
+Meanwhile, {02}{01}ﾈ, on a training journey, was hard at practice in {02}{14}ﾈ.{05}{05}{05}
+@143
+{05}{05}{04}{02}{01}{81}{01}J{E8}{1B}{05}{05}{05}{01}S{02}e3Now then, what shall I train today?{05}{05}{05}Another fresh morning{01}C2{00}. Right, time to train hard. I'll do my best{01}C7{00}!{05}{05}{05}Training, training. First training, second training, no third or fourth, fifth training{01}C-{00}!{05}{05}{05}
+@144
+{01}S{02}e3Now then, what shall I train today?{05}{05}{05}Another fresh morning{01}C2{00}. Right, time to train hard. I'll do my best{01}C7{00}!{05}{05}{05}Training, training. First training, second training, no third or fourth, fifth training!{05}{05}{05}
+@145
+What will you train?{05}{05}{05}
+@146
+{05}{05}{04}{02}{01}{81}{01}J{EB}{1B}{05}{05}{05}{01}S{02}e3Right, today I'll practice the martial arts. Hoaa, hya hya hya!{05}{05}{05}Today I'll hone my fighting skills. Hah! Hah! Whew, a good sweat.{05}{05}{05}Shall I drill my weapon skills... I want to get stronger and invent a killer move...{05}{05}{05}
+@147
+{01}S{02}e3Right, today I'll practice the martial arts. Hah, hah, hah!{05}{05}{05}Today I'll hone my fighting skills. Hah! Hah! Whew, a good sweat.{05}{05}{05}Let me drill my weapon skills. I want to get stronger and invent a killer move...{05}{05}{05}
+@148
+{05}{05}{04}{02}{01}u{04}=365{01}J{ED}{1B}{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{EE}{1B}{05}{05}{05}{01}S{02}e3Today I'll meditate and train my mind.{05}{05}{05}The mind needs training too... Meditate and focus.{05}{05}{05}Perhaps I'll meditate and build up my concentration.{05}{05}{05}
+@149
+Meditation, huh? Kinda boring... Focus... Oops, I fell asleep.{05}{05}{05}
+@150
+{01}S{02}e3Today I'll meditate and train my mind.{05}{05}{05}The mind needs training too... Let me meditate and focus.{05}{05}{05}Perhaps I'll meditate and build up my concentration.{05}{05}{05}
+@151
+{05}{05}{04}{02}{01}{81}{01}J{F0}{1B}{05}{05}{05}{01}S{02}e3Yes, the training is clearly paying off{01}C2{00}.{05}{05}{05}Phew, I've reached enlightenment{01}C0{00}. The training wasn't wasted.{05}{05}{05}Somehow I feel I've grown a size bigger{01}C2{00}.{05}{05}{05}
+@152
+{01}S{02}e3Good, the training is clearly paying off{01}C2{00}.{05}{05}{05}Phew, I've reached enlightenment{01}C0{00}. The training wasn't wasted.{05}{05}{05}Somehow I feel I've grown a size bigger.{05}{05}{05}
+@153
+{05}{05}{04}{02}{01}{81}{01}J{F2}{1B}{05}{05}{05}{01}S{02}e3Not much progress, but it's the steady effort that counts.{05}{05}{05}Results don't come overnight{01}C9{00}. Well, no need to rush.{05}{05}{05}I still need more training. For now, I'll grab a meal and clear my head...{05}{05}{05}
+@154
+{01}S{02}e3Not much progress, but it's the steady effort that counts.{05}{05}{05}Results don't come overnight{01}C9{00}. Well, no need to rush.{05}{05}{05}I still need more training. For now, I'll have something sweet and clear my head...{05}{05}{05}
+@155
+Meanwhile, {02}{01}ﾈ, on a training journey, was asked by the people of {02}{14}ﾈ to drive off the pirates plaguing them.{05}{05}{05}
+@156
+{01}S{02}e3Traveler, please help us! Pirates have come and are ravaging the town.{05}{05}{05}Pirates have appeared nearby; we can't even put out to sea. Please help us.{05}{05}{05}Because of the pirates, merchants rarely come and the town is withering. Traveler, please help us.{05}{05}{05}
+@157
+{05}{05}{04}{02}{01}{81}{01}J{F6}{1B}{05}{05}{05}{01}S{02}e3Pirates means fighting on water... Not my strength, but I can't abandon these people... Very well.{05}{05}{05}Hm, understood... (On water, though... I'm not confident{01}C2{00}.){05}{05}{05}On water, huh... Oh, what the heck. Take me to the pirates{01}C'{00}!{05}{05}{05}
+@158
+{01}S{02}e3Pirates means fighting on water... Not my strength, but I can't abandon these people... All right.{05}{05}{05}Well, I'll give it a try... (On water, though... I'm not confident{01}C2{00}.){05}{05}{05}On water, huh... I'll try. Take me to the pirates{01}C'{00}!{05}{05}{05}
+@159
+{05}{05}{04}{02}{01}{81}{01}J{F8}{1B}{05}{05}{05}{01}S{02}e3Just a rabble after all. Once their leader fell, they scattered like spiders.{05}{05}{05}Phew, that took some doing, but I drove them off{01}C0{00}. Now you can live in peace.{05}{05}{05}Huff, huff, I beat them{01}C0{00}. But pirates are pirates{01}C8{00}. Fighting on water was tough{01}C2{00}.{05}{05}{05}
+@160
+{01}S{02}e3Just a rabble after all. Once their leader fell, they scattered like spiders.{05}{05}{05}Phew, that took some doing, but I drove them off{01}C0{00}. Now you can live in peace.{05}{05}{05}Huff, huff, I beat them{01}C0{00}. But pirates are pirates{01}C8{00}. Fighting on water was tough{01}C2{00}.{05}{05}{05}
+@161
+{05}{05}{04}{02}{01}{81}{01}J{FA}{1B}{05}{05}{05}{01}S{02}e3Pirates are pirates. On water they're a cut above me{01}C2{00}.{05}{05}{05}They beat me back. On land, maybe, but on water... I can't show my true strength.{05}{05}{05}It's no use{01}C2{00}... Damn. They move like shadows; I couldn't even read them{01}C9{00}...{05}{05}{05}
+@162
+{01}S{02}e3Pirates are pirates. On water they're a cut above me{01}C2{00}.{05}{05}{05}They beat me back. On land, maybe, but on water... I can't show my true strength.{05}{05}{05}It's no use{01}C2{00}... Ugh. They move like shadows; I couldn't even read them{01}C9{00}...{05}{05}{05}
+@163
+{01}S{02}e3I see, so this is fighting on water... Now I know what it takes{01}C0{00}.{05}{05}{05}I feel I've grasped the knack of fighting on water in that battle{01}C0{00}.{05}{05}{05}That strange formation the pirates used... I see, I've got it{01}C0{00}...{05}{05}{05}
+@164
+{01}S{02}e3Thank you! We'll never forget your kindness.{05}{05}{05}You really saved us. Now we needn't fear the pirates anymore.{05}{05}{05}Thank you! At least tell us your name... What, you're the famous Lord {02}{01}ﾈ...{05}{05}{05}
+@165
+{01}S{02}e3We never should've asked you. They're furious now; they'll take revenge...{05}{05}{05}They say the pirates are angry and planning an all-out attack. What will you do about it, traveler?{05}{05}{05}Ah, this town is finished... Let's flee to some other town.{05}{05}{05}
+@166
+Meanwhile, {02}{01}ﾈ, on a training journey, witnessed the misery of the people in {02}{14}ﾈ, where an epidemic raged.{05}{05}{05}
+@167
+{01}S{02}e3It... it hurts. Traveler, please help me. I don't want to die yet.{05}{05}{05}*cough, cough, hack* M-my chest... Somebody help me.{05}{05}{05}Ugh, urgh, gah... Am I going to die like the others...{05}{05}{05}
+@168
+{05}{05}{04}{02}{01}{81}{01}J{01}{1C}{05}{05}{05}{01}S{02}e3Are you all right{01}C{18}{00}? This is terrible... I can't abandon them{01}C9{00}{01}C2{00}.{05}{05}{05}Don't worry{01}C'{00}, {01}C{00}{00} will do something.{05}{05}{05}What's wrong? You're burning up{01}C2{00}. I can't leave you like this{01}C2{00}.{05}{05}{05}
+@169
+{01}S{02}e3Are you all right{01}C{18}{00}? This is terrible... I can't abandon them{01}C9{00}{01}C2{00}.{05}{05}{05}Don't worry{01}C'{00}, {01}C{00}{00} will do something.{05}{05}{05}What's wrong? You're burning up... I can't leave you like this{01}C2{00}.{05}{05}{05}
+@170
+{05}{05}{04}{02}{01}{81}{01}J{03}{1C}{05}{05}{05}{01}S{02}e3Hmm, this illness... Even {01}C{00}{00} could cure this{01}C-{00}.{05}{05}{05}Let me see how they are{01}C{13}{00}. Hmm, for this illness, that herb should work{01}C-{00}.{05}{05}{05}For this illness... That's it{01}C-{00}! Father once taught me how to mix a remedy{01}C0{00}!{05}{05}{05}
+@171
+{01}S{02}e3Um, this illness... Even {01}C{00}{00} could cure this{01}C-{00}.{05}{05}{05}Let me see how they are{01}C{13}{00}. That's right, for this illness, that herb...{05}{05}{05}For this illness... That's it! Father once taught me how to mix a remedy{01}C0{00}!{05}{05}{05}
+@172
+{05}{05}{04}{02}{01}{81}{01}J{05}{1C}{05}{05}{05}{01}S{02}e3For all my strength, I'm helpless against illness... At least I can help nurse them.{05}{05}{05}I said I would, but I know nothing about medicine... At least I can bring water and food...{05}{05}{05}It's hopeless, I've no idea{01}C9{00}. If only I had some nourishing food...{05}{05}{05}
+@173
+{01}S{02}e3For all my strength, I'm helpless against illness... At least I can help nurse them.{05}{05}{05}I said I would, but I know nothing about medicine... At least I can bring water and food...{05}{05}{05}It's hopeless, I've no idea{01}C9{00}. If only I had some nourishing food...{05}{05}{05}
+@174
+{01}S{02}e3How can we ever thank you? At least tell us your name... What, you're Lord {02}{01}ﾈ...{05}{05}{05}You saved many lives. Health really is everything, isn't it?{05}{05}{05}For a while I didn't know what would happen, but as you see, I'm cured. Thank you.{05}{05}{05}
+@175
+With the cheerful laughter of the recovered townsfolk behind them, {02}{01}ﾈ left {02}{14}ﾈ...{05}{05}{05}
+@176
+Meanwhile, {02}{01}ﾈ, on a training journey, heard the people of drought-stricken {02}{14}ﾈ fearing a failed harvest.{05}{05}{05}
+@177
+{01}S{02}e3Ah, no rain again today... At this rate the harvest will fail. Can nothing be done?{05}{05}{05}When will it rain? The livestock are dying one after another. At this rate...{05}{05}{05}No rain, no rain... At this rate the fields... I'm so afraid of a bad harvest.{05}{05}{05}
+@178
+{05}{05}{04}{02}{01}{81}{01}J{0B}{1C}{05}{05}{05}{01}S{02}e3I can't abandon people in need{01}C9{00}. {01}C{00}{00} will do something{01}C{14}{00}.{05}{05}{05}This is serious{01}C2{00}. Right, leave it to me{01}C{13}{00}.{05}{05}{05}How dreadful{01}C2{00}. Don't worry. {01}C{00}{00} will do something.{05}{05}{05}
+@179
+{01}S{02}e3I can't abandon people in need{01}C9{00}. {01}C{00}{00} will do something{01}C{14}{00}.{05}{05}{05}This is serious{01}C2{00}. Right, leave it to me{01}C{13}{00}.{05}{05}{05}How dreadful... Don't worry. {01}C{00}{00} will do something.{05}{05}{05}
+@180
+{01}S{02}e3Making it rain is easy for me. Just watch{01}C'{00}!{05}{05}{05}Heavens, hear me{01}C{13}{00}! For these suffering people, send a blessed rain...{05}{05}{05}Let it rain{01}C{13}{00}! May my prayer reach the heavens!{05}{05}{05}
+@181
+{05}{05}{04}{02}{01}{81}{01}J{0E}{1C}{05}{05}{05}{01}S{02}e3I remember seeing a rain dance once... Um, like this...{05}{05}{05}...I'm not very confident, but I can't abandon them. {01}C{00}{00} will pray to the heavens too.{05}{05}{05}For rain, a rain dance is best. Watch{01}C'{00}, heave-ho! Well? Is it raining?{05}{05}{05}
+@182
+{01}S{02}e2I remember seeing a rain dance once... Um, like this...{05}{05}{05}...I'm not very confident, but I can't abandon them. {01}C{00}{00} will pray to the heavens too.{05}{05}{05}
+@183
+{05}{05}{04}{02}{01}{81}{01}J{10}{1C}{05}{05}{05}{01}S{02}e3Yes, the clouds are gathering{01}C2{00}. Rain{01}C-{00}! It's raining{01}C0{00}!{05}{05}{05}Rain{01}C-{00}! Rejoice! It's raining{01}C0{00}! Thank goodness{01}C2{00}.{05}{05}{05}It's raining... raining{01}C7{00}! The people and the crops are saved{01}C0{00}!{05}{05}{05}
+@184
+{01}S{02}e3Yes, the clouds are gathering{01}C2{00}. Rain{01}C-{00}! It's raining{01}C0{00}!{05}{05}{05}Rain{01}C-{00}! Everyone, rejoice! It's raining{01}C0{00}! Thank goodness{01}C2{00}.{05}{05}{05}It's raining... raining{01}C7{00}! The people and the crops are saved{01}C0{00}!{05}{05}{05}
+@185
+{05}{05}{04}{02}{01}{81}{01}J{12}{1C}{05}{05}{05}{01}S{02}e3It's no use{01}C-{00}, no rain. Heavens, will you abandon the people...{05}{05}{05}Not a drop{01}C9{00}. Is my power not enough...{05}{05}{05}Just a little would do{01}C-{00}... Why won't it rain{01}C9{00}... Has this town been forsaken...{05}{05}{05}
+@186
+{01}S{02}e3It's no use, no rain. Heavens, will you abandon the people?{05}{05}{05}Not a drop{01}C9{00}. Is my power not enough?{05}{05}{05}Just a little would do... Why won't it rain... Has this town been forsaken...{05}{05}{05}
+@187
+{01}S{02}e3You made it rain? You're the savior of our town!{05}{05}{05}Thanks to you, we may escape a bad harvest. How can we thank you...{05}{05}{05}A miracle, it's raining! Now the crops will grow. Ah, what delicious water!{05}{05}{05}
+@188
+{01}S{02}e3Ah, this town is finished...{05}{05}{05}It'll be a bad harvest this year. Many more will starve.{05}{05}{05}I'm dying of thirst... Not just the fields; even we might dry up.{05}{05}{05}
+@189
+Seen off by the townsfolk's cheers, {02}{01}ﾈ left {02}{14}ﾈ...{05}{05}{05}
+@190
+As if fleeing the townsfolk's lament, {02}{01}ﾈ left {02}{14}ﾈ...{05}{05}{05}
+@191
+Lord {02}{01}ﾈ, {02}{02}ﾈ has finished a year of training and returned safely.{05}{05}{05}
+@192
+Thanks to the training, {02}{01}ﾈ gained experience.{05}{05}{05}
+@193
+{02}{01}ﾈ gained little experience.{05}{05}{05}
+@194
+The training paid off handsomely: {02}{01}ﾈ's experience and valor rose greatly.{05}{05}{05}
+@195
+Thanks to the training, {02}{01}ﾈ's experience and valor rose.{05}{05}{05}
+@196
+The training bore little fruit: {02}{01}ﾈ's experience and valor barely rose.{05}{05}{05}
+@197
+Lord {02}{01}ﾈ, a person named {02}{02}ﾈ has come to see you.{05}{05}{05}
+@198
+\nP.S.\nThis person, named {02}{02}ﾈ, shows great promise. I urged them to take up service, so please employ them.{05}{05}{05}
+@199
+From Lord {02}{01}ﾈ, who is away training. Here...{05}{05}{05}
+@200
+I'll do my best, for Lord {02}{02}ﾈ who recommended me too.{05}{05}{05}
+@201
+{05}{05}{04}{02}{01}{81}{01}J"{1C}{05}{05}{05}{01}S{02}e3It seems you can't see my worth...{05}{05}{05}It can't be helped. I hope you won't regret it...{05}{05}{05}Oh well... A wasted trip.{05}{05}{05}
+@202
+{01}S{02}e2It seems you can't see my worth...{05}{05}{05}What a pity. Then I'll take my leave...{05}{05}{05}

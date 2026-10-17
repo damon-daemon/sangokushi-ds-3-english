@@ -1,0 +1,375 @@
+@0
+Lord {02}{01}ﾈ, a secret envoy has come from the Emperor.{05}{05}{05}
+@1
+{01}S{02}e3I bear a secret decree from the Emperor. Please read it.{05}{05}{05}Hear this with reverence: a secret edict from His Majesty.{05}{05}{05}This is a secret decree from His Majesty the Emperor, so please keep it confidential...{05}{05}{05}
+@2
+We can no longer bear {02}{02}ﾈ's tyranny. And so we have a request of you.{05}{05}{05}
+@3
+Will you take {02}{14}ﾈ, which groans under harsh rule, {1B}C6within 3 months{1B}C1 and save its people?{05}{05}{05}
+@4
+Lord {02}{01}ﾈ, will you accept the imperial command?{05}{05}{05}
+@5
+{01}S{02}e3As you command. I will strike down the traitor {02}{02}ﾈ without fail.{05}{05}{05}Understood. I will surely rid His Majesty of this thorn in his side.{05}{05}{05}On my honor as {02}{01}ﾈ, I will present {02}{02}ﾈ's head before the day is out.{05}{05}{05}
+@6
+{01}S{02}e3Forgive me{01}C {00}. It grieves me that I cannot meet the Emperor's hopes.{05}{05}{05}I humbly apologize{01}C {00}. Refusing an imperial command breaks my heart.{05}{05}{05}Forgive me{01}C {00}. As a subject of Han, defying an imperial command is shameful.{05}{05}{05}
+@7
+It seems Emperor Xian has sent {02}{01}ﾈ a secret decree to strike down {02}{02}ﾈ.{05}{05}{05}
+@8
+{01}S{02}e3So you have taken {02}{14}ﾈ. We expect great things of you.{05}{05}{05}As befits your fame as a hero, {02}{01}ﾈ. We are delighted.{05}{05}{05}Ah, we can almost hear the people of {02}{14}ﾈ rejoicing. Lend us your strength again.{05}{05}{05}
+@9
+Word is spreading far and wide of Lord {02}{01}ﾈ's devotion to the house of Han.{05}{05}{05}
+@10
+{01}S{02}e3You still have not taken {02}{14}ﾈ... Ah, how the people suffer...{05}{05}{05}What, tyranny still reigns in {02}{14}ﾈ? We had high hopes for you, {02}{01}ﾈ...{05}{05}{05}The people of {02}{14}ﾈ still weep. We are disappointed, {02}{01}ﾈ...{05}{05}{05}
+@11
+Having failed the Emperor's hopes, Lord {02}{01}ﾈ has lost fame.{05}{05}{05}
+@12
+The house of Han is now gravely impoverished and declining fast.{05}{05}{05}
+@13
+Will you therefore offer the court {1B}C4%u{1B}C1 gold?{05}{05}{05}
+@14
+Lord {02}{01}ﾈ, will you offer {1B}C4%u{1B}C1 gold to the court?{05}{05}{05}
+@15
+{01}S{02}e3I will not betray His Majesty's hopes. Please use these funds to restore the house of Han.{05}{05}{05}The house of Han in such straits... As a subject of Han I cannot stand by. Please accept this.{05}{05}{05}How terrible... His Majesty must be suffering so... Please take this gold.{05}{05}{05}
+@16
+Word that you offered gold to the court has spread, and the people speak well of it.{05}{05}{05}
+@17
+{01}S{02}e3I would dearly like to meet His Majesty's hopes, but... once I have the means, I surely will...{05}{05}{05}Our realm too is gravely impoverished. Regrettably... I am truly sorry.{05}{05}{05}As you see, ours is a poor realm. Even our people and generals live humbly.{05}{05}{05}
+@18
+{01}S{02}e2To refuse the Son of Heaven's command... I am disappointed.{05}{05}{05}A pity. I can picture His Majesty's sorrow...{05}{05}{05}
+@19
+We are ever grateful for your service. And so, this time...{05}{05}{05}
+@20
+We grant you {1B}C4%u{1B}C1 gold. Use it to continue lending us your strength.{05}{05}{05}
+@21
+Lord {02}{01}ﾈ, will you accept {1B}C4%u{1B}C1 gold?{05}{05}{05}
+@22
+{01}S{02}e3I gratefully accept. Humble as I am, I will strive to restore the house of Han.{05}{05}{05}I accept with reverence. I will continue to strive for His Majesty and the house of Han.{05}{05}{05}It is the greatest of honors. Command me in anything.{05}{05}{05}
+@23
+{01}S{02}e3You alone are our hope. We expect much of you.{05}{05}{05}Lend us your strength from now on. We are counting on you.{05}{05}{05}{02}{01}ﾈ, we have great hopes for you. We rely on you.{05}{05}{05}
+@24
+{01}S{02}e3I cannot thank you enough, but knowing the plight of the house of Han, I cannot accept this.{05}{05}{05}I am honored, but I cannot accept. Please use this gold to restore the house of Han.{05}{05}{05}This gold is for restoring the house of Han... His Majesty's kindness is enough.{05}{05}{05}
+@25
+{01}S{02}e3Oh, you think of us so much?{05}{05}{05}You needn't have... We will not forget your loyalty.{05}{05}{05}So much concern for us... When the house of Han is restored, you will be first among the heroes.{05}{05}{05}
+@26
+Word of Lord {02}{01}ﾈ's conduct has spread, and the people speak well of it.{05}{05}{05}
+@27
+Lord {02}{01}ﾈ, an imperial envoy has come from the Emperor.{05}{05}{05}
+@28
+{01}S{02}e3I bear an edict from the Emperor. Please read it.{05}{05}{05}What I now read is an imperial command from the Emperor.{05}{05}{05}I bring a decree from His Majesty. Please receive it.{05}{05}{05}
+@29
+Your long feud with {02}{02}ﾈ seems to be causing the people great suffering.{05}{05}{05}
+@30
+What say you? Will you both lay down your spears and form an alliance?{05}{05}{05}
+@31
+At the Emperor's request, form a {1B}C6%u-month alliance{1B}C1 with {02}{01}ﾈ?{05}{05}{05}
+@32
+{01}S{02}e3As you command. I will forget old grudges and ally with {02}{01}ﾈ.{05}{05}{05}How thoughtless of me, heedless of the people's suffering... I will make peace at once.{05}{05}{05}Yes! If it is His Majesty's command, I will ally with {02}{01}ﾈ at once.{05}{05}{05}
+@33
+An alliance has been formed between {02}{01}ﾈ and {02}{02}ﾈ, and the people are relieved.{05}{05}{05}
+@34
+{01}S{02}e3Leaving a traitor alive only makes the people suffer. He should be struck down, not allied with.{05}{05}{05}I cannot let a villain run free. Please give His Majesty my regards.{05}{05}{05}I am sorry, but I cannot let one who brings disaster on the world live...{05}{05}{05}
+@35
+Despite the Emperor's mediation, no alliance was formed. The day the people can live in peace still seems far off.{05}{05}{05}
+@36
+Word that Lord {02}{01}ﾈ turned away the Emperor's envoy has spread, and the people are angry.{05}{05}{05}
+@37
+{05}{05}{04}{02}{01}{81}{01}Jｮ{13}{05}{05}{05}Wh-whoa! Wh-who goes there{01}C-{00}?!{05}{05}{05}
+@38
+Eek! Wh-who's there?!{05}{05}{05}
+@39
+{05}{05}{04}{02}{01}{81}{01}Jｰ{13}{05}{05}{05}I dreamed {02}{02}ﾈ cut me down. I have a bad feeling{01}C0{00}.{05}{05}{05}
+@40
+I dreamed {02}{02}ﾈ cut me down... I have a bad feeling about this.{05}{05}{05}
+@41
+{05}{05}{04}{02}{01}{81}{01}Jｲ{13}{05}{05}{05}I dreamed bandits attacked me. I have a bad feeling{01}C0{00}.{05}{05}{05}
+@42
+I dreamed bandits attacked me. I have a bad feeling about this.{05}{05}{05}
+@43
+{05}{05}{04}{02}{01}{81}{01}Jｴ{13}{05}{05}{05}Summon {02}{02}ﾈ. I have questions.{05}{05}{05}
+@44
+Please summon {02}{02}ﾈ. I have questions.{05}{05}{05}
+@45
+{05}{05}{04}{02}{01}{81}{01}Jｶ{13}{05}{05}{05}Making a fuss over a mere dream... A dream of becoming king is a dream within a dream. Best forget it.{05}{05}{05}
+@46
+Making a fuss over a mere dream... A dream of becoming queen is a dream within a dream. I'd best forget it.{05}{05}{05}
+@47
+Grr, {02}{02}ﾈ! Even in a dream, to attack me... I'll punish you{01}C7{00}!{05}{05}{05}
+@48
+{05}{05}{04}{02}{01}{81}{01}Jｹ{13}{05}{05}{05}Summon {02}{02}ﾈ from the town. That one may be a spy{01}C9{00}.{05}{05}{05}
+@49
+Please summon {02}{02}ﾈ from the town. That one may be a spy.{05}{05}{05}
+@50
+{05}{05}{04}{02}{01}{81}{01}Jｻ{13}{05}{05}{05}Summon {02}{02}ﾈ. That one may be an assassin sent by my enemies.{05}{05}{05}
+@51
+Please summon {02}{02}ﾈ. That one may be an assassin sent by my enemies.{05}{05}{05}
+@52
+There must be a bandit in the town{01}C-{00}. Question the people one by one{01}C'{00}!{05}{05}{05}
+@53
+{05}{05}{04}{02}{01}{81}{01}Jｾ{13}{05}{05}{05}{02}{02}ﾈ, how are things... Any complaints about life lately?{05}{05}{05}
+@54
+{02}{02}ﾈ, how are things... Any complaints about life lately?{05}{05}{05}
+@55
+{05}{05}{04}{02}{01}{81}{01}Jﾀ{13}{05}{05}{05}Aaargh!{05}{05}{05}
+@56
+Eek!{05}{05}{05}
+@57
+{05}{05}{04}{02}{01}{81}{01}Jﾂ{13}{05}{05}{05}{02}{02}ﾈ, for the crime of treason, you will die.{05}{05}{05}
+@58
+{02}{02}ﾈ, for the crime of treason, you will die.{05}{05}{05}
+@59
+{05}{05}{04}{02}{01}{81}{01}Jﾄ{13}{05}{05}{05}{02}{02}ﾈ, there are rumors of an assassin in the town. Do you know anything?{05}{05}{05}
+@60
+{02}{02}ﾈ, there are rumors of an assassin in the town. Do you know anything?{05}{05}{05}
+@61
+{05}{05}{04}{02}{01}{81}{01}Jﾆ{13}{05}{05}{05}I see... Sorry to trouble you. You may go.{05}{05}{05}
+@62
+I see... I'm sorry. You may go.{05}{05}{05}
+@63
+To think the dream would come true... Ugh...{05}{05}{05}
+@64
+{05}{05}{04}{02}{01}{81}{01}Jﾉ{13}{05}{05}{05}{02}{02}ﾈ, you wretch! I take you for an assassin hired by another realm{01}C0{00}. Prepare yourself{01}C'{00}!{05}{05}{05}
+@65
+{02}{02}ﾈ... I take you for an assassin hired by another realm. Prepare yourself{01}C'{00}!{05}{05}{05}
+@66
+{05}{05}{04}{02}{01}{81}{01}Jﾋ{13}{05}{05}{05}A bandit slipped in? So the dream was true...{05}{05}{05}
+@67
+A bandit slipped in? So the dream was true...{05}{05}{05}
+@68
+{01}C{09}{00}, what is the matter?{05}{05}{05}
+@69
+How shameful{01}C{13}{00}. Doubting your retainers over a mere dream will damage their trust{01}C7{00}.{05}{05}{05}
+@70
+Just as {01}C{00}{00} expected of you, {01}C{09}{00}. I am relieved{01}C0{00}.{05}{05}{05}
+@71
+Reconsider{01}C{13}{00}. A dream is only a dream{01}C{17}{00}. Kill someone over it?{05}{05}{05}
+@72
+How shameful{01}C{13}{00}. If you do such things, no worthy men will ever visit this town{01}C7{00}.{05}{05}{05}
+@73
+If you give in to such suspicion, you will lose the people's trust{01}C7{00}.{05}{05}{05}
+@74
+Are you in your right mind{01}C{18}{00}? Do this and the people will no longer follow you{01}C0{00}.{05}{05}{05}
+@75
+{05}{05}{04}{02}{01}{81}{01}Jﾔ{13}{05}{05}{05}What is this... This isn't like you, {01}C{09}{00}... Surely you don't suspect me...{05}{05}{05}
+@76
+What is this... This isn't like you, {01}C{09}{00}... Surely you don't suspect me...{05}{05}{05}
+@77
+{05}{05}{04}{02}{01}{81}{01}Jﾖ{13}{05}{05}{05}I bear you no grudge, but such is the sorrow of this chaotic age... Die{01}C{13}{00}!{05}{05}{05}
+@78
+I bear you no grudge, but such is the sorrow of this chaotic age... You must die.{05}{05}{05}
+@79
+{05}{05}{04}{02}{01}{81}{01}Jﾘ{13}{05}{05}{05}Wait{01}C{13}{00}! What have {01}C{00}{00} done... Urgh!{05}{05}{05}
+@80
+Please wait! What have {01}C{00}{00} done... Ugh!{05}{05}{05}
+@81
+N-no, this is the first I've heard of it.{05}{05}{05}
+@82
+Lord {02}{02}ﾈ must suspect me... It's dangerous to stay here{01}C2{00}.{05}{05}{05}
+@83
+Someone with a grudge against you hired me{01}C-{00}. {02}{02}ﾈ, prepare to die!{05}{05}{05}
+@84
+{05}{05}{04}{02}{01}{81}{01}Jﾝ{13}{05}{05}{05}What did {01}C{00}{00} ever do... Damn you... Aaargh!{05}{05}{05}
+@85
+What did {01}C{00}{00} ever do... N-no... Aaah!{05}{05}{05}
+@86
+Is that all right?{05}{05}{05}
+@87
+Disaster! Lord {02}{01}ﾈ was attacked by an assassin and wounded!{05}{05}{05}
+@88
+We questioned everyone in the town one by one, but found no one suspicious.{05}{05}{05}
+@89
+Distrust of our lord is growing among the people.{05}{05}{05}
+@90
+Lord {02}{01}ﾈ, thieves broke into the castle and robbed the storehouse!{05}{05}{05}
+@91
+{02}{01}ﾈ has come to distrust Lord {02}{02}ﾈ.{05}{05}{05}
+@92
+That night...{05}{05}{05}
+@93
+{02}{01}ﾈ was cut down.{05}{05}{05}
+@94
+Feeling suspected by {02}{02}ﾈ, {02}{01}ﾈ left the town that night.{05}{05}{05}
+@95
+How will you deal with this?{05}{05}{05}
+@96
+Lord {02}{01}ﾈ, a person named {02}{02}ﾈ has come to see you.{05}{05}{05}
+@97
+Lord {02}{01}ﾈ, you have a most unusual face. May I take a closer look?{05}{05}{05}
+@98
+Lord {02}{01}ﾈ, will you have {02}{02}ﾈ read your fortune?{05}{05}{05}
+@99
+{01}S{02}e2Then allow me to take a good look... Hmm, hmm...{05}{05}{05}Then if you'll just show me your face... Hmm, hmm...{05}{05}{05}
+@100
+{01}S{02}e3Ah, Lord {02}{01}ﾈ has a face that people take to easily.{05}{05}{05}Oh, Lord {02}{01}ﾈ has the face of a hero. How rare!{05}{05}{05}Hmm, Lord {02}{01}ﾈ has a fine face... the nose especially is splendid.{05}{05}{05}
+@101
+Surely many of the people place great hopes in Lord {02}{01}ﾈ.{05}{05}{05}
+@102
+{01}S{02}e3...This is hard to say, but Lord {02}{01}ﾈ bears an ill omen.{05}{05}{05}To be frank, Lord {02}{01}ﾈ seems a little too harsh with others.{05}{05}{05}...This is hard to say, but Lord {02}{01}ﾈ's ears are an ill omen.{05}{05}{05}
+@103
+From now on, try to show more consideration for others.{05}{05}{05}
+@104
+{02}{01}ﾈ's fame %s.{05}{05}{05}
+@105
+Lord {02}{01}ﾈ, people from {02}{14}ﾈ in {02}{02}ﾈ's lands ask to see you. Will you meet them?{05}{05}{05}
+@106
+The people of {02}{14}ﾈ seem to have promised to rise up for our army. We should act as soon as we can.{05}{05}{05}
+@107
+{01}S{02}e4We can no longer bear {02}{01}ﾈ's misrule.{05}{05}{05}Please drive {02}{01}ﾈ's army out of our town.{05}{05}{05}We can no longer do {02}{01}ﾈ's bidding. Please help us.{05}{05}{05}We're sick of {02}{01}ﾈ's misrule! Please help us.{05}{05}{05}
+@108
+If Lord {02}{01}ﾈ's army marches on us, we will surely rise up from within.{05}{05}{05}
+@109
+{01}S{02}e3There are no officers defending the castle of {02}{14}ﾈ.{05}{05}{05}The castle of {02}{14}ﾈ is empty right now.{05}{05}{05}There are no officers defending the castle of {02}{14}ﾈ.{05}{05}{05}
+@110
+{01}S{02}e2Don't miss this chance. Please march on us; we will surely rise up.{05}{05}{05}We judged you rightly. We'll make the arrangements, so we'll take our leave.{05}{05}{05}
+@111
+{01}S{02}e3To let such a chance slip... you have no foresight...{05}{05}{05}We were sure you'd give us a good answer...{05}{05}{05}Oh, how are we to live now...{05}{05}{05}
+@112
+Promise the people of {02}{14}ﾈ to incite an uprising?{05}{05}{05}
+@113
+{01}S{02}e2The people went home disappointed.{05}{05}{05}The people went home with their shoulders slumped.{05}{05}{05}
+@114
+{05}{05}{04}{02}{01}{81}{01}J{FB}{13}{05}{05}{05}{01}S{02}e3I gratefully accept{01}C!{00}. I promise to live up to everyone's hopes{01}C!{00}.{05}{05}{05}Oh, I'll take it{01}C7{00}! Everyone, let's drink tonight! Ha, what fun!{05}{05}{05}All this for me... I'm grateful. I know, let's hold a festival in town with this money{01}C{14}{00}!{05}{05}{05}
+@115
+{01}S{02}e2I gratefully accept{01}C!{00}. I promise to live up to everyone's hopes{01}C!{00}.{05}{05}{05}All this for me... I'm grateful. I know, let's hold a festival in town with this money{01}C{14}{00}!{05}{05}{05}
+@116
+Thanks to Lord {02}{01}ﾈ, we can live in peace. It's not much, but please accept this.{05}{05}{05}
+@117
+Lord {02}{01}ﾈ, please keep protecting us.{05}{05}{05}
+@118
+The people have come to offer gold and food to Lord {02}{01}ﾈ. It's the fruit of your good rule.{05}{05}{05}
+@119
+Thanks to the people, the storehouse gained {1B}C4%u{1B}C1 gold and {1B}C4%u{1B}C1 food. It's all Lord {02}{01}ﾈ's virtue.{05}{05}{05}
+@120
+Lord {02}{01}ﾈ, one of your people wishes to speak with you.{05}{05}{05}
+@121
+I found this near my house, so I'd like to present it to Lord {02}{01}ﾈ.{05}{05}{05}
+@122
+Obtained {1B}C6%s{1B}C1.{05}{05}{05}
+@123
+Lord {02}{01}ﾈ, a merchant has come to visit.{05}{05}{05}
+@124
+He offers {1B}C6%s{1B}C1 for {1B}C4%u{1B}C1 gold. Will you buy it?{05}{05}{05}
+@125
+Lord {02}{01}ﾈ, I've recently come by a rare item...{05}{05}{05}
+@126
+I believe it's worthy of Lord {02}{01}ﾈ. Would you care to buy it?{05}{05}{05}
+@127
+The people of {02}{14}ﾈ seem troubled.{05}{05}{05}
+@128
+It seems the people want a governor to keep order. Appoint a governor to {02}{14}ﾈ?{05}{05}{05}
+@129
+Which officer will you send to {02}{14}ﾈ?{05}{05}{05}
+@130
+The people of {02}{14}ﾈ are delighted. Their support is now {1B}C4{02}({1B}C1 (+{1B}C4{02}){1B}C1).{05}{05}{05}
+@131
+The people of {02}{14}ﾈ are saddened. Their support is now {1B}C4{02}({1B}C1 (-{1B}C4{02}){1B}C1).{05}{05}{05}
+@132
+{01}S{02}e3Lord {02}{01}ﾈ, why won't you give our town a governor?{05}{05}{05}With no governor here, lawbreakers run wild. It's a real problem.{05}{05}{05}Has Lord {02}{01}ﾈ abandoned this town?{05}{05}{05}
+@133
+{01}S{02}e3Thank you! Surely it will become a better place to live.{05}{05}{05}Lord {02}{01}ﾈ heard our plea... Now there's a truly wise ruler!{05}{05}{05}Wonderful, wonderful! Thank you so much, Lord {02}{01}ﾈ!{05}{05}{05}
+@134
+Lord {02}{02}ﾈ, nothing has been heard from {02}{01}ﾈ since going to {02}{14}ﾈ. It seems {02}{01}ﾈ was {02}{03}ﾈ's spy.{05}{05}{05}
+@135
+Lord {02}{02}ﾈ, {02}{01}ﾈ, sent to {02}{14}ﾈ, is in {02}{03}ﾈ's realm. It seems they were a planted agent.{05}{05}{05}
+@136
+Lord {02}{02}ﾈ, {02}{01}ﾈ, our agent in {02}{14}ﾈ, has returned.{05}{05}{05}
+@137
+Lord {02}{02}ﾈ, {02}{01}ﾈ, our agent in {02}{14}ﾈ, has returned. It seems they failed to get recruited.{05}{05}{05}
+@138
+Lord {02}{02}ﾈ, {02}{01}ﾈ, our agent in {02}{14}ﾈ, has returned.{05}{05}{05}
+@139
+Lord {02}{02}ﾈ, {02}{14}ﾈ is now ungoverned, so our agent {02}{01}ﾈ has returned.{05}{05}{05}
+@140
+Lord {02}{02}ﾈ, {02}{01}ﾈ, our agent in {02}{14}ﾈ, has returned. It seems the plot was discovered.{05}{05}{05}
+@141
+{01}S{02}e3{01}C{09}{00}, {02}{03}ﾈ has been acting strangely{01}C{16}{00}. Could they be a planted agent?{05}{05}{05}I found this letter in {02}{03}ﾈ's room... Could that one be a planted agent?{05}{05}{05}I threatened the servant who came and went from {02}{03}ﾈ's room, and he confessed they're an agent.{05}{05}{05}
+@142
+=
+@143
+{01}S{02}e3I must spread the teachings in Heaven's stead. Farewell!{05}{05}{05}I shall vanish like a fresh breeze. Ha, ha, ha...{05}{05}{05}I miss the mountains. The capital is a bit much for me.{05}{05}{05}
+@144
+{01}S{02}e3I miss Mount Jinping... Shall I go home...{05}{05}{05}Oh dear, oh dear. I forgot I told my boy I'd be right back.{05}{05}{05}Ah, Mount Jinping is calling me. Why, it says I should come home.{05}{05}{05}
+@145
+{01}S{02}e3Phew, I've grown tired of life here. Perhaps I'll go traveling.{05}{05}{05}I don't care for my current work. Farewell!{05}{05}{05}Life in the mundane world doesn't suit me. Perhaps I'll go somewhere.{05}{05}{05}
+@146
+{01}S{02}e3Time to go home, time to go home.{05}{05}{05}The talented shouldn't serve the ordinary. Where is a hero worth serving?{05}{05}{05}My day is past. Perhaps I'll quietly retire.{05}{05}{05}
+@147
+{01}S{02}e3I wish to meet many people and judge their character. Please allow me to set out.{05}{05}{05}This life doesn't suit someone like me. Sadly, we must part.{05}{05}{05}I've seen everyone here. I'd like to judge people in other lands.{05}{05}{05}
+@148
+{01}S{02}e3You've been very kind. Well, it's time I went back to the mountains.{05}{05}{05}It's been a while since I rode my crane somewhere. Well, take care.{05}{05}{05}I wish to hone my magic in the mountains a while. Excuse me. Farewell!{05}{05}{05}
+@149
+{01}S{02}e3Many people need my powers. I'm sorry, but today we part.{05}{05}{05}I'll travel with my art of a thousand leagues. I hope we meet again. Bye now.{05}{05}{05}Oh, what's this... Old Chen is calling me. Well then, farewell!{05}{05}{05}
+@150
+{01}S{02}e3Healing as many people as I can is my life's purpose. Please allow me to set out.{05}{05}{05}I'm thinking of traveling a while to search for herbs. I hope we meet again.{05}{05}{05}If I listen, I can hear people suffering. It's time for me to go.{05}{05}{05}
+@151
+{01}S{02}e2Life here doesn't seem to suit me. Forgive me.{05}{05}{05}I wish to help people in my own way. Please give me leave.{05}{05}{05}
+@152
+{01}S{02}e3Hmm, death is calling me from somewhere. Farewell!{05}{05}{05}It seems the time has come to leave. Zaijian!{05}{05}{05}I'm off for a game of go. Someone's waiting for me...{05}{05}{05}
+@153
+{01}S{02}e3Hmm, life is calling me from somewhere. Farewell!{05}{05}{05}Time I went back to the mountains. I look forward to our next meeting. Zaijian!{05}{05}{05}Oh, is it that time already... Heh... I've kept a rather noisy friend waiting...{05}{05}{05}
+@154
+{05}{05}{04}{02}{01}d{04}=0{01}J#{14}{05}{05}{05}{01}S{02}e4I'm sorry to have worried you so long. I'm fully recovered now.{05}{05}{05}Thank you for visiting me. I can't thank you enough. Thanks to you, I'm well again...{05}{05}{05}I've finally recovered. It reminded me how precious good health is.{05}{05}{05}Phew... I thought I would die. Health really is everything.{05}{05}{05}
+@155
+{05}{05}{04}{02}{01}{81}{01}J${14}{05}{05}{05}Sorry to worry you all, but I'm fine now{01}C-{00}. I'm counting on you again{01}C0{00}.{05}{05}{05}
+@156
+Sorry to worry you all, but I'm fine now{01}C-{00}. I'm counting on you again.{05}{05}{05}
+@157
+{01}S{02}e3In the hands of the famous doctor Hua Tuo, any illness or wound heals at once.{05}{05}{05}I am Hua Tuo, the famous doctor. There is no illness or wound I cannot treat.{05}{05}{05}My secret medicine has cured you.{05}{05}{05}
+@158
+{05}{05}{04}{02}{01}d{04}=0{01}J'{14}{05}{05}{05}{01}S{02}e3I followed the {1B}C6Green Bag Book{1B}C1 and the patient recovered as if by magic{01}C{1D}{00}. It's a miracle{01}C-{00}...{05}{05}{05}I'd been studying the {1B}C6Green Bag Book{1B}C1, so I could treat them. Reading matters{01}C{17}{00}.{05}{05}{05}The {1B}C6Green Bag Book{1B}C1 is wonderful. It describes cures for every illness{01}C{1B}{00}.{05}{05}{05}
+@159
+With the {1B}C6Green Bag Book{1B}C1, illness and wounds heal at once. A handy thing{01}C2{00}.{05}{05}{05}
+@160
+Thanks to {02}{01}ﾈ, everyone is healthy again.{05}{05}{05}
+@161
+{05}{05}{04}{02}{01}d{04}=0{01}J*{14}{05}{05}{05}{01}S{02}e3Thanks to this {1B}C6Way of Great Peace{1B}C1, everyone recovered{01}C{1D}{00}. I'm glad I had it.{05}{05}{05}It wasn't {01}C{00}{00} who healed them, but the {1B}C6Way of Great Peace{1B}C1. A truly miraculous book...{05}{05}{05}How wonderful, the {1B}C6Way of Great Peace{1B}C1. With it, we can save many who suffer from illness.{05}{05}{05}
+@162
+With this {1B}C6Way of Great Peace{1B}C1, I can heal the illnesses and wounds of all the people. That is my destiny...{05}{05}{05}
+@163
+{01}S{02}e2Truly the finest remedy in the land, {1B}C6{02}-{1B}C1. I feel completely well{01}C0{00}.{05}{05}{05}With this {1B}C6{02}-{1B}C1, I fear neither illness nor wounds{01}C0{00}.{05}{05}{05}
+@164
+{05}{05}{04}{02}{01}d{04}=0{01}J-{14}{05}{05}{05}Lord {02}{01}ﾈ, {02}{02}ﾈ of {02}{14}ﾈ has fallen ill.{05}{05}{05}
+@165
+{02}{02}ﾈ has fallen ill.{05}{05}{05}
+@166
+{01}S{02}e3An epidemic is spreading in {02}{14}ﾈ, and even {02}{02}ﾈ has fallen ill.{05}{05}{05}A deadly plague is spreading in {02}{14}ﾈ; {02}{02}ﾈ caught it and is suffering{01}C{1B}{00}.{05}{05}{05}{02}{02}ﾈ of {02}{14}ﾈ is gravely ill{01}C{17}{00}. {01}C{00}{00} will go to visit at once...{05}{05}{05}
+@167
+Lord {02}{01}ﾈ, salaries in {02}{14}ﾈ could not be paid for lack of funds.{05}{05}{05}
+@168
+Lord {02}{01}ﾈ, salaries in {02}{14}ﾈ could not be paid for lack of food.{05}{05}{05}
+@169
+The loyalty of the officers in {02}{14}ﾈ has fallen.{05}{05}{05}
+@170
+{02}{01}ﾈ has left your service!{05}{05}{05}
+@171
+This time, it will be held in {02}{01}ﾈ's realm.{05}{05}{05}
+@172
+Entrants come from the realms of {02}{01}ﾈ, {02}{02}ﾈ, {02}{03}ﾈ and {02}{04}ﾈ.{05}{05}{05}
+@173
+Let the martial arts tournament begin! All of you, show the fruits of your training to the full!{05}{05}{05}
+@174
+{02}{01}ﾈ, you truly deserve to be called peerless in the land. Keep training ever harder.{05}{05}{05}
+@175
+This is our reward to you. Accept it.{05}{05}{05}
+@176
+We also reward {02}{01}ﾈ.{05}{05}{05}
+@177
+With this, the martial arts tournament is closed.{05}{05}{05}
+@178
+{01}S{02}e3I am {01}C{03}{00}! None can stand before my mighty spear!{05}{05}{05}I won, somehow, but my footwork is still sloppy. I must train harder.{05}{05}{05}I won! {01}C{00}{00} am the champion{01}C-{00}!{05}{05}{05}
+@179
+I am deeply grateful.{05}{05}{05}
+@180
+An envoy from Emperor Xian announces a martial arts tournament.{05}{05}{05}
+@181
+Select the officers to enter.{05}{05}{05}
+@182
+By order of Emperor Xian, every realm must enter two officers.{05}{05}{05}
+@183
+Won the 10000 grand prize; valor rose by 1000.{05}{05}{05}
+@184
+Won the 2000 runner-up prize; valor rose by 500.{05}{05}{05}
+@185
+Lord {02}{01}ﾈ, will you go and watch?{05}{05}{05}
+@186
+Champion: {02}{01}ﾈ
+Runner-up: {02}{02}ﾈ{05}{05}{05}

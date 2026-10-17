@@ -1,0 +1,158 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+As you wish.{05}{05}{05}
+@3
+Just so.{05}{05}{05}
+@4
+{02}{02}ﾈ has joined\n{02}{01}ﾈ.{05}{05}{05}
+@5
+Lord {02}{01}ﾈ, will you\nrecruit {02}{02}ﾈ?{05}{05}{05}
+@6
+The land lies in ruin, and\nthe people suffer from\nhunger.{05}{05}{05}
+@7
+This is a grave matter.\nDoes anyone have a\ngood solution?{05}{05}{05}
+@8
+My lord, if I\nmay speak.{05}{05}{05}
+@9
+Ah, Han Hao.\nHave you an idea?{05}{05}{05}
+@10
+Weak farmers fear raids by\nbandits and enemy troops and\ncannot till in peace.{05}{05}{05}
+@11
+Worse, countless have lost\ntheir land to war and become\nrefugees.{05}{05}{05}
+@12
+Make them farmer-soldiers,\nable to defend themselves,\nand the food crisis is solved.{05}{05}{05}
+@13
+Of course, it will take\na sizable investment.{05}{05}{05}
+@14
+Military farms will cost\n{1B}C43000{1B}C1 gold.{05}{05}{05}
+@15
+Follow Han Hao's advice and\nset up military farms?{05}{05}{05}
+@16
+On the advice of Han Hao and\nothers, Cao Cao set up\nmilitary farms.{05}{05}{05}
+@17
+To enrich the state and\nthe people is a leader's\ntrue work.{05}{05}{05}
+@18
+This policy will surely\nbenefit the people.{05}{05}{05}
+@19
+Only when the state thrives\ncan we do our work.{05}{05}{05}
+@20
+Thanks to the farms,\nXuchang's flood control and\nfarming have risen.{05}{05}{05}
+@21
+It costs money...\nWe'll pass this time.{05}{05}{05}
+@22
+The army is short of grain.\nZhou Yu, have you any\ngood ideas?{05}{05}{05}
+@23
+I hear there is a wealthy man\nnamed Lu in Linhuai.{05}{05}{05}
+@24
+Shall we ask this rich\nman for grain?{05}{05}{05}
+@25
+Follow Zhou Yu's advice and\nask for grain?{05}{05}{05}
+@26
+We'll manage the grain\nwithout doing that.{05}{05}{05}
+@27
+And so, I would ask you, a\nman of renowned wealth,\nto help us with grain.{05}{05}{05}
+@28
+My house has two granaries,\neach holding some 3000\nbushels of rice.{05}{05}{05}
+@29
+I'll open one of them.\nWill you take it?{05}{05}{05}
+@30
+What? All the rice in\na whole granary?{05}{05}{05}
+@31
+Oh, is it still\nnot enough?{05}{05}{05}
+@32
+No, it is plenty...\nLord Lu Zijing, you have\nmy thanks.{05}{05}{05}
+@33
+It is for the good of all;\nit's nothing.{05}{05}{05}
+@34
+What a big-hearted man!\nI would make him my friend\none day.{05}{05}{05}
+@35
+Sun Ce's food has increased\nby {1B}C430000{1B}C1.{05}{05}{05}
+@36
+Lord {02}{01}ﾈ, do you know\nof a warrior named Lu Bu?{05}{05}{05}
+@37
+Yes, they say he is the\nbravest warrior in the land.{05}{05}{05}
+@38
+He is brave, but greedy\nand faithless.{05}{05}{05}
+@39
+Give him your {1B}C6Red Hare{1B}C1 and\nsome treasure, and he will\nsurely join us.{05}{05}{05}
+@40
+Give Lu Bu the Red Hare\nto win him over?{05}{05}{05}
+@41
+For such a fine steed, I will\nserve you as faithfully as\na hound or horse.{05}{05}{05}
+@42
+I hear Lu Bu is always\nchanging sides. I want\nno such man under me.{05}{05}{05}
+@43
+Lord Liu Bei, Lord Liu Biao\nof Xiangyang invites you\nto a feast.{05}{05}{05}
+@44
+If Lord Liu Biao invites me,\nI must go.{05}{05}{05}
+@45
+Welcome, Lord Liu Bei.\nNothing special, I just\nwanted to share a drink.{05}{05}{05}
+@46
+Liu Bei and Liu Biao\nenjoyed the feast\nfor a while.{05}{05}{05}
+@47
+What's wrong, Lord Liu Bei?\nWhy are you crying?{05}{05}{05}
+@48
+I used to ride from\nbattlefield to battlefield.{05}{05}{05}
+@49
+But I've stopped riding\nlately, and fat has grown\non my thighs.{05}{05}{05}
+@50
+Thinking how I grow old\nwithout restoring the Han,\nI could not help but weep.{05}{05}{05}
+@51
+Restoring the Han...\nSo it is.{05}{05}{05}
+@52
+Your time will come.\nWhen it does, I will\nlend what help I can.{05}{05}{05}
+@53
+Lord Jingsheng...\nThank you.{05}{05}{05}
+@54
+Hostility between Liu Bei\nand Liu Biao has eased.{05}{05}{05}
+@55
+Lord Liu Bei, Lord Yi Ji\nseems to have something\nto say.{05}{05}{05}
+@56
+My lord, to govern a state,\nyou must bring in wise men,\nI believe.{05}{05}{05}
+@57
+You're right. Then do you\nknow of anyone we might\ncall a sage?{05}{05}{05}
+@58
+In Xiangyang there is a\nnoble family named Ma.{05}{05}{05}
+@59
+The Ma family has five\nbrothers, all of them\nvery able.{05}{05}{05}
+@60
+Of them, the fourth, Ma Liang,\nis said to be the most\nlearned and gifted.{05}{05}{05}
+@61
+Ma Liang has white hairs in\nhis eyebrows, so people\ncall him "White Brows."{05}{05}{05}
+@62
+Lord Yi Ji, is this the\nMa Liang of the saying, "Of the\nfive Ma, White Brows is best"?{05}{05}{05}
+@63
+My lord, why not take\nLord Ma Liang onto\nyour staff?{05}{05}{05}
+@64
+I am Ma Liang, styled Jichang.\nIt is a great honor to\nserve you, Lord Liu Bei.{05}{05}{05}
+@65
+One who scorns the wise\ncannot be called\nbenevolent.{05}{05}{05}
+@66
+Lu Meng, you are gifted,\nbut sadly you know\nnothing of learning.{05}{05}{05}
+@67
+But I am busy with the\narmy and have no time\nfor study.{05}{05}{05}
+@68
+I don't ask you to be a\nscholar. Just study enough\nto gain some knowledge.{05}{05}{05}
+@69
+You say you're busy with\nthe army, but are you busier\nthan me, your lord?{05}{05}{05}
+@70
+Well, perhaps you could\ntake it slowly?{05}{05}{05}
+@71
+Lord Lu Meng, I hear you've\nbeen studying lately.\nHow goes it?{05}{05}{05}
+@72
+Ah, Lord Lu Su.\nI think I've gained\nsome knowledge.{05}{05}{05}
+@73
+Lu Su debated with Lu Meng\nand could not hide his\nsurprise at his progress.{05}{05}{05}
+@74
+This is a surprise!\nYou're no longer the\nAmeng of Wu, I see.{05}{05}{05}
+@75
+They say, "If you haven't seen\na man in three days, look\nat him with fresh eyes."{05}{05}{05}
+@76
+You took up study at your\nage. Well done.{05}{05}{05}
+@77
+Thank you, my lord.\nIt is all thanks to\nyour guidance.{05}{05}{05}
+@78
+Lu Meng's intelligence\nhas risen.{05}{05}{05}

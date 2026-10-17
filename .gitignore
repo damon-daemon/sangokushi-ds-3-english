@@ -1,0 +1,18 @@
+# Never commit Koei's data: ROMs, saves, savestates, extracted script, build output
+*.nds
+*.sav
+*.ml[0-9]
+*.dsv
+*.xdelta
+*.bps
+*.ips
+build/
+script/
+
+# Local environment
+.venv/
+__pycache__/
+*.pyc
+
+# Release packages (attach to GitHub Releases instead)
+release/

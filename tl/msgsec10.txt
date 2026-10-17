@@ -1,0 +1,502 @@
+@0
+Lord {02}{01}ﾈ, people from {02}{14}ﾈ ask to see you; they have a petition.{05}{05}{05}
+@1
+Lord {02}{01}ﾈ, Lord {02}{02}ﾈ has come to see you.{05}{05}{05}
+@2
+Lord {02}{01}ﾈ, a person named {02}{02}ﾈ has come to see you.{05}{05}{05}
+@3
+Lord {02}{01}ﾈ, a scholar has come and asks to see you.{05}{05}{05}
+@4
+Select the officer who will duel.{05}{05}{05}
+@5
+Lord {02}{01}ﾈ, a merchant from {02}{14}ﾈ asks to see you.{05}{05}{05}
+@6
+Lord {02}{01}ﾈ, an epidemic has broken out in our village and many have died.{05}{05}{05}
+@7
+But the village doctor has no idea how to treat it...{05}{05}{05}
+@8
+At this rate there'll only be more victims.{05}{05}{05}
+@9
+Lord {02}{01}ﾈ, please help us!{05}{05}{05}
+@10
+The people of {02}{14}ﾈ are suffering from disease. Promise to help?{05}{05}{05}
+@11
+Thank you! If you can, please help us within 3 months!{05}{05}{05}
+@12
+For disease, it's best to ask Hua Tuo, the finest doctor in the land.{05}{05}{05}
+@13
+I see... It seems we weren't blessed with a good lord.{05}{05}{05}
+@14
+In the end, Lord {02}{01}ﾈ never brought us a doctor...{05}{05}{05}
+@15
+Lord {02}{01}ﾈ, the people of {02}{14}ﾈ are overjoyed and ask to see you.{05}{05}{05}
+@16
+Thanks to Master Hua Tuo, the sickness in our village is gone.{05}{05}{05}
+@17
+And it's all thanks to Lord {02}{01}ﾈ for finding him.{05}{05}{05}
+@18
+So we'd like to be of some use to you too...{05}{05}{05}
+@19
+Would you let us help develop a new weapon, the Battering Ram?{05}{05}{05}
+@20
+Develop the Battering Ram with the people?{05}{05}{05}
+@21
+Then we'll get to work with the villagers. Please wait about 3 months.{05}{05}{05}
+@22
+What a shame...{05}{05}{05}
+@23
+Lord {02}{01}ﾈ, with the people's help the Battering Ram is complete.{05}{05}{05}
+@24
+Lately, foreign tribesmen have been showing up in town, looting and causing trouble.{05}{05}{05}
+@25
+Lord {02}{01}ﾈ, won't you find them and teach them a lesson?{05}{05}{05}
+@26
+The people of {02}{14}ﾈ are troubled by the tribesmen's violence. Promise to help?{05}{05}{05}
+@27
+Thank you! We're counting on you to deal with them within 3 months!{05}{05}{05}
+@28
+We must step up patrols in the town.{05}{05}{05}
+@29
+I see... I suppose we weren't blessed with a good lord.{05}{05}{05}
+@30
+Those tribesmen are still prowling around, even though you promised...{05}{05}{05}
+@31
+Thanks to Lord {02}{01}ﾈ, the tribesmen have stopped showing up.{05}{05}{05}
+@32
+By the way, I picked up some armor they wore. It's rather unusual.{05}{05}{05}
+@33
+It might be of some use, so I'd like to give it to you.{05}{05}{05}
+@34
+Hmm... If we research this, we might be able to equip our army with it.{05}{05}{05}
+@35
+Research the tribesmen's armor?{05}{05}{05}
+@36
+Research on the tribesmen's armor begins.\n(Time: 3 months){05}{05}{05}
+@37
+Lord {02}{01}ﾈ, our research on the tribesmen's armor has produced Light Armor.{05}{05}{05}
+@38
+I've been rather bored lately.{05}{05}{05}
+@39
+I've been rather bored lately...{05}{05}{05}
+@40
+I'd like a game of go. Won't you find Nandou and bring him here?{05}{05}{05}
+@41
+I'd like a game of go. Won't you find Beidou and bring him here?{05}{05}{05}
+@42
+Find {02}{01}ﾈ and bring them here?{05}{05}{05}
+@43
+Oh, oh, then I'll wait about 6 months.{05}{05}{05}
+@44
+Thank you. Then I'll wait about 6 months.{05}{05}{05}
+@45
+Ho ho ho!{05}{05}{05}
+@46
+What a pity...{05}{05}{05}
+@47
+{02}{01}ﾈ left like the wind.{05}{05}{05}
+@48
+It seems I won't meet {02}{01}ﾈ here either... Zaijian!{05}{05}{05}
+@49
+Lord {02}{01}ﾈ, Master Beidou and Master Nandou have come to see you.{05}{05}{05}
+@50
+At last I meet Nandou.{05}{05}{05}
+@51
+Where on earth have you been?{05}{05}{05}
+@52
+That's my line!{05}{05}{05}
+@53
+Well, never mind that...{05}{05}{05}
+@54
+As thanks, I'll give you the plans for the War Drum Tower.{05}{05}{05}
+@55
+Well, we'll go back to the mountains for a game of go.{05}{05}{05}
+@56
+Beidou and Nandou left like the wind.{05}{05}{05}
+@57
+Develop the War Drum Tower from the plans?{05}{05}{05}
+@58
+Research on the War Drum Tower begins.\n(Time: 3 months){05}{05}{05}
+@59
+Lord {02}{01}ﾈ, the War Drum Tower is complete.{05}{05}{05}
+@60
+How unusual... They say retainers sent on training journeys have strange experiences.{05}{05}{05}
+@61
+It's best to send your most capable people.{05}{05}{05}
+@62
+{02}{01}ﾈ has left.{05}{05}{05}
+@63
+Lord {02}{01}ﾈ, Lord {02}{02}ﾈ has come to report on their training.{05}{05}{05}
+@64
+On my travels I met a mysterious swordsman, who gave me this unusual bow.{05}{05}{05}
+@65
+{05}{05}{04}{02}{01}{81}{01}JR'{05}{05}{05}This is wonderful! I've never seen a bow like it.{05}{05}{05}
+@66
+This is wonderful! I've never seen a bow like it.{05}{05}{05}
+@67
+{05}{05}{04}{02}{01}{81}{01}JT'{05}{05}{05}If we research it, we might equip our army with it.{05}{05}{05}
+@68
+If we research it, we might equip our army with it.{05}{05}{05}
+@69
+Research the bow?{05}{05}{05}
+@70
+Research on the bow begins.\n(Time: 3 months){05}{05}{05}
+@71
+Lord {02}{01}ﾈ, our research on the bow has produced the Longbow.{05}{05}{05}
+@72
+The town of {02}{14}ﾈ is lawless and its morals are in decline.{05}{05}{05}
+@73
+Sadly, the people's hearts seem to be turning away from Lord {02}{01}ﾈ...{05}{05}{05}
+@74
+Won't you care for the people more and make it a better place to live?{05}{05}{05}
+@75
+Huang Chengyan laments the troubled hearts of the people of {02}{14}ﾈ. What will you do?{05}{05}{05}
+@76
+Thank you. Then I'll count on you to do it within 6 months.{05}{05}{05}
+@77
+Perhaps I chose the wrong lord to serve...{05}{05}{05}
+@78
+Huang Chengyan left in sorrow.{05}{05}{05}
+@79
+The people of {02}{14}ﾈ are still troubled... How sad...{05}{05}{05}
+@80
+Huang Chengyan left in sorrow.{05}{05}{05}
+@81
+The faces of the people of {02}{14}ﾈ have changed completely lately.{05}{05}{05}
+@82
+I'm grateful you listened to an old man's advice.{05}{05}{05}
+@83
+It's not much of a thank-you, but I'll entrust Lord {02}{01}ﾈ with the plans for my Wooden Ox.{05}{05}{05}
+@84
+Develop the Wooden Ox?{05}{05}{05}
+@85
+Research on the Wooden Ox begins.\n(Time: 3 months){05}{05}{05}
+@86
+Lord {02}{01}ﾈ, the Wooden Ox is complete.{05}{05}{05}
+@87
+It seems you've become a great power.{05}{05}{05}
+@88
+But in this world, war isn't everything.{05}{05}{05}
+@89
+War brings sorrow to the people...{05}{05}{05}
+@90
+Do you have what it takes to make other rulers submit without war?{05}{05}{05}
+@91
+How will you answer?{05}{05}{05}
+@92
+Oh? Then accomplish it within a year.{05}{05}{05}
+@93
+Sima Hui left like the wind.{05}{05}{05}
+@94
+Honest... Good, good.{05}{05}{05}
+@95
+So it was impossible to make other rulers submit without war after all.{05}{05}{05}
+@96
+It seems you made other rulers submit without war.{05}{05}{05}
+@97
+Good, good...{05}{05}{05}
+@98
+Sima Hui left behind the plans for the Tiger Chariot and departed.{05}{05}{05}
+@99
+Develop the Tiger Chariot?{05}{05}{05}
+@100
+Research on the Tiger Chariot begins.\n(Time: 3 months){05}{05}{05}
+@101
+Lord {02}{01}ﾈ, the Tiger Chariot is complete.{05}{05}{05}
+@102
+Lord {02}{01}ﾈ, I am a traveling scholar who wanders the land seeking wisdom.{05}{05}{05}
+@103
+The valor of your army is the talk of the land.{05}{05}{05}
+@104
+But in this world, a ruler with only might is unworthy.{05}{05}{05}
+@105
+I wonder whether you truly understand this world...{05}{05}{05}
+@106
+Will you answer my questions?{05}{05}{05}
+@107
+Answer the scholar's questions?{05}{05}{05}
+@108
+As expected of Lord {02}{01}ﾈ. Then please answer my questions.{05}{05}{05}
+@109
+{05}{05}{04}{02}{01}{81}{01}J~'{05}{05}{05}{01}C{00}{00} will not interfere...{05}{05}{05}
+@110
+{01}C{00}{00} won't interfere...{05}{05}{05}
+@111
+That too is a way to live, I suppose. Then I'll take my leave...{05}{05}{05}
+@112
+The scholar left sadly.{05}{05}{05}
+@113
+Lord {02}{01}ﾈ, it's been a long time.{05}{05}{05}
+@114
+Your power grows ever greater. Splendid.{05}{05}{05}
+@115
+I've come to match wits again with Lord {02}{01}ﾈ, famed in letters and arms alike.{05}{05}{05}
+@116
+This time the questions are intermediate level!{05}{05}{05}
+@117
+Lord {02}{01}ﾈ, it's been a long time.{05}{05}{05}
+@118
+You rule most of the realm... I believe you know why I'm here.{05}{05}{05}
+@119
+I've prepared questions staking my life as a scholar.{05}{05}{05}
+@120
+Will you accept?{05}{05}{05}
+@121
+{05}{05}{04}{02}{01}{81}{01}J{8A}'{05}{05}{05}{01}C{00}{00} would like to try too...{05}{05}{05}
+@122
+{01}C{00}{00} would like to try too...{05}{05}{05}
+@123
+Ugh, after all the thought I put in...{05}{05}{05}
+@124
+Now, the results...{05}{05}{05}
+@125
+Splendid! Every answer correct!!{05}{05}{05}
+@126
+You are truly a wise ruler, versed in letters and arms...{05}{05}{05}
+@127
+If you please, accept this.{05}{05}{05}
+@128
+Obtained the Wuzi!{05}{05}{05}
+@129
+But this was only the beginner level...{05}{05}{05}
+@130
+Next time I'll bring harder questions worthy of you.{05}{05}{05}
+@131
+Impressive! {02}( of 5 correct.{05}{05}{05}
+@132
+A ruler must not neglect study... I'll come again.{05}{05}{05}
+@133
+The scholar left.{05}{05}{05}
+@134
+What... only {02}( of 5 correct...{05}{05}{05}
+@135
+That's simply too poor.{05}{05}{05}
+@136
+A ruler should study the ways of this world a little more.{05}{05}{05}
+@137
+Obtained the Mozi!{05}{05}{05}
+@138
+Next time I'll stake my life as a scholar on the questions.{05}{05}{05}
+@139
+You are truly a wise ruler who has mastered the knowledge of this world...{05}{05}{05}
+@140
+Obtained the Classic of Mountains and Seas!{05}{05}{05}
+@141
+There's nothing more I can teach you.{05}{05}{05}
+@142
+Rule this world with your wisdom.{05}{05}{05}
+@143
+Well, with these questions a perfect score would be hard. Heh heh...{05}{05}{05}
+@144
+Well, with such hard questions, it can't be helped.{05}{05}{05}
+@145
+I'll come again when you've gained more experience.{05}{05}{05}
+@146
+Lord {02}{01}ﾈ's fame has risen.{05}{05}{05}
+@147
+Lord {02}{01}ﾈ's fame has fallen.{05}{05}{05}
+@148
+{05}{05}{04}{02}{01}u{04}=365{01}J･'{05}{05}{05}{01}C{00}{00} am {02}{01}ﾈ, training in the wilds.{05}{05}{05}
+@149
+Me? I'm Zhang Fei, styled Yide!{05}{05}{05}
+@150
+{05}{05}{04}{02}{01}{81}{01}Jｧ'{05}{05}{05}{05}{05}{04}{02}{01}u{04}=365{01}Jｨ'{05}{05}{05}{01}S{02}e3I heard Lord {02}{02}ﾈ's army is full of fierce warriors, so I came to see.{05}{05}{05}I'm confident in my skill, but I want to test how far my arms can go.{05}{05}{05}Tired of training in the wilds, I came to test my skill with Lord {02}{02}ﾈ.{05}{05}{05}
+@151
+I heard Lord {02}{02}ﾈ's army is full of fierce warriors, so I came to see.{05}{05}{05}
+@152
+Surely you've heard this name? Don't tell me you haven't!{05}{05}{05}
+@153
+{05}{05}{04}{02}{01}{81}{01}Jｪ'{05}{05}{05}{05}{05}{04}{02}{01}u{04}=365{01}Jｫ'{05}{05}{05}{01}S{02}e3Will someone accept a duel with me?{05}{05}{05}Will you accept a duel with me?{05}{05}{05}On my honor as a warrior, I ask for a duel with me.{05}{05}{05}
+@154
+Don't look down on me because I'm a woman. Will someone accept a duel with me?{05}{05}{05}
+@155
+Well? Is there anyone in your army who'll take me on in a duel?{05}{05}{05}
+@156
+Accept the duel with {02}{01}ﾈ?{05}{05}{05}
+@157
+{05}{05}{04}{02}{01}u{04}=365{01}Jｮ'{05}{05}{05}As expected of Lord {02}{01}ﾈ. Then let us fight fair and square!{05}{05}{05}
+@158
+You've got guts! Then let's have a go!{05}{05}{05}
+@159
+{05}{05}{04}{02}{01}{81}{01}Jｰ'{05}{05}{05}{05}{05}{04}{02}{01}u{04}=365{01}Jｱ'{05}{05}{05}{01}S{02}e3I'd heard this army was brave... Rumors can't be trusted{01}C2{00}.{05}{05}{05}A pity. {01}C{07}{00} disappoint me{01}C0{00}.{05}{05}{05}What cowards... {01}C{07}{00} disgust me{01}C0{00}.{05}{05}{05}
+@160
+What cowards... You disgust me.{05}{05}{05}
+@161
+Well, I guess they've heard how tough I am...{05}{05}{05}
+@162
+{05}{05}{04}{02}{01}{81}{01}Jｳ'{05}{05}{05}{05}{05}{04}{02}{01}u{04}=365{01}Jｴ'{05}{05}{05}{01}S{02}e3Strong... {01}C{00}{00} was just a frog in a well...{05}{05}{05}Ugh, my skill just dulls out in the wilds...{05}{05}{05}{01}C{00}{00} was confident in my arms, too...{05}{05}{05}
+@163
+So strong... It seems I'm still just a frog in a well.{05}{05}{05}
+@164
+Not bad... Looks like I've found someone worth serving!{05}{05}{05}
+@165
+Lord {02}{02}ﾈ, will you take me into your service?{05}{05}{05}
+@166
+Recruit {02}{01}ﾈ?{05}{05}{05}
+@167
+{05}{05}{04}{02}{01}{81}{01}Jｸ'{05}{05}{05}{05}{05}{04}{02}{01}u{04}=365{01}Jｹ'{05}{05}{05}{01}S{02}e3What a pity...{05}{05}{05}How bitter...{05}{05}{05}Ugh, then I'll train alone...{05}{05}{05}
+@168
+You've no eye for talent...{05}{05}{05}
+@169
+Too bad...{05}{05}{05}
+@170
+{05}{05}{04}{02}{01}{81}{01}Jｻ'{05}{05}{05}{05}{05}{04}{02}{01}u{04}=365{01}Jｼ'{05}{05}{05}{01}S{02}e4I won... but my spear still has far to go{01}C2{00}.{05}{05}{05}Well, that was a decent warm-up{01}C4{00}.{05}{05}{05}Thank you for accepting the duel.{05}{05}{05}Now, back to training.{05}{05}{05}
+@171
+Phew, I somehow won... Then I'll continue my training.{05}{05}{05}
+@172
+Wahahaha! Well, I'll give you credit for guts!{05}{05}{05}
+@173
+{02}{01}ﾈ has left.{05}{05}{05}
+@174
+{01}C{02}{00} am {01}C{03}{00}.{05}{05}{05}
+@175
+{05}{05}{04}{02}{01}{81}{01}Jﾀ'{05}{05}{05}{01}S{02}e2I'm free for now, but you've surely heard of me.{05}{05}{05}I hear your army has quite a bit of money...{05}{05}{05}
+@176
+I heard in town that your army has quite a bit of money.{05}{05}{05}
+@177
+{05}{05}{04}{02}{01}{81}{01}Jﾂ'{05}{05}{05}{01}S{02}e2How about a duel with me, with money on the line?{05}{05}{05}Do you have the guts to duel me for money?{05}{05}{05}
+@178
+How about a duel with me, with money on the line?{05}{05}{05}
+@179
+{05}{05}{04}{02}{01}{81}{01}Jﾄ'{05}{05}{05}{01}S{02}e2That's the spirit{01}C.{00}!{05}{05}{05}That's today's meal money earned.{05}{05}{05}
+@180
+Hehe... Now I won't be short of money for a while.{05}{05}{05}
+@181
+{05}{05}{04}{02}{01}{81}{01}Jﾆ'{05}{05}{05}{01}S{02}e2{01}CA{00}! What a coward, {01}C{0C}{00}{01}C,{00}!{05}{05}{05}What, how boring{01}C2{00}.{05}{05}{05}
+@182
+What a coward! I misjudged you.{05}{05}{05}
+@183
+{05}{05}{04}{02}{01}{81}{01}Jﾈ'{05}{05}{05}{01}S{02}e3Damn... To think {01}C{02}{00} would lose...{05}{05}{05}My skill seems to have gone rusty{01}C2{00}.{05}{05}{05}Has my luck finally run out...{05}{05}{05}
+@184
+To think I'd lose... Has my skill gone rusty?{05}{05}{05}
+@185
+{05}{05}{04}{02}{01}{81}{01}Jﾊ'{05}{05}{05}{01}S{02}e4{01}CA{00}! Then I'll take the money{01}C0{00}!{05}{05}{05}That was a decent warm-up{01}C4{00}.{05}{05}{05}Now I can live it up for a while{01}C0{00}.{05}{05}{05}{01}CA{00}! Today's meal money earned{01}C0{00}!{05}{05}{05}
+@186
+Hehe, then I'll take the money.{05}{05}{05}
+@187
+{02}{01}ﾈ left with {02}( gold.{05}{05}{05}
+@188
+{01}S{02}e2A draw... How unusual{01}C,{00}.{05}{05}{05}I've found a worthy rival! {01}CA{00}!!{05}{05}{05}
+@189
+The great duel with {02}{02}ﾈ became the talk of the land, and Lord {02}{01}ﾈ's fame seems to have risen.{05}{05}{05}
+@190
+{02}{01}ﾈ seems to have left.{05}{05}{05}
+@191
+How will you answer?{05}{05}{05}
+@192
+Correct!{05}{05}{05}
+@193
+{01}S{02}e3Wrong!{05}{05}{05}You haven't studied enough...{05}{05}{05}Sorry, that's incorrect.{05}{05}{05}
+@194
+What is the most orders you can give in a month?{05}{05}{05}
+@195
+The number of orders you can give each month depends on what about your ruler?{05}{05}{05}
+@196
+To hold a council, at least how many of the 5 departments need a minister?{05}{05}{05}
+@197
+In which month can a council be held?{05}{05}{05}
+@198
+What is needed to raise general rank?{05}{05}{05}
+@199
+Which command raises the people's support?{05}{05}{05}
+@200
+Which stat does a personnel minister need?{05}{05}{05}
+@201
+How long does training last?{05}{05}{05}
+@202
+To succeed at Rumor, which stat should the officer have high?{05}{05}{05}
+@203
+Which is NOT a victory condition in battle?{05}{05}{05}
+@204
+What does training affect in a unit?{05}{05}{05}
+@205
+Which is a plains formation?{05}{05}{05}
+@206
+Which is a mountain formation?{05}{05}{05}
+@207
+Which formation has a high critical hit rate?{05}{05}{05}
+@208
+Which formation can use "Assault"?{05}{05}{05}
+@209
+How is 占卜 ("Divination") read?{05}{05}{05}
+@210
+Which of these does NOT affect a city's gold income?{05}{05}{05}
+@211
+Which of these affects a city's food income?{05}{05}{05}
+@212
+What intelligence is needed to become a strategist?{05}{05}{05}
+@213
+What politics is needed to become a strategist?{05}{05}{05}
+@214
+Which of the officer's stats affects how many troops Enlist gathers?{05}{05}{05}
+@215
+Rumor failed. What is likely high in the target ruler?{05}{05}{05}
+@216
+To succeed at Sabotage, which stat should the officer have high?{05}{05}{05}
+@217
+What kind of officer suits Plant Agent?{05}{05}{05}
+@218
+Which weapon can't be developed with "Research"?{05}{05}{05}
+@219
+When a unit is hit by a scheme in battle, what about it affects the success rate?{05}{05}{05}
+@220
+Which is NOT a plains formation?{05}{05}{05}
+@221
+Which is NOT a mountain formation?{05}{05}{05}
+@222
+What does morale affect in a unit?{05}{05}{05}
+@223
+In which formation are troops most likely only wounded when attacked?{05}{05}{05}
+@224
+What must rise for an officer to use special abilities?{05}{05}{05}
+@225
+When using "Panic" in battle, what should be low in the target unit?{05}{05}{05}
+@226
+How much stamina does "Mirage" cost?{05}{05}{05}
+@227
+Which ability raises the morale of every ally on the battlefield?{05}{05}{05}
+@228
+What is "Vines" weak against?{05}{05}{05}
+@229
+Which of these formations has the highest bow defense?{05}{05}{05}
+@230
+Which of these formations has the highest normal defense?{05}{05}{05}
+@231
+Which of these formations has the highest normal attack?{05}{05}{05}
+@232
+Which of these formations has the highest bow attack?{05}{05}{05}
+@233
+How much stamina does "Skies" cost?{05}{05}{05}
+@234
+How much stamina does "Slide" cost?{05}{05}{05}
+@235
+Which of these people is NOT a blood relative?{05}{05}{05}
+@236
+Which of these people is NOT a blood relative?{05}{05}{05}
+@237
+Which of these has the highest war?{05}{05}{05}
+@238
+Which item raises the success rate of Rumor?{05}{05}{05}
+@239
+Which military text gives the effect of Counter?{05}{05}{05}
+@240
+So I was of no use...{05}{05}{05}
+@241
+You decided not to research the War Drum Tower.{05}{05}{05}
+@242
+You decided not to research the bow.{05}{05}{05}
+@243
+You won't use them? How bitter...{05}{05}{05}
+@244
+You decided not to develop the Tiger Chariot.{05}{05}{05}
+@245
+Word that Lord {02}{01}ﾈ turned away the people's representatives has spread, and the people are angry.{05}{05}{05}
+@246
+Because Lord {02}{01}ﾈ would not meet them, {02}{02}ﾈ seems to have gone elsewhere.{05}{05}{05}
+@247
+Because Lord {02}{01}ﾈ would not meet them, Beidou and Nandou seem to have gone elsewhere.{05}{05}{05}
+@248
+Because Lord {02}{01}ﾈ would not meet them, Lord {02}{02}ﾈ seems displeased.{05}{05}{05}
+@249
+Because Lord {02}{01}ﾈ would not meet him, Master Huang Chengyan left in sorrow.{05}{05}{05}
+@250
+Word that Lord {02}{01}ﾈ turned away Master Sima Hui has spread, and the people are angry.{05}{05}{05}

@@ -1,0 +1,330 @@
+@0
+Lord Hua Xin looks ready\nto start shouting again.{05}{05}{05}
+@1
+Lord Kan Ze's eyes\nare gleaming.{05}{05}{05}
+@2
+I understand about talent now.\nBut enriching the state\ntakes more than that.{05}{05}{05}
+@3
+Indeed.\nWithout gold and rice,\nwe can do nothing.{05}{05}{05}
+@4
+Hmm...\nIt pains me, but the people\nwill have to pay.{05}{05}{05}
+@5
+If you govern well,\nthey'll understand.{05}{05}{05}
+@6
+Excuse me.{05}{05}{05}
+@7
+Oh, Kan Ze.\nWhat is it?{05}{05}{05}
+@8
+Do you know what\nmonth it is?{05}{05}{05}
+@9
+Why, it's\n{1B}C3the 10th month{1B}C1...{05}{05}{05}
+@10
+A ruler shouldn't be\nso offhand about it!{05}{05}{05}
+@11
+Whoa! Hua Xin!\nWhat's wrong with you?{05}{05}{05}
+@12
+Never mind what's wrong!\nYou go on about enriching the\nstate but know nothing!{05}{05}{05}
+@13
+Hmm...\nA harsh scolding right\nfrom the start...{05}{05}{05}
+@14
+Now, now, Lord Hua Xin.\nIf we explain carefully,\nhe'll understand.{05}{05}{05}
+@15
+Lord Sun Ce, this is the\nmonth the people pay\ntheir gold.{05}{05}{05}
+@16
+I see.\nAnd why is he ranting\nso much?{05}{05}{05}
+@17
+We're short of gold! At this\nrate we can't hire troops,\nlet alone do our own work!{05}{05}{05}
+@18
+Now, now, Lord Hua Xin.\nFirst, let me explain\nincome.{05}{05}{05}
+@19
+{1B}C3Gold comes in 4 times a year{1B}C1,\nat the turn of each season:\n{1B}C3months 1, 4, 7 and 10{1B}C1.{05}{05}{05}
+@20
+{1B}C3Rice comes in once a year{1B}C1.\nIt is paid in {1B}C3month 7{1B}C1.{05}{05}{05}
+@21
+Upkeep is paid: {1B}C3gold in month 1{1B}C1,\n{1B}C3rice in month 7{1B}C1. More troops and\nofficers mean more upkeep.{05}{05}{05}
+@22
+I want troops and officers.\nWon't income grow if we\ndevelop our cities?{05}{05}{05}
+@23
+Exactly so.\nFirst, let's look at our\ncity here, Lujiang.{05}{05}{05}
+@24
+Farming, flood control, commerce,\ndefense and support are a city's\nstats. {1B}C3Domestic{1B}C1 raises them.{05}{05}{05}
+@25
+I see.\nSo raising those makes\nthe state rich.{05}{05}{05}
+@26
+Yes.\nFirst, farming, flood control,\ncommerce and defense.{05}{05}{05}
+@27
+These are raised by\nthe Domestic command\n{1B}C3Develop{1B}C1.{05}{05}{05}
+@28
+It needs a {1B}C3domestic officer{1B}C1,\nand works only in cities\nthat have one.{05}{05}{05}
+@29
+Just do it already!\nYou keep rambling on...\nIt's maddening...{05}{05}{05}
+@30
+Now, now, Lord Hua Xin.\nI'm just about to.\nLet's try it.{05}{05}{05}
+@31
+So we raise the stats\nlike this.\nWho should be the officer?{05}{05}{05}
+@32
+Each uses a different stat:\n{1B}C3farming: politics{1B}C1, {1B}C3flood: intellect{1B}C1,\n{1B}C3commerce: charm{1B}C1, {1B}C3defense: war{1B}C1.{05}{05}{05}
+@33
+Income depends on farming\nand commerce, so focus on\npolitics and charm.{05}{05}{05}
+@34
+Hm?\nThen flood control and\ndefense don't matter?{05}{05}{05}
+@35
+No, you can't ignore them.\nFlood control matters in floods\nand typhoons, defense in war.{05}{05}{05}
+@36
+Hmm...\nThat's a problem, then.{05}{05}{05}
+@37
+Oh, honestly! {1B}C3When in doubt,\nappoint a domestic officer{1B}C1!\nNext! Moving on!{05}{05}{05}
+@38
+Now, now, Lord Hua Xin.\nOn to the last stat,\n{1B}C3support{1B}C1.{05}{05}{05}
+@39
+Support is, as the name says,\nthe people's loyalty.{05}{05}{05}
+@40
+I know! If support is low,\nthere'll be revolts! Like in\nDong Zhuo's old cities!{05}{05}{05}
+@41
+Just so.\nBut that's not al...{05}{05}{05}
+@42
+That's not all! The people\nwill leave for other\ncities!{05}{05}{05}
+@43
+And if it's high, domestic\nwork can be twice as\neffective!{05}{05}{05}
+@44
+Why have you been\nshouting so much\nthis whole time?{05}{05}{05}
+@45
+I-I need the privy!\n...I-I leave the rest to you,\nLord Kan Ze...{05}{05}{05}
+@46
+......{05}{05}{05}
+@47
+Now, now, Lord Sun Ce.\nLet's raise support. Pick the\nDomestic command {1B}C3Patrol{1B}C1.{05}{05}{05}
+@48
+......{05}{05}{05}
+@49
+Hey, what's wrong?\nIt's done.{05}{05}{05}
+@50
+!!\nIs it done?\nThat is Patrol...{05}{05}{05}
+@51
+I see...\nHm? What's wrong?{05}{05}{05}
+@52
+I-I need...\nthe privy too...{05}{05}{05}
+@53
+Good grief, what was that...?\nZhou Yu! Gold and rice are\nsorted! Next, troops!{05}{05}{05}
+@54
+Now, now, Lord Sun Ce.\nDon't be so stingy here.{05}{05}{05}
+@55
+That was rough...\nThose two...\nThey should've gone first...{05}{05}{05}
+@56
+Now, now, now,\nLord Sun Ce.{05}{05}{05}
+@57
+Don't talk like Kan Ze!\nAnd you calling me "Lord"\nis creepy!{05}{05}{05}
+@58
+Hahaha!\nNow you sound like\nyourself at last!{05}{05}{05}
+@59
+Hmph! Oh well.\nWe have enough gold and rice.\nNext, our army.{05}{05}{05}
+@60
+Then I know just\nthe men.{05}{05}{05}
+@61
+You called\nfor us?{05}{05}{05}
+@62
+Oh!\nLord Cheng Pu and\nLord Han Dang!{05}{05}{05}
+@63
+Cheng Pu, styled Demou, an elder\nwho served three generations of\nSuns. Found the seal with Sun Jian.{05}{05}{05}
+@64
+Han Dang, styled Yigong, also\nserved three generations. His\nfeats at Chibi come later...{05}{05}{05}
+@65
+...Hey, Zhou Yu.\nWhat are you muttering\nto yourself, possessed?{05}{05}{05}
+@66
+W-well,\nI thought I'd introduce\nthem...{05}{05}{05}
+@67
+I know Cheng Pu and Han Dang\nwell. No need for introductions.\nAnd "three generations"?{05}{05}{05}
+@68
+R-right.\nThen, you two, please explain\nabout the army.{05}{05}{05}
+@69
+I'm Han Dang, as introduced.\nI'll start...{05}{05}{05}
+@70
+There are two ways to\nraise troops:\n{1B}C3Enlist{1B}C1 and {1B}C3Conscript{1B}C1.{05}{05}{05}
+@71
+Enlist, as it says,\nseeks volunteers. Conscript\ndrafts men by force.{05}{05}{05}
+@72
+By force? Won't conscripting\nlower support\nand fame?{05}{05}{05}
+@73
+It will. But it costs less\ngold than enlisting,\nwhich is an advantage.{05}{05}{05}
+@74
+That's no advantage! I won't\ndo it unless I must!\nI can't lose the people's trust!{05}{05}{05}
+@75
+(He has his father's spirit.\n His future looks bright.){05}{05}{05}
+@76
+What are you grinning\nabout? Is the explanation\nover?{05}{05}{05}
+@77
+(But spirit alone won't do\n for a ruler. It depends on\n whether he's good at war...){05}{05}{05}
+@78
+Hmm... he seems lost in\nsome daydream.\nCheng Pu! Go on!{05}{05}{05}
+@79
+I am Cheng Pu,\nas introduced earlier.{05}{05}{05}
+@80
+Enough introductions!\nGo on!{05}{05}{05}
+@81
+Enlist or Conscript, it is\nnot enough just to raise\ntroops.{05}{05}{05}
+@82
+You must {1B}C3Organize{1B}C1 them to\nassign the troops to\nofficers.{05}{05}{05}
+@83
+You can organize right after\nenlisting or conscripting,\nbut usually use {1B}C3Organize{1B}C1.{05}{05}{05}
+@84
+Troops not assigned\nbecome reserves.{05}{05}{05}
+@85
+Hmm...\nHow many troops can\nan officer lead?{05}{05}{05}
+@86
+The ruler and strategist\ncan lead up to 20000.{05}{05}{05}
+@87
+Others depend on their\n{1B}C3general rank{1B}C1.{05}{05}{05}
+@88
+General rank...\nGiven with the Personnel\ncommand {1B}C3Appoint{1B}C1, right?{05}{05}{05}
+@89
+Yes. High ranks can't be\ngiven unless the officer\nhas high valor.{05}{05}{05}
+@90
+I see. So an officer I want\nto rank highly just needs\nto excel.{05}{05}{05}
+@91
+(My, how quick he is.\n He may be even wiser\n than Lord Sun Jian...){05}{05}{05}
+@92
+Hey! Cheng Pu!{05}{05}{05}
+@93
+(But Lord Han Dang would agree,\n he's not there yet as a ruler.\n It depends on war skill...){05}{05}{05}
+@94
+Tch! Cheng Pu too...{05}{05}{05}
+@95
+I'll explain the last part.{05}{05}{05}
+@96
+Please. But don't you end\nup lost in thought\ntoo.{05}{05}{05}
+@97
+!!!\nI-I'd never do\nsuch a thing...{05}{05}{05}
+@98
+Why look away?\nHm?\nWhy?{05}{05}{05}
+@99
+Ah, ahem!\nAfter organizing, {1B}C3Train{1B}C1.{05}{05}{05}
+@100
+(Just brushed it off...){05}{05}{05}
+@101
+Training raises the training\nand morale of all troops in\nthe city except reserves.{05}{05}{05}
+@102
+It needs a {1B}C3military officer{1B}C1,\nso keep that in mind.{05}{05}{05}
+@103
+Finally, let's look at\nthe {1B}C3Military{1B}C1 commands.{05}{05}{05}
+@104
+There are also {1B}C3Move{1B}C1 and {1B}C3War{1B}C1.\nMove goes to an empty city\nor another city you own.{05}{05}{05}
+@105
+I'll explain war another\ntime. That's all.\nAny questions?{05}{05}{05}
+@106
+(That ended normally...)\nNo, none... but when you\ngo, take those two with you.{05}{05}{05}
+@107
+Lord Zhang Zhao keeps\nmuttering "alliance."{05}{05}{05}
+@108
+The state is rich!\nThe army is strong!\nA rich state, a strong army!{05}{05}{05}
+@109
+Zhou Yu!\nNow's our chance! First we\nstrike Liu Biao to avenge Father!{05}{05}{05}
+@110
+Wait. Even with a rich\nstate and strong army,\none thing still matters.{05}{05}{05}
+@111
+What?!\nThis time even I\ncan't guess...{05}{05}{05}
+@112
+Attacking in hot blood\nbrings no good. Liu Biao\nisn't our only foe.{05}{05}{05}
+@113
+And Liu Biao is mighty. We\ncan't face him yet. To secure\nour base, we aim for Jiangdong.{05}{05}{05}
+@114
+I see... Beat Liu Yao, Yan Baihu\nand Wang Lang first. But Yuan Shu\nis worrying...{05}{05}{05}
+@115
+Yes, we bought his goodwill\nwith the seal, but he's sure to\nbe eyeing more land.{05}{05}{05}
+@116
+{1B}C4Hihihihi! With the seal,\nI am emperor!\nAll of you, obey me!{1B}C1{05}{05}{05}
+@117
+Just remembering him makes\nme angry... But we must keep\nhim in check.{05}{05}{05}
+@118
+Hohoho...\nTo us...{05}{05}{05}
+@119
+...will you leave it?\nHohoho.{05}{05}{05}
+@120
+Oh! Aren't you the Two\nZhangs, Lord Zhang Zhao\nand Lord Zhang Hong?{05}{05}{05}
+@121
+Hohoho.\nFor diplomacy...{05}{05}{05}
+@122
+...ask the Two Zhangs!\nHohoho.{05}{05}{05}
+@123
+Good!\nThen I'm counting on you!{05}{05}{05}
+@124
+Hohoho.\nLet us explain.{05}{05}{05}
+@125
+First, look at this.\nHohoho.{05}{05}{05}
+@126
+Whoa whoa whoa!\nIf it isn't hateful\nLiu Biao!{05}{05}{05}
+@127
+Hohoho.\nWe understand how\nyou feel, but...{05}{05}{05}
+@128
+...please don't get\nso excited.\nHohoho.{05}{05}{05}
+@129
+Seeing his face, I just...\nAll right, go on.{05}{05}{05}
+@130
+Hohoho.\nLook here.\nIt says {1B}C3Hostility{1B}C1.{05}{05}{05}
+@131
+This shows Liu Biao's\nhostility toward you,\nLord Sun Ce. Hohoho.{05}{05}{05}
+@132
+Hm! High means\nstrong hostility.\nLiu Biao, curse him!{05}{05}{05}
+@133
+Hohoho. This hostility can be\nlowered with the Diplomacy\ncommand {1B}C3Gift{1B}C1.{05}{05}{05}
+@134
+If he accepts it, that is.\nNow look at this.\nHohoho.{05}{05}{05}
+@135
+Yuan Shu...\nHis hostility is low,\nas you'd expect.{05}{05}{05}
+@136
+Hohoho. To guard our back\nwhile we take Jiangdong,\nlet's ally with Yuan Shu.{05}{05}{05}
+@137
+It's the Diplomacy command\n{1B}C3Alliance{1B}C1. Let's try it.\nHohoho.{05}{05}{05}
+@138
+Hmm... With that monkey...\nBut if it's needed to unite\nthe realm, I'll do it.{05}{05}{05}
+@139
+Hohoho.\nIt worked.\nAlliances have benefits.{05}{05}{05}
+@140
+You can receive {1B}C3Aid{1B}C1, do\n{1B}C3weapon development{1B}C1, or launch\n{1B}C3joint{1B}C1 attacks. Hohoho.{05}{05}{05}
+@141
+I see.\nUse what can be used.\nI'll play monkey-trainer.{05}{05}{05}
+@142
+Hohoho.{05}{05}{05}
+@143
+Hohoho.{05}{05}{05}
+@144
+By the way, can't you do\nsomething about taking turns\nand all the "hohoho"?{05}{05}{05}
+@145
+!!! We'll stop laughing... But\ntaking turns...{05}{05}{05}
+@146
+That we cannot stop!!\nWe are, after all,\nthe Two Zhangs!!{05}{05}{05}
+@147
+Hmm... I don't follow...\nW-well, never mind.\nAnything else?{05}{05}{05}
+@148
+There are also {1B}C3schemes{1B}C1\nto use on other forces.{05}{05}{05}
+@149
+Look at this.{05}{05}{05}
+@150
+There's a lot.\nExplain them briefly.{05}{05}{05}
+@151
+Ho.\n{1B}C3Rumor{1B}C1 lowers a city's support\nand its officers' loyalty.{05}{05}{05}
+@152
+{1B}C3Turncoat{1B}C1 gets an enemy officer\nto betray his side in battle.\nHo.{05}{05}{05}
+@153
+Hoho.\n{1B}C3Rival Tigers{1B}C1 makes a city's\ngovernor declare independence.{05}{05}{05}
+@154
+{1B}C3Incite{1B}C1 stirs the people\nof a city to revolt.\nHoho.{05}{05}{05}
+@155
+Hohoho.\n{1B}C3Sabotage{1B}C1 lowers a city's\ndefense.{05}{05}{05}
+@156
+{1B}C3Plant Agent{1B}C1 slips one of\nyour officers into an enemy\nforce. Hohoho.{05}{05}{05}
+@157
+!!!!{05}{05}{05}
+@158
+Lord Zhou Yu has\nscored a point.\nHohoho.{05}{05}{05}
+@159
+Zhou Yu!{05}{05}{05}
+@160
+I didn't get to do it\nearlier, so I just...\nHoho...{05}{05}{05}
+@161
+E-enough!\nI told you all to stop\nlaughing!{05}{05}{05}
+@162
+(Still, what a colorful\n bunch of retainers\n I've gathered...){05}{05}{05}
+@163
+Sun Ce!\nThis is no time for\nthinking! Now we march!{05}{05}{05}
+@164
+(......\n Where did that dignified\n Zhou Yu from the start go...){05}{05}{05}

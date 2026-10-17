@@ -1,0 +1,244 @@
+@0
+{02}{1E}fﾈ Army - Strategy{05}{05}{05}
+@1
+{1B}C6Interrupting{1B}C1{05}{05}{05}
+@2
+Cancel this command and\nreturn to the first screen?{05}{05}{05}
+@3
+{02}{1E}fﾈ, your orders?{05}{05}{05}
+@4
+There are no commands you can carry out.{05}{05}{05}
+@5
+No orders remain.{05}{05}{05}
+@6
+No {02}- minister can carry this out.{05}{05}{05}
+@7
+{02}- <Minister  Vigor {1B}C4{02}({1B}C1  Gold {1B}C4{02}){1B}C1  {1B}C6Uses order{1B}C1>{05}{05}{05}
+@8
+{02}- <Minister  Vigor {1B}C4{02}({1B}C1  {1B}C6Uses order{1B}C1>{05}{05}{05}
+@9
+{02}- <Vigor {1B}C4{02}({1B}C1  {1B}C6Uses order{1B}C1>{05}{05}{05}
+@10
+{02}- <{1B}C6Uses order{1B}C1>{05}{05}{05}
+@11
+{02}- <Gold {1B}C4100{1B}C1  {1B}C6Uses order{1B}C1>{05}{05}{05}
+@12
+{02}- <Each: Gold {1B}C4100{1B}C1 Food {1B}C4500{1B}C1  {1B}C6Uses order{1B}C1>{05}{05}{05}
+@13
+Appoint or dismiss advisors, governors and generals.{05}{05}{05}
+@14
+Assign ministers.{05}{05}{05}
+@15
+View information on each ruler.{05}{05}{05}
+@16
+View information on each city.{05}{05}{05}
+@17
+View information on all officers.{05}{05}{05}
+@18
+Check the council's goal.{05}{05}{05}
+@19
+View information on your officers.{05}{05}{05}
+@20
+View each city's battlefield map.{05}{05}{05}
+@21
+End this month's orders.{05}{05}{05}
+@22
+View city information on the map.{05}{05}{05}
+@23
+Show the Function commands.{05}{05}{05}
+@24
+No orders remain.{05}{05}{05}
+@25
+No officer can carry this out.{05}{05}{05}
+@26
+There are no eligible officers.{05}{05}{05}
+@27
+There are no eligible forces.{05}{05}{05}
+@28
+There are no eligible cities.{05}{05}{05}
+@29
+Not enough funds (at least Gold {1B}C4100{1B}C1).{05}{05}{05}
+@30
+No city can be developed.{05}{05}{05}
+@31
+No city can be patrolled.{05}{05}{05}
+@32
+There are no goods to trade.{05}{05}{05}
+@33
+Gold and food are at maximum; can't trade.{05}{05}{05}
+@34
+No city can trade.{05}{05}{05}
+@35
+Not enough funds (Gold {1B}C42000{1B}C1).{05}{05}{05}
+@36
+No city can enlist troops.{05}{05}{05}
+@37
+Not enough funds (Gold {1B}C4500{1B}C1).{05}{05}{05}
+@38
+No city can conscript troops.{05}{05}{05}
+@39
+No city can train troops.{05}{05}{05}
+@40
+No city can be plundered.{05}{05}{05}
+@41
+No city can be moved to.{05}{05}{05}
+@42
+No officer can move.{05}{05}{05}
+@43
+No city can organize troops.{05}{05}{05}
+@44
+No city can be invaded.{05}{05}{05}
+@45
+No officer can invade.{05}{05}{05}
+@46
+No officer can be recruited.{05}{05}{05}
+@47
+Not enough funds (Gold {1B}C4500{1B}C1 needed).{05}{05}{05}
+@48
+Not enough funds (Gold {1B}C4100{1B}C1 needed).{05}{05}{05}
+@49
+No officer needs a reward.{05}{05}{05}
+@50
+You have no items to give or take.{05}{05}{05}
+@51
+No subordinate can give or take items.{05}{05}{05}
+@52
+Ministers cannot be assigned this month.{05}{05}{05}
+@53
+You have no subordinates.{05}{05}{05}
+@54
+No officer can be appointed.{05}{05}{05}
+@55
+No city can carry this out.{05}{05}{05}
+@56
+Not enough funds (each: Gold {1B}C4100{1B}C1, Food {1B}C4500{1B}C1).{05}{05}{05}
+@57
+No more officers can go training (max 10).{05}{05}{05}
+@58
+There are no eligible governors.{05}{05}{05}
+@59
+No ally can be asked for help.{05}{05}{05}
+@60
+You have no gifts to send.{05}{05}{05}
+@61
+Already researching {1B}C6{02}-{1B}C1 with {02}{01}ﾈ.{05}{05}{05}
+@62
+No weapons can be researched.{05}{05}{05}
+@63
+Not enough research time (at least {02}( months needed).{05}{05}{05}
+@64
+Not enough research funds (at least Gold {1B}C4{02}({1B}C1 needed).{05}{05}{05}
+@65
+No city can join a joint operation.{05}{05}{05}
+@66
+End this month's orders.\nIs that all right?{05}{05}{05}
+@67
+Orders still remain.\nEnd this month's orders\nanyway?{05}{05}{05}
+@68
+That information cannot be viewed.{05}{05}{05}
+@69
+Which ruler do you want to check?{05}{05}{05}
+@70
+No ruler has been selected.{05}{05}{05}
+@71
+What do you want to check about our army?{05}{05}{05}
+@72
+What do you want to check about {02}{01}ﾈ?{05}{05}{05}
+@73
+Diplomatic relations with our army.{05}{05}{05}
+@74
+Diplomatic relations of {02}{01}ﾈ.{05}{05}{05}
+@75
+Select the territory to check.{05}{05}{05}
+@76
+This is not {02}-'s territory.{05}{05}{05}
+@77
+{02}-'s officers.{05}{05}{05}
+@78
+Which city do you want to view?{05}{05}{05}
+@79
+No city has been selected.{05}{05}{05}
+@80
+What do you want to check about {02}{14}ﾈ?{05}{05}{05}
+@81
+There are no officers in {02}{14}ﾈ.{05}{05}{05}
+@82
+Officers in {02}{14}ﾈ.{05}{05}{05}
+@83
+Select the officer to check.{05}{05}{05}
+@84
+Items held by {02}{01}ﾈ.{05}{05}{05}
+@85
+{1B}C6Terrain:{1B}C1 %s{05}{05}{05}
+@86
+Select the governor of {02}{14}ﾈ.{05}{05}{05}
+@87
+No governor has been selected.{05}{05}{05}
+@88
+Select the ruler you will now play.{05}{05}{05}
+@89
+No ruler has been selected.{05}{05}{05}
+@90
+Stop the demo and resume play\nas a ruler of your choice.\nIs that all right?{05}{05}{05}
+@91
+Resume play as {02}{01}ﾈ.\nIs that all right?{05}{05}{05}
+@92
+Lord {02}{02}ﾈ, {02}{01}ﾈ of {02}{14}ﾈ has gone over to {02}{03}ﾈ.{05}{05}{05}
+@93
+Lord {02}{02}ﾈ, {02}{01}ﾈ of {02}{14}ﾈ met someone in secret.{05}{05}{05}
+@94
+It seems {02}{01}ﾈ of {02}{14}ﾈ has gone over to {02}{03}ﾈ.{05}{05}{05}
+@95
+{02}{01}ﾈ came to recruit us, but we talked them round and brought them into our realm.{05}{05}{05}
+@96
+There is unrest among the people of {02}{14}ﾈ.{05}{05}{05}
+@97
+Disaster! Someone has damaged the walls of {02}{14}ﾈ!{05}{05}{05}
+@98
+Ugly rumors about Lord {02}{02}ﾈ are spreading in {02}{14}ﾈ.{05}{05}{05}
+@99
+It seems {02}{01}ﾈ is gathering volunteer troops.{05}{05}{05}
+@100
+It seems {02}{01}ﾈ is conscripting troops.{05}{05}{05}
+@101
+It seems {02}{01}ﾈ is plundering.{05}{05}{05}
+@102
+It seems %s and %s have formed an alliance.{05}{05}{05}
+@103
+Year {02}(, month {02}): {02}{01}ﾈ achieved the great feat of unifying the land...{05}{05}{05}
+@104
+The house of %s vanished from history...{05}{05}{05}
+@105
+No hero appeared to unify the land... Will the day ever come when the people are freed from the misery of this chaotic age?{05}{05}{05}
+@106
+Ugly rumors about {02}{01}ﾈ are spreading in {02}{14}ﾈ.{05}{05}{05}
+@107
+No officer can carry this out.{05}{05}{05}
+@108
+{02}{01}ﾈ gained the ability {1B}C6%s{1B}C1.{05}{05}{05}
+@109
+{01}S{02}e2This month I can change the assignments{01}C2{00}. I must place each officer according to their aptitude...{05}{05}{05}Now then, this month I can change the ministers{01}C0{00}.{05}{05}{05}
+@110
+The people of {02}{14}ﾈ are spreading rumors.{05}{05}{05}
+@111
+=
+@112
+{01}S{02}e3What wide, fertile land! We can grow plenty of rice now!{05}{05}{05}It's all thanks to Lord {02}{01}ﾈ. Look at these fields! I can't wait for the harvest.{05}{05}{05}Lord {02}{01}ﾈ developed the land for us. Now it's up to us to work and bring in the crops...{05}{05}{05}
+@113
+{01}S{02}e3Hardly anything grows in fields this small. If only that forest were farmland...{05}{05}{05}We need more farmland. With what we have now, a bad harvest would be a disaster.{05}{05}{05}The crops won't grow and life is hard... I wish they'd develop more land.{05}{05}{05}
+@114
+{01}S{02}e3Thanks to Lord {02}{01}ﾈ's flood control, we can all rest easy. No more fear of storms!{05}{05}{05}Lord {02}{01}ﾈ built irrigation canals for us, so we can grow rice without worry.{05}{05}{05}Working so hard on flood control for our sake... Lord {02}{01}ﾈ truly is a wise ruler.{05}{05}{05}
+@115
+{01}S{02}e3Lord {02}{01}ﾈ doesn't see the danger of floods. Flood control like this...{05}{05}{05}Flood control matters so much... As they say, "He who rules the waters rules the land."{05}{05}{05}I wish they'd do some flood control. In the last rains the river nearly burst its banks!{05}{05}{05}
+@116
+{01}S{02}e3With commerce up, the town has really come alive. That's our Lord {02}{01}ﾈ for you!{05}{05}{05}The town is so lively lately, every day is a joy. It's all thanks to Lord {02}{01}ﾈ.{05}{05}{05}Lord {02}{01}ﾈ built roads for us, so merchants come and go and the town is bustling.{05}{05}{05}
+@117
+{01}S{02}e3Please boost our commerce. Even one new road would liven up the town, I think.{05}{05}{05}It's not my place to say, but I think commerce ought to be improved.{05}{05}{05}Why won't Lord {02}{01}ﾈ improve commerce? It would raise our income...{05}{05}{05}
+@118
+{01}S{02}e3What mighty walls! Truly impregnable. We can live in this town without fear.{05}{05}{05}What a splendid castle it's become. We're safe whenever the enemy attacks.{05}{05}{05}They say Lord {02}{01}ﾈ strengthened the castle to protect us people.{05}{05}{05}
+@119
+{01}S{02}e3Rumor has it the north wall is weak. Maybe I should leave town before the fighting...{05}{05}{05}Will this castle hold? If the enemy attacks, it won't last a moment.{05}{05}{05}I'm worried about the defenses. They do say "attack is the best defense", but...{05}{05}{05}
+@120
+{01}S{02}e3We'll follow Lord {02}{01}ﾈ anywhere. We're counting on you, Lord {02}{01}ﾈ!{05}{05}{05}All the townsfolk believe Lord {02}{01}ﾈ will bring peace to this age of chaos.{05}{05}{05}Everyone believes in Lord {02}{01}ﾈ. You are our only hope in this chaotic age...{05}{05}{05}
+@121
+{01}S{02}e3Why, why does Lord {02}{01}ﾈ torment us so... This world is hell...{05}{05}{05}Think more of us common folk! A king who neglects his people is doomed to fall.{05}{05}{05}And I believed Lord {02}{01}ﾈ was a wise ruler... I'm so disillusioned with them...{05}{05}{05}

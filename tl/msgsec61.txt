@@ -1,0 +1,357 @@
+@0
+{1B}C5Victory{1B}C1
+　Get Guan Yu to the exit
+　All enemies lost
+
+{1B}C3Defeat{1B}C1
+　Guan Yu defeated
+　All allies lost{05}{05}{05}
+@1
+{1B}C5Victory{1B}C1
+　Defeat Yuan Shang, Yuan Tan
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@2
+{1B}C5Victory{1B}C1
+　Defeat Liu Bei
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　20 days pass{05}{05}{05}
+@3
+{1B}C5Victory{1B}C1
+　Defeat Sun Quan
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@4
+{1B}C5Victory{1B}C1
+　Defeat Han Xuan, Jin Xuan,
+　Zhao Fan, Liu Du
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@5
+{1B}C5Victory{1B}C1
+　Defeat Ma Chao
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@6
+{1B}C5Victory{1B}C1
+　Defeat Liu Zhang
+
+{1B}C3Defeat{1B}C1
+　All allies lost
+　30 days pass{05}{05}{05}
+@7
+{1B}C6Special Reward!{1B}C1\n　"Fury" beat a Cao officer\n　Obtained a new weapon!{05}{05}{05}
+@8
+{1B}C6Special Reward!{1B}C1\n　"Feud" on Shang and Tan\n　Obtained a new weapon!{05}{05}{05}
+@9
+{1B}C6Special Reward!{1B}C1\n　Beat Zhang Fei, Zhao Yun same day\n　A hidden battle has opened!{05}{05}{05}
+@10
+{1B}C6Special Reward!{1B}C1\n　Broke Wu's naval formation\n　A hidden battle has opened!{05}{05}{05}
+@11
+{1B}C6Special Reward!{1B}C1\n　Defeated Wei Yan and Huang Zhong\n　Obtained a new weapon!{05}{05}{05}
+@12
+{1B}C6Special Reward!{1B}C1\n　No fighting Han Sui for 10 days\n　Obtained a new weapon!{05}{05}{05}
+@13
+{1B}C6Special Reward!{1B}C1\n　"Lurk" worked on Liu Zhang\n　Obtained a new weapon!{05}{05}{05}
+@14
+Guan Yu, how many times must\nI say it? Only under me will\nyour might flourish.{05}{05}{05}
+@15
+Enough!\nI have no lord but\nmy brother!{05}{05}{05}
+@16
+Heh, a loyal man, just as\nthey say. I want him\nall the more!{05}{05}{05}
+@17
+Come! Whoever captures\nthat hero alive gets any\nreward he likes!{05}{05}{05}
+@18
+Sir, there's what looks like\nenemy reinforcements ahead.\nThe %s army, they say...{05}{05}{05}
+@19
+Oh, the %s army?\nI've heard of them.\nThis won't be dull.{05}{05}{05}
+@20
+...That said, we're badly\noutnumbered. What to do?{05}{05}{05}
+@21
+...Hm?!\nAh, Heaven smiles on me!\nYou there!{05}{05}{05}
+@22
+I must get through here and\nreach my brother.\nWill you lend me a hand?{05}{05}{05}
+@23
+Cao Cao's army is strong...\nbut together {1B}C6let us fight\nlike raging lions!{1B}C1{05}{05}{05}
+@24
+Guan Yu! You won't escape!\nThis is the end of the\nroad for you!{05}{05}{05}
+@25
+My lord wants you alive,\nbut who cares!\nTaste my blade!{05}{05}{05}
+@26
+Well done!\nI can't lose to you,\neither!{05}{05}{05}
+@27
+What a hero!\nHeh... This is good.\nI want him too now.{05}{05}{05}
+@28
+My lord...\nIf this goes on, our men\nwon't hold out.{05}{05}{05}
+@29
+Zhang Liao, I won't hear it.\nI just can't stop\nwanting them.{05}{05}{05}
+@30
+You saved me. Now I can go\nto my lord. You have my\nheartfelt thanks.{05}{05}{05}
+@31
+In these chaotic times,\nwe'll meet again on\nthe battlefield.{05}{05}{05}
+@32
+...Perhaps as foes next time.\nUntil then, farewell!{05}{05}{05}
+@33
+Right!\nCapture Guan Yu!{05}{05}{05}
+@34
+Yes, sir!\nEveryone, stay alert!{05}{05}{05}
+@35
+Wahaha!\nAll the men I desire!\nYou'll all be mine!{05}{05}{05}
+@36
+(Truly...\n a villain for\n chaotic times...!){05}{05}{05}
+@37
+Lord Yuan Shang, Lord Yuan\nTan, the %s army is near.\nPrepare to fight!{05}{05}{05}
+@38
+I know. More to the point,\nShen Pei, why report to\nmy brother too?{05}{05}{05}
+@39
+W-well, that's...{05}{05}{05}
+@40
+Haha, don't pick on him.\nYou may be the heir, but\nI am the eldest.{05}{05}{05}
+@41
+I didn't ask you, brother.\nAnd mind how you speak\nto the head of the house.{05}{05}{05}
+@42
+Why, you...! I'll fight up\nfront. Watch your brother's\nmight, Shang!{05}{05}{05}
+@43
+Then I won't back down\neither! I'll show who is\nthe true heir!{05}{05}{05}
+@44
+Awawa...\n{1B}C6I hope the enemy doesn't\nexploit their feud...{1B}C1{05}{05}{05}
+@45
+Whoa?!\nThese are Yuan Shang's men!\nHey, Shang! Stop!{05}{05}{05}
+@46
+...F-fall for a trick if you\nlike, but don't drag\nothers into it!{05}{05}{05}
+@47
+Wha... you fell for it too!\nThat's it!\nMen, show no mercy!{05}{05}{05}
+@48
+Hah, just what I wanted!\nAny man who holds back\nis a coward! Go!{05}{05}{05}
+@49
+Because of me, the House\nof Yuan... I can't face\nour father now.{05}{05}{05}
+@50
+Ugh... Lord Yuan Shang...{05}{05}{05}
+@51
+Haha, don't sulk, Shang.\nYou're not the only pillar\nof the House of Yuan.{05}{05}{05}
+@52
+Brother...\nHmph... I never asked\nfor your help.{05}{05}{05}
+@53
+Why can't you be honest,\nShang!\nShaaang!{05}{05}{05}
+@54
+Hey! Let go of me!\nI'm the head of the house!{05}{05}{05}
+@55
+Heh, playing around without\na care... Just watch.\nGiven a chance, I, the second son...{05}{05}{05}
+@56
+Ah, Lord Yuan Xi.\nYou were here?{05}{05}{05}
+@57
+Wh-why you...\nI was here all along!{05}{05}{05}
+@58
+Thanks to my efforts,\nthe House of Yuan is\nsafe again today... Ahem.{05}{05}{05}
+@59
+What nonsense. How much did\nyou drag down my\nbrother's army?{05}{05}{05}
+@60
+Oh, you said it? Looks like\nyou need your brother's\nschooling... Hold still!{05}{05}{05}
+@61
+Even when we win, this...\nSigh...{05}{05}{05}
+@62
+Ugh, they caught up.\nA fine surprise attack, %s\narmy. We must strike back...{05}{05}{05}
+@63
+No, my lord, you must not.\nThink only of getting off\nthis battlefield.{05}{05}{05}
+@64
+...Very well.\nI'm in your debt, all of you.{05}{05}{05}
+@65
+I am Zhao Zilong!\nNone shall lay a finger\non my lord! Come!{05}{05}{05}
+@66
+Let me have some fun too!\nZhang Fei of Yan is here!\nTry and get past me!{05}{05}{05}
+@67
+{1B}C6Facing those two in a row,{1B}C1\nthe %s army won't get\noff lightly.{05}{05}{05}
+@68
+Yes, good, but...\nZhang Fei, Zhao Yun,\ncome back alive...!{05}{05}{05}
+@69
+Well then,\nI'll be off...{05}{05}{05}
+@70
+Hm...?\nKongming, where are you\ngoing with so few men?{05}{05}{05}
+@71
+Heh, don't worry.\nI'm only going to arrange\nreinforcements.{05}{05}{05}
+@72
+Buy us 20 days, and the ships\nto fetch us should arrive.\nTrust in us.{05}{05}{05}
+@73
+In time... Is my lord safe?\nI was right to follow the\nStrategist. Hold on a bit more...{05}{05}{05}
+@74
+%s army, until then\nI shall be your opponent.\nAre you prepared...?{05}{05}{05}
+@75
+Zhang Fei... Zhao Yun...\nSuch mighty warriors,\nbeaten so easily.{05}{05}{05}
+@76
+How dare you, my precious\ngenerals...! Yet I'd like\nto see such heroes' faces...{05}{05}{05}
+@77
+Is this the end?\nForgive me, all of you...{05}{05}{05}
+@78
+My lord!\nDamn, it seems the enemy\nwas faster.{05}{05}{05}
+@79
+A fearsome %s army. They say\nspeed is prized in war...\nand their strength is real too.{05}{05}{05}
+@80
+I yield the victory this time,\nbut when next we meet, I'll\nshow you all my schemes...{05}{05}{05}
+@81
+My lord!\nThe ships are ready!\nLet us withdraw.{05}{05}{05}
+@82
+Oh! I trusted you!\nYou truly saved me.\nI, Xuande, thank you.{05}{05}{05}
+@83
+%s army,\nwe'll settle this another\ntime. Farewell!{05}{05}{05}
+@84
+They challenge us on water...\nWhat foolish foes,\neh, Commander?{05}{05}{05}
+@85
+Yes! With Wu's elite navy,\nwe'll send them to the\nbottom of the Yangtze.{05}{05}{05}
+@86
+...Stay out of this, Lord\nKongming. I need none of your\nmagic. Watch how Wu fights.{05}{05}{05}
+@87
+Heh, as you wish.\nIf ever you need me,\nI am at your service.{05}{05}{05}
+@88
+I said I don't need your\nhelp! Ugh...\n*cough cough*!{05}{05}{05}
+@89
+Oh, are you all right?\nWhy do you get so worked\nup over Kongming?{05}{05}{05}
+@90
+*cough*... *pant pant*\nI am perfectly calm.{05}{05}{05}
+@91
+(Lord Zhou Yu seems\n rather tense...){05}{05}{05}
+@92
+{1B}C6(I hope his prized navy\n isn't defeated...){1B}C1{05}{05}{05}
+@93
+......?!\nMy fleet is sinking...{05}{05}{05}
+@94
+To face Wu's navy head-on\nand beat it...{05}{05}{05}
+@95
+I'd heard the rumors, but\njust how many mighty\nwarriors have they?!{05}{05}{05}
+@96
+Ugh... All forces, withdraw!\nWhat a disgrace!{05}{05}{05}
+@97
+I am so sorry...\nHow can I ever make up\nfor this blunder...{05}{05}{05}
+@98
+Ah... no, I didn't mean you,\nCommander. It's the %s army\nI hate.{05}{05}{05}
+@99
+Indeed... Given the foe,\nLord Zhou Yu was\nnot at fault.{05}{05}{05}
+@100
+Ugh... Inside he's laughing\nat me. Kong... *cough\ncough*!{05}{05}{05}
+@101
+Commander?!\nS-someone, a doctor!{05}{05}{05}
+@102
+The enemy is retreating!\nGood! Raise a cheer\nof victory!{05}{05}{05}
+@103
+Heh...\nThe natural result.{05}{05}{05}
+@104
+Yes, I'll keep counting on\nyou, Commander.\nHahaha!{05}{05}{05}
+@105
+Hahaha!\nHa... *cough cough*!{05}{05}{05}
+@106
+Han Xuan, Governor of\nChangsha! Here to defend\nour Jing!{05}{05}{05}
+@107
+Jin Xuan, Governor of Wuling!\n%s army, think you'll\nleave here alive?!{05}{05}{05}
+@108
+Zhao Fan, Governor of\nGuiyang! All of us, as one,\nlet's drive off the foe!{05}{05}{05}
+@109
+L-Liu Du, Governor of\nLingling!\nUm... nothing to add!{05}{05}{05}
+@110
+Together, we four have no\nequal! We are the Four\nof South Jing!{05}{05}{05}
+@111
+(...Well, that ought\n to do for\n a show of bluster.){05}{05}{05}
+@112
+(I'm not cut out for\n war anyway. I'm more...\n the brainy type.){05}{05}{05}
+@113
+You there, Wei Yan, Huang\nZhong! Fight hard!\n{1B}C6You're our last hope!{1B}C1{05}{05}{05}
+@114
+Yes, sir!{05}{05}{05}
+@115
+...Understood!{05}{05}{05}
+@116
+Eeek!\nThat useless Wei Yan and\nthat old fool Huang Zhong!{05}{05}{05}
+@117
+No, no, I must stay calm...\nEveryone, don't panic so.{05}{05}{05}
+@118
+(Now Jing is as good\n as naked! What do I do...\n what do I do...!){05}{05}{05}
+@119
+All four of us came back\nbeaten together, eh?\nIn that case...{05}{05}{05}
+@120
+We surrender.{05}{05}{05}
+@121
+W-we must hand over\nthe castle at once.{05}{05}{05}
+@122
+I'll throw in my brother's\nwife with the castle.{05}{05}{05}
+@123
+Y-you lot, don't you\nhesitate at all?!\nWell, I'll surrender too...{05}{05}{05}
+@124
+Then I'll start...\nJin Xuan, Governor of Wuling!{05}{05}{05}
+@125
+No, no need to do\nthe whole thing...{05}{05}{05}
+@126
+(Honestly, I can't believe\n we won...){05}{05}{05}
+@127
+A worthy foe!\nBehold the spear of\nSplendid Ma Chao!{05}{05}{05}
+@128
+Haha, how reassuring.\nYou look more like your\nfather every day.{05}{05}{05}
+@129
+Lord Ma Chao!\nLeave the vanguard to me!\n{1B}C6I'll show you what I can do!{1B}C1{05}{05}{05}
+@130
+Lord Han Sui is the sworn\nbrother of my father,\nMa Teng...{05}{05}{05}
+@131
+But does he truly see a\nyoung man like me as\nan ally...?{05}{05}{05}
+@132
+No, no, stop that.\n{1B}C6I'll trust Lord Han Sui{1B}C1\nand just fight!{05}{05}{05}
+@133
+Lord Han Sui! How long will\nyou play with the enemy?\nYour men haven't a scratch!{05}{05}{05}
+@134
+Don't tell me...\nYou're in league with the\nenemy?! Only pretending to fight!{05}{05}{05}
+@135
+Wh-what are you saying?!\nNo battle is won by\ndoubting your allies!{05}{05}{05}
+@136
+Hmph. You're no match for\nyour father after all.\nEnough, we withdraw!{05}{05}{05}
+@137
+L-Lord Han Sui,\nplease wai...\nBah! Forget it!{05}{05}{05}
+@138
+With my valor, I'll drive\nthe %s army back\nwith ease!{05}{05}{05}
+@139
+Well done! It galls me,\nbut I must admit the\n%s army's strength.{05}{05}{05}
+@140
+Crossing spears, I see now\nwhy you could stand against\nfamous foes.{05}{05}{05}
+@141
+Well, there's no point\ntalking to myself forever...\nUntil we meet again!{05}{05}{05}
+@142
+Remember this!\nNo one escapes\nmy spear!{05}{05}{05}
+@143
+That was good training\nfor our troops!\nThank you! Hahaha!{05}{05}{05}
+@144
+Awawa...\nThe enemy is closing in?{05}{05}{05}
+@145
+Yes, sir. But Chengdu is a\nnatural fortress...\nThis is a winnable battle.{05}{05}{05}
+@146
+Hm, hmph... Very well.\nI leave it all to you.\nKeep the enemy away.{05}{05}{05}
+@147
+As you wish.\n...Always leaving it\nto others.{05}{05}{05}
+@148
+Hm?\nDid you say something?{05}{05}{05}
+@149
+No, nothing...\n{1B}C6Everyone, use the terrain\nand strike where they're weak{1B}C1!{05}{05}{05}
+@150
+Eek!\nSoldiers sprang up\nout of nowhere!{05}{05}{05}
+@151
+To turn Chengdu's terrain\nagainst us... It seems I\nmisjudged the enemy.{05}{05}{05}
+@152
+...Right, Zhang Song!\nHold the rear and let me\nescape. I'll gather your bones later.{05}{05}{05}
+@153
+Pfft!?\nIt's far too late for that!\nYou must make up your mind.{05}{05}{05}
+@154
+Eh... you don't want to?\nThen I'll surrender.\nI leave it to you, Zhang Song!{05}{05}{05}
+@155
+They say a good bird picks\nits tree... So my eyes\nwere blind after all...{05}{05}{05}
+@156
+The %s army, was it?\nI'll remember you.{05}{05}{05}
+@157
+We held out somehow, but it\nmay not go so well next time.\nWe must stay sharp.{05}{05}{05}
+@158
+Hm? We won?\nI see, I see!\nHaha, splendid!{05}{05}{05}
+@159
+Sigh...\nWas it really for the best...?{05}{05}{05}

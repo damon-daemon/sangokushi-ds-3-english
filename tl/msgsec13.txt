@@ -1,0 +1,570 @@
+@0
+Support in {02}{14}ﾈ is now\n{1B}C4{02}({1B}C1 (+{1B}C4{02}){1B}C1).{05}{05}{05}
+@1
+Support in {02}{14}ﾈ is now\n{1B}C4{02}({1B}C1 (-{1B}C4{02}){1B}C1).{05}{05}{05}
+@2
+Lord {02}{01}ﾈ's fame rose.{05}{05}{05}
+@3
+Lord {02}{01}ﾈ's fame fell.{05}{05}{05}
+@4
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾍ2{05}{05}{05}{02}{01}ﾈ has been wounded.{05}{05}{05}
+@5
+Lord {02}{01}ﾈ has been wounded.{05}{05}{05}
+@6
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾏ2{05}{05}{05}{02}{01}ﾈ has fallen ill.{05}{05}{05}
+@7
+Lord {02}{01}ﾈ has fallen ill.{05}{05}{05}
+@8
+Reserves in {02}{14}ﾈ are now\n{1B}C4{02}({1B}C1 (+{1B}C4{02}){1B}C1).{05}{05}{05}
+@9
+Our army's {02}- is now\n{1B}C4{02}({1B}C1 (+{1B}C4{02}){1B}C1).{05}{05}{05}
+@10
+{02}- in {02}{14}ﾈ is now\n{1B}C4{02}({1B}C1 (+{1B}C4{02}){1B}C1).{05}{05}{05}
+@11
+Give away Gold {1B}C4{02}({1B}C1?\nIs that all right?{05}{05}{05}
+@12
+Give away Food {1B}C4{02}({1B}C1?\nIs that all right?{05}{05}{05}
+@13
+{05}{05}{04}{02}{01}{81}{01}Jﾖ2{05}{05}{05}{01}S{02}e3Everyone, please bear with it. We suffer just as you do.{05}{05}{05}It's because we lack the strength that you must endure this. Forgive us, and hold on.{05}{05}{05}I'm sorry. But I haven't forgotten your hardship. I'll find a way, I promise.{05}{05}{05}
+@14
+{01}S{02}e3Everyone, please bear with it. We suffer just as you do.{05}{05}{05}It's because we lack the strength that you must endure this. I'm sorry... please bear with it.{05}{05}{05}I'm sorry... but I haven't forgotten your hardship. I'll find a way, I promise.{05}{05}{05}
+@15
+{01}S{02}e3Locusts have ravaged our fields, and this is the result. Lord {02}{01}ﾈ, please help us...{05}{05}{05}Look at these fields! The locusts have eaten them bare. Please, send us aid.{05}{05}{05}The locusts ruined everything and we have nothing to eat. Lord {02}{01}ﾈ, food, please...{05}{05}{05}
+@16
+The people are suffering from locusts.\nWhat shall we do?{05}{05}{05}
+@17
+{01}S{02}e4Ah, this will see us through for now. Thank you very much.{05}{05}{05}Oh, th-thank you very much. (But where will I find food to buy with this money...?){05}{05}{05}Thank you very much. (Money's nice, but it won't fill my belly.){05}{05}{05}So much... Thank you very much. *Grumble*... Oh, I'm hungry.{05}{05}{05}
+@18
+{01}S{02}e3Oh, how wonderful! A proper meal at last!{05}{05}{05}Not locusts, I hope... Phew, it isn't. Thank goodness. I gratefully accept.{05}{05}{05}Ah, food... The food I saw in my dreams!{05}{05}{05}
+@19
+{01}S{02}e3Disease is spreading through the town and people are dying. Lord {02}{01}ﾈ, please help us...{05}{05}{05}The plague has me... *cough* Ah, my eyes are dimming. Am I going to die too...?{05}{05}{05}We're sick but have no money for medicine. Everyone just waits to die. The town is like hell.{05}{05}{05}
+@20
+The people are suffering from plague.\nWhat shall we do?{05}{05}{05}
+@21
+{01}S{02}e3Now we can buy medicine. Thank you very much.{05}{05}{05}Thank you very much. I'll use this money to take my mother to a doctor right away.{05}{05}{05}Ah, money... I'll go to the apothecary right now.{05}{05}{05}
+@22
+{01}S{02}e3With proper nourishment we'll soon recover. Thank you very much.{05}{05}{05}If we eat well and build our strength, we'll soon get better. I can't thank you enough.{05}{05}{05}Oh, there are even medicinal herbs in the food... With these we'll surely recover.{05}{05}{05}
+@23
+{05}{05}{04}{02}{01}u{04}=76{01}J{E1}2{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{E0}2{05}{05}{05}{01}S{02}e3Medicine I learned to save the people... Hmm, you'll be fine now{01}C-{00}.{05}{05}{05}In my hands, an illness like this is nothing... There, that should do{01}C0{00}.{05}{05}{05}Take this medicine and rest well... You should be better in a few days{01}C-{00}.{05}{05}{05}
+@24
+{01}S{02}e3Medicine I learned to save the people... There, you'll be fine now{01}C-{00}.{05}{05}{05}In my hands, an illness like this is nothing... Yes, that should do{01}C0{00}.{05}{05}{05}Take this medicine and rest well... You should be better in a few days{01}C-{00}.{05}{05}{05}
+@25
+{01}S{02}e3With my healing arts I shall drive out this sickness... There, you'll be fine now.{05}{05}{05}It seems my secret medicine has cured you.{05}{05}{05}There's no illness the great physician Hua Tuo cannot cure!{05}{05}{05}
+@26
+{05}{05}{04}{02}{01}{81}{01}J{E3}2{05}{05}{05}{01}S{02}e3Hmm... This treatment doesn't work either{01}C/{00}... Ah... I feel dizzy...{05}{05}{05}What... I've never heard of a case like this... *cough* *cough*...{05}{05}{05}Hold on... Ah... {01}C{00}{00} am too weak... Ugh... my head hurts...{05}{05}{05}
+@27
+{01}S{02}e3Hmm... This treatment doesn't work either{01}C/{00}... Ah... I feel dizzy...{05}{05}{05}Oh... I've never heard of a case like this... *cough* *cough*...{05}{05}{05}Hold on... Ah... {01}C{00}{00} am too weak... Ugh... my head hurts...{05}{05}{05}
+@28
+{05}{05}{04}{02}{01}d{04}=0{01}J{E5}2{05}{05}{05}The townsfolk are all worried about {02}{01}ﾈ, who worked so hard to treat them.{05}{05}{05}
+@29
+The townsfolk are all worried about Lord {02}{01}ﾈ, who worked so hard to treat them.{05}{05}{05}
+@30
+{01}S{02}e3The bad harvest left us like this. All the food we have left is this seed rice...{05}{05}{05}Look at everyone's faces! The harvest failed, there's nothing to eat, and we grow thinner by the day.{05}{05}{05}Lord {02}{01}ﾈ, please, please give us food... or the babies will die.{05}{05}{05}
+@31
+The people are suffering from a bad harvest.\nWhat shall we do?{05}{05}{05}
+@32
+{01}S{02}e3Thank you very m... (Ah, I'm so hungry I'm dizzy... I'm going to faint...){05}{05}{05}I'm grateful, but if possible, could we have food too... Er, only if possible!{05}{05}{05}Thank you very much. But would anyone sell food in a famine like this?{05}{05}{05}
+@33
+{01}S{02}e3So much food... I'll hand it out to everyone right away. They'll be overjoyed!{05}{05}{05}Ah, food... Is this a dream? Ow! It's not a dream!{05}{05}{05}So much for us, who couldn't even pay our taxes... I'll never forget this kindness.{05}{05}{05}
+@34
+{01}S{02}e2The flood has drowned our fields and we're at our wits' end. Lord {02}{01}ﾈ, please help us.{05}{05}{05}The river burst its banks and swallowed our homes. What are we to do...?{05}{05}{05}
+@35
+{01}S{02}e3The typhoon blew our roof away and we have nowhere to live. Even a shelter would do...{05}{05}{05}The typhoon ruined the crops. What are we to do now? Can't something be done?{05}{05}{05}The typhoon damaged homes and rebuilding the town is hard. Lord {02}{01}ﾈ, please send aid...{05}{05}{05}
+@36
+The people are suffering from the {02}-.\nWhat shall we do?{05}{05}{05}
+@37
+{01}S{02}e3Thank you very much. Now we can rebuild our broken homes.{05}{05}{05}Thank you very much. I'll use this money to start restoring the town right away.{05}{05}{05}Everyone, look how much we got! Let's start the repairs right away. Let's do our best!{05}{05}{05}
+@38
+{01}S{02}e3Our food was washed away too, so we were in trouble. Thank you very much.{05}{05}{05}We'd all been sharing food with those who lost their homes, so this is a real help.{05}{05}{05}Ah, thank you for the meal. Um... if possible, could you also pay for rebuilding the town?{05}{05}{05}
+@39
+{01}S{02}e3Thank you very much. Now we can put our strength into rebuilding.{05}{05}{05}If only this had come before the disaster... But there's no use looking back...{05}{05}{05}Oh, the embankment is going up before our eyes! Now we're safe from typhoons and floods.{05}{05}{05}
+@40
+Flood control in {02}{14}ﾈ is now\n{1B}C4{02}({1B}C1 (+{1B}C4{02}){1B}C1).{05}{05}{05}
+@41
+{01}S{02}e3We'd like to hold a festival to celebrate the good harvest. May we?{05}{05}{05}This year's harvest was rich and we paid plenty of tax. So we thought we'd hold a festival...{05}{05}{05}Since the harvest was so good, we'd like to hold a festival in town, with your permission.{05}{05}{05}
+@42
+The people are planning a festival\nto celebrate the good harvest.\nWhat shall we do?{05}{05}{05}
+@43
+{05}{05}{04}{02}{01}{81}{01}J{F4}2{05}{05}{05}{01}S{02}e4A festival? If we're attacked at a time like this, we're finished. Clear it away at once!{05}{05}{05}Festivals are for times of peace. There's no need for such things in a chaotic age.{05}{05}{05}If you have time to play like that, work harder!{05}{05}{05}Oh? If you have crops enough for a festival, we'll take them as army provisions.{05}{05}{05}
+@44
+{01}S{02}e3A festival? If we're attacked at a time like this, we're finished. Clear it away at once.{05}{05}{05}If you have time to play like that, why not work harder?{05}{05}{05}Oh? If you have crops enough for a festival, we'll take them as army provisions.{05}{05}{05}
+@45
+{01}S{02}e3The festival is our one small joy, and you'd take even that from us?{05}{05}{05}You didn't have to take the crops we'd set aside for the festival...{05}{05}{05}Calm down, everyone. Resisting will only get us hurt. Let's back down quietly.{05}{05}{05}
+@46
+{05}{05}{04}{02}{01}d{04}=0{01}J{F7}2{05}{05}{05}We confiscated the crops the people had prepared for the festival. They will serve as our provisions.{05}{05}{05}
+@47
+We confiscated the crops the people had prepared for the festival{01}C0{00}. They'll serve as our army's provisions.{05}{05}{05}
+@48
+{05}{05}{04}{02}{01}{81}{01}J{F9}2{05}{05}{05}{01}S{02}e4Now and then it's good to forget the war and have fun with the people. Hey, let me join in!{05}{05}{05}Ha! This looks fun{01}C0{00}. Hey, everyone, won't you let me join?{05}{05}{05}Just watching is no fun. Shall {01}C{00}{00} join in?{05}{05}{05}Right, let me join in too.{05}{05}{05}
+@49
+{01}S{02}e3Now and then it's nice to forget the war and have fun with the people. Hey, {01}C{00}{00} will join in!{05}{05}{05}Ha! This looks fun. Everyone, won't you let me join?{05}{05}{05}Just watching is no fun. Maybe {01}C{00}{00} should join in.{05}{05}{05}
+@50
+{01}S{02}e4Come in, come in! Let's dance together!{05}{05}{05}Well, well! This way, please. Here, have a drink.{05}{05}{05}Let's enjoy tonight! There's plenty of wine and food. Please help yourself.{05}{05}{05}Look, everyone! This one says they'll drain the whole jug! Drink! Drink! Drink!{05}{05}{05}
+@51
+{01}S{02}e2The festival has begun. Everyone seems to be enjoying it in their own way.{05}{05}{05}The festival is at its height. The people's happy faces make you forget this chaotic age... When will true peace come?{05}{05}{05}
+@52
+{01}S{02}e3Bandits have kidnapped my wife! Lord {02}{01}ﾈ, please get her back!{05}{05}{05}Bandits are ravaging the town and we're at our wits' end. Lord {02}{01}ﾈ, please punish them!{05}{05}{05}Those bandits killed my brother... Lord {02}{01}ﾈ, please avenge him!{05}{05}{05}
+@53
+Bandits have appeared in town\nand are tormenting the people.\nWhat shall we do?{05}{05}{05}
+@54
+We'll give the bandits Gold {1B}C41000{1B}C1 to settle this.\nIs that all right?{05}{05}{05}
+@55
+{05}{05}{04}{02}{01}d{04}=0{01}J{00}3{05}{05}{05}{01}S{02}e3The bandits were driven to it by poverty, it seems. The real villain is this chaotic age...{05}{05}{05}Hate the crime, not the criminal... {01}C{00}{00} persuaded them, and they seem to have reformed.{05}{05}{05}We persuaded the bandits. They repented and promised never to do wrong again.{05}{05}{05}
+@56
+Restrain violence with virtue... {01}C{00}{00} don't rule by relying on the sword{01}C0{00}.{05}{05}{05}
+@57
+The people are all praising Lord {02}{01}ﾈ's virtue for settling the matter without force.{05}{05}{05}
+@58
+{05}{05}{04}{02}{01}d{04}=0{01}J{03}3{05}{05}{05}{01}S{02}e3Those bandits say they'll help our army. Good news{01}C2{00}{01}C8{00}.{05}{05}{05}Some of the bandits were moved by our ideals and say they'll help our army.{05}{05}{05}The bandits say they want to fight alongside us, so we'll take them{01}C{11}{00}.{05}{05}{05}
+@59
+The bandits {01}C{00}{00} persuaded say they'll fight with us for the good of the world{01}C-{00}.{05}{05}{05}
+@60
+The talks succeeded, but the people are whispering that we may have been in league with the bandits.{05}{05}{05}
+@61
+{05}{05}{04}{02}{01}d{04}=0{01}J{06}3{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{07}3{05}{05}{05}{01}S{02}e3Forgive me{01}C{1C}{00}. Those savages were never going to listen to reason...{05}{05}{05}It's no good{01}C{17}{00}. They attacked me without warning, and look at this...{05}{05}{05}Talking got us nowhere. They shot arrows at us without warning. Look{01}C{13}{00} at this wound!{05}{05}{05}
+@62
+No good... They were never the sort to settle things by talking{01}C2{00}{01}C8{00}.{05}{05}{05}
+@63
+{01}S{02}e3I'm sorry. They're savages after all... Talking was hopeless.{05}{05}{05}It's no good{01}C{17}{00}. They attacked me without warning, and look at this...{05}{05}{05}Talking got us nowhere. They shot arrows at us without warning. Look{01}C{13}{00} at this wound!{05}{05}{05}
+@64
+The talks failed, and the people are all unhappy, saying we were too soft.{05}{05}{05}
+@65
+{05}{05}{04}{02}{01}d{04}=0{01}J{0B}3{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{0A}3{05}{05}{05}{01}S{02}e3It took a little effort, but they're dealt with{01}C{11}{00}. Here is their leader's head{01}C{17}{00}.{05}{05}{05}Child's play for me. I tossed them about like rag dolls!{05}{05}{05}They were just a rabble. Once the tide turned, they scattered like spiders.{05}{05}{05}
+@66
+{01}S{02}e3It took a little effort, but they're dealt with{01}C{11}{00}. Here is their leader's head{01}C{17}{00}.{05}{05}{05}In my hands it was an easy task. Bandits are no match for me.{05}{05}{05}They were just a rabble. Once the tide turned, they scattered like spiders.{05}{05}{05}
+@67
+{05}{05}{04}{02}{01}{81}{01}J{0C}3{05}{05}{05}That taught them! This is what happens to bandits who face me{01}C-{00}.{05}{05}{05}
+@68
+That taught them! This is what happens to bandits who face me{01}C-{00}.{05}{05}{05}
+@69
+{05}{05}{04}{02}{01}d{04}=0{01}J{0E}3{05}{05}{05}{02}{01}ﾈ, who defeated the bandits, is hailed as a hero in town, and their valor is spreading to nearby lands.{05}{05}{05}
+@70
+Lord {02}{01}ﾈ, who defeated the bandits, is hailed as a hero in town, and their valor is spreading to nearby lands.{05}{05}{05}
+@71
+{05}{05}{04}{02}{01}d{04}=0{01}J{10}3{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{11}3{05}{05}{05}{01}S{02}e3A blunder by me... They saw our attack coming and ambushed us...{05}{05}{05}There was a fearsome brute among them, and this is the result... A blunder... Urgh!{05}{05}{05}For bandits, they knew their tactics. As you can see, they beat us back.{05}{05}{05}
+@72
+This can't be... I underestimated them as mere bandits{01}C2{00}. I can't face the people{01}C%{00}.{05}{05}{05}
+@73
+{01}S{02}e3A blunder by me... They saw our attack coming and ambushed us...{05}{05}{05}There was a fearsome brute among them, and this is the result... I blundered...{05}{05}{05}For bandits, they knew their tactics. As you can see, they beat us back.{05}{05}{05}
+@74
+{05}{05}{04}{02}{01}d{04}=0{01}J{13}3{05}{05}{05}The townsfolk seem to visit {02}{01}ﾈ, wounded fighting the bandits, every day.{05}{05}{05}
+@75
+The townsfolk seem to visit Lord {02}{01}ﾈ, wounded fighting the bandits, every day.{05}{05}{05}
+@76
+The people are all deeply unhappy with a ruler who turns a blind eye to the bandits.{05}{05}{05}
+@77
+Some questioned paying them off, but the bandits withdrew quietly and the matter seems settled.{05}{05}{05}
+@78
+We tried to pay them off, but the bandits vow to keep raiding the town. Things are at their worst, and the people are furious.{05}{05}{05}
+@79
+{01}S{02}e3Lord {02}{01}ﾈ's fame has reached our village too. Let us join as volunteers!{05}{05}{05}We formed a volunteer army to be of use to the world. Please take us under your command.{05}{05}{05}Townsfolk formed a volunteer army to help Lord {02}{01}ﾈ. Please let us fight with you.{05}{05}{05}
+@80
+The people of {02}{14}ﾈ wish to join our army.\nAccept their offer?{05}{05}{05}
+@81
+{01}S{02}e3Oh, you'll take us in? We'll be sure to earn glory!{05}{05}{05}Thank you very much. We'll work for you with our lives.{05}{05}{05}We're honored that you'd accept nobodies like us!{05}{05}{05}
+@82
+{01}S{02}e3Then please take this money instead.{05}{05}{05}Then would you at least use this money as war funds?{05}{05}{05}I see... This money was pooled by our band. Please use it for the good of the world.{05}{05}{05}
+@83
+{01}S{02}e3It can't be helped. Then please accept these provisions instead.{05}{05}{05}I see... Then take this... The townsfolk pooled these provisions.{05}{05}{05}A pity... Then please accept these provisions... It's not much, but please.{05}{05}{05}
+@84
+{01}S{02}e4Is that so? Well, nothing for it. Let's go home.{05}{05}{05}You don't understand our resolve... What a shame.{05}{05}{05}We all trained in the martial arts for this day... Was it all for nothing?{05}{05}{05}It can't be helped. We'll all pray for your success in battle...{05}{05}{05}
+@85
+{01}S{02}e5Lord {02}{01}ﾈ, please help us. With these endless wars we can't even buy decent clothes.{05}{05}{05}Please have mercy... I want to buy medicine for my sick child, but I have no money...{05}{05}{05}Ah, my feet hurt... I need sandals, but if I buy them I can't buy food...{05}{05}{05}What's this? No money even for firewood? How will we get through the winter...{05}{05}{05}Oh, what to do... My daughter is getting married and I can't give her anything.{05}{05}{05}
+@86
+To give us so much... Look, everyone is so happy.{05}{05}{05}
+@87
+What a person! Haven't they a shred of mercy?{05}{05}{05}
+@88
+{01}S{02}e5Ah, I'm so hungry... My eyes are so dim I can't see a thing...{05}{05}{05}Our food has finally run out. All that's left is next year's seed rice... Ah...{05}{05}{05}Lord {02}{01}ﾈ, some food... Never mind me, but please, my child...{05}{05}{05}Ah, I want porridge... I want porridge... I want porridge...{05}{05}{05}Someone, food... I haven't eaten in three days.{05}{05}{05}
+@89
+The people are crying out in hardship.\nWhat shall we do?{05}{05}{05}
+@90
+{01}S{02}e3Ah, this will see us through for now. Thank you very much.{05}{05}{05}At last we can live a normal life. Thank you very much.{05}{05}{05}To give us so much... Look, everyone is so happy.{05}{05}{05}
+@91
+{01}S{02}e3Ah, I can picture my children's happy faces. Thank you very much.{05}{05}{05}With this much, we needn't fear hunger. Daddy's coming home...{05}{05}{05}How can I ever thank you? The whole town is overjoyed.{05}{05}{05}
+@92
+{01}S{02}e3What's this? Has Lord {02}{01}ﾈ abandoned us?{05}{05}{05}What a person! Haven't they a shred of mercy?{05}{05}{05}
+@93
+{05}{05}{04}{02}{14}e{04}>59{01}J&3{05}{05}{05}{05}{05}{04}{02}{14}f{04}<200{01}J'3{05}{05}{05}{05}{05}{04}{02}{14}g{04}<60{01}J(3{05}{05}{05}{05}{05}{04}{02}{14}h{04}<200{01}J)3{05}{05}{05}{05}{05}{04}{02}{14}i{04}<200{01}J*3{05}{05}{05}{01}S{02}e7Say, does Lord {02}{01}ﾈ ever think about us common folk?{05}{05}{05}I wish Lord {02}{01}ﾈ would think more about us common folk.{05}{05}{05}I had such hopes for Lord {02}{01}ﾈ, but they never think of us at all...{05}{05}{05}Lord {02}{01}ﾈ doesn't understand our suffering one bit.{05}{05}{05}It's always us common folk who suffer from war. Lord {02}{01}ﾈ doesn't get it.{05}{05}{05}The wars have ruined our homes and fields, and still they take our taxes...{05}{05}{05}The taxes are so harsh. No matter how hard I work, life never gets easier.{05}{05}{05}
+@94
+{01}S{02}e3I'm sure Lord {02}{01}ﾈ will build a land where we can live in peace.{05}{05}{05}You know, I think Lord {02}{01}ﾈ might be the one to set this chaotic age right.{05}{05}{05}Lord {02}{01}ﾈ puts us common folk first. They'll go down in history as a great ruler.{05}{05}{05}
+@95
+{01}S{02}e3Nothing grows on land like this. If only they'd clear the forest...{05}{05}{05}Such cramped land... What are we supposed to grow on this?{05}{05}{05}If they filled in that marsh, we'd have vast farmland.{05}{05}{05}
+@96
+{01}S{02}e3Every typhoon, the river floods and our fields and homes suffer... Ah...{05}{05}{05}I wish they'd do some flood control work. I worry about heavy rain.{05}{05}{05}Lord {02}{01}ﾈ gives no thought to disasters at all. I worry about typhoons.{05}{05}{05}
+@97
+{01}S{02}e3The town is going to ruin, and Lord {02}{01}ﾈ won't lift a finger for commerce...{05}{05}{05}I wish they'd at least fix the roads. At this rate the town will just keep declining.{05}{05}{05}This town is such a hard place to live. I wish they'd do something about it.{05}{05}{05}
+@98
+{01}S{02}e3Is this castle all right? Look, there's a hole right here.{05}{05}{05}Hey, hey, this wall is crumbling. I'm worried.{05}{05}{05}This castle looks ready to collapse. Doesn't Lord {02}{01}ﾈ care?{05}{05}{05}
+@99
+{01}S{02}e4They don't understand how we feel at all.{05}{05}{05}Why won't you listen to us? Isn't a nation nothing without its people?{05}{05}{05}Think of us a little! War and taxes... what are we living for?{05}{05}{05}No ruler who ignored the people has ever lasted. You too will surely...{05}{05}{05}
+@100
+{05}{05}{04}{02}{14}e{04}>59{01}J-3{05}{05}{05}{05}{05}{04}{02}{14}f{04}<200{01}J.3{05}{05}{05}{05}{05}{04}{02}{14}g{04}<60{01}J/3{05}{05}{05}{05}{05}{04}{02}{14}h{04}<200{01}J03{05}{05}{05}{05}{05}{04}{02}{14}i{04}<200{01}J13{05}{05}{05}{01}S{02}e3So true. I'm thinking of moving to the next town.{05}{05}{05}Hey, hey, careful what you say. You never know who's listening.{05}{05}{05}I agree. I'd like to remind them a nation is nothing without its people.{05}{05}{05}
+@101
+{01}S{02}e3Yes, yes, that's right.{05}{05}{05}You think so too? Yes, that one will save us.{05}{05}{05}I think so too. Lord {02}{01}ﾈ is our hope.{05}{05}{05}
+@102
+{01}S{02}e3Right? I wish they'd develop the land too.{05}{05}{05}That's right. But Lord {02}{01}ﾈ doesn't seem to understand at all.{05}{05}{05}It's true, and yet Lord {02}{01}ﾈ does nothing for domestic affairs.{05}{05}{05}
+@103
+{01}S{02}e3I think so too. If a typhoon comes, the fields are done for.{05}{05}{05}Exactly. If they tax us even when disasters ruin the crops, they should improve flood control.{05}{05}{05}I don't get Lord {02}{01}ﾈ. Why won't they improve flood control?{05}{05}{05}
+@104
+{01}S{02}e3Exactly. Lord {02}{01}ﾈ doesn't understand how we feel.{05}{05}{05}I wish they'd put more effort into domestic affairs and boost commerce.{05}{05}{05}I think so too. This town is unbearable to live in.{05}{05}{05}
+@105
+{01}S{02}e3What will they do if an enemy invades?{05}{05}{05}With a castle like this, we're finished if the enemy comes. Many more will die...{05}{05}{05}Lord {02}{01}ﾈ has no intention of protecting us.{05}{05}{05}
+@106
+{05}{05}{04}{02}{14}e{04}>59{01}J33{05}{05}{05}Lord {02}{01}ﾈ seems unpopular with the people. Shall we give away Food {1B}C4{02}({1B}C1?{05}{05}{05}
+@107
+Lord {02}{01}ﾈ seems to be supported by many people. Shall we give away Food {1B}C4{02}({1B}C1?{05}{05}{05}
+@108
+{05}{05}{04}{02}{01}d{04}=0{01}J63{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J53{05}{05}{05}{01}S{02}e3Hmm... I feel the patrol has shown me how the people feel{01}C{1D}{00}.{05}{05}{05}Seeing the people's lives up close, I came to understand their feelings.{05}{05}{05}The key to ruling lies in the people's hearts... Contact with them is vital after all{01}C{17}{00}{01}C2{00}.{05}{05}{05}
+@109
+{01}S{02}e3I see... I feel the patrol has shown me how the people feel.{05}{05}{05}Seeing the people's lives up close, I came to understand their feelings.{05}{05}{05}The key to ruling lies in the people's hearts... Contact with them is vital after all{01}C{17}{00}{01}C2{00}.{05}{05}{05}
+@110
+{01}S{02}e2I saw clearly what can't be seen from the palace{01}C2{00}{01}C8{00}. It'll guide how I rule from now on{01}C0{00}.{05}{05}{05}I felt the people's hopes in me so keenly it hurt{01}C0{00}. A heavy responsibility{01}C,{00}.{05}{05}{05}
+@111
+{05}{05}{04}{02}{01}d{04}=0{01}J=3{05}{05}{05}{05}{05}{04}{02}{14}e{04}>59{01}J83{05}{05}{05}{05}{05}{04}{02}{14}f{04}<200{01}J93{05}{05}{05}{05}{05}{04}{02}{14}g{04}<60{01}J:3{05}{05}{05}{05}{05}{04}{02}{14}h{04}<200{01}J;3{05}{05}{05}{05}{05}{04}{02}{14}i{04}<200{01}J<3{05}{05}{05}{01}S{02}e3{01}C{09}{00}'s reputation doesn't seem very good. Next patrol, please give alms...{05}{05}{05}All I heard was bad talk about {01}C{09}{00}{01}C{17}{00}. Perhaps you should think of the people's happiness...{05}{05}{05}I felt the people's suffering. We should create a place where they can live free of want...{05}{05}{05}
+@112
+{01}S{02}e3The town was full of talk about {01}C{09}{00}{01}C0{00}.{05}{05}{05}Thanks to {01}C{09}{00}'s benevolent rule, the people looked happy.{05}{05}{05}The people all looked happy. I hope it becomes a land where everyone can smile{01}C2{00}{01}C8{00}.{05}{05}{05}
+@113
+{01}S{02}e3The people seem to want vast farmland{01}C{17}{00}. There isn't enough development{01}C2{00}.{05}{05}{05}The people seem to struggle with farming. We should put effort into developing the land, I think{01}C{16}{00}.{05}{05}{05}There seems to be a problem with development{01}C{17}{00}. We must stress development...{05}{05}{05}
+@114
+{01}S{02}e3The people fear disasters. Perhaps we should do flood control and build a large embankment...{05}{05}{05}The people fear floods. I want to put effort into flood control to reassure them{01}C{16}{00}.{05}{05}{05}We must do something about flood control... The people seemed to fear typhoons{01}C0{00}.{05}{05}{05}
+@115
+{01}S{02}e3The people seem to want a more livable town{01}C{17}{00}. Let's put effort into building it up.{05}{05}{05}The people seem worried about the low commerce{01}C0{00}. We must put more effort into it...{05}{05}{05}It seems the town isn't well enough developed{01}C{17}{00}.{05}{05}{05}Perhaps the ministers should discuss it.{05}{05}{05}
+@116
+{01}S{02}e3The people seemed uneasy about the weak castle. I'd like to do something about it.{05}{05}{05}The people looked worriedly at the crumbling walls. Let's repair them soon.{05}{05}{05}The people worry about the castle's defense. Why not repair it and make it impregnable?{05}{05}{05}
+@117
+{05}{05}{04}{02}{14}e{04}>59{01}J>3{05}{05}{05}{05}{05}{04}{02}{14}f{04}<200{01}J@3{05}{05}{05}{05}{05}{04}{02}{14}g{04}<60{01}JB3{05}{05}{05}{05}{05}{04}{02}{14}h{04}<200{01}JD3{05}{05}{05}{05}{05}{04}{02}{14}i{04}<200{01}JF3{05}{05}{05}At this rate I'm unfit to rule{01}C2{00}. I must think harder about what benevolent rule means{01}C2{00}.{05}{05}{05}
+@118
+{05}{05}{04}{02}{01}{81}{01}J?3{05}{05}{05}The people are so happy... Their joy is my joy. There's no greater happiness.{05}{05}{05}
+@119
+The people are so happy... Their joy is my joy. There's no greater happiness.{05}{05}{05}
+@120
+{05}{05}{04}{02}{01}{81}{01}JA3{05}{05}{05}Hmm, it seems we must develop the land more{01}C2{00}. Shall we all discuss it...{05}{05}{05}
+@121
+Hmm, it seems we must develop the land more. We must all discuss it...{05}{05}{05}
+@122
+{05}{05}{04}{02}{01}{81}{01}JC3{05}{05}{05}The people feared natural disasters that much... I want to put their minds at ease{01}C2{00}.{05}{05}{05}
+@123
+The people feared natural disasters that much... I want to put their minds at ease.{05}{05}{05}
+@124
+{05}{05}{04}{02}{01}{81}{01}JE3{05}{05}{05}True, the town as it is now... We should put effort into building it up{01}C2{00}.{05}{05}{05}
+@125
+True, the town as it is now... We should put effort into building it up.{05}{05}{05}
+@126
+{05}{05}{04}{02}{01}{81}{01}JG3{05}{05}{05}{01}C{00}{00} had a vague sense of it, but to think the people were so uneasy...{05}{05}{05}
+@127
+{01}C{00}{00} had a vague sense of it, but to think the people were so uneasy...{05}{05}{05}
+@128
+{01}S{02}e2Aaagh! It's them again! H-help!{05}{05}{05}Th-that war cry... Eeek! Barbarians! Hey, shut the gates, quick!{05}{05}{05}
+@129
+The barbarians we've heard of have\nappeared outside the walls. The town\nis in uproar. What shall we do?{05}{05}{05}
+@130
+{05}{05}{04}{02}{01}d{04}=0{01}JK3{05}{05}{05}{01}S{02}e3Attack, attack! Don't let the barbarians ravage this land!{05}{05}{05}Yes! They've fallen into our trap{01}C7{00}! Scatter them in one stroke!{05}{05}{05}Laying hands on {02}{14}ﾈ was their undoing{01}C-{00}! Drive them off in one stroke{01}C0{00}!{05}{05}{05}
+@131
+{05}{05}{04}{02}{01}{81}{01}JL3{05}{05}{05}{01}C{03}{00} will face them personally! Go! Drive them off!{05}{05}{05}
+@132
+{01}C{03}{00} will face them personally! Go! Charge!{05}{05}{05}
+@133
+{05}{05}{04}{02}{02}d{04}=0{01}JN3{05}{05}{05}Thanks to {02}{02}ﾈ, the barbarians were driven off. The townsfolk all praise Lord {02}{01}ﾈ.{05}{05}{05}
+@134
+Thanks to Lord {02}{02}ﾈ, the barbarians were driven off. The townsfolk all praise Lord {02}{01}ﾈ.{05}{05}{05}
+@135
+{05}{05}{04}{02}{01}d{04}=0{01}JQ3{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JP3{05}{05}{05}{01}S{02}e3Ugh... how bitter{01}C{17}{00}. Their strange tactics got the better of us...{05}{05}{05}Heh... how feeble... Go! One more push... Wh-what? An ambush!?{05}{05}{05}Wh-what are these moves... Argh! Right... no, left{01}C-{00}! Ugh... too fast...{05}{05}{05}
+@136
+{01}S{02}e3Ugh... how bitter{01}C{17}{00}. Their strange tactics got the better of us...{05}{05}{05}Heh heh... how feeble... Go! One more push... Wh-what? An ambush!?{05}{05}{05}Wh-what are these moves... There! Right... no, left{01}C-{00}! Ugh... too fast...{05}{05}{05}
+@137
+H-how can this be...! My troops are this weak...{05}{05}{05}
+@138
+{05}{05}{04}{02}{02}d{04}=0{01}JS3{05}{05}{05}{02}{02}ﾈ's army was crushed by the barbarians. Some in {02}{14}ﾈ are even fleeing for fear of reprisal...{05}{05}{05}
+@139
+Lord {02}{02}ﾈ's army was defeated by the barbarians. Some in {02}{14}ﾈ are even fleeing for fear of reprisal...{05}{05}{05}
+@140
+{05}{05}{04}{02}{01}d{04}=0{01}JU3{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JW3{05}{05}{05}{01}S{02}e2Hmm... Barbarians or not, they're people too... I'll win them over.{05}{05}{05}Hmm... They must have their reasons{01}C{1A}{00}... Let's hear them out.{05}{05}{05}
+@141
+{05}{05}{04}{02}{01}{81}{01}JV3{05}{05}{05}Before my majesty and virtue, even barbarians will bow. No need for troops{01}C2{00}.{05}{05}{05}
+@142
+Before my majesty and virtue, even barbarians will bow. No need for troops{01}C2{00}.{05}{05}{05}
+@143
+{01}S{02}e2Well... Barbarians or not, they're people too... Let's try to persuade them.{05}{05}{05}Well... They must have their reasons{01}C{1A}{00}... Shall we hear them out?{05}{05}{05}
+@144
+After negotiations, the barbarians in {02}{14}ﾈ returned to their lands. The people all praise Lord {02}{01}ﾈ for settling it by talks.{05}{05}{05}
+@145
+{05}{05}{04}{02}{01}d{04}=0{01}JZ3{05}{05}{05}{01}S{02}e2Hmm... They don't understand a word{01}C9{00}{01}C0{00}. Then with gestures... No good after all.{05}{05}{05}Wh-why are they suddenly angry{01}C-{00}... This is no negotiation{01}C9{00}{01}C0{00}.{05}{05}{05}
+@146
+{05}{05}{04}{02}{01}{81}{01}J[3{05}{05}{05}Take me to your chief. {01}C{00}{00} am {01}C{03}{00}... H-hey... where are you going...?{05}{05}{05}
+@147
+Where's your chief? {01}C{03}{00} has come to negotiate... W-wait a moment!{05}{05}{05}
+@148
+{05}{05}{04}{02}{02}d{04}=0{01}J]3{05}{05}{05}{02}{02}ﾈ's negotiations seem to have failed. The people of {02}{14}ﾈ still live in fear of the barbarians.{05}{05}{05}
+@149
+Lord {02}{02}ﾈ's negotiations failed. The people of {02}{14}ﾈ still live in fear of the barbarians.{05}{05}{05}
+@150
+{01}S{02}e3Trade in this town still has great potential. Please, invest...{05}{05}{05}With Lord {02}{01}ﾈ's help, this town's commerce could grow much more... Please...{05}{05}{05}For this town to grow further, we need Lord {02}{01}ﾈ's cooperation...{05}{05}{05}
+@151
+The merchants are asking for help\nto promote industry.\nWhat shall we do?{05}{05}{05}
+@152
+Invest Gold {1B}C41000{1B}C1.\nIs that all right?{05}{05}{05}
+@153
+{01}S{02}e3Just as expected of Lord {02}{01}ﾈ! This investment will never go to waste.{05}{05}{05}Oh, how grateful we are! With this money {02}{14}ﾈ will grow even bigger.{05}{05}{05}Lord {02}{01}ﾈ is truly generous... Indeed, a great ruler...{05}{05}{05}
+@154
+{05}{05}{04}{02}{01}d{04}=0{01}Jc3{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}Je3{05}{05}{05}{01}S{02}e3Now then, let me help with the trade... Hmm, this item should be cheaper...{05}{05}{05}Step right up! This item once adorned the famous Xi Shi herself{01}C6{00}!{05}{05}{05}Oh? Haggling with {01}C{03}{00}... You've got nerve{01}C,{00}.{05}{05}{05}
+@155
+{05}{05}{04}{02}{01}{81}{01}Jd3{05}{05}{05}Right, this is good experience too{01}C2{00}. Won't you let me help at the shop{01}C9{00}?{05}{05}{05}
+@156
+Yes, this is good experience too{01}C2{00}. Won't you let me help at the shop?{05}{05}{05}
+@157
+{01}S{02}e3Now then, {01}C{00}{00} will help with the trade... See, this item should be cheaper...{05}{05}{05}You don't get it. A man with no eye for quality gets laughed at, you know?{05}{05}{05}Heh heh... In {01}C{03}{00}'s hands, even this item... There, sold!{05}{05}{05}
+@158
+{05}{05}{04}{02}{01}d{04}=0{01}Jg3{05}{05}{05}{01}S{02}e3Oh... You're quite good... Today's sales look promising...{05}{05}{05}My... The goods are flying off the shelves... I'm amazed.{05}{05}{05}Oh, just having Lord {02}{01}ﾈ here brings in this many customers...{05}{05}{05}
+@159
+What splendid salesmanship... Lord {02}{01}ﾈ could conquer the world of trade too!{05}{05}{05}
+@160
+{05}{05}{04}{02}{01}{81}{01}Ji3{05}{05}{05}{01}S{02}e3Hmm... I have no idea where anything is{01}C%{00}. Phew... I'm worn out{01}C-{00}...{05}{05}{05}What? You want to buy the "Jade of He"? Hmm... Where was that{01}C4{00}?{05}{05}{05}Right, I just need to bring this{01}C/{00}... Um... Oops, it slipped...{05}{05}{05}
+@161
+{01}S{02}e3Um... I have no idea where anything is{01}C%{00}. Phew... I'm worn out{01}C-{00}...{05}{05}{05}Eh? You want to buy the "Jade of He"? Huh... Where was that{01}C4{00}?{05}{05}{05}Yes, I just need to bring this{01}C/{00}... Um... Oops, it slipped...{05}{05}{05}
+@162
+{01}S{02}e3Ah... That's enough. You're in the way, so please just stay still.{05}{05}{05}Lord {02}{01}ﾈ, please handle that more carefully... Ah... my precious goods are scratched...{05}{05}{05}Wait! I'm still negotiating that one... Sigh... No business today.{05}{05}{05}
+@163
+{01}S{02}e3What... You say you have no interest in the town's growth...?{05}{05}{05}Anyone who scorns trade can hardly be called a great ruler... Lord {02}{01}ﾈ is just another...{05}{05}{05}Hmm... We were fools to have hopes for Lord {02}{01}ﾈ...{05}{05}{05}
+@164
+{01}S{02}e3What, you?! Step outside! I'll beat you senseless!{05}{05}{05}Ha! Let's see what you've got!{05}{05}{05}I've never liked you, and today I'll show you!{05}{05}{05}
+@165
+{01}S{02}e3Oh, you're on! I've had it with your snide remarks!{05}{05}{05}Huh?! If you've got a problem with me, say it!{05}{05}{05}That's my line! I can't wait to see you cry!{05}{05}{05}
+@166
+{01}S{02}e3Stop it! You'll wreck the shop!{05}{05}{05}That's enough! If you want to fight, go do it somewhere else!{05}{05}{05}Hey! Someone stop those idiots! Dad's shop is getting wrecked...{05}{05}{05}
+@167
+Two drunk men are fighting\nin a tavern.\nWhat shall we do?{05}{05}{05}
+@168
+{05}{05}{04}{02}{01}{81}{01}Jq3{05}{05}{05}{01}S{02}e3Hold on, hold on! {01}C{00}{00} want in on that fight!{05}{05}{05}Oh? A fight? How dare you not invite me!?{05}{05}{05}Hmph... Scoundrels! For the town's peace, {01}C{03}{00} shall punish you!{05}{05}{05}
+@169
+{01}S{02}e3Hold on! Let me in on that fight!{05}{05}{05}Hm? A fight? How dare you not invite me!?{05}{05}{05}What scoundrels! For the town's peace, {01}C{03}{00} shall punish you!{05}{05}{05}
+@170
+{05}{05}{04}{02}{01}d{04}=0{01}Js3{05}{05}{05}Seeing the tavern brawl, {02}{01}ﾈ forgot their position and joined in!{05}{05}{05}
+@171
+Lord {02}{01}ﾈ personally joined the tavern brawl!{05}{05}{05}
+@172
+{05}{05}{04}{02}{01}{81}{01}Ju3{05}{05}{05}{01}S{02}e3You're bothering the shopkeeper. Why not stop this childish quarrel?{05}{05}{05}Grown men making a nuisance... Dragging others into it is beyond foolish.{05}{05}{05}That's enough{01}C'{00}! The children are watching{01}C6{00}. Aren't you ashamed{01}C9{00}?{05}{05}{05}
+@173
+{01}S{02}e3Think of the people around you. Why not stop this childish quarrel?{05}{05}{05}What a nuisance... Making a girl cry shows what kind of man you are.{05}{05}{05}That's enough{01}C'{00}! The children are watching{01}C6{00}. Aren't you ashamed?{05}{05}{05}
+@174
+{01}S{02}e3Ah... Lord {02}{01}ﾈ... Sorry... I lost my temper...{05}{05}{05}Eh... Lord {02}{01}ﾈ... (Uh-oh... this one's scary when angry...){05}{05}{05}If Lord {02}{01}ﾈ says so, I've got to listen... Sorry...{05}{05}{05}
+@175
+{05}{05}{04}{02}{01}d{04}=0{01}Jx3{05}{05}{05}Thanks to {02}{01}ﾈ's persuasion, the men made up. The townsfolk cheer this fine judgment.{05}{05}{05}
+@176
+Thanks to Lord {02}{01}ﾈ's persuasion, the men made up. The townsfolk cheer this fine judgment.{05}{05}{05}
+@177
+{05}{05}{04}{02}{01}{81}{01}Jz3{05}{05}{05}{01}S{02}e3Here, stop it, you two{01}C9{00}! Enough of this pointless fighting, I said{01}C'{00}...{05}{05}{05}How violent... At this rate even {01}C{00}{00} will be in danger.{05}{05}{05}Listen, a true gentleman is... I mean... so... Hey, listen to me!{05}{05}{05}
+@178
+{01}S{02}e3Hey, stop it! Stop this pointless fighting, I said...!{05}{05}{05}Eek... It's no use... They're too worked up to hear me.{05}{05}{05}C-calm down, listen to me... Sigh... This is hopeless.{05}{05}{05}
+@179
+{01}S{02}e3Oh... What a mess... So useless... *sniff*...{05}{05}{05}Really, Lord {02}{01}ﾈ always acts so grand, but is no help at all.{05}{05}{05}I thought Lord {02}{01}ﾈ would sort it out... What a letdown.{05}{05}{05}
+@180
+{05}{05}{04}{02}{01}d{04}=0{01}J}3{05}{05}{05}Despite {02}{01}ﾈ's efforts, the fight got worse and the tavern is a wreck. The townsfolk seem disappointed...{05}{05}{05}
+@181
+Despite Lord {02}{01}ﾈ's efforts, the fight got worse and the tavern is a wreck. The townsfolk seem disappointed...{05}{05}{05}
+@182
+{01}S{02}e3{01}CA{00}... {01}C{02}{00} win{01}C,{00}. The fight's over{01}C-{00}.{05}{05}{05}What's wrong? {01}C{03}{00} is your opponent{01}C-{00}. Come on{01}C#{00}!{05}{05}{05}That's enough{01}C'{00}. Or do you need a few more blows to learn{01}C9{00}{01}C/{00}?{05}{05}{05}
+@183
+{01}S{02}e3Ow ow ow... No match for Lord {02}{01}ﾈ... Guess I'll go home to bed.{05}{05}{05}Eeek... Have mercy! S-sorry!{05}{05}{05}A-all right! I'm sorry...! So please stop making that scary face...{05}{05}{05}
+@184
+{05}{05}{04}{02}{01}d{04}=0{01}J{81}3{05}{05}{05}Punished by {02}{01}ﾈ, the two stopped fighting. It was a bit rough, but everyone seems grateful enough.{05}{05}{05}
+@185
+Punished by Lord {02}{01}ﾈ, the two stopped fighting. It was a bit rough, but everyone seems grateful enough.{05}{05}{05}
+@186
+{05}{05}{04}{02}{01}{81}{01}J{83}3{05}{05}{05}{01}S{02}e3Hyaaah! Thrust! Thrust! Thruuust! ...Hm?{05}{05}{05}Where's all that bluster gone? Your punishment is just beginning.{05}{05}{05}Come on! Get up! For the peace of {02}{14}ﾈ, scoundrels must be punished! Punished!{05}{05}{05}
+@187
+{01}S{02}e3All right, time for the special move I just learned... Hyaaah!{05}{05}{05}Perfect. I've had a lot pent up... Come on! Your guard's open!{05}{05}{05}Hya! ({1B}K{1B}HWham!) Hup! ({1B}K{1B}HCrack!) Hah! (Crunch...){05}{05}{05}
+@188
+{01}S{02}e3Lord {02}{01}ﾈ, that's too much! Oh, honestly! The shop is wrecked...{05}{05}{05}L-Lord {02}{01}ﾈ! Those men have already passed out!{05}{05}{05}Eek... Honestly! Lord {02}{01}ﾈ is having way too much fun...{05}{05}{05}
+@189
+{05}{05}{04}{02}{01}d{04}=0{01}J{86}3{05}{05}{05}{02}{01}ﾈ got carried away and ran wild, leaving the tavern half-wrecked. The townsfolk can be heard sighing...{05}{05}{05}
+@190
+Lord {02}{01}ﾈ ran wild, leaving the tavern half-wrecked. The townsfolk can be heard sighing...{05}{05}{05}
+@191
+{05}{05}{04}{02}{01}{81}{01}J{88}3{05}{05}{05}{01}S{02}e3What's wrong? What's wrong? Is that all you... Urgh... From behind... Cowards...{05}{05}{05}Hmm... Is yesterday's wine still in me? No... my legs are wobbly... Gwah...!{05}{05}{05}W-wait! Two against one is cowardly! Fight fair... Ow!{05}{05}{05}
+@192
+{01}S{02}e2Eh!? Hey! Going all out against a woman... Eek...!{05}{05}{05}Hmph... Weak, weak! This is nothing... Ow! Hey... Throwing plates is cheating!{05}{05}{05}
+@193
+{01}S{02}e3Ha! Getting cocky! It's not over yet! Come on!{05}{05}{05}{01}C{03}{00} is nothing to fear! *hic*... I'm not done yet!{05}{05}{05}All right... the nuisance is gone! Now let's go at it for real!{05}{05}{05}
+@194
+{05}{05}{04}{02}{01}d{04}=0{01}J{8B}3{05}{05}{05}Having beaten {02}{01}ﾈ, the men grew even wilder and started a huge brawl that dragged everyone in. The townsfolk are appalled...{05}{05}{05}
+@195
+Having beaten Lord {02}{01}ﾈ, the men grew even wilder and started a huge brawl that dragged everyone in. The townsfolk are appalled...{05}{05}{05}
+@196
+Arresting both troublemakers without a word settled the matter, but the townsfolk call it merciless...{05}{05}{05}
+@197
+{01}S{02}e2Excuse me, you there... Would you listen to an old man for a moment?{05}{05}{05}Hm? ...You there, would you keep a lonely old man company?{05}{05}{05}
+@198
+{01}S{02}e2Oh, you... You look like you've got time. Keep this old woman company a while.{05}{05}{05}Excuse me, you there... Would you listen to an old woman?{05}{05}{05}
+@199
+A {02}- has stopped you.\nWill you listen?{05}{05}{05}
+@200
+{01}S{02}e3...Young people these days, all excited about this "chaotic age"...{05}{05}{05}...Believe it or not, in my youth I was the handsomest man in {02}{14}ﾈ...{05}{05}{05}...My grandchildren hardly visit anymore. I'm so lonely...{05}{05}{05}
+@201
+{01}S{02}e2...The other day, my daughter-in-law, oh, she's hopeless...{05}{05}{05}...It was here in {02}{14}ﾈ that I met my husband... Such a fine man...{05}{05}{05}
+@202
+The {02}-'s talk went on and on. By the time {02}{01}ﾈ was let go, night had fallen...{05}{05}{05}
+@203
+{01}S{02}e2Oh? Is it this late already... Thank you for listening to an old man.{05}{05}{05}My, the sun has set... Oh dear, I talked too long.{05}{05}{05}
+@204
+{01}S{02}e2This {02}- is my thanks for keeping me company... Take it, don't be shy...{05}{05}{05}Thanks to you I had fun today... Take this {02}-...{05}{05}{05}
+@205
+{01}S{02}e2Oh... It's night already... I had such fun today... You're a good soul...{05}{05}{05}Hmm... I've more to say, but it'd be wrong to keep you longer.{05}{05}{05}
+@206
+{01}S{02}e2This {02}- is my thanks for listening to an old woman... Come again.{05}{05}{05}It's not much of a thank-you, but take this {02}-... Come again.{05}{05}{05}
+@207
+This book was my late husband's treasure... It's musty, but take it.{05}{05}{05}
+@208
+You received the {1B}C6"Huainanzi"{1B}C1 as thanks for listening to the old woman!{05}{05}{05}
+@209
+{01}S{02}e2...And so... Hey! Stop dozing and listen properly!{05}{05}{05}...Grr, you've been giving half-hearted replies all along... How sad...{05}{05}{05}
+@210
+{05}{05}{04}{02}{01}{81}{01}J{9B}3{05}{05}{05}{01}S{02}e2How dull... You don't listen to me, you just stare at young girls...{05}{05}{05}Hey! Listen when people talk to you! Honestly, young people these days...{05}{05}{05}
+@211
+{01}S{02}e2How dull... You're just letting an old woman's talk go in one ear and out the other...{05}{05}{05}Hey! Listen when people talk to you! Honestly, young people these days...{05}{05}{05}
+@212
+{01}S{02}e2What? No time? Have you no pity for a lonely old person...?{05}{05}{05}Sigh... So you'd rather not bother with an old man like me...{05}{05}{05}
+@213
+{01}S{02}e2You have errands? Sigh... That's how everyone treats me, like a nuisance...{05}{05}{05}Fine, fine! Never mind... Off you go, then!{05}{05}{05}
+@214
+{01}S{02}e3Oh my... Isn't it Lord {02}{01}ﾈ? Won't you have a drink with us?{05}{05}{05}Well, speak of the devil... Lord {02}{01}ﾈ, won't you join us?{05}{05}{05}Lord {02}{01}ﾈ! We have some delicious wine. How about joining us?{05}{05}{05}
+@215
+The townsfolk have invited you\nto a banquet. What shall we do?{05}{05}{05}
+@216
+Treat the people to wine for Gold {1B}C4300{1B}C1.\nIs that all right?{05}{05}{05}
+@217
+{05}{05}{04}{02}{01}{81}{01}J｢3{05}{05}{05}{01}S{02}e3Haaah! That goes right to the heart... Wine with everyone is the best{01}C,{00}!{05}{05}{05}{01}CA{00}! Good food! Good wine! {01}C{00}{00} am satisfied!{05}{05}{05}Right! A drinking contest{01}C-{00}! Who dares take on {01}C{03}{00}?{05}{05}{05}
+@218
+{01}S{02}e3Ahh! Good wine... Come on, everyone, drink up, drink up!{05}{05}{05}Phew... To find such delicacies in town... Thanks for inviting me!{05}{05}{05}Heh heh... I could forget this is a chaotic age... It's been ages since I had this much fun.{05}{05}{05}
+@219
+{05}{05}{04}{02}{01}d{04}=0{01}J､3{05}{05}{05}{01}S{02}e3Oh, what a drinker! Just watching makes us happy!{05}{05}{05}Ha ha, what fun! So glad we could drink with Lord {02}{01}ﾈ!{05}{05}{05}Lord {02}{02}ﾈ is lucky. Having a retainer like Lord {02}{01}ﾈ must be reassuring.{05}{05}{05}
+@220
+We can drink happily thanks to Lord {02}{01}ﾈ. Come on, bottoms up...!{05}{05}{05}
+@221
+{05}{05}{04}{02}{01}d{04}=0{01}Jｦ3{05}{05}{05}Many people enjoyed the banquet with {02}{01}ﾈ at its center.{05}{05}{05}
+@222
+Many people enjoyed the banquet with Lord {02}{01}ﾈ at its center.{05}{05}{05}
+@223
+{05}{05}{04}{02}{01}d{04}=0{01}Jｩ3{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{06}&{02}{01}{81}{01}Jｪ3{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}Jｨ3{05}{05}{05}{01}S{02}e3*hic*... Lately Lord {02}{02}ﾈ asks nothing but the impossible...{05}{05}{05}*hic*... {01}C{00}{00} have it rough too, you know... Hey, more wine, wine!{05}{05}{05}After all {01}C{00}{00} have done... Girl, pour me another{01}C {00}!{05}{05}{05}
+@224
+{01}S{02}e3*hic*... Lately Lord {02}{02}ﾈ asks nothing but the impossible...{05}{05}{05}Oh, honestly! Being a woman officer is so hard!{05}{05}{05}There's too much going on not to drink! *hic*... Come on, more wine!{05}{05}{05}
+@225
+*hic*... Lately my men seem to be avoiding me...{05}{05}{05}
+@226
+Mm, mmm... Lately my men seem to look down on me...{05}{05}{05}
+@227
+{01}S{02}e3Nothing but whining all this time... It's spoiling the wine. Inviting them was a mistake...{05}{05}{05}Hmm... Things have gotten weird... Honestly, what a bother...{05}{05}{05}Oh dear... We'd have been better off not inviting them...{05}{05}{05}
+@228
+{05}{05}{04}{02}{01}d{04}=0{01}Jｭ3{05}{05}{05}The townsfolk all seem appalled at {02}{01}ﾈ, who rambled drunkenly and passed out...{05}{05}{05}
+@229
+The townsfolk all seem appalled at Lord {02}{01}ﾈ, who rambled drunkenly and passed out...{05}{05}{05}
+@230
+{05}{05}{04}{02}{01}{81}{01}Jｯ3{05}{05}{05}{01}S{02}e2Sorry{01}C9{00}, I have official duties... I can't join{01}C9{00}, but let me buy the wine.{05}{05}{05}Thanks for asking, but I'm on patrol... Hey, innkeeper! Wine for everyone, on me!{05}{05}{05}
+@231
+{01}S{02}e2I'm sorry, but I'm on official duty... Instead, {01}C{00}{00} will pay for the wine.{05}{05}{05}What a shame... I'm on patrol... Use this money and have fun for me too.{05}{05}{05}
+@232
+{01}S{02}e2Thank you very much! Good luck with your work, Lord {02}{01}ﾈ!{05}{05}{05}Eh... Really!? Thank you very much! Join us next time!{05}{05}{05}
+@233
+{05}{05}{04}{02}{01}d{04}=0{01}Jｲ3{05}{05}{05}The wine {02}{01}ﾈ provided made the banquet a great success.{05}{05}{05}
+@234
+The wine Lord {02}{01}ﾈ provided made the banquet a great success.{05}{05}{05}
+@235
+{05}{05}{04}{02}{01}{81}{01}Jｴ3{05}{05}{05}{01}S{02}e2Oh, that looks fun{01}C,{00}. But I still have work{01}C-{00}. Invite me next time.{05}{05}{05}Sorry{01}C9{00}, but I can't neglect my duties{01}C9{00}... Next time, then.{05}{05}{05}
+@236
+{01}S{02}e2I'm sorry... I still have work. Invite me next time.{05}{05}{05}I'd love to join you, but I'm on official duty... Next time for sure.{05}{05}{05}
+@237
+{01}S{02}e2Hmm... What a pity! But if it's work, it can't be helped...{05}{05}{05}Thank you for always working for us. Good luck with your duties.{05}{05}{05}
+@238
+{05}{05}{04}{02}{01}d{04}=0{01}Jｲ3{05}{05}{05}The townsfolk all seem to find {02}{01}ﾈ dependable for declining the banquet to attend to duty.{05}{05}{05}
+@239
+The townsfolk all seem to find Lord {02}{01}ﾈ dependable for declining the banquet to attend to duty.{05}{05}{05}
+@240
+{05}{05}{04}{02}{01}d{04}=0{01}Jｺ3{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}Jｹ3{05}{05}{05}{01}S{02}e2Hm... No... I'm on duty now... {01}C{00}{00} must be going...{05}{05}{05}Hmm... Wine... But I'm on official business... If I'm caught, I might be scolded...{05}{05}{05}
+@241
+{01}S{02}e2Hmm... Drinking on the job, Lord {02}{02}ﾈ would scold me... Sorry, I'll pass.{05}{05}{05}(Looks tasty, but would {01}C{00}{00} have to pay...?) Sorry, I'm working.{05}{05}{05}
+@242
+Sorry{01}C9{00}, {01}C{00}{00} am not idle either{01}C-{00}. Now, next...{05}{05}{05}
+@243
+{01}S{02}e2Oh dear... Turned down. But is the work really that important...?{05}{05}{05}Huh? But earlier I'm sure they said they were bored stiff...{05}{05}{05}
+@244
+{05}{05}{04}{02}{01}d{04}=0{01}Jｲ3{05}{05}{05}The people are gossiping that {02}{01}ﾈ, who declined the banquet, is an inflexible stiff.{05}{05}{05}
+@245
+The people are gossiping that Lord {02}{01}ﾈ, who declined the banquet, is an inflexible stiff.{05}{05}{05}
+@246
+{01}S{02}e2Every night, groans come from the shrine at the edge of the village... Lord {02}{01}ﾈ, please help...{05}{05}{05}A terrible moaning comes from the old shrine west of the village... Lord {02}{01}ﾈ, please help us.{05}{05}{05}
+@247
+The people are troubled by an eerie voice\nheard every night from an old shrine.\nWhat shall we do?{05}{05}{05}
+@248
+Repair the shrine for Gold {1B}C41000{1B}C1.\nIs that all right?{05}{05}{05}
+@249
+{05}{05}{04}{02}{01}{81}{01}Jﾂ3{05}{05}{05}{01}S{02}e2Hmph! Nonsense{01}C9{00}{01}C2{00}. This thing is the problem{01}C-{00}... Tear it down!{05}{05}{05}Don't be swayed by silly superstitions{01}C9{00}! Remove it at once{01}C({00}!{05}{05}{05}
+@250
+{01}S{02}e2Hmph! Nonsense. This thing is the problem... Tear it down!{05}{05}{05}Don't be swayed by silly superstitions! Remove it at once!{05}{05}{05}
+@251
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾄ3{05}{05}{05}With the shrine torn down by {02}{01}ﾈ, the strange events seem to have stopped. People admire the decisive action.{05}{05}{05}
+@252
+With the shrine torn down by Lord {02}{01}ﾈ, the strange events seem to have stopped. People admire the decisive action.{05}{05}{05}
+@253
+{05}{05}{04}{02}{01}{81}{01}Jﾆ3{05}{05}{05}{01}S{02}e2Smash it at once! ...Hm... What...? I feel dizzy... Ugh...{05}{05}{05}What could a mere shrine... Ugh... I feel sick...{05}{05}{05}
+@254
+{01}S{02}e2Tear it down at once! ...Eh... Huh...? I feel dizzy... Ugh...{05}{05}{05}A grubby little shrine like this... Hurry and... Oh... I suddenly feel...{05}{05}{05}
+@255
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾈ3{05}{05}{05}{02}{01}ﾈ, who tore down the shrine, has fallen ill, and the people are more uneasy than ever.{05}{05}{05}
+@256
+Lord {02}{01}ﾈ, who tore down the shrine, has fallen ill, and the people are more uneasy than ever.{05}{05}{05}
+@257
+{05}{05}{04}{02}{01}{81}{01}Jﾊ3{05}{05}{05}{01}S{02}e2How dreadful{01}C2{00}... Let's repair it and hold a ceremony.{05}{05}{05}How pitiful... Repair it at once and honor it properly.{05}{05}{05}
+@258
+{01}S{02}e2How dreadful{01}C2{00}... Let's repair it and hold a ceremony.{05}{05}{05}How pitiful... Repair it at once and honor it properly.{05}{05}{05}
+@259
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾌ3{05}{05}{05}Perhaps because {02}{01}ﾈ repaired the shrine, the strange events have stopped. Everyone praises Lord {02}{02}ﾈ's virtue.{05}{05}{05}
+@260
+Perhaps because Lord {02}{01}ﾈ repaired the shrine, the strange events have stopped. Everyone praises Lord {02}{02}ﾈ's virtue.{05}{05}{05}
+@261
+{05}{05}{04}{02}{01}u{04}=339ﾎ3{05}{05}{05}{05}{05}{04}{02}{01}u{04}=662ﾏ3{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}Jﾐ3{05}{05}{05}{01}S{02}e2Hmm... Then I'll pray to Heaven and calm the spirit troubling the people... Hah!{05}{05}{05}This too is a sign of the turbulent times... I'll console the ancestral spirits with my prayers...{05}{05}{05}
+@262
+With the spiritual power of Zhang Jiao, a haunting like this is nothing... Hyaaah!{05}{05}{05}
+@263
+With {01}C{03}{00}'s magic, I'll calm the spirit that troubles the world... Haaah!{05}{05}{05}
+@264
+{01}S{02}e2Well... Then I'll pray to Heaven and calm the spirit troubling the people... Hah!{05}{05}{05}This too is a sign of the turbulent times... I'll console the ancestral spirits with my prayers...{05}{05}{05}
+@265
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾒ3{05}{05}{05}Perhaps {02}{01}ﾈ's prayers were heard; the strange events have stopped. People say it's thanks to Lord {02}{02}ﾈ's virtue.{05}{05}{05}
+@266
+Perhaps Lord {02}{01}ﾈ's prayers were heard; the strange events have stopped. People say it's thanks to Lord {02}{02}ﾈ's virtue.{05}{05}{05}
+@267
+{05}{05}{04}{02}{01}{81}{01}Jﾔ3{05}{05}{05}{01}S{02}e2If I at least say a prayer, the people will feel better{01}C{1A}{00}... Abracadabra.{05}{05}{05}Um... For now, if I pray like this... Hya! Hya!{05}{05}{05}
+@268
+{01}S{02}e2Shall I at least say a prayer to reassure the people... Mumble mumble...{05}{05}{05}Um... For now, if I pray like this... Haaah!{05}{05}{05}
+@269
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾖ3{05}{05}{05}{02}{01}ﾈ's token prayer had no effect. The people are disappointed by the sloppy response...{05}{05}{05}
+@270
+Lord {02}{01}ﾈ's token prayer had no effect. The people are disappointed by the sloppy response...{05}{05}{05}
+@271
+Lord {02}{01}ﾈ... While repairing the shrine, we found this...{05}{05}{05}
+@272
+Perhaps Heaven sent it for Lord {02}{01}ﾈ's good deed... Please accept it.{05}{05}{05}
+@273
+Lord {02}{01}ﾈ, an elder of {02}{14}ﾈ has presented you with {1B}C6"Yang Youji's Bow"{1B}C1!{05}{05}{05}
+@274
+{01}S{02}e2Lately I've heard rumors that bandits come out around here at night...{05}{05}{05}Everyone in town is in an uproar, saying they saw a gang of bandits nearby...{05}{05}{05}
+@275
+The people are uneasy about\nsafety in the town.\nWhat shall we do?{05}{05}{05}
+@276
+Spend Gold {1B}C41000{1B}C1 to strengthen security.\nIs that all right?{05}{05}{05}
+@277
+Send {1B}C41000{1B}C1 reserves\nfrom {02}{14}ﾈ for security.\nIs that all right?{05}{05}{05}
+@278
+{01}S{02}e2Oh, you'll strengthen the guard at the gates? What a relief.{05}{05}{05}Double the guards? Thank you very much. I feel safe now.{05}{05}{05}
+@279
+{01}S{02}e2You'll assign castle soldiers to guard us? Thank you very much.{05}{05}{05}What! The castle's elite troops will guard outside the walls... How reassuring.{05}{05}{05}
+@280
+{05}{05}{04}{02}{01}{81}{01}J{E1}3{05}{05}{05}{01}S{02}e2For a while, {01}C{00}{00} will stand guard personally.{05}{05}{05}Hmm... If {01}C{00}{00} patrol personally, you'll be safe. Leave it to me.{05}{05}{05}
+@281
+{01}S{02}e2For a while, {01}C{00}{00} will stand guard personally.{05}{05}{05}Well... If {01}C{00}{00} patrol personally, you'll be safe, right? Leave it to me.{05}{05}{05}
+@282
+{01}S{02}e2Thank you very much. (That should keep us safe for a while...){05}{05}{05}Eh? Lord {02}{01}ﾈ personally...? (That doesn't really solve anything...){05}{05}{05}
+@283
+A spokesman for the people has come.{05}{05}{05}
+@284
+{01}S{02}e3Eh, from Lord {02}{01}ﾈ, for us? Thank you so much.{05}{05}{05}Th-thank you very much. (Did they hear what we said earlier?){05}{05}{05}Thank you very much. What a feast today!{05}{05}{05}

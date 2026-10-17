@@ -1,0 +1,174 @@
+@0
+Who will stay in {02}{14}ﾈ? (Troops: {1B}C4{02}({1B}C1){05}{05}{05}
+@1
+A ruler who still holds land can't be recruited.{05}{05}{05}
+@2
+There is no city to release the ruler to.{05}{05}{05}
+@3
+Leave no one in {02}{14}ﾈ?{05}{05}{05}
+@4
+{05}{05}{04}{02}{01}d{04}=0{01}J{0D}R{05}{05}{05}Leave {02}{01}ﾈ in {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@5
+Lord {02}{01}ﾈ will stay in {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@6
+{05}{05}{04}{02}{01}d{04}=0{01}J{0F}R{05}{05}{05}Leave {02}{01}ﾈ and others\n({02}( in all) in {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@7
+Leave Lord {02}{01}ﾈ and others\n({02}( in all) in {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@8
+Obtained {1B}C6{02}-{1B}C1\nfrom {02}{01}ﾈ.{05}{05}{05}
+@9
+Lord {02}{01}ﾈ, decide\nwhat to do with {02}{02}ﾈ.{05}{05}{05}
+@10
+{05}{05}{04}{02}{01}u{04}=432{01}J{1A}R{05}{05}{05}{05}{05}{04}{02}{01}u{04}=487{01}J{1B}R{05}{05}{05}{05}{05}{04}{02}{01}u{04}=196{01}JER{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J{13}R{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{15}R{05}{05}{05}{05}{05}{04}{02}{01}p{04}>10{06}&{02}d50{01}J{18}R{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{06}&{02}d50{01}J{19}R{05}{05}{05}{01}S{02}e12Bah, let go! Let go{01}C9{00}! The shame of being bound... Ugh...{05}{05}{05}It can't be... {01}C{00}{00}... Impossible{01}C9{00}! This is a nightmare{01}C){00}...{05}{05}{05}Has my luck in war run out... Well, what will you do with me{01}C4{00}?{05}{05}{05}A defeated general has nothing to say... Only to look up at the victor{01}C-{00}.{05}{05}{05}Damn... damn! Why must {01}C{03}{00} kneel!{05}{05}{05}To think {01}C{00}{00} would be captured...{05}{05}{05}Born in a chaotic age, I'm prepared. What will you do{01}C4{00}?{05}{05}{05}How could this happen{01}C-{00}...{05}{05}{05}So this is how bitter defeat is...{05}{05}{05}How pathetic... I'm trembling...{05}{05}{05}Now I can only leave it to Heaven...{05}{05}{05}Damn! Let go! Let go{01}C9{00}!{05}{05}{05}
+@11
+{05}{05}{04}{02}{01}{81}{01}J{14}R{05}{05}{05}{01}S{02}e3To capture {01}C{03}{00}{01}C.{00}... {01}C{07}{00} are a hero too{01}C8{00}...{05}{05}{05}Not yet{01}C-{00}! It's not over...! My dream isn't over yet{01}C9{00}{01}C0{00}!{05}{05}{05}A hero deserves to be treated as one. Show some courtesy first.{05}{05}{05}
+@12
+{01}S{02}e3To capture {01}C{03}{00}{01}C.{00}... {01}C{07}{00} are a hero too{01}C8{00}...{05}{05}{05}Not yet! It's not over! My dream is not yet...!{05}{05}{05}If you call yourself a hero, show some caliber. Treat me with courtesy first.{05}{05}{05}
+@13
+{05}{05}{04}{02}{01}p{04}>10{01}J{16}R{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{06}&{02}d50{01}J{17}R{05}{05}{05}{01}S{02}e4Heh heh... Are you that scared of one woman? What a coward.{05}{05}{05}These ropes are too much. How crude.{05}{05}{05}Hmph! Don't get cocky! It was just luck!{05}{05}{05}Such humiliation... I won't forgive you... {02}{02}ﾈ!{05}{05}{05}
+@14
+{01}S{02}e3Untie me. Do you think {01}C{03}{00} would run?{05}{05}{05}So this is defeat... I won't beg for my life. Cut me down.{05}{05}{05}I have no regrets in losing. Now, cut me down quickly.{05}{05}{05}
+@15
+{01}S{02}e4Hey... untie me. We can talk after that... OK?{05}{05}{05}Well... I lost, so what happens to me is up to you.{05}{05}{05}Hey... that hurts! You're not going to kill a woman, are you?{05}{05}{05}This is a dream, right...{05}{05}{05}
+@16
+{01}S{02}e6Lord {02}{03}ﾈ, forgive me... {01}C{03}{00} can no longer serve you{01}C9{00}...{05}{05}{05}Such is the fate of soldiers. Do as you like.{05}{05}{05}For {01}C{03}{00} to be defeated... This too is Heaven's will{01}C){00}...{05}{05}{05}Lord {02}{03}ﾈ, I'm so sorry... Now, do as you like.{05}{05}{05}A defeated general makes no excuses. Now, cut me down!{05}{05}{05}{01}C{03}{00} won't run or hide! Now, cut me down!{05}{05}{05}
+@17
+{01}S{02}e7Lord {02}{02}ﾈ is a hero of the land... Surely you won't take my life...{05}{05}{05}If you harm me, Lord {02}{03}ﾈ won't stand for it{01}C0{00}.{05}{05}{05}I don't want to die{01}C-{00}... Lord {02}{02}ﾈ wouldn't do anything so merciless...{05}{05}{05}Damn, untie me! Untie me!!{05}{05}{05}Let me go! Please!{05}{05}{05}This must be a dream...{05}{05}{05}If you kill me, I'll curse you from beyond the grave!{05}{05}{05}
+@18
+I've been captured...{05}{05}{05}
+@19
+Oh my, it seems I've been captured...{05}{05}{05}
+@20
+{05}{05}{04}{02}{01}u{04}=432{01}J'R{05}{05}{05}{05}{05}{04}{02}{01}u{04}=487{01}J(R{05}{05}{05}{05}{05}{04}{02}{01}u{04}=541{01}J$R{05}{05}{05}{05}{05}{04}{02}{01}u{04}=285{01}J%R{05}{05}{05}{05}{05}{04}{02}{01}u{04}=307{01}J&R{05}{05}{05}{05}{05}{04}{02}{01}u{04}=196{01}JER{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J{1D}R{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J!R{05}{05}{05}{05}{05}{04}{02}{01}p{04}>10{01}J{1F}R{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J R{05}{05}{05}{01}S{02}e10I'm sorry, but I can't. I left my family back home{01}C-{00}.{05}{05}{05}I refuse{01}C-{00}. Cut me down at once.{05}{05}{05}Serve you? Nonsense. I'd rather die than serve you.{05}{05}{05}{01}CA{00} What a funny joke{01}C2{00}.{05}{05}{05}Serving {01}C{10}{00} would shame my descendants forever. Now, cut me down.{05}{05}{05}If I yielded to you, I couldn't face the dead.{05}{05}{05}Don't make me repeat myself. I won't serve you{01}C9{00}.{05}{05}{05}Give me your head and I'll serve you. {01}CA{00}{05}{05}{05}Stop babbling and cut me down. Persuasion is useless{01}C-{00}, useless{01}C-{00}.{05}{05}{05}As if the likes of you could handle me.{05}{05}{05}
+@21
+{05}{05}{04}{02}{01}{81}{01}J{1E}R{05}{05}{05}{01}S{02}e5{01}C{00}{00} follow no one{01}C9{00}; I only walk the path I believe in.{05}{05}{05}Serve you...? My name is {01}C{03}{00}. Don't underestimate me.{05}{05}{05}Nonsense... I may have lost my realm, but not my pride{01}C9{00}.{05}{05}{05}I can't bear to stand beneath another{01}C9{00}.{05}{05}{05}You'd have {01}C{00}{00} throw away my pride? I refuse{01}C-{00}.{05}{05}{05}
+@22
+{01}S{02}e5{01}C{00}{00} follow no one{01}C9{00}; I only walk the path I believe in.{05}{05}{05}Serve you...? My name is {01}C{03}{00}. Don't belittle me.{05}{05}{05}Nonsense... I may have lost my realm, but not my pride.{05}{05}{05}I can't bear to stand beneath another.{05}{05}{05}You'd have {01}C{00}{00} throw away my pride? I refuse{01}C-{00}.{05}{05}{05}
+@23
+{01}S{02}e5A loyal retainer serves no second lord. Lord {02}{02}ﾈ should understand that.{05}{05}{05}I appreciate the thought, but {01}C{00}{00} can't betray my lord either{01}C9{00}.{05}{05}{05}I'd rather die than be branded a traitor.{05}{05}{05}Say what you will. {01}C{00}{00} won't change my mind{01}C9{00}.{05}{05}{05}Trying to persuade me is a waste of time. Cut me down{01}C{13}{00}.{05}{05}{05}
+@24
+{01}S{02}e5I'd rather die than serve {01}C{10}{00}. Let go of me!{05}{05}{05}Hand over all your money and I'll serve you. {01}CA{00}{05}{05}{05}No way{01}C-{00}! Who'd serve the likes of you?{05}{05}{05}I don't see any profit in serving you{01}C9{00}. Money makes the world go round.{05}{05}{05}I have no reason to serve you. Untie me already.{05}{05}{05}
+@25
+{05}{05}{04}{02}{01}p{04}>10{01}J"R{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{06}&{02}d50{01}J#R{05}{05}{05}{01}S{02}e4No. Absolutely not.{05}{05}{05}I won't serve someone who ties up women.{05}{05}{05}Who'd serve you? Let me go home.{05}{05}{05}I'm not interested in you.{05}{05}{05}
+@26
+{01}S{02}e3Don't be absurd...! I serve Lord {02}{03}ﾈ alone.{05}{05}{05}Enough sweet talk. Whatever you say, I won't serve you.{05}{05}{05}I thank you for your kindness, but let me die with honor. That is the greatest mercy for a defeated general.{05}{05}{05}
+@27
+{01}S{02}e3Hmm... Something's missing. I don't feel like serving.{05}{05}{05}What would I get out of serving you?{05}{05}{05}You're not my type. Maybe next time?{05}{05}{05}
+@28
+{01}S{02}e3My wish is to restore the Han... You can't do that.{05}{05}{05}I refuse. I couldn't face those who died for me.{05}{05}{05}I cannot. Guan Yu, Zhang Fei, forgive me... Cut me down now!{05}{05}{05}
+@29
+{01}S{02}e3I, called the villain of a chaotic age, serve the likes of you? Never.{05}{05}{05}You think Cao Mengde would bow to another? Cut me down now!!{05}{05}{05}Don't underestimate me. If my ambition fails, I'm ready to die.{05}{05}{05}
+@30
+{01}S{02}e3If I served you, I couldn't face my father and brother.{05}{05}{05}On the Sun family's name, I refuse. Cut me down.{05}{05}{05}Don't underestimate me. If my ambition fails, I'm ready to die.{05}{05}{05}
+@31
+{01}S{02}e2Impossible.{05}{05}{05}Serve you...? I refuse.{05}{05}{05}
+@32
+{01}S{02}e3Impossible!{05}{05}{05}Serve you? I refuse.{05}{05}{05}No way!{05}{05}{05}
+@33
+{05}{05}{04}{02}{01}u{04}=564{01}J0R{05}{05}{05}{05}{05}{04}{02}{01}u{04}=196{01}JCR{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J*R{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J-R{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J,R{05}{05}{05}{01}S{02}e10You'd spare me... Then I swear loyalty by Heaven and Earth.{05}{05}{05}I'll forget old grudges and entrust my life to Lord {02}{02}ﾈ.{05}{05}{05}Such generosity... Only {01}C{09}{00} can rule the land{01}C-{00}.{05}{05}{05}This too is fate... I, {02}{01}ﾈ, swear lifelong loyalty.{05}{05}{05}I tried to kill you... and yet... I'll give you my life.{05}{05}{05}Heaven's voice... tells me to serve Lord {02}{02}ﾈ... Very well.{05}{05}{05}This too must be destiny{01}C{1A}{00}. I look forward to serving...{05}{05}{05}Lord {02}{02}ﾈ, you are worth serving with my life.{05}{05}{05}You saved my life, so I can hardly refuse{01}C2{00}.{05}{05}{05}Lord {02}{02}ﾈ is the lord {01}C{00}{00} sought.{05}{05}{05}
+@34
+{05}{05}{04}{02}{01}{81}{01}J+R{05}{05}{05}{01}S{02}e5Has my dream ended? But this too is Heaven's will... I'll obey quietly.{05}{05}{05}I'm tired{01}C5{00}. Do as you like{01}C{13}{00}.{05}{05}{05}I'll serve, but can you tame me{01}C4{00}?{05}{05}{05}Very well... As long as I live, there's a chance to rise again.{05}{05}{05}Is this the end... Yes, I've decided. I'm in your hands{01}C7{00}.{05}{05}{05}
+@35
+{01}S{02}e5Has my dream ended? But this too is Heaven's will... I'll obey quietly.{05}{05}{05}I'm tired{01}C5{00}. Please do as you like.{05}{05}{05}I'll serve, but can you tame me{01}C4{00}?{05}{05}{05}Very well... As long as I live, there's a chance to rise again.{05}{05}{05}Is this the end... I've decided. I'm in your hands.{05}{05}{05}
+@36
+{01}S{02}e6If {01}C{00}{00} and you join forces, ruling the land is no dream{01}C7{00}.{05}{05}{05}Three meals and a nap a day, and I'll serve{01}C7{00}.{05}{05}{05}Let me think... Hmm... Oh, fine, I'll serve.{05}{05}{05}Reward me right away, or I'll betray you{01}C7{00}.{05}{05}{05}I'm in a good mood today. I'll serve{01}C7{00}.{05}{05}{05}Oh... So you know my worth. Then pay up.{05}{05}{05}
+@37
+{05}{05}{04}{02}{01}p{04}>10{01}J.R{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{06}&{02}d50{01}J/R{05}{05}{05}{01}S{02}e3All right, I'll serve you. Don't disappoint me.{05}{05}{05}All right. But I want a sword. Something like the {1B}C6"Seven Star Sword"{1B}C1.{05}{05}{05}Hmm... Well, whatever.{05}{05}{05}
+@38
+{01}S{02}e3Very well. I entrust my life to you.{05}{05}{05}...I understand. This too is Heaven's will... I look forward to serving.{05}{05}{05}...To end the chaos, I swear loyalty to Lord {02}{02}ﾈ.{05}{05}{05}
+@39
+{01}S{02}e2I don't come cheap, you know. A reward right away, please.{05}{05}{05}{01}CA{00}! Oh, all right. I'll serve you.{05}{05}{05}
+@40
+My peerless might shall serve you. Heh heh...{05}{05}{05}
+@41
+{05}{05}{04}{02}{01}u{04}=432{01}J9R{05}{05}{05}{05}{05}{04}{02}{01}u{04}=487{01}J:R{05}{05}{05}{05}{05}{04}{02}{01}u{04}=196{01}JCR{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J2R{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J6R{05}{05}{05}{05}{05}{04}{02}{01}p{04}>10{01}J4R{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J5R{05}{05}{05}{01}S{02}e10If you think this puts me in your debt, you're dead wrong{01}C7{00}.{05}{05}{05}Mercy or not, I won't hold back on the next battlefield{01}C7{00}.{05}{05}{05}You're soft, {02}{02}ﾈ. But maybe that softness is your charm.{05}{05}{05}{02}{02}ﾈ, a benevolent lord as rumored. I won't forget your name{01}C9{00}.{05}{05}{05}There's no mercy in war... Why not cut me down{01}C9{00}? Why...{05}{05}{05}I slipped up this time, that's all. Don't think you'll win again.{05}{05}{05}Next time I'll have your head. Just you wait{01}C'{00}!{05}{05}{05}Untying me and even feeding me... You really are soft...{05}{05}{05}In an age where might is everything, softness like that won't let you live long{01}C9{00}{01}C7{00}.{05}{05}{05}I'm ready. Get it over... What? You're letting me go?{05}{05}{05}
+@42
+{05}{05}{04}{02}{01}{81}{01}J3R{05}{05}{05}{01}S{02}e5I thank you, but next time... next time I'll win.{05}{05}{05}So confident, {02}{02}ﾈ. Confidence breeds carelessness...{05}{05}{05}Ugh, mercy... Someday, someday I'll defeat you...{05}{05}{05}Such generosity... Truly my archrival. We'll meet again.{05}{05}{05}Beaten in battle and in caliber... But someday I'll surpass you.{05}{05}{05}
+@43
+{01}S{02}e5I thank you, but next time... next time I'll win.{05}{05}{05}So confident, {02}{02}ﾈ. Confidence breeds carelessness...{05}{05}{05}Ugh, mercy... Someday, someday I'll defeat you...{05}{05}{05}Such generosity... Truly my archrival. We'll meet again.{05}{05}{05}Beaten in battle and in caliber... But someday I'll surpass you.{05}{05}{05}
+@44
+{01}S{02}e5I'll repay this debt someday. We'll meet again on the battlefield. Farewell...{05}{05}{05}You're letting me go{01}C{18}{00}? I'll never forget this kindness{01}C9{00}.{05}{05}{05}To think someone like you exists in this decayed world...{05}{05}{05}{02}{02}ﾈ, a truly benevolent lord. If only we'd met sooner...{05}{05}{05}Lord {02}{02}ﾈ, I wish we hadn't met as enemies. Farewell...{05}{05}{05}
+@45
+{01}S{02}e5{01}CA{00} I'll make you regret not killing me{01}C0{00}.{05}{05}{05}Softie. Someday I'll kill you. I swear{01}C-{00}...{05}{05}{05}I feel no debt{01}C0{00}. Go wash your neck and wait{01}C'{00}.{05}{05}{05}Untie me already. Remember{01}C'{00}, your head will surely...{05}{05}{05}You'll pay dearly for doing this to me{01}C7{00}.{05}{05}{05}
+@46
+{05}{05}{04}{02}{01}p{04}>10{01}J7R{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{06}&{02}d50{01}J8R{05}{05}{05}{01}S{02}e3Thank you! I think I've fallen for you.{05}{05}{05}I'm so happy. Let's meet again on the battlefield.{05}{05}{05}You're letting me go? But I won't go easy on the battlefield.{05}{05}{05}
+@47
+{01}S{02}e2I won't forget that you let me go...{05}{05}{05}Your mercy... I gratefully accept it this time.{05}{05}{05}
+@48
+{01}S{02}e2{01}CA{00}! What a softie... There won't be a next time, you know?{05}{05}{05}Heh heh... I'll remember your name.{05}{05}{05}
+@49
+Well then, where shall I go...{05}{05}{05}
+@50
+Now where has the Southern Dipper gone...{05}{05}{05}
+@51
+{05}{05}{04}{02}{01}u{04}=432{01}JLR{05}{05}{05}{05}{05}{04}{02}{01}u{04}=487{01}JMR{05}{05}{05}{05}{05}{04}{02}{01}u{04}=196{01}JDR{05}{05}{05}{05}{05}{04}{02}{01}u{04}=541{01}JFR{05}{05}{05}{05}{05}{04}{02}{01}u{04}=285{01}JGR{05}{05}{05}{05}{05}{04}{02}{01}u{04}=307{01}JHR{05}{05}{05}{05}{05}{04}{02}{01}u{04}=564{01}JIR{05}{05}{05}{05}{05}{04}{02}{01}u{04}=422{01}JJR{05}{05}{05}{05}{05}{04}{02}{01}u{04}=339{01}JKR{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J<R{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J@R{05}{05}{05}{05}{05}{04}{02}{01}s{04}>5{01}J>R{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{06}&{02}{01}{82}{01}J?R{05}{05}{05}{01}S{02}e10A turbulent life{01}C8{00}. No regrets{01}C{1C}{00}. Cut me down.{05}{05}{05}To die in a place like this{01}C/{00}... Ugh, the... shame!{05}{05}{05}I'll never give up, to the very end{01}C7{00}! Gwaah!{05}{05}{05}I'm already prepared{01}C{1B}{00}. Cut me down at once.{05}{05}{05}One cup of wine before I die... Ah, delicious... Now, cut me down.{05}{05}{05}Remember, traitors! Evil never prospers in this world!{05}{05}{05}Is this payback for all the lives I've taken...{05}{05}{05}Will it end in a place like this... Is this fate...{05}{05}{05}I misjudged how strong {02}{02}ﾈ's army was{01}C2{00}.{05}{05}{05}Has my luck run out... Will it end here...{05}{05}{05}
+@52
+{05}{05}{04}{02}{01}{81}{01}J=R{05}{05}{05}{01}S{02}e5Even if {01}C{00}{00} die, my descendants will carry on my will{01}C{1A}{00}.{05}{05}{05}A pity I couldn't take your head{01}C-{00}, {02}{02}ﾈ. Fate is cruel...{05}{05}{05}Those who died for me are calling. I'm coming{01}C7{00}.{05}{05}{05}To fall here with my ambitions unfulfilled{01}C){00}... Such is fate...{05}{05}{05}All who risked their lives for me... forgive me{01}C9{00}...{05}{05}{05}
+@53
+{01}S{02}e5Even if {01}C{00}{00} die, my descendants will carry on my will.{05}{05}{05}A pity I couldn't take your head, {02}{02}ﾈ. Fate is cruel...{05}{05}{05}Those who died for me are calling... I'm coming{01}C7{00}.{05}{05}{05}To fall here with my ambitions unfulfilled{01}C){00}... Such is fate...{05}{05}{05}All who risked their lives for me... forgive me{01}C9{00}...{05}{05}{05}
+@54
+{01}S{02}e5You may be proud to have cut me down{01}C0{00}.{05}{05}{05}...A brave general dies with honor...{05}{05}{05}I fought to the fullest. It was fun{01}C0{00}. No regrets{01}C%{00}.{05}{05}{05}I wish I'd died on the battlefield at least{01}C2{00}.{05}{05}{05}Untie me. {01}C{03}{00} will die with honor.{05}{05}{05}
+@55
+{01}S{02}e5Money, as much as you want... Or treasure... H-help me!{05}{05}{05}Let go, let go! {01}C{00}{00} don't want to die yet{01}C%{00}!{05}{05}{05}Please{01}C{17}{00}! Spare my life, just my life...{05}{05}{05}I'll do anything! So please{01}C{13}{00} spare my life!{05}{05}{05}No need to kill me. {01}C{00}{00} can be useful too{01}C7{00}.{05}{05}{05}
+@56
+{05}{05}{04}{02}{01}p{04}>10{06}&{02}d50{01}JAR{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{06}&{02}d50{01}JBR{05}{05}{05}{01}S{02}e3Such is the way of a chaotic age... Fine... Cut me down. Farewell...{05}{05}{05}Is this the end...? No... no! It can't... Eek!{05}{05}{05}A flower's life is short. Life is cruel.{05}{05}{05}
+@57
+{01}S{02}e3I'm a woman, but I live in a chaotic age... I'm prepared.{05}{05}{05}I see... I wish I could have thanked that person at least...{05}{05}{05}This too is fate... If it lays the foundation for peace, I have no regrets...{05}{05}{05}
+@58
+{01}S{02}e3You'll kill me!? Then I'll come back and haunt you...!{05}{05}{05}Why do I have to die!? No, I don't want to die...{05}{05}{05}Cut down a beauty like me, and history will remember your infamy...!{05}{05}{05}
+@59
+Good, good.{05}{05}{05}
+@60
+Is it over... is it over...{05}{05}{05}
+@61
+No good, no good.{05}{05}{05}
+@62
+Have the flowers of the peach garden... fallen...{05}{05}{05}
+@63
+Does my path to conquest end here...{05}{05}{05}
+@64
+I could not... match my father... or brother...{05}{05}{05}
+@65
+Impossible... I won't die! I... won't...{05}{05}{05}
+@66
+I miss my pools of wine and forests of meat...{05}{05}{05}
+@67
+Did I stray from the path... Ohh, Heaven is calling me.{05}{05}{05}
+@68
+I shall return to Heaven...{05}{05}{05}
+@69
+Shall I return to Heaven...{05}{05}{05}
+@70
+Lord {02}{02}ﾈ, {02}{01}ﾈ\nhas joined our army and will\nbe assigned to {02}{14}ﾈ.{05}{05}{05}
+@71
+{02}{01}ﾈ now serves\n{02}{02}ﾈ.{05}{05}{05}
+@72
+{02}{01}ﾈ was released.{05}{05}{05}
+@73
+{02}{01}ﾈ was released and\nseems to have left public life.{05}{05}{05}
+@74
+{02}{01}ﾈ was executed\nby {02}{02}ﾈ.{05}{05}{05}
+@75
+Executed {02}{01}ﾈ.{05}{05}{05}
+@76
+As thanks, we gave {02}{01}ﾈ's army\nGold {1B}C4%lu{1B}C1 and Food {1B}C4%lu{1B}C1.{05}{05}{05}
+@77
+As thanks, {02}{01}ﾈ gave us\nGold {1B}C4%lu{1B}C1 and Food {1B}C4%lu{1B}C1.{05}{05}{05}
+@78
+Paid {02}{01}ﾈ's army the promised\n%s {1B}C4%lu{1B}C1 for their help.{05}{05}{05}
+@79
+Gave {02}{01}ﾈ's army the promised\n{1B}C6"%s"{1B}C1 for their help.{05}{05}{05}
+@80
+We couldn't pay {02}{01}ﾈ's army\nthe promised reward, so we\npaid only %s {1B}C4%lu{1B}C1.{05}{05}{05}
+@81
+Received %s {1B}C4%lu{1B}C1 from\n{02}{01}ﾈ as payment for our help.{05}{05}{05}
+@82
+Received {1B}C6"%s"{1B}C1 from\n{02}{01}ﾈ as payment for our help.{05}{05}{05}
+@83
+{02}{01}ﾈ couldn't pay the promised\nreward and sent only\n%s {1B}C4%lu{1B}C1.{05}{05}{05}
+@84
+Lord {02}{01}ﾈ's fame fell for\nfailing to pay the promised reward.{05}{05}{05}
+@85
+Paid {02}{01}ﾈ's army the\npromised reward for their help.{05}{05}{05}
+@86
+Received %s from {02}{01}ﾈ\nas payment for our help.{05}{05}{05}

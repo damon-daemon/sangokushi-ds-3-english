@@ -1,0 +1,292 @@
+@0
+{05}{05}{04}{02}{01}u{04}=247{06}&{02}d70{01}JﾙY{05}{05}{05}{01}S{02}e3We will now perform the weather dance. Everyone, prepare{01}C({00}!{05}{05}{05}O god who governs all creation, hear my prayer and change{01}C{13}{00} the weather.{05}{05}{05}Let my wish reach Heaven and bring the weather I desire!{05}{05}{05}
+@1
+Build the Seven Star Altar! I, Kongming, will perform the rite to Heaven.{05}{05}{05}
+@2
+{05}{05}{04}{02}{01}{81}{01}JﾜY{05}{05}{05}{05}{05}{04}{02}{01}u{04}=247{06}&{02}d70{01}JﾛY{05}{05}{05}{01}S{02}e3Behold my secret art, the fruit of daily training{01}C-{00}!{05}{05}{05}Success. Behold, a power beyond human wisdom that commands even the weather.{05}{05}{05}It worked{01}C5{00}. Everyone is amazed by the miracle{01}C2{00}.{05}{05}{05}
+@3
+It seems to have worked. But the battle has only begun...{05}{05}{05}
+@4
+{01}S{02}e2It seems to have worked. Heaven must love me after all.{05}{05}{05}It worked. Everyone must be amazed.{05}{05}{05}
+@5
+{05}{05}{04}{02}{01}{81}{01}JﾞY{05}{05}{05}{01}S{02}e3No good... Heaven, do you refuse my wish?{05}{05}{05}Blast, I got the ritual wrong.{05}{05}{05}It failed. Is this too a trial...? I'll overcome it.{05}{05}{05}
+@6
+{01}S{02}e2Oops, I got the ritual wrong.{05}{05}{05}It's no good... How rare for me to fail.{05}{05}{05}
+@7
+{05}{05}{04}{02}{01}{81}{01}J澪{05}{05}{05}{01}S{02}e3Clear the trees and grass around us so it can't spread any further{01}C-{00}!{05}{05}{05}Put out the fire, quickly{01}C-{00}! At this rate we'll be food for the flames{01}C7{00}!{05}{05}{05}If you don't want to die, hurry and put it out! You there, keep working!{05}{05}{05}
+@8
+{01}S{02}e2Clear the trees and grass around us so it can't spread any further!{05}{05}{05}Put out the fire, quickly! At this rate we'll be food for the flames!{05}{05}{05}
+@9
+{05}{05}{04}{02}{01}{81}{01}J膾{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J禳{05}{05}{05}{05}{05}{04}{02}{01}u{04}=247{06}&{02}d50{01}J綺{05}{05}{05}{01}S{02}e3Hmm, hyah!{05}{05}{05}Now, let's divine with the I Ching... (Rattle rattle) Oh, I see, I see.{05}{05}{05}I will now tell fortunes. I must concentrate, so quiet, please...{05}{05}{05}
+@10
+Divination{01}C!{00}! Stand back, everyone! O Heaven, answer my call!{05}{05}{05}
+@11
+Now then, I, Kongming, shall divine with the I Ching. Let's see...{05}{05}{05}
+@12
+{01}S{02}e2Now, let's divine with the I Ching... (Rattle rattle) Um, I see, I see.{05}{05}{05}I will now tell fortunes. I must concentrate, so quiet, please...{05}{05}{05}
+@13
+{05}{05}{04}{02}{01}d{04}=0{01}J觝{05}{05}{05}Tomorrow's weather... %s. Wind... %s. So say the signs.{05}{05}{05}
+@14
+Hm, tomorrow's weather: %s. Wind: %s. So say the signs{01}C7{00}.{05}{05}{05}
+@15
+{05}{05}{04}{02}{01}d{04}=0{01}J鏈{05}{05}{05}{01}S{02}e3Hm, the shadow of death over {02}{02}ﾈ's family...{05}{05}{05}A relative of {02}{02}ﾈ is near death{01}C{1B}{00}. Sad news will arrive{01}C{1A}{00}.{05}{05}{05}Ill fortune for {02}{02}ﾈ's family... Sad news will come soon, and {02}{02}ﾈ will withdraw{01}C{1A}{00}.{05}{05}{05}
+@16
+Good news{01}C-{00}! {02}{02}ﾈ's kin is dying, so they're retreating{01}C-{00}.{05}{05}{05}
+@17
+{05}{05}{04}{02}{01}d{04}=0{01}J鷓{05}{05}{05}{01}S{02}e3I divined our fortunes in war: good luck. Now, raise a war cry!{05}{05}{05}This battle bodes well. Tell{01}C{13}{00} everyone and stir up their fighting spirit.{05}{05}{05}I prayed for our fortunes: good luck. The tide is with us{01}C{15}{00}. Signal the all-out attack!{05}{05}{05}
+@18
+Oh, good fortune in war! We'd better attack all at once{01}C-{00}.{05}{05}{05}
+@19
+{05}{05}{04}{02}{01}d{04}=0{01}J{EC}Y{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J倢{05}{05}{05}{01}S{02}e3What, ill fortune in war! Bad, we must do something.{05}{05}{05}Sadly, this battle bodes ill... But we mustn't give up{01}C {00}. Don't lose hope...{05}{05}{05}What, this battle bodes ill... I hope this doesn't hurt morale.{05}{05}{05}
+@20
+Bad{01}C2{00}, ill fortune in war. Everyone, act with the utmost care{01}C'{00}.{05}{05}{05}
+@21
+{01}S{02}e3Bad, ill fortune in war. Everyone, let's act with the utmost care.{05}{05}{05}Sadly, this battle bodes ill... But we mustn't give up. Don't lose hope...{05}{05}{05}Oh, this battle bodes ill... Will this hurt morale?{05}{05}{05}
+@22
+{05}{05}{04}{02}{01}d{04}=0{01}J{EF}Y{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{uE019}{05}{05}{05}{01}S{02}e3I just divined Lord {02}{02}ﾈ's lifespan: it will be extended.{05}{05}{05}Good news{01}C{17}{00}. Lord {02}{02}ﾈ's life will be extended{01}C{17}{00}.{05}{05}{05}Lord {02}{02}ﾈ's life will be extended, but please don't overdo it.{05}{05}{05}
+@23
+Good for you, {02}{02}ﾈ. Your life will be extended{01}C-{00}.{05}{05}{05}
+@24
+{01}C{09}{00}, rejoice! Your life will be extended{01}C7{00}.{05}{05}{05}
+@25
+{05}{05}{04}{02}{01}d{04}=0{01}J{uE191}{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{uE24D}{05}{05}{05}{01}S{02}e3Lord {02}{02}ﾈ's life will be shortened. It's fate{01}C{1A}{00}.{05}{05}{05}The divination says Lord {02}{02}ﾈ's life... will be shortened. Sad, but this too is Heaven's will.{05}{05}{05}It pains me to say, but Lord {02}{02}ﾈ's life will be shortened...{05}{05}{05}
+@26
+{02}{02}ﾈ, bad news{01}C-{00}. Sadly, your life will be shortened{01}C-{00}.{05}{05}{05}
+@27
+The signs say {01}C{09}{00}'s life will be shortened. {01}C{09}{00}, stay strong.{05}{05}{05}
+@28
+{05}{05}{04}{02}{01}d{04}=0{01}J{uE3C5}{05}{05}{05}{01}S{02}e3The signs show fire for the enemy. Flames will surely rise from {02}{02}ﾈ's camp...{05}{05}{05}The signs say the whole enemy army will be engulfed in flames. Fire, I think{01}C{16}{00}.{05}{05}{05}By the divination, fire will break out in the enemy camp{01}C{17}{00}.{05}{05}{05}
+@29
+Fire in the enemy camp! A blaze is sure to break out. Now, attack{01}C7{00}!{05}{05}{05}
+@30
+{05}{05}{04}{02}{01}d{04}=0{01}J{uE53D}{05}{05}{05}{01}S{02}e3Signs of flood for the enemy... They'll surely suffer water damage{01}C{1C}{00}.{05}{05}{05}The signs say enemy units on water will be swallowed{01}C{1B}{00}. Surely a flood{01}C{1A}{00}.{05}{05}{05}The enemy will be hit by a flood... Oh, a torrent is heading for their camp{01}C{1B}{00}!{05}{05}{05}
+@31
+Flood for the enemy! {01}CA{00} Torrent, swallow them up!{05}{05}{05}
+@32
+{05}{05}{04}{02}{01}d{04}=0{01}J{uE6B5}{05}{05}{05}{01}S{02}e3A blade over {02}{02}ﾈ... Perhaps an assassin will strike{01}C{19}{00}?{05}{05}{05}Hmm, {02}{02}ﾈ will be badly hurt{01}C{17}{00}. A blade-borne misfortune{01}C{17}{00}.{05}{05}{05}{02}{02}ﾈ, ill fortune by the sword... Someone must hold a grudge{01}C{1A}{00}.{05}{05}{05}
+@33
+A blade-borne misfortune for {02}{02}ﾈ! Everyone, focus your attacks on {02}{02}ﾈ{01}C'{00}!{05}{05}{05}
+@34
+{05}{05}{04}{02}{01}d{04}=0{01}J{FB}Y{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{FC}Y{05}{05}{05}{01}S{02}e3A person's talent is boundless. {01}C{00}{00} will draw out {02}{02}ﾈ's hidden potential.{05}{05}{05}{02}{02}ﾈ doesn't seem to be at full strength. Let divination draw out their ability.{05}{05}{05}{02}{02}ﾈ's doubts are holding back their ability{01}C {00}. Let's cut those doubts away.{05}{05}{05}
+@35
+{02}{02}ﾈ, I'll draw out your hidden ability. Hyaaah!{05}{05}{05}
+@36
+Heaven is on {01}C{09}{00}'s side and seems to have drawn out a hidden ability.{05}{05}{05}
+@37
+{05}{05}{04}{02}{01}d{04}=0{01}J{FE}Y{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{FF}Y{05}{05}{05}{01}S{02}e3Good health for {02}{02}ﾈ... How is it{01}C{1A}{00}? Feel the strength surging{01}C {00}?{05}{05}{05}Signs of recovery from fatigue for {02}{02}ﾈ. The fruit of daily effort, I'd say.{05}{05}{05}Oh, good news{01}C{17}{00}. Energy will well up in {02}{02}ﾈ's body.{05}{05}{05}
+@38
+The breath of life for {02}{02}ﾈ! How's that, feel the strength? Good, good.{05}{05}{05}
+@39
+{01}C{09}{00}'s stamina will recover{01}C{17}{00}. Come, let's do our best.{05}{05}{05}
+@40
+{01}S{02}e3Heaven's wrath upon {02}{02}ﾈ! Oh, dark clouds gather and lightning heads for their camp...{05}{05}{05}Great misfortune for {02}{02}ﾈ. Disaster from the sky, say the signs{01}C{1B}{00}.{05}{05}{05}Let lightning strike {02}{02}ﾈ, the wrath and grudge of all!{05}{05}{05}
+@41
+{05}{05}{04}{02}{01}d{04}=0{01}J{02}Z{05}{05}{05}{01}S{02}e2Heaven seems angry with Lord {02}{02}ﾈ{01}C-{00}. Lightning heads for their camp...{05}{05}{05}Great misfortune for Lord {02}{02}ﾈ. Disaster from the sky, say the signs{01}C{1B}{00}.{05}{05}{05}
+@42
+Heaven seems angry with {02}{02}ﾈ{01}C-{00}. Lightning heads for their camp...{05}{05}{05}
+@43
+{05}{05}{04}{02}{01}d{04}=0{01}J{04}Z{05}{05}{05}{01}S{02}e3The castle will be engulfed in fire... Ah, flames from the castle...{05}{05}{05}The divination shows fire in the castle. Perhaps there's a traitor inside...{05}{05}{05}Signs of a great fire from the castle... Doesn't it mean a blaze in the castle...?{05}{05}{05}
+@44
+Fire in the castle... What could it mean{01}C4{00}? What, the castle's burning!{05}{05}{05}
+@45
+{05}{05}{04}{02}{01}{81}{01}J{06}Z{05}{05}{05}{01}S{02}e3Naive, {02}{02}ﾈ. Placing an ambush here is the most basic of tactics{01}C6{00}!{05}{05}{05}Worth the wait{01}C7{00}! Got you{01}C7{00}, {02}{02}ﾈ! This is where you die!{05}{05}{05}Just as I read it. {02}{02}ﾈ, today you die. Prepare yourself{01}C({00}!{05}{05}{05}
+@46
+{01}S{02}e2Naive, {02}{02}ﾈ. Placing an ambush here is the most basic of tactics!{05}{05}{05}Just as I read it. {02}{02}ﾈ, today is the day you die.{05}{05}{05}
+@47
+{05}{05}{04}{02}{01}{81}{01}J{09}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=339{06}&{02}d50{01}J{08}Z{05}{05}{05}{01}S{02}e3Let me show you my secret art. This is illusion{01}C-{00}!{05}{05}{05}They've all lost their minds{01}C2{00}. {01}CA{00} Fear the phantoms! Go mad, run in terror!{05}{05}{05}Phantom beasts at my command, devour my foes! {01}CA{00} They don't look like illusions, do they?{05}{05}{05}
+@48
+Behold the secret art from my Taiping Yaoshu! Taste my illusion!{05}{05}{05}
+@49
+{01}S{02}e3Let me show you my secret art. This is illusion!{05}{05}{05}Fear the phantoms! Go mad! Run in terror!{05}{05}{05}Phantom beasts at my command, devour my foes! Heh, they don't look like illusions, do they?{05}{05}{05}
+@50
+{05}{05}{04}{02}{01}{81}{01}J{0D}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=339{06}&{02}d50{01}J{0B}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=191{06}&{02}d30{01}J{0C}Z{05}{05}{05}{01}S{02}e3Kohhhhhhh... Kaaaaaaaaah!{05}{05}{05}Take thiiiis! My ultimate secret, deadly sorcery{01}C-{00}!{05}{05}{05}I never thought I'd find a foe worth this spell... You'll regret it.{05}{05}{05}
+@51
+Fools, behold the miracle of the Way of Peace! Kaaaaaaaah!{05}{05}{05}
+@52
+This technique is tiring, though...{05}{05}{05}
+@53
+{01}S{02}e3This technique is a bit tiring...{05}{05}{05}Hyaaah! My ultimate secret, deadly sorcery!{05}{05}{05}I never thought I'd find a foe worth this spell... You'll regret it.{05}{05}{05}
+@54
+{05}{05}{04}{02}{01}{81}{01}J{11}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=541{06}&{02}d50{01}J{0F}Z{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J{10}Z{05}{05}{05}{01}S{02}e3Listen, everyone! For {01}C{09}{00}'s sake, we must win this battle, understood?{05}{05}{05}Hear me, all! We can win this battle{01}C7{00}! Follow me!{05}{05}{05}Believe in victory{01}C'{00}! Cast off doubt and think only of victory! Victory is near{01}C-{00}!{05}{05}{05}
+@55
+For the Han's restoration and for justice, we can't lose this battle! Fight with all your might!{05}{05}{05}
+@56
+Hey, what are you doing! Follow me{01}C#{00}! Let's scatter the enemy{01}C0{00}!{05}{05}{05}
+@57
+{01}S{02}e2Listen, everyone! We will win this battle! Follow me!{05}{05}{05}Let's believe in victory. Give up and it's over! Let's scatter the enemy!{05}{05}{05}
+@58
+{05}{05}{04}{02}{01}{81}{01}J{15}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98{01}J{13}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=520{06}&{02}d50{01}J{14}Z{05}{05}{05}{01}S{02}e3{01}CA{00} Camped on the water, knowing nothing. Fools...{05}{05}{05}A chance! The enemy is on the water. I'll show them my clever plan.{05}{05}{05}Before the enemy finishes crossing the river, we spring the plan{01}C7{00}. Everyone ready?{05}{05}{05}
+@59
+Boys, it's a flood attack! Show 'em what pirates can do!{05}{05}{05}
+@60
+Heh... I, Lu Boyan, will teach you the art of the flood attack.{05}{05}{05}
+@61
+{01}S{02}e3Heh, camped on the water, knowing nothing. Poor things...{05}{05}{05}A chance! The enemy is on the water. Let's teach them to fear it.{05}{05}{05}Before the enemy finishes crossing the river, let's spring the plan. Everyone ready?{05}{05}{05}
+@62
+It failed.{05}{05}{05}
+@63
+{05}{05}{04}{02}{01}{81}{01}J{1A}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98{01}J{18}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=162{06}&{02}d50{01}J{19}Z{05}{05}{05}{01}S{02}e3Light the arrows! Show them arrows have uses like this too!{05}{05}{05}Loose fire arrows! Wrap them in flames!{05}{05}{05}Now{01}C-{00}, light the arrows! Give them a taste of burning hell!{05}{05}{05}
+@64
+Boys, fire arrows! Show 'em a pirate's archery!{05}{05}{05}
+@65
+Take Huang Hansheng's blazing arrow!{05}{05}{05}
+@66
+{01}S{02}e2Light the arrows. I'll show you arrows have uses like this too.{05}{05}{05}Loose fire arrows! Let them taste burning hell.{05}{05}{05}
+@67
+{05}{05}{04}{02}{01}{81}{01}J"Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=122{06}&{02}d70{01}J{1C}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=365{06}&{02}d70{01}J{1D}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=357{06}&{02}d70{01}J{1E}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=400{06}&{02}d70{01}J{1F}Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=564{06}&{02}d70{01}J Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=309{06}&{02}d70{01}J!Z{05}{05}{05}{01}S{02}e3Take heart{01}C'{00}! Show them the true strength of {02}{02}ﾈ's army{01}C'{00}!{05}{05}{05}Let's go{01}C7{00}! Fight like raging lions!{05}{05}{05}Let's do this{01}C7{00}! Raaaaah!{05}{05}{05}
+@68
+I'll show you how Xu Zhongkang runs wild! Uoraaaaah!{05}{05}{05}
+@69
+All right! Watch Zhang Fei of Yan run wild!!!{05}{05}{05}
+@70
+Zhang Ren, here I come! Uoooooh!!!{05}{05}{05}
+@71
+Behold the Evil Comer's rampage! Raaaaah!{05}{05}{05}
+@72
+I'll take you all on! Regret facing Lu Fengxian in hell!{05}{05}{05}
+@73
+I'll show you how Sun Bofu fights! Uoraaah!{05}{05}{05}
+@74
+{01}S{02}e2Don't underestimate me because I'm a woman. I'll finish you at once!{05}{05}{05}Here I come! I'll show you how a raging lion fights!{05}{05}{05}
+@75
+{05}{05}{04}{02}{01}u{04}=98{01}J$Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=313{06}&{02}d70{01}J%Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=63{06}&{02}d70{01}J&Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=162{06}&{02}d70{01}J'Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=564{06}&{02}d70{01}J(Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=422{06}&{02}d70{01}J)Z{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J*Z{05}{05}{05}{01}S{02}e3Shoot, shoot, keep shooting! Hitting our own? A few losses can't be helped.{05}{05}{05}Everyone, volley fire! Kill everyone around us{01}C-{00}!{05}{05}{05}Kill them all{01}C-{00}! Never mind the target, just keep shooting!{05}{05}{05}
+@76
+Boys, the usual! Let's show 'em pirate archery!{05}{05}{05}
+@77
+Watch what the Bow-Waist Princess can do!!{05}{05}{05}
+@78
+Behold the bow of Xiahou Miaocai! Hitting our own? I don't care!!{05}{05}{05}
+@79
+Hya hya hya... hyaaaaah!{05}{05}{05}
+@80
+Take every arrow we have! Behold the terror of Lu Bu's bow!{05}{05}{05}
+@81
+Gahaha! Never mind hitting our own! Keep shooting!{05}{05}{05}
+@82
+{01}S{02}e2War always has some losses. Keep shooting!{05}{05}{05}Everyone, volley fire! Shoot everyone around us!{05}{05}{05}
+@83
+{05}{05}{04}{02}{01}{81}{01}J,Z{05}{05}{05}{01}S{02}e3Right, swift attack{01}C-{00}! Everyone, advance with all your might!{05}{05}{05}Now{01}C-{00}, charge! Show them our speed!{05}{05}{05}If not now, when? Follow me{01}C#{00}!{05}{05}{05}
+@84
+{01}S{02}e2If we don't strike fast now, when will we? Follow me!{05}{05}{05}Swift attack! Don't fall behind me! Come on!{05}{05}{05}
+@85
+{05}{05}{04}{02}{01}{81}{01}J.Z{05}{05}{05}{01}S{02}e3Arrows can't pierce this rattan armor! With it we're invincible{01}C-{00}! Advance without fear!{05}{05}{05}How's that? Behold our rattan armor! {01}CA{00} What fun! They're amazed{01}C5{00}!{05}{05}{05}{01}CA{00} It bounces arrows right off{01}C5{00}! The invincible Rattan Army indeed.{05}{05}{05}
+@86
+{01}S{02}e3Arrows can't pierce rattan armor! Come, everyone, advance without fear!{05}{05}{05}Oh, sorry. Arrows don't work on my unit.{05}{05}{05}Heh, it bounces arrows right off. The invincible Rattan Army indeed.{05}{05}{05}
+@87
+{05}{05}{04}{02}{01}{81}{01}J1Z{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J0Z{05}{05}{05}{01}S{02}e3Hot hot hot! The fire won't go out{01}C%{00}! Someone help{01}C{13}{00}!{05}{05}{05}Blast, fire! To strike rattan armor's one weakness... A blunder.{05}{05}{05}Gwaaah, hot! Fire, fire... Ah, my invincible Rattan Army...{05}{05}{05}
+@88
+{01}S{02}e2My elite troops burning in the flames... Like a nightmare...{05}{05}{05}Everyone's being swallowed by the fire... At this rate we'll be wiped out{01}C0{00}.{05}{05}{05}
+@89
+{01}S{02}e3No, hot! Someone, someone help!{05}{05}{05}Blast, fire! To strike rattan armor's one weakness... Not bad.{05}{05}{05}Eeek, hot! Fire, fire... Ah, my Rattan Army...{05}{05}{05}
+@90
+{05}{05}{04}{02}{01}{81}{01}J3Z{05}{05}{05}{01}S{02}e3Just as expected of my troops. Not one dropped out of this forced march.{05}{05}{05}{02}{01}ﾈ has arrived! How's that? Our march is swift as the wind.{05}{05}{05}"Swift as the wind" was coined for my elite! {02}{01}ﾈ has arrived!{05}{05}{05}
+@91
+Just as expected of my troops. Not one dropped out of this forced march.{05}{05}{05}
+@92
+{05}{05}{04}{02}{01}{81}{01}J5Z{05}{05}{05}{01}S{02}e3Just as expected of my elite. Not one is swayed by such a scheme.{05}{05}{05}My troops are reliable. Always keeping their cool... I, {02}{01}ﾈ, am proud{01}C0{00}.{05}{05}{05}Well done, all. Behold my elite's nerve!{05}{05}{05}
+@93
+{01}S{02}e2Just as expected of my elite. Not one is swayed by such a scheme.{05}{05}{05}I'll praise everyone later. See? Behold my elite's nerve!{05}{05}{05}
+@94
+{05}{05}{04}{02}{01}{81}{01}J7Z{05}{05}{05}{01}S{02}e3O god of waters, protect me from your kin!{05}{05}{05}{01}CA{00} A flood attack? Useless, useless! It's powerless before the Water God's protection!{05}{05}{05}Oh, the torrent is avoiding us! Is the Water God protecting my unit?{05}{05}{05}
+@95
+O god of waters, protect me from your kin!{05}{05}{05}
+@96
+{05}{05}{04}{02}{01}{81}{01}J9Z{05}{05}{05}{01}S{02}e3Such a petty scheme! You underestimate {01}C{03}{00}! Now, turn the tables!{05}{05}{05}{01}CA{00} Naive, {02}{02}ﾈ! {01}C{03}{00} already has a countermove!{05}{05}{05}{02}{02}ﾈ, I saw that plan coming long ago{01}C-{00}. I'll turn the tables!{05}{05}{05}
+@97
+{01}S{02}e2Such a petty scheme! Do you underestimate {01}C{03}{00}? Let's turn the tables!{05}{05}{05}{02}{02}ﾈ, I saw that plan coming long ago. I'll turn the tables!{05}{05}{05}
+@98
+{05}{05}{04}{02}{01}u{04}=98{01}J;Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=63{06}&{02}d70{01}J<Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=162{06}&{02}d70{01}J=Z{05}{05}{05}{05}{05}{04}{02}{01}u{04}=564{06}&{02}d70{01}J>Z{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J?Z{05}{05}{05}{01}S{02}e3Men, shoot back! Teach them how to use a bow!{05}{05}{05}Tch, you got us! Hit back when hit, that's {02}{01}ﾈ's way! Go!{05}{05}{05}Don't just take it! Shoot back! We're the better archers{01}C-{00}!{05}{05}{05}
+@99
+These arrows are nothing! Boys, give 'em a taste of pirate longbows!{05}{05}{05}
+@100
+You got us! Shooting arrows at Xiahou Miaocai? You're on!{05}{05}{05}
+@101
+Shooting arrows at me takes nerve! Go on, shoot back!{05}{05}{05}
+@102
+Shooting arrows at me? Fools!{05}{05}{05}
+@103
+{01}S{02}e2You got us! Hitting back when hit is my way!{05}{05}{05}Don't underestimate me because I'm a woman!{05}{05}{05}
+@104
+{05}{05}{04}{02}{01}{81}{01}JAZ{05}{05}{05}{01}S{02}e3Show the fruits of daily training{01}C'{00}! Go{01}C7{00}!{05}{05}{05}You can't shoot while moving, they say. But my troops trained until they could{01}C-{00}!{05}{05}{05}You can't do a trick like this! {01}CA{00} Take that!{05}{05}{05}
+@105
+You can't do a trick like this, can you? Heh, take that!{05}{05}{05}
+@106
+{05}{05}{04}{02}{01}{81}{01}JCZ{05}{05}{05}{01}S{02}e3All right, attack together{01}C-{00}! Show them what we've got! Go!{05}{05}{05}Surround the enemy! Once surrounded, they're ours! Now{01}C-{00}, annihilate them!{05}{05}{05}Surround the enemy{01}C'{00}! {01}CA{00} They're backing away{01}C2{00}!{05}{05}{05}
+@107
+All right, attack together! Let's show them what we've got!{05}{05}{05}
+@108
+{05}{05}{04}{02}{01}{81}{01}JLZ{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98{01}JEZ{05}{05}{05}{05}{05}{04}{02}{01}u{04}=122{06}&{02}d70{01}JFZ{05}{05}{05}{05}{05}{04}{02}{01}u{04}=365{06}&{02}d70{01}JGZ{05}{05}{05}{05}{05}{04}{02}{01}u{04}=357{06}&{02}d70{01}JHZ{05}{05}{05}{05}{05}{04}{02}{01}u{04}=400{06}&{02}d70{01}JIZ{05}{05}{05}{05}{05}{04}{02}{01}u{04}=564{06}&{02}d70{01}JJZ{05}{05}{05}{05}{05}{04}{02}{01}u{04}=309{06}&{02}d70{01}JKZ{05}{05}{05}{01}S{02}e3Now{01}C-{00}, charge! They're wavering{01}C7{00}! Go, go!{05}{05}{05}Charge, ready to die! Take the general's head and name your reward{01}C0{00}!{05}{05}{05}Before we charge: don't die. Survive. Understood? Don't forget!{05}{05}{05}
+@109
+Boys, Gan Xingba holds your lives! Go, chaaarge!{05}{05}{05}
+@110
+I'll show you how Xu Zhongkang runs wild! Uoraaaaah!{05}{05}{05}
+@111
+Boys, follow me! Watch Zhang Fei of Yan run wild!!!{05}{05}{05}
+@112
+Zhang Ren, here I come! Uoooooh!!!{05}{05}{05}
+@113
+Boys, the Evil Comer holds your lives! Go, chaaarge!{05}{05}{05}
+@114
+Here I come! Can you stop Lu Fengxian's onslaught!{05}{05}{05}
+@115
+Charge! Don't you die on me!{05}{05}{05}
+@116
+Charge! Everyone, don't die!{05}{05}{05}
+@117
+{05}{05}{04}{02}{01}{81}{01}JNZ{05}{05}{05}{01}S{02}e3Hmm, this swamp is deep{01}C0{00}! I can't move freely{01}C9{00}!{05}{05}{05}Bad, my right foot won't come out{01}C%{00}! Ah, my left too{01}C-{00}! I can't move{01}C9{00}{01}C5{00}!{05}{05}{05}M-my horse is sinking... Blast! Careful{01}C'{00}! It's a bottomless swamp{01}C-{00}!{05}{05}{05}
+@118
+{01}S{02}e2No, this swamp is deep! I can't move freely.{05}{05}{05}Eek, my horse is sinking... I can't move!{05}{05}{05}
+@119
+{05}{05}{04}{02}{01}{81}{01}JPZ{05}{05}{05}Don't struggle!! The more you struggle, the deeper you sink{01}C0{00}!{05}{05}{05}
+@120
+{01}S{02}e2Oh dear... I can't get out.{05}{05}{05}Eek, my horse keeps sinking... I mustn't struggle!{05}{05}{05}
+@121
+{02}{01}ﾈ got out\nof the mud.{05}{05}{05}
+@122
+Where will the whole army retreat to?{05}{05}{05}
+@123
+{05}{05}{04}{02}{01}d{04}=0{01}JTZ{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JUZ{05}{05}{05}Lord {02}{02}ﾈ has come? How reassuring. We can't lose either{01}C9{00}{01}C5{00}!{05}{05}{05}
+@124
+{02}{02}ﾈ, I've been waiting{01}C0{00}! Now, go wild!{05}{05}{05}
+@125
+Now that {01}C{09}{00} has arrived, the whole army's morale will rise{01}C{1A}{00}.{05}{05}{05}
+@126
+{02}{01}ﾈ's unit's\nmorale rose.{05}{05}{05}
+@127
+{05}{05}{04}{02}{01}u{04}=98{01}JXZ{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JYZ{05}{05}{05}{01}S{02}e3They've finally calmed down{01}C2{00}. Always keep calm on the battlefield, understood?{05}{05}{05}You all lack composure{01}C0{00}. After the battle I'll drill you hard. Be ready{01}C'{00}.{05}{05}{05}Death awaits those who lose themselves in battle. If you don't want to die, stay calm{01}C-{00}.{05}{05}{05}
+@128
+Finally calmed down? You got too worked up. Keep a cooler head.{05}{05}{05}
+@129
+{01}S{02}e3They've finally calmed down. You {1B}K{1B}Hmust always keep calm on the battlefield.{05}{05}{05}You all lack composure. After the battle I'll drill you hard. Be ready.{05}{05}{05}Death awaits those who lose themselves in battle. If you don't want to die, stay calm.{05}{05}{05}
+@130
+{05}{05}{04}{02}{01}u{04}=98{01}J[Z{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J\Z{05}{05}{05}{01}S{02}e3We took the enemy's supply depot{01}C7{00}! The top honors go to me!{05}{05}{05}This will crush their morale{01}C0{00}. As they say, "An army marches on its stomach"{01}C.{00}.{05}{05}{05}{01}C{00}{00} took the supply depot! We can win this battle{01}C7{00}!{05}{05}{05}
+@131
+Wow, look at this mountain of food! Boys, you'll eat your fill later!{05}{05}{05}
+@132
+{01}S{02}e3We took the enemy's supply depot! The top honors go to me!{05}{05}{05}This will crush their morale. As they say, "An army marches on its stomach."{05}{05}{05}So much food! I might get fat... Oh dear.{05}{05}{05}
+@133
+The Circle formation doesn't\nneed to change facing.{05}{05}{05}
+@134
+{01}S{02}e3{02}{02}ﾈ, now is the time to show your strength. Name your reward{01}C-{00}.{05}{05}{05}Now{01}C-{00}! Depending on your deeds, Lord {02}{02}ﾈ, I promise a great reward.{05}{05}{05}As we planned{01}C7{00}, {02}{02}ﾈ. This battle depends on you{01}C-{00}.{05}{05}{05}
+@135
+{05}{05}{04}{02}{01}p{04}>10{01}J`Z{05}{05}{05}{01}S{02}e3Leave it to me, {02}{01}ﾈ! Everyone, as planned! "Yesterday's friend is today's foe"{01}C-{00}!{05}{05}{05}Hear me, all! Justice is with {02}{04}ﾈ! Our foe is the menace to the world, the traitor {02}{03}ﾈ!{05}{05}{05}We will now strike {02}{03}ﾈ! Anyone who objects may leave the ranks.{05}{05}{05}
+@136
+Rest easy{01}C({00}, {02}{02}ﾈ. I, {02}{01}ﾈ, will keep my promise even if it costs my life.{05}{05}{05}
+@137
+{05}{05}{04}{02}{01}p{04}<2{01}JbZ{05}{05}{05}{01}S{02}e3I can't betray my lord after all{01}C9{00}. Rather than live in shame, I choose to die loyal.{05}{05}{05}You fell for it, {02}{02}ﾈ! It was all an act to lure you out!{05}{05}{05}When I think of all my lord has done for me... I can't do it{01}C9{00}...{05}{05}{05}
+@138
+{01}S{02}e2{01}CA{00} Promises are made to be broken{01}C-{00}. That's the way of a chaotic age{01}C-{00}!{05}{05}{05}Hmm, I do feel this side has the advantage... I'll call off the defection{01}C!{00}.{05}{05}{05}
+@139
+{05}{05}{04}{02}{01}{81}{01}JfZ{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}JdZ{05}{05}{05}{05}{05}{04}{02}{02}u{04}=140{01}JeZ{05}{05}{05}{01}S{02}e3Lord {02}{02}ﾈ, the time is ripe. Scatter{01}C{13}{00} them as you please!{05}{05}{05}That's enough acting. Lord {02}{02}ﾈ, let's show them our army's strength!{05}{05}{05}Lord {02}{02}ﾈ, now{01}C{17}{00}! Your defection will make the enemy collapse{01}C{1A}{00}!{05}{05}{05}
+@140
+Enough acting, {02}{02}ﾈ. Come back now.{05}{05}{05}
+@141
+Your ruse has made the enemy complacent{01}C{1B}{00}. Now's our chance.{05}{05}{05}
+@142
+{01}S{02}e3Lord {02}{02}ﾈ, the time is ripe. Scatter them as you please!{05}{05}{05}That's enough acting. Lord {02}{02}ﾈ, let's show them our army's strength!{05}{05}{05}Lord {02}{02}ﾈ, now! Your defection will make the enemy collapse!{05}{05}{05}
+@143
+{05}{05}{04}{02}{01}{81}{01}JiZ{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98{01}JhZ{05}{05}{05}{01}S{02}e3You've been good to me{01}C2{00}. Sorry to repay kindness with betrayal, but no hard feelings.{05}{05}{05}They're panicking{01}C5{00}! {01}C{00}{00} am your planted poison{01}C-{00}! Prepare yourselves!{05}{05}{05}{01}CA{00} Surprised? No wonder. Men, let's go{01}C7{00}!{05}{05}{05}
+@144
+Boys, they're panicking! Now's our chance, get 'em!{05}{05}{05}
+@145
+{01}S{02}e3You've been good to me. Sorry to repay kindness with betrayal, but no hard feelings.{05}{05}{05}They're all panicking. I'm your planted poison... Prepare yourselves!{05}{05}{05}Heh, surprised? No wonder. Everyone, let's go!{05}{05}{05}

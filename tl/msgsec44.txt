@@ -1,0 +1,118 @@
+@0
+...{05}{05}{05}
+@2
+At {02}{01}ﾈ's castle{05}{05}{05}
+@3
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@4
+My lord, you have pacified\nthe Central Plain. No one in\nall the world can match you.{05}{05}{05}
+@5
+Now is the time to become\nKing of Wei and show all the\nwarlords your majesty.{05}{05}{05}
+@6
+King of Wei, eh...\nI leave the details to you.\nSee that all goes smoothly.{05}{05}{05}
+@7
+For his great deed of pacifying\nthe Central Plain, We name\nCao Cao King of Wei...{05}{05}{05}
+@8
+Unworthy as I am,\nI humbly accept.{05}{05}{05}
+@9
+Father,\ncongratulations.{05}{05}{05}
+@10
+Now the House of Cao\nwill truly prosper.{05}{05}{05}
+@11
+5th month of Jian'an 21 (AD 216)\n{02}{01}ﾈ became King of Wei.{05}{05}{05}
+@12
+My lord, you already hold\nShu, and Hanzhong too is\nunder your rule.{05}{05}{05}
+@13
+Heed the will of Heaven and\ntake the throne as King\nof Hanzhong.{05}{05}{05}
+@14
+I cannot take a royal title\nwithout the Emperor's decree.{05}{05}{05}
+@15
+Accept it for now, and then\nreport to the Emperor.\nThat should suffice.{05}{05}{05}
+@16
+Very well. To stand against\nthe traitor Cao, I will\naccept the title...{05}{05}{05}
+@17
+Your memorial on becoming\nKing of Hanzhong has reached\nEmperor Xian.{05}{05}{05}
+@18
+We recognize Imperial Uncle\nLiu Bei as King of Hanzhong.\nStay loyal to the Han.{05}{05}{05}
+@19
+Big brother's a king at last...\nI'm so happy!{05}{05}{05}
+@20
+Liu Bei, King of Hanzhong?!\nCurse him! One day we'll\nsettle this!{05}{05}{05}
+@21
+7th month of Jian'an 24 (AD 219)\n{02}{01}ﾈ became King of Hanzhong.{05}{05}{05}
+@22
+An envoy has come from Wei.\nThey would make you\nKing of Wu, my lord.{05}{05}{05}
+@23
+How insolent! Do they\nthink Wu is powerless?!{05}{05}{05}
+@24
+Lord Zhang, there's\nno need to get so heated.{05}{05}{05}
+@25
+But... accepting this title\nmeans bowing to Wei.{05}{05}{05}
+@26
+Liu Bang once accepted a title\nfrom Xiang Yu and bided his\ntime before taking the realm.{05}{05}{05}
+@27
+Just like the Han founder.\nMy accepting Wei's title\nmust be Heaven's will.{05}{05}{05}
+@28
+Alas, it is because\nour efforts fell short...{05}{05}{05}
+@29
+That our lord must accept\nanother's title...\nWhat a disgrace...{05}{05}{05}
+@30
+...Jiangdong has many able\nmen. How long will Sun Quan\nstay beneath Wei?{05}{05}{05}
+@31
+Curse you, Sun Quan!\nAccepting a traitor's title!{05}{05}{05}
+@32
+8th month of Huangchu 2 (AD 221)\n{02}{01}ﾈ became King of Wu.{05}{05}{05}
+@33
+Now, here in Xiangping,\nI shall declare independence!\nI fear no one in the Plain!{05}{05}{05}
+@34
+The Central Plain has many\nwise and brave men.\nFighting them now is reckless.{05}{05}{05}
+@35
+The land is full of ill omens.\nWar now would be unlucky!{05}{05}{05}
+@36
+Silence! You dare defy\nmy orders?!\nBah! Off with their heads!{05}{05}{05}
+@37
+My lord!\nPlease, restrain yourself!{05}{05}{05}
+@38
+Our troops are no match for\nthe Central Plain's armies.\nPlease reconsider...{05}{05}{05}
+@39
+{02}{02}ﾈ has been executed\nby {02}{01}ﾈ.{05}{05}{05}
+@40
+{02}{02}ﾈ and {02}{03}ﾈ have been\nexecuted by {02}{01}ﾈ.{05}{05}{05}
+@41
+When war comes,\nlet me lead the vanguard.{05}{05}{05}
+@42
+In the battle for the Plain,\nI will surely win glory!{05}{05}{05}
+@43
+Good. I expect\ngreat things of you.{05}{05}{05}
+@44
+Gongsun Yuan has declared\nindependence at Xiangping.{05}{05}{05}
+@45
+Lord {02}{01}ﾈ, our agent\n{02}{02}ﾈ has died, caught up\nin Gongsun Yuan's revolt.{05}{05}{05}
+@46
+On becoming King of Hanzhong,\nLiu Bei named Guan Yu, Zhang Fei\nand three more Five Tigers.{05}{05}{05}
+@47
+I am to lead the\nFive Tiger Generals...{05}{05}{05}
+@48
+I shall stake my life for\nyou, brother, and for the\nrestoration of the Han.{05}{05}{05}
+@49
+Me, one of the Five Tigers?\nKinda embarrassing...{05}{05}{05}
+@50
+For you, big brother,\nI'd go through fire\nand water!{05}{05}{05}
+@51
+I humbly accept. I will spare\nno effort to restore\nthe Han.{05}{05}{05}
+@52
+I never dreamed an old man\nlike me would receive\nsuch an honor.{05}{05}{05}
+@53
+Thank you. I will crush the\ntraitor Cao and return home\nin glory.{05}{05}{05}
+@54
+I am deeply honored.\nPlease let me guard\nHanzhong.{05}{05}{05}
+@55
+Even We cannot defeat age.\nWe shall simply wither\naway...{05}{05}{05}
+@56
+To fail to restore the Han\nand let its line end\nwith Us...{05}{05}{05}
+@57
+How bitter...\nhow very bitter...{05}{05}{05}
+@58
+Emperor Xian, Liu Xie, last\nemperor of Han, has died\nwithout an heir.{05}{05}{05}
+@59
+The legitimate line of\nthe Han has ended.{05}{05}{05}

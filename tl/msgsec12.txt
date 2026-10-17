@@ -1,0 +1,66 @@
+@0
+This is not our territory.{05}{05}{05}
+@1
+No city has been selected.{05}{05}{05}
+@2
+Select cities (Cost: Gold {1B}C4{02}({1B}C1).{05}{05}{05}
+@3
+This is not our territory.{05}{05}{05}
+@4
+Already fully developed.{05}{05}{05}
+@5
+Already developed this month.{05}{05}{05}
+@6
+No domestic minister can carry this out.{05}{05}{05}
+@7
+No more can be selected (Cost: Gold {1B}C4{02}({1B}C1).{05}{05}{05}
+@8
+No city has been selected.{05}{05}{05}
+@9
+Select the city.{05}{05}{05}
+@10
+No officer can patrol.{05}{05}{05}
+@11
+Already patrolled this month.{05}{05}{05}
+@12
+Select the officer.{05}{05}{05}
+@13
+No officer has been selected.{05}{05}{05}
+@14
+Select the trade.{05}{05}{05}
+@15
+There is no food to sell.{05}{05}{05}
+@16
+Gold is at maximum; you cannot sell any more.{05}{05}{05}
+@17
+There are no funds to buy with.{05}{05}{05}
+@18
+Food is at maximum; you cannot buy any more.{05}{05}{05}
+@19
+Select the officer.{05}{05}{05}
+@20
+No officer has been selected.{05}{05}{05}
+@21
+How much food will you sell? (Gold {1B}C41{1B}C1 = Food {1B}C4{02}({1B}C1){05}{05}{05}
+@22
+How much food will you buy? (Gold {1B}C41{1B}C1 = Food {1B}C4{02}({1B}C1){05}{05}{05}
+@23
+Spend Gold {1B}C4{02}({1B}C1\nto develop {02}{14}ﾈ?{05}{05}{05}
+@24
+Spend Gold {1B}C4{02}({1B}C1 to develop\n{02}{14}ﾈ and {02}) other cities?{05}{05}{05}
+@25
+{02}{14}ﾈ development results\nFarm:{1B}C4%3u{1B}C1(+{1B}C4%3u{1B}C1) Flood:{1B}C4%3u{1B}C1(+{1B}C4%3u{1B}C1)\nTrade:{1B}C4%3u{1B}C1(+{1B}C4%3u{1B}C1) Def.:{1B}C4%3u{1B}C1(+{1B}C4%3u{1B}C1){05}{05}{05}
+@26
+{02}{14}ﾈ development results\nFarm:{1B}C4%3u{1B}C1(%s) %sFlood:{1B}C4%3u{1B}C1(%s)\nTrade:{1B}C4%3u{1B}C1(%s) %sDef.:{1B}C4%3u{1B}C1(%s){05}{05}{05}
+@27
+{01}S{02}e3The people worked very hard, so {02}{14}ﾈ achieved better results than expected{01}C0{00}.{05}{05}{05}The people of {02}{14}ﾈ worked so eagerly... Look{01}C{13}{00} at these splendid results.{05}{05}{05}The people of {02}{14}ﾈ answered {01}C{0A}{00}'s benevolent rule{01}C{17}{00}. The results exceeded expectations.{05}{05}{05}
+@28
+{01}S{02}e3Some people ran off from their work, and progress in {02}{14}ﾈ fell far behind.{05}{05}{05}The people of {02}{14}ﾈ did nothing but grumble, and the work went slowly{01}C {00}.{05}{05}{05}The people of {02}{14}ﾈ didn't cooperate, and the results were poor{01}C0{00}.{05}{05}{05}Perhaps we should win the people's hearts more.{05}{05}{05}
+@29
+Patrol {02}{14}ﾈ?{05}{05}{05}
+@30
+Sell Food {1B}C4{02}({1B}C1\nfor Gold {1B}C4{02}){1B}C1?{05}{05}{05}
+@31
+Buy Food {1B}C4{02}({1B}C1\nfor Gold {1B}C4{02}){1B}C1?{05}{05}{05}
+@32
+You now have Gold {1B}C4%lu{1B}C1\nand Food {1B}C4%lu{1B}C1.{05}{05}{05}

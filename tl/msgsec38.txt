@@ -1,0 +1,1146 @@
+@0
+Ahuinan　?-225{05}{05}{05}
+@1
+Yi Ji　Jibo　?-?{05}{05}{05}
+@2
+Yin Shang　?-?{05}{05}{05}
+@3
+Yin Damu　?-?{05}{05}{05}
+@4
+Yin Mo　Siqian　?-?{05}{05}{05}
+@5
+Yu Ji{05}{05}{05}
+@6
+Yu Jin　Wenze　?-221{05}{05}{05}
+@7
+Yu Quan　?-258{05}{05}{05}
+@8
+Wei Guan　Boyu　220-291{05}{05}{05}
+@9
+Yueji　?-227{05}{05}{05}
+@10
+Yuan Yin　?-199{05}{05}{05}
+@11
+Yan Yu　Wenping　?-?{05}{05}{05}
+@12
+Yuan Xi　Xianyi　?-207{05}{05}{05}
+@13
+Yan Xing　Yanming　?-?{05}{05}{05}
+@14
+Yuan Shu　Gonglu　?-199{05}{05}{05}
+@15
+Yuan Shang　Xianfu　?-207{05}{05}{05}
+@16
+Yuan Shao　Benchu　?-202{05}{05}{05}
+@17
+Yan Xiang　?-?{05}{05}{05}
+@18
+Yuan Tan　Xiansi　?-205{05}{05}{05}
+@19
+Yan Pu　?-?{05}{05}{05}
+@20
+Yuan Yao　?-? (novel 199){05}{05}{05}
+@21
+Wang Wei　?-?{05}{05}{05}
+@22
+Wang Yi　?-?{05}{05}{05}
+@23
+Wang Yun　Zishi　137-192{05}{05}{05}
+@24
+Wang Ji　Boyu　190-261{05}{05}{05}
+@25
+Wang Qi　Kongshuo　?-?{05}{05}{05}
+@26
+Wang Jing　Yanwei　?-260{05}{05}{05}
+@27
+Wang Kang　?-?{05}{05}{05}
+@28
+Wang Hun　Xuanchong　223-297{05}{05}{05}
+@29
+Wang Can　Zhongxuan　177-217{05}{05}{05}
+@30
+Wang Zifu　?-200{05}{05}{05}
+@31
+Wang Xiu　Shuzhi　?-?{05}{05}{05}
+@32
+Wang Rong　Junchong　234-305{05}{05}{05}
+@33
+Wang Jun　Shizhi　206-286{05}{05}{05}
+@34
+Wang Zhen　?-258{05}{05}{05}
+@35
+Wang Shuang　Ziquan　?-228{05}{05}{05}
+@36
+Wang Chang　Wenshu　?-259{05}{05}{05}
+@37
+Wang Ping　Zijun　?-248{05}{05}{05}
+@38
+Wang Fu　Guoshan　?-219 (history 222){05}{05}{05}
+@39
+Wang Lei　?-? (novel 211){05}{05}{05}
+@40
+Wang Lang　Jingxing　?-228{05}{05}{05}
+@41
+Kuai Yue　Yidu　?-?{05}{05}{05}
+@42
+Kuai Liang　Zirou　?-?{05}{05}{05}
+@43
+Hua He　Yongxian　?-?{05}{05}{05}
+@44
+Ehe Shaoge　?-253{05}{05}{05}
+@45
+Jia Kui　Liangdao　?-?{05}{05}{05}
+@46
+He Yi　?-? (novel 194){05}{05}{05}
+@47
+Hua Xin　Ziyu　157-231{05}{05}{05}
+@48
+Jia Xu　Wenhe　?-223{05}{05}{05}
+@49
+Guo Yi　Boyi　?-?{05}{05}{05}
+@50
+Guo Jia　Fengxiao　170-207{05}{05}{05}
+@51
+Guo Si　?-197{05}{05}{05}
+@52
+Huo Jun　Zhongmiao　178-? (history 217){05}{05}{05}
+@53
+Hao Zhao　Bodao　?-229{05}{05}{05}
+@54
+Yue Jin　Wenqian　?-218{05}{05}{05}
+@55
+Yue Chen　?-257{05}{05}{05}
+@56
+Guo Tu　Gongze　?-205{05}{05}{05}
+@57
+Hao Meng　?-198{05}{05}{05}
+@58
+Guo Youzhi　Yanchang　?-?{05}{05}{05}
+@59
+Huo Yi　Shaoxian　?-?{05}{05}{05}
+@60
+Guo Huai　Boji　?-253 (history 255){05}{05}{05}
+@61
+Xiahou Wei　Jiquan　?-?{05}{05}{05}
+@62
+Xiahou Yuan　Miaocai　?-219{05}{05}{05}
+@63
+Xiahou En　?-208{05}{05}{05}
+@64
+Xiahou He　Yiquan　?-?{05}{05}{05}
+@65
+Xiahou Hui　Zhiquan　?-?{05}{05}{05}
+@66
+Xiahou Xuan　Taichu　208-254{05}{05}{05}
+@67
+Xiahou Shang　Boren　?-225{05}{05}{05}
+@68
+Xiahou De　?-218{05}{05}{05}
+@69
+Xiahou Dun　Yuanrang　?-220{05}{05}{05}
+@70
+Xiahou Ba　Zhongquan　?-262{05}{05}{05}
+@71
+Xiahou Mao　Zilin　?-?{05}{05}{05}
+@72
+Jia Chong　Gonglu　217-282{05}{05}{05}
+@73
+He Jin　Suigao　?-189{05}{05}{05}
+@74
+He Qi　Gongmiao　?-227{05}{05}{05}
+@75
+Hua Tuo　?-220{05}{05}{05}
+@76
+Yadan　?-?{05}{05}{05}
+@77
+Jia Fan　?-237{05}{05}{05}
+@78
+Kebineng　?-235{05}{05}{05}
+@79
+Hua Man{05}{05}{05}
+@80
+Hua Xiong　?-191{05}{05}{05}
+@81
+Guan Yi　?-264{05}{05}{05}
+@82
+Guan Yu　Yunchang　? (novel 162)-219{05}{05}{05}
+@83
+Huan Jie　Boxu　?-?{05}{05}{05}
+@84
+Guan Hai　?-? (novel 194){05}{05}{05}
+@85
+Guanqiu Jian　Zhonggong　?-255{05}{05}{05}
+@86
+Han Xuan　?-? (novel 208){05}{05}{05}
+@87
+Han Hao　Yuansi　?-? (novel 218){05}{05}{05}
+@88
+Guan Xing　Anguo　?-? (novel 234){05}{05}{05}
+@89
+Guan Suo　?-?{05}{05}{05}
+@90
+Han Sui　Wenyue　? (novel 172)-215{05}{05}{05}
+@91
+Han Song　Degao　?-?{05}{05}{05}
+@92
+Guan Jing　?-199{05}{05}{05}
+@93
+Han Xian　?-197{05}{05}{05}
+@94
+Kan Ze　Derun　?-243{05}{05}{05}
+@95
+Han Zhong　?-184{05}{05}{05}
+@96
+Han Dang　Yigong　?-227{05}{05}{05}
+@97
+Gan Ning　Xingba　?-? (novel 222){05}{05}{05}
+@98
+Huan Fan　Yuanze　?-249{05}{05}{05}
+@99
+Han Fu　Wenjie　?-?{05}{05}{05}
+@100
+Guan Ping　?-219{05}{05}{05}
+@101
+Jian Yong　Xianhe　?-?{05}{05}{05}
+@102
+Yan Liang　?-200{05}{05}{05}
+@103
+Guan Lu　Gongming　209-256{05}{05}{05}
+@104
+Wei Yan　Wenchang　?-234{05}{05}{05}
+@105
+Qu Yi　?-? (novel 191){05}{05}{05}
+@106
+Xi Zhicai　?-?{05}{05}{05}
+@107
+Wei Xu　?-? (novel 200){05}{05}{05}
+@108
+Wei Feng　Zijing　?-219{05}{05}{05}
+@109
+Niu Jin　?-?{05}{05}{05}
+@110
+Niu Fu　?-192{05}{05}{05}
+@111
+Jiang Wei　Boyue　202 (novel 206)-264{05}{05}{05}
+@112
+Gong Jing　?-?{05}{05}{05}
+@113
+Qiao Xuan　Gongzu　109-184{05}{05}{05}
+@114
+Gong Zhi　?-?{05}{05}{05}
+@115
+Gong Du　?-? (novel 201){05}{05}{05}
+@116
+Qiao Mao　Yuanwei　?-190 (novel 191){05}{05}{05}
+@117
+Xu Yi　?-263{05}{05}{05}
+@118
+Xu Gong　?-?{05}{05}{05}
+@119
+Xu Shao　Zijiang　150-195{05}{05}{05}
+@120
+Xu Jing　Wenxiu　?-222{05}{05}{05}
+@121
+Xu Chu　Zhongkang　?-?{05}{05}{05}
+@122
+Xu You　Ziyuan　?-204{05}{05}{05}
+@123
+Ji Ling　?-? (novel 199){05}{05}{05}
+@124
+Jin Yi　Deyi　?-218{05}{05}{05}
+@125
+Jinhuan Sanjie　?-225{05}{05}{05}
+@126
+Jin Xuan　Yuanji　?-208{05}{05}{05}
+@127
+Yu Fan　Zhongxiang　164-233{05}{05}{05}
+@128
+Xi Ni　?-225{05}{05}{05}
+@129
+Xing Daorong　?-208{05}{05}{05}
+@130
+Xi Zheng　Lingxian　?-278{05}{05}{05}
+@131
+Yan Yan　?-?{05}{05}{05}
+@132
+Qian Hong　?-?{05}{05}{05}
+@133
+Yan Gang　?-192{05}{05}{05}
+@134
+Yan Jun　Mancai　?-?{05}{05}{05}
+@135
+Yan Zheng　?-?{05}{05}{05}
+@136
+Yan Baihu　?-? (novel 196){05}{05}{05}
+@137
+Yan Yu　?-196{05}{05}{05}
+@138
+Wu Yi　Ziyuan　?-237{05}{05}{05}
+@139
+Huang Gai　Gongfu　?-?{05}{05}{05}
+@140
+Gao Gan　Yuancai　?-206{05}{05}{05}
+@141
+Geng Ji　Jixing　?-218{05}{05}{05}
+@142
+Huang Yueying　?-?{05}{05}{05}
+@143
+Huang Quan　Gongheng　?-240{05}{05}{05}
+@144
+Huang Hao　?-? (novel 263){05}{05}{05}
+@145
+Gao Shun　?-198{05}{05}{05}
+@146
+Gao Xiang　?-?{05}{05}{05}
+@147
+Gao Sheng　?-184{05}{05}{05}
+@148
+Huang Chengyan　?-?{05}{05}{05}
+@149
+Hou Cheng　?-?{05}{05}{05}
+@150
+Hou Xuan　?-?{05}{05}{05}
+@151
+Huang Zu　?-208{05}{05}{05}
+@152
+Gongsun Yue　?-191{05}{05}{05}
+@153
+Gongsun Yuan　?-238{05}{05}{05}
+@154
+Gongsun Gong　?-?{05}{05}{05}
+@155
+Gongsun Kang　?-?{05}{05}{05}
+@156
+Gongsun Zan　Bogui　?-199{05}{05}{05}
+@157
+Gongsun Xu　?-199{05}{05}{05}
+@158
+Gongsun Du　Shengji　?-204{05}{05}{05}
+@159
+Gongsun Fan　?-?{05}{05}{05}
+@160
+Kong Zhou　Gongxu　?-?{05}{05}{05}
+@161
+Huang Zhong　Hansheng　?-220{05}{05}{05}
+@162
+Gao Ding　?-?{05}{05}{05}
+@163
+Gao Pei　?-212{05}{05}{05}
+@164
+Huangfu Song　Yizhen　?-195{05}{05}{05}
+@165
+Kong Rong　Wenju　153-208{05}{05}{05}
+@166
+Gao Lan　?-? (novel 201){05}{05}{05}
+@167
+Guo Yuan　Zini　?-?{05}{05}{05}
+@168
+Wu Jing　?-203{05}{05}{05}
+@169
+Wu Yan　Zize　?-?{05}{05}{05}
+@170
+Wu Gang　?-?{05}{05}{05}
+@171
+Hu Zhi　Wende　?-250{05}{05}{05}
+@172
+Wu Zhi　Jizhong　?-?{05}{05}{05}
+@173
+Hu Che'er　?-?{05}{05}{05}
+@174
+Hu Zun　?-256{05}{05}{05}
+@175
+Hu Zhen　Wencai　?-? (novel 190){05}{05}{05}
+@176
+Wutugu　?-225{05}{05}{05}
+@177
+Hu Ban{05}{05}{05}
+@178
+Wu Ban　Yuanxiong　?-? (novel 234){05}{05}{05}
+@179
+Hu Fen　Xuanwei　?-?{05}{05}{05}
+@180
+Gu Yong　Yuantan　168-243{05}{05}{05}
+@181
+Wu Lan　?-218 (novel 219){05}{05}{05}
+@182
+Hu Lie　Xuanwu　?-?{05}{05}{05}
+@183
+Cui Yan　Jigui　?-216{05}{05}{05}
+@184
+Cai Yan　Wenji　?-?{05}{05}{05}
+@185
+Cai He　?-208{05}{05}{05}
+@186
+Cai Zhong　?-208{05}{05}{05}
+@187
+Cai Mao　Degui　?-? (novel 208){05}{05}{05}
+@188
+Cai Yong　132-192{05}{05}{05}
+@189
+Ze Rong　?-195{05}{05}{05}
+@190
+Zuo Ci　Yuanfang　?-?{05}{05}{05}
+@191
+Zixu Shangren　?-?{05}{05}{05}
+@192
+Shi Zuan　?-264{05}{05}{05}
+@193
+Sima Yi　Zhongda　179-251{05}{05}{05}
+@194
+Sima Yan　Anshi　236-290{05}{05}{05}
+@195
+Sima Hui　Decao　173-208{05}{05}{05}
+@196
+Sima Shi　Ziyuan　208-255{05}{05}{05}
+@197
+Sima Zhao　Zishang　211-265{05}{05}{05}
+@198
+Sima Fu　Shuda　180-272{05}{05}{05}
+@199
+Sima Wang　Zichu　205-271{05}{05}{05}
+@200
+Sima You　Dayou　248-283{05}{05}{05}
+@201
+Sima Lang　Boda　171-217{05}{05}{05}
+@202
+Xie Jing　?-? (novel 221){05}{05}{05}
+@203
+Che Zhou　?-199{05}{05}{05}
+@204
+Shamoke　?-222{05}{05}{05}
+@205
+Zhu Yi　Jiwen　?-257{05}{05}{05}
+@206
+Zhou Xin　Daming　?-196{05}{05}{05}
+@207
+Zhou Zhi　?-?{05}{05}{05}
+@208
+Zhou Cang　?-219{05}{05}{05}
+@209
+Zhou Tai　Youping　?-?{05}{05}{05}
+@210
+Zhou Tai　?-261{05}{05}{05}
+@211
+Zhou Fang　Ziyu　?-?{05}{05}{05}
+@212
+Zhou Yu　Gongjin　175-210{05}{05}{05}
+@213
+Zhu Huan　Xiumu　177-238{05}{05}{05}
+@214
+Zhurong　?-?{05}{05}{05}
+@215
+Zhu Jun　Gongwei　?-195{05}{05}{05}
+@216
+Zhu Ran　Yifeng　182-249 (novel 222){05}{05}{05}
+@217
+Zhu Zhi　Junli　156-224{05}{05}{05}
+@218
+Zhu Bao　?-225{05}{05}{05}
+@219
+Zhu Ling　Wenbo　?-?{05}{05}{05}
+@220
+Xun Yu　Wenruo　163-212{05}{05}{05}
+@221
+Chunyu Qiong　Zhongjian　?-200{05}{05}{05}
+@222
+Xun Chen　Youruo　?-?{05}{05}{05}
+@223
+Xun You　Gongda　157-214{05}{05}{05}
+@224
+Zhong Yu　Zhishu　224-263{05}{05}{05}
+@225
+Jiang Wan　Gongyan　?-246{05}{05}{05}
+@226
+Zhong Hui　Shiji　225-264{05}{05}{05}
+@227
+Jiang Gan　Ziyi　?-?{05}{05}{05}
+@228
+Jiang Yiqu　?-?{05}{05}{05}
+@229
+Xiao Qiao　?-?{05}{05}{05}
+@230
+Jiang Qin　Gongyi　?-219{05}{05}{05}
+@231
+Jiang Ji　Zitong　?-249{05}{05}{05}
+@232
+Qiao Zhou　Yunnan　201-270{05}{05}{05}
+@233
+Jiang Shu　?-?{05}{05}{05}
+@234
+Xiang Chong　?-240{05}{05}{05}
+@235
+Zhong Yao　Yuanchang　151-230{05}{05}{05}
+@236
+Xiang Lang　Juda　168-247{05}{05}{05}
+@237
+Xu Rong　?-? (novel 191){05}{05}{05}
+@238
+Zhuge Ke　Yuanxun　203-253{05}{05}{05}
+@239
+Zhuge Qiao　Bosong　204-228{05}{05}{05}
+@240
+Zhuge Jin　Ziyu　174-241{05}{05}{05}
+@241
+Zhuge Jun　?-?{05}{05}{05}
+@242
+Zhuge Shang　? (novel 245)-263{05}{05}{05}
+@243
+Zhuge Jing　Zhongsi　?-?{05}{05}{05}
+@244
+Zhuge Zhan　Siyuan　227-263{05}{05}{05}
+@245
+Zhuge Dan　Gongxiu　?-258{05}{05}{05}
+@246
+Zhuge Liang　Kongming　181-234{05}{05}{05}
+@247
+Xu Huang　Gongming　?-227{05}{05}{05}
+@248
+Xu Zhi　?-254 (novel 253){05}{05}{05}
+@249
+Xu Shu　Yuanzhi　?-?{05}{05}{05}
+@250
+Xu Sheng　Wenxiang　?-?{05}{05}{05}
+@251
+Shen Ying　?-280{05}{05}{05}
+@252
+Cen Hun　?-280{05}{05}{05}
+@253
+Lady Zhen　182-221{05}{05}{05}
+@254
+Shen Dan　Yiju　?-?{05}{05}{05}
+@255
+Shen Pei　Zhengnan　?-204{05}{05}{05}
+@256
+Xin Pi　Zuozhi　?-?{05}{05}{05}
+@257
+Xin Ping　?-204 (novel 205){05}{05}{05}
+@258
+Qin Mi　Zichi　?-226{05}{05}{05}
+@259
+Lady Zou　?-?{05}{05}{05}
+@260
+Zou Jing　?-?{05}{05}{05}
+@261
+Cheng Yi　?-211{05}{05}{05}
+@262
+Chenggong Ying　?-220{05}{05}{05}
+@263
+Xue Ying　Daoyan　?-282{05}{05}{05}
+@264
+Xue Zong　Jingwen　?-243{05}{05}{05}
+@265
+Quan Yi　?-?{05}{05}{05}
+@266
+Quan Yi　?-?{05}{05}{05}
+@267
+Quan Cong　Zihuang　?-249{05}{05}{05}
+@268
+Quan Duan　?-?{05}{05}{05}
+@269
+Cao Yu　Pengzu　?-?{05}{05}{05}
+@270
+Cao Rui　Yuanzhong　205-239{05}{05}{05}
+@271
+Cao Huan　Jingming　246-302{05}{05}{05}
+@272
+Cao Xi　?-249{05}{05}{05}
+@273
+Cao Xiu　Wenlie　?-228{05}{05}{05}
+@274
+Cao Xun　?-249{05}{05}{05}
+@275
+Song Xian　?-? (novel 200){05}{05}{05}
+@276
+Cao Ang　Ziyou　?-197{05}{05}{05}
+@277
+Cao Hong　Zilian　?-232{05}{05}{05}
+@278
+Cao Chun　Zihe　?-210{05}{05}{05}
+@279
+Cao Zhang　Ziwen　?-223{05}{05}{05}
+@280
+Cao Zhi　Zijian　192-232{05}{05}{05}
+@281
+Cao Zhen　Zidan　?-231{05}{05}{05}
+@282
+Cao Ren　Zixiao　168-223{05}{05}{05}
+@283
+Cao Xing　?-? (novel 198){05}{05}{05}
+@284
+Cao Cao　Mengde　155-220{05}{05}{05}
+@285
+Cao Shuang　Zhaobo　?-249{05}{05}{05}
+@286
+Cao Chong　Cangshu　196-208{05}{05}{05}
+@287
+Zang Ba　Xuangao　?-?{05}{05}{05}
+@288
+Cao Pi　Zihuan　187-226{05}{05}{05}
+@289
+Cao Bao　?-196{05}{05}{05}
+@290
+Cao Fang　Lanqing　231-274{05}{05}{05}
+@291
+Cao Mao　Yanshi　241-260{05}{05}{05}
+@292
+Cao Xiong　?-? (novel 220){05}{05}{05}
+@293
+Ju Hu　?-? (novel 204){05}{05}{05}
+@294
+Ju Shou　?-200{05}{05}{05}
+@295
+Su Fei　?-?{05}{05}{05}
+@296
+Zu Mao　Darong　?-? (novel 191){05}{05}{05}
+@297
+Sun Yi　?-?{05}{05}{05}
+@298
+Sun He　Zixiao　224-253{05}{05}{05}
+@299
+Sun Huan　Shuwu　?-?{05}{05}{05}
+@300
+Sun Ji　?-?{05}{05}{05}
+@301
+Sun Xiu　Zilie　235-264{05}{05}{05}
+@302
+Sun Kuang　Jizuo　?-?{05}{05}{05}
+@303
+Sun Xin　?-? (novel 280){05}{05}{05}
+@304
+Sun Jian　Wentai　156-191{05}{05}{05}
+@305
+Sun Qian　Gongyou　?-214{05}{05}{05}
+@306
+Sun Quan　Zhongmou　182-252{05}{05}{05}
+@307
+Sun Hao　Yuanzong　242-283{05}{05}{05}
+@308
+Sun Ce　Bofu　175-200{05}{05}{05}
+@309
+Sun Xiu　?-?{05}{05}{05}
+@310
+Sun Jun　Ziyuan　219-256{05}{05}{05}
+@311
+Sun Shao　Gongli　188-241{05}{05}{05}
+@312
+Sun Shangxiang　?-? (novel 222){05}{05}{05}
+@313
+Sun Jing　Youtai　?-?{05}{05}{05}
+@314
+Sun Zhong　?-184{05}{05}{05}
+@315
+Sun Chen　Zitong　231-258{05}{05}{05}
+@316
+Sun Deng　Zigao　209-241{05}{05}{05}
+@317
+Sun Yu　Zhongyi　177-215{05}{05}{05}
+@318
+Sun Yi　Shubi　184-204{05}{05}{05}
+@319
+Sun Liang　Ziming　243-260{05}{05}{05}
+@320
+Sun Li　Deda　?-250{05}{05}{05}
+@321
+Sun Lang　Zao'an　?-?{05}{05}{05}
+@322
+Da Qiao　?-?{05}{05}{05}
+@323
+Taishi Xiang　Yuanfu　?-?{05}{05}{05}
+@324
+Taishi Ci　Ziyi　166-206{05}{05}{05}
+@325
+Dailai Dongzhu　?-?{05}{05}{05}
+@326
+Zhuo Ying　?-?{05}{05}{05}
+@327
+King Duosi　?-225{05}{05}{05}
+@328
+Tan Xiong　?-221{05}{05}{05}
+@329
+Zhang Yun　?-? (novel 208){05}{05}{05}
+@330
+Zhao Yun　Zilong　?-229 (novel 228){05}{05}{05}
+@331
+Zhang Wei　?-? (novel 215){05}{05}{05}
+@332
+Zhang Ying　?-? (novel 196){05}{05}{05}
+@333
+Zhang Yan　?-?{05}{05}{05}
+@334
+Zhang Heng　?-? (novel 211){05}{05}{05}
+@335
+Zhang Wen　Huishu　?-?{05}{05}{05}
+@336
+Zhang Hua　Maoxian　232-300{05}{05}{05}
+@337
+Zhang Kai　?-?{05}{05}{05}
+@338
+Zhang Jiao　?-184{05}{05}{05}
+@339
+Zhang Ji　Derong　?-223{05}{05}{05}
+@340
+Zhang Xiu　Shusi　?-?{05}{05}{05}
+@341
+Zhang Ni　Boqi　?-254 (novel 256){05}{05}{05}
+@342
+Zhang Xun　?-?{05}{05}{05}
+@343
+Zhang Hu　?-?{05}{05}{05}
+@344
+Zhang Hong　Zigang　153-212{05}{05}{05}
+@345
+Zhang He　Junyi　?-231{05}{05}{05}
+@346
+Zhao Guang　?-263?{05}{05}{05}
+@347
+Zhao Hong　?-184{05}{05}{05}
+@348
+Zhang Ji　?-196{05}{05}{05}
+@349
+Zhang Xiu　?-207{05}{05}{05}
+@350
+Zhang Chunhua　189-247{05}{05}{05}
+@351
+Zhang Zhao　Zibu　156-236{05}{05}{05}
+@352
+Zhang Song　Yongnian　?-212{05}{05}{05}
+@353
+Zhang Xiang　?-?{05}{05}{05}
+@354
+Zhang Shao　?-?{05}{05}{05}
+@355
+Zhang Cheng　Zhongsi　178-244{05}{05}{05}
+@356
+Zhang Ren　?-214{05}{05}{05}
+@357
+Zhang Jie　?-265{05}{05}{05}
+@358
+Diaochan　176-?{05}{05}{05}
+@359
+Zhang Da　?-222{05}{05}{05}
+@360
+Zhang Ti　Juxian　?-280{05}{05}{05}
+@361
+Zhao Tong　?-?{05}{05}{05}
+@362
+Zhang Miao　Mengzhuo　?-195{05}{05}{05}
+@363
+Zhao Fan　?-?{05}{05}{05}
+@364
+Zhang Fei　Yide　? (novel 167)-221{05}{05}{05}
+@365
+Zhang Bu　?-264{05}{05}{05}
+@366
+Zhang Bao　?-? (novel 229){05}{05}{05}
+@367
+Zhang Bao　?-184{05}{05}{05}
+@368
+Zhang Mancheng　?-184{05}{05}{05}
+@369
+Zhang Yi　Bogong　?-264{05}{05}{05}
+@370
+Zhang Liao　Wenyuan　169-222 (novel 224){05}{05}{05}
+@371
+Zhang Liang　?-184{05}{05}{05}
+@372
+Zhao Lei　?-219{05}{05}{05}
+@373
+Zhang Lu　Gongqi　?-?{05}{05}{05}
+@374
+Chen Heng　?-195{05}{05}{05}
+@375
+Chen Gong　Gongtai　?-198{05}{05}{05}
+@376
+Chen Jiao　Jibi　?-237{05}{05}{05}
+@377
+Chen Qun　Changwen　?-236{05}{05}{05}
+@378
+Chen Gui　Hanyu　?-?{05}{05}{05}
+@379
+Chen Qian　Xiuyuan　212-292{05}{05}{05}
+@380
+Chen Shou　Chengzuo　233-297{05}{05}{05}
+@381
+Chen Shi　?-? (novel 230){05}{05}{05}
+@382
+Chen Zhen　Xiaoqi　?-235{05}{05}{05}
+@383
+Chen Tai　Xuanbo　?-260{05}{05}{05}
+@384
+Chen Deng　Yuanlong　?-?{05}{05}{05}
+@385
+Chen Dao　Shuzhi　?-?{05}{05}{05}
+@386
+Chen Wu　Zilie　?-215{05}{05}{05}
+@387
+Chen Lan　?-?{05}{05}{05}
+@388
+Chen Lin　Kongzhang　?-217{05}{05}{05}
+@389
+Cheng Yu　Zhongde　141-220{05}{05}{05}
+@390
+Cheng Yuanzhi　?-184{05}{05}{05}
+@391
+Cheng Yin　?-? (novel 211){05}{05}{05}
+@392
+Ding Yuan　Jianyang　?-189{05}{05}{05}
+@393
+Mi Heng　Zhengping　173-198 (novel 199){05}{05}{05}
+@394
+Cheng Pu　Demou　?-?{05}{05}{05}
+@395
+Cheng Wu　?-?{05}{05}{05}
+@396
+Cheng Bing　Deshu　?-?{05}{05}{05}
+@397
+Ding Feng　Chengyuan　?-271{05}{05}{05}
+@398
+Cheliji　?-?{05}{05}{05}
+@399
+Dian Wei　?-197{05}{05}{05}
+@400
+Tian Xu　?-?{05}{05}{05}
+@401
+Tian Chou　Zitai　169-214{05}{05}{05}
+@402
+Tian Feng　Yuanhao　?-200{05}{05}{05}
+@403
+Dian Man　?-?{05}{05}{05}
+@404
+Tian Yu　Guorang　?-?{05}{05}{05}
+@405
+Tu An　?-225{05}{05}{05}
+@406
+Dong Yun　Xiuzhao　?-246{05}{05}{05}
+@407
+Teng Yin　Chengsi　?-256{05}{05}{05}
+@408
+Dong He　Youzai　?-?{05}{05}{05}
+@409
+Deng Ai　Shizai　197-264{05}{05}{05}
+@410
+Dang Jun　?-?{05}{05}{05}
+@411
+Dong Jue　Gongxi　?-?{05}{05}{05}
+@412
+Tao Qian　Gongzu　132-194{05}{05}{05}
+@413
+Deng Xian　?-?{05}{05}{05}
+@414
+Dong Heng　?-219{05}{05}{05}
+@415
+Deng Zhi　Bomiao　?-251{05}{05}{05}
+@416
+Tang Zi　?-?{05}{05}{05}
+@417
+Dong Xi　Yuandai　?-215{05}{05}{05}
+@418
+Tao Jun　?-?{05}{05}{05}
+@419
+Dong Cheng　?-200{05}{05}{05}
+@420
+Dong Zhao　Gongren　156-236{05}{05}{05}
+@421
+Dong Zhuo　Zhongying　?-192{05}{05}{05}
+@422
+Deng Zhong　?-264{05}{05}{05}
+@423
+Dong Tuna　?-225{05}{05}{05}
+@424
+Tadun　?-207{05}{05}{05}
+@425
+Dong Min　Shuying　?-192{05}{05}{05}
+@426
+Deng Mao　?-184{05}{05}{05}
+@427
+Du Yuan　?-200{05}{05}{05}
+@428
+Du Ji　Bohou　163-224{05}{05}{05}
+@429
+Du Yu　Yuankai　222-284{05}{05}{05}
+@430
+Nanhua Laoxian　?-?{05}{05}{05}
+@431
+Nandou　?-?{05}{05}{05}
+@432
+Pei Yuanshao　?-200{05}{05}{05}
+@433
+Pei Xiu　Jiyan　224-271{05}{05}{05}
+@434
+Ma Yunlu　?-?{05}{05}{05}
+@435
+Ma Wan　?-211{05}{05}{05}
+@436
+Ma Xiu　?-211{05}{05}{05}
+@437
+Ma Jun　Deheng　?-?{05}{05}{05}
+@438
+Bo Cai　?-184{05}{05}{05}
+@439
+Ma Zun　?-?{05}{05}{05}
+@440
+Ma Su　Youchang　190-228{05}{05}{05}
+@441
+Ma Dai　?-?{05}{05}{05}
+@442
+Ma Zhong　?-? (novel 222){05}{05}{05}
+@443
+Ma Zhong　Dexin　?-249{05}{05}{05}
+@444
+Ma Chao　Mengqi　176-226 (history 222){05}{05}{05}
+@445
+Ma Tie　?-211{05}{05}{05}
+@446
+Ma Teng　Shoucheng　?-211{05}{05}{05}
+@447
+Ma Miao　?-?{05}{05}{05}
+@448
+Ma Liang　Jichang　187-222 (novel 225){05}{05}{05}
+@449
+Wan Yu　?-272{05}{05}{05}
+@450
+Fan Jiang　?-222{05}{05}{05}
+@451
+Fan Jian　Changyuan　?-?{05}{05}{05}
+@452
+Pan Jun　Chengming　?-239{05}{05}{05}
+@453
+Pan Zhang　Wengui　?-234 (novel 222){05}{05}{05}
+@454
+Fan Chou　?-192{05}{05}{05}
+@455
+Fan Neng　?-195{05}{05}{05}
+@456
+Pan Feng　?-191{05}{05}{05}
+@457
+Fei Yi　Wenwei　?-253{05}{05}{05}
+@458
+Bei Yan　?-238{05}{05}{05}
+@459
+Fei Shi　Gongju　?-?{05}{05}{05}
+@460
+Lady Mi　?-208{05}{05}{05}
+@461
+Mi Zhu　Zizhong　?-221{05}{05}{05}
+@462
+Mi Fang　Zifang　?-? (novel 222){05}{05}{05}
+@463
+Wu Anguo　?-?{05}{05}{05}
+@464
+Feng Xi　Xiuyuan　?-222{05}{05}{05}
+@465
+Fu Ying　?-?{05}{05}{05}
+@466
+Fu Gan　Yancai　?-?{05}{05}{05}
+@467
+Fu Shiren　Junyi　?-? (novel 222){05}{05}{05}
+@468
+Fu Qian　?-263{05}{05}{05}
+@469
+Fu Xun　Gongti　?-?{05}{05}{05}
+@470
+Fu Tong　?-222{05}{05}{05}
+@471
+Wen Yang　?-?{05}{05}{05}
+@472
+Wen Qin　Zhongruo　?-257{05}{05}{05}
+@473
+Wen Chou　?-200{05}{05}{05}
+@474
+Wen Pin　Zhongye　?-?{05}{05}{05}
+@475
+Bian Xi　?-200{05}{05}{05}
+@476
+Lady Bian　160-230{05}{05}{05}
+@477
+Mangyachang　?-225{05}{05}{05}
+@478
+Pang Ji　Yuantu　?-202{05}{05}{05}
+@479
+Pang Xi　?-?{05}{05}{05}
+@480
+Bao Sanniang　?-?{05}{05}{05}
+@481
+Bao Xin　152-192{05}{05}{05}
+@482
+Fa Zheng　Xiaozhi　176-220{05}{05}{05}
+@483
+Pang Tong　Shiyuan　178-213{05}{05}{05}
+@484
+Pang De　Lingming　?-219{05}{05}{05}
+@485
+Bao Long　?-208{05}{05}{05}
+@486
+Beidou　?-?{05}{05}{05}
+@487
+Puyang Xing　Ziyuan　?-264 (novel 265){05}{05}{05}
+@488
+King Mulu　?-225{05}{05}{05}
+@489
+Bu Zhi　Zishan　?-247{05}{05}{05}
+@490
+Man Chong　Boning　?-242{05}{05}{05}
+@491
+King Midang　?-?{05}{05}{05}
+@492
+Mao Jie　Xiaoxian　?-?{05}{05}{05}
+@493
+Meng Huo　?-?{05}{05}{05}
+@494
+Meng Da　Zidu　?-228{05}{05}{05}
+@495
+Meng You　?-?{05}{05}{05}
+@496
+Yang Huai　?-212{05}{05}{05}
+@497
+Yong Kai　?-225{05}{05}{05}
+@498
+Yang Yi　Weigong　?-235{05}{05}{05}
+@499
+Yang Hu　Shuzi　221-278{05}{05}{05}
+@500
+Yang Ang　?-215{05}{05}{05}
+@501
+Yang Ji　Wentong　?-291{05}{05}{05}
+@502
+Yang Xiu　Dezu　173-219{05}{05}{05}
+@503
+Yang Qiu　?-?{05}{05}{05}
+@504
+Yang Song　?-215{05}{05}{05}
+@505
+Yang Ren　?-215{05}{05}{05}
+@506
+Yang Zuo　?-?{05}{05}{05}
+@507
+Yang Bai　?-214{05}{05}{05}
+@508
+Yang Biao　Wenxian　142-225{05}{05}{05}
+@509
+Yang Feng　?-?{05}{05}{05}
+@510
+Lei Tong　?-218{05}{05}{05}
+@511
+Lei Bo　?-?{05}{05}{05}
+@512
+Luo Tong　Gongxu　193-228{05}{05}{05}
+@513
+Li Yi　?-? (novel 221){05}{05}{05}
+@514
+Li Hui　De'ang　?-231{05}{05}{05}
+@515
+Li Jue　Zhiran　?-198{05}{05}{05}
+@516
+Lu Kai　Jingfeng　198-269{05}{05}{05}
+@517
+Lu Kang　Youjie　226-274{05}{05}{05}
+@518
+Lu Ji　Gongji　187-219{05}{05}{05}
+@519
+Lu Xun　Boyan　183-245{05}{05}{05}
+@520
+Li Yan　Zhengfang　?-234{05}{05}{05}
+@521
+Li Ru　?-192{05}{05}{05}
+@522
+Li Su　?-192{05}{05}{05}
+@523
+Li Dian　Mancheng　?-?{05}{05}{05}
+@524
+Li Peng　?-257{05}{05}{05}
+@525
+Li Feng　?-?{05}{05}{05}
+@526
+Liu Yong　Gongshou　?-?{05}{05}{05}
+@527
+Liu Yan　Junlang　?-194{05}{05}{05}
+@528
+Liu Gui　?-? (novel 214){05}{05}{05}
+@529
+Liu Qi　?-209{05}{05}{05}
+@530
+Liu Xian　?-?{05}{05}{05}
+@531
+Liu Xun　?-?{05}{05}{05}
+@532
+Liu Zhang　Jiyu　?-219{05}{05}{05}
+@533
+Liu Chen　?-263{05}{05}{05}
+@534
+Liu Shan　Gongsi　207-271{05}{05}{05}
+@535
+Liu Cong　?-? (novel 208){05}{05}{05}
+@536
+Liu Dai　Gongshan　?-192 (novel ?){05}{05}{05}
+@537
+Liu Du　?-?{05}{05}{05}
+@538
+Liu Ba　Zichu　?-222{05}{05}{05}
+@539
+Liu Pan　?-?{05}{05}{05}
+@540
+Liu Bei　Xuande　161 (novel 157)-223{05}{05}{05}
+@541
+Liu Biao　Jingsheng　142-208{05}{05}{05}
+@542
+Liu Bao　?-?{05}{05}{05}
+@543
+Liu Fu　Yuanying　?-208{05}{05}{05}
+@544
+Liu Pi　?-? (novel 201){05}{05}{05}
+@545
+Liu Feng　?-220{05}{05}{05}
+@546
+Liu Ye　Ziyang　?-?{05}{05}{05}
+@547
+Liu Yao　Zhengli　154-195{05}{05}{05}
+@548
+Liu Li　Fengxiao　?-244{05}{05}{05}
+@549
+Liu Lue　?-?{05}{05}{05}
+@550
+Lu Weihuang　?-200{05}{05}{05}
+@551
+Liao Hua　Yuanjian　?-264{05}{05}{05}
+@552
+Liang Xing　?-211{05}{05}{05}
+@553
+Liang Xi　Ziyu　?-230{05}{05}{05}
+@554
+Ling Cao　?-203{05}{05}{05}
+@555
+Ling Tong　Gongji　189-237{05}{05}{05}
+@556
+Lu Kai　Jiping　?-226{05}{05}{05}
+@557
+Lu Yi　?-?{05}{05}{05}
+@558
+Lu Qian　Zike　?-?{05}{05}{05}
+@559
+Lu Kuang　?-? (novel 207){05}{05}{05}
+@560
+Lu Xiang　?-? (novel 207){05}{05}{05}
+@561
+Lu Dai　Dinggong　161-256{05}{05}{05}
+@562
+Lu Fan　Ziheng　?-228{05}{05}{05}
+@563
+Lu Bu　Fengxian　?-198{05}{05}{05}
+@564
+Lu Meng　Ziming　178-219{05}{05}{05}
+@565
+Lu Lingqi　?-?{05}{05}{05}
+@566
+Lun Zhi　?-237{05}{05}{05}
+@567
+Leng Bao　?-? (novel 213){05}{05}{05}
+@568
+Lou Gui　Zibo　?-?{05}{05}{05}
+@569
+Lu Su　Zijing　172-217{05}{05}{05}
+@570
+Lu Zhi　Zigan　?-192{05}{05}{05}
+@571
+Zhang Rang　?-189{05}{05}{05}
+@572
+Jian Shuo　?-189{05}{05}{05}

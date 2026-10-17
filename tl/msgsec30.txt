@@ -1,0 +1,200 @@
+@0
+Served Meng Huo. Marshal of the Third Cave.\n{1B}C4{uE06E}{1B}C2Captured by Zhang Yi in Zhuge Liang's southern campaign and freed with Dongtuna. Sent to guard Shakou by the defiant Meng Huo, he and Dongtuna later seized Meng Huo and handed him to Shu. When Meng Huo was freed again, he lured them out and killed them both.\n{1B}C6{uE06D}{1B}C2No record.{05}{05}{05}
+@1
+Liu Biao's adviser. Later served Liu Bei.\n{1B}C4{uE06E}{1B}C2Warned Liu Bei that the horse Dilu cursed its rider, and of Cai Mao's plot to kill him. After Liu Cong surrendered to Cao Cao, he served Liu Bei and held Jing with Guan Yu. When Lu Meng struck, he went to Chengdu for aid and stayed. He urged Liu Bei to take the throne.\n{1B}C6{uE06D}{1B}C2His wit as an envoy impressed Sun Quan. Helped Zhuge Liang, Fa Zheng and others draft the laws of Shu.{05}{05}{05}
+@2
+An officer of Tianshui. Served Wei, then surrendered to Shu.\n{1B}C4{uE06E}{1B}C2A friend of Jiang Wei. When Zhuge Liang attacked Tianshui, he plotted with Liang Xu and opened the gates to Shu.\n{1B}C6{uE06D}{1B}C2Suspected of disloyalty by the governor Ma Zun, who fled, he surrendered with Jiang Wei and the Liang brothers. Died before Shu fell.{05}{05}{05}
+@3
+Damu is his courtesy name. Trusted aide of Cao Shuang.\n{1B}C4{uE06E}{1B}C2After Cao Shuang's execution he feigned service to Sima Shi to avenge him. When Wen Qin rebelled, he tried to tell him Sima Shi was dying, but Wen Qin missed his meaning.\n{1B}C6{uE06D}{1B}C2Served the Cao family from boyhood, then the emperor himself.{05}{05}{05}
+@4
+A scholar of Shu, pupil of Sima Hui.\n{1B}C4{uE06E}{1B}C2One of the advisers who urged Liu Bei to become emperor. Made Erudite for the first northern campaign.\n{1B}C6{uE06D}{1B}C2Versed in the classics, especially the Zuo Commentary, which he taught to Liu Shan as crown prince.{05}{05}{05}
+@5
+A Taoist who roamed Jiangdong.\n{1B}C4{uE06E}{1B}C2Won followers by healing with holy water. Sun Ce grew jealous when guests honored Yu Ji above him, and though Yu Ji made it rain as ordered, executed him for sorcery. Haunted by his ghost, Sun Ce died young.\n{1B}C6{uE06D}{1B}C2Made rain for Sun Ce's drought-stricken army, displeased him, and was killed.{05}{05}{05}
+@6
+An officer of Wei.\n{1B}C4{uE06E}{1B}C2Won Cao Cao's praise for curbing Xiahou Dun's looting troops. Commanded the navy at Chibi. Captured by Guan Yu's flood at Fancheng, he was returned by Sun Quan, but Cao Pi set him to guard Cao Cao's tomb, where a mural of him begging Guan Yu for mercy made him die of rage.\n{1B}C6{uE06D}{1B}C2Fought the Yellow Turbans under Bao Xin. Strict with his men.{05}{05}{05}
+@7
+An officer of Wu.\n{1B}C4{uE06E}{1B}C2Sent to aid Zhuge Dan's revolt against Wei. When Wang Ji took Shouchun and urged him to yield, he refused, saying he could not surrender with his duty undone, and died fighting.\n{1B}C6{uE06D}{1B}C2Same as the Romance.{05}{05}{05}
+@8
+Son of Wei Kai. A minister of Wei.\n{1B}C4{uE06E}{1B}C2Army inspector on the conquest of Shu. On Zhong Hui's orders he arrested Deng Ai, then crushed Zhong Hui's revolt and had Tian Xu kill Deng Ai and his son.\n{1B}C6{uE06D}{1B}C2Rose to Minister of Works under Jin but was executed through Empress Jia's hatred. A master of cursive script.{05}{05}{05}
+@9
+Marshal of the Western Qiang, wielder of an iron hammer.\n{1B}C4{uE06E}{1B}C2Sent by King Cheliji to aid Wei against Zhuge Liang. His iron chariots cornered Guan Xing, but he fell into Zhuge Liang's trap and was slain by Guan Xing.\n{1B}C6{uE06D}{1B}C2No record.{05}{05}{05}
+@10
+Nephew of Yuan Shu (cousin in history).\n{1B}C4{uE06E}{1B}C2Killed while fleeing to Lujiang with Yuan Shu's coffin and family. The imperial seal went to Cao Cao.\n{1B}C6{uE06D}{1B}C2Driven from Danyang by Sun Ce. After Yuan Shu's death he fled to Liu Xun.{05}{05}{05}
+@11
+General of the Right of Shu.\n{1B}C4{uE06E}{1B}C2Flattered Huang Hao and schemed to replace Jiang Wei at the front, but Liu Shan said only Jiang Wei could face Deng Ai.\n{1B}C6{uE06D}{1B}C2Succeeded Ma Zhong in post after post but was judged his inferior. Held Baidi with Luo Xian when Shu fell.{05}{05}{05}
+@12
+Second son of Yuan Shao, husband of Lady Zhen.\n{1B}C4{uE06E}{1B}C2Inspector of You. Fled with Yuan Shang to the Wuhuan, then to Gongsun Kang, who beheaded them both and sent their heads to Cao Cao.\n{1B}C6{uE06D}{1B}C2Tadun of the Wuhuan gave him strong support against Cao Cao.{05}{05}{05}
+@13
+Han Sui's son-in-law, later renamed Yan.\n{1B}C4{uE06E}{1B}C2No record.\n{1B}C6{uE06D}{1B}C2Bested Ma Chao in battle as a youth. As Han Sui's envoy he urged him to submit to Cao Cao, in vain. After Ma Chao's defeat he wed Han Sui's daughter, but in the end attacked Han Sui and went over to Cao Cao.{05}{05}{05}
+@14
+Cousin of Yuan Shao, of an illustrious house.\n{1B}C4{uE06E}{1B}C2Massacred the eunuchs after He Jin's murder and joined the coalition against Dong Zhuo. Holding the imperial seal, he declared himself emperor in Huainan, but misrule cost him all support. Attacked by Liu Bei while fleeing to Yuan Shao, he died vomiting blood.\n{1B}C6{uE06D}{1B}C2Sought the throne early, feuded with Yuan Shao, and lost to Cao Cao at Kuangting.{05}{05}{05}
+@15
+Third son of Yuan Shao.\n{1B}C4{uE06E}{1B}C2His father's handsome favorite, made heir by Shen Pei and Pang Ji. Feuding with Yuan Tan, he fled to Yuan Xi and then to the Wuhuan. Gongsun Kang, fearing Cao Cao, beheaded him and sent the head to Cao Cao.\n{1B}C6{uE06D}{1B}C2Offered to surrender at Ye but was refused. Killed trying to seize Gongsun Kang's troops.{05}{05}{05}
+@16
+Cousin of Yuan Shu, of an illustrious house. Friend of Cao Cao.\n{1B}C4{uE06E}{1B}C2Massacred the eunuchs and led the coalition against Dong Zhuo. Took Ji from Han Fu, crushed Gongsun Zan and ruled Hebei as the greatest power, but was routed by Cao Cao at Guandu and again at Cangting, and died without naming an heir.\n{1B}C6{uE06D}{1B}C2Tried to make Liu Yu emperor. Declined to take in Emperor Xian.{05}{05}{05}
+@17
+Yuan Shu's adviser.\n{1B}C4{uE06E}{1B}C2Cited King Wen of Zhou, who served Yin though he held most of the realm, to stop Yuan Shu from taking the throne. Yuan Shu, trusting a prophecy, ignored him.\n{1B}C6{uE06D}{1B}C2Gave the same advice in 195, but Yuan Shu declared himself emperor in 197.{05}{05}{05}
+@18
+Eldest son of Yuan Shao.\n{1B}C4{uE06E}{1B}C2Inspector of Qing. Feuded with Yuan Shang over the succession and surrendered to Cao Cao, then angered him by seizing Yuan Shang's lands. Refused a second surrender at Nanpi, he was slain by Cao Hong.\n{1B}C6{uE06D}{1B}C2Recommended for office by Liu Bei. Slain at Nanpi by Cao Chun.{05}{05}{05}
+@19
+Zhang Lu's adviser.\n{1B}C4{uE06E}{1B}C2Urged Zhang Lu to take Shu and become king, and not to aid Liu Zhang. Against Cao Cao he had Pang De resist and opposed the bribed Yang Song, but Zhang Lu listened to Yang Song and lost. He followed Zhang Lu into surrender.\n{1B}C6{uE06D}{1B}C2Honored by Cao Pi; died about ten years later.{05}{05}{05}
+@20
+Son of Yuan Shu.\n{1B}C4{uE06E}{1B}C2No record beyond the family's death on the road to Lujiang.\n{1B}C6{uE06D}{1B}C2Captured when Liu Xun fell to Sun Ce. Made a gentleman after his sister entered Sun Quan's harem.{05}{05}{05}
+@21
+An officer of Liu Biao.\n{1B}C4{uE06E}{1B}C2Helped Cai Mao's plot by drawing Zhao Yun away. Urged Liu Cong to ambush Cao Cao instead of surrendering, in vain. Escorting Liu Cong to Qing, he was slain by Yu Jin on Cao Cao's orders.\n{1B}C6{uE06D}{1B}C2Gave the same advice, but no record says he died with Liu Cong.{05}{05}{05}
+@22
+Wife of Zhao Ang.\n{1B}C4{uE06E}{1B}C2When Jiang Xu plotted against Ma Chao, she told her hesitant husband that avenging Wei Kang mattered more than their son, a hostage. She spent her fortune on the troops. When Ma Chao slaughtered Zhao Ang's family, she survived with the army.\n{1B}C6{uE06D}{1B}C2Shared in all her husband's plans and rallied Jicheng's defenders.{05}{05}{05}
+@23
+Minister over the Masses of the Han, a born statesman.\n{1B}C4{uE06E}{1B}C2Gave Cao Cao the Seven Star Sword to kill Dong Zhuo, then used Diaochan to turn Lu Bu against Dong Zhuo. When Li Jue avenged Dong Zhuo, he refused to flee and died with his family.\n{1B}C6{uE06D}{1B}C2No beauty was involved. He coldly executed Cai Yong for mourning Dong Zhuo.{05}{05}{05}
+@24
+An officer of Wei.\n{1B}C4{uE06E}{1B}C2Army inspector against Guanqiu Jian; urged seizing Nandun first and turned the war. As General Who Guards the South he helped crush Zhuge Dan, stormed Shouchun and ended the revolt.\n{1B}C6{uE06D}{1B}C2Served Wang Ling. Opposed Cao Rui's palace building and wrote against Cao Shuang's regime.{05}{05}{05}
+@25
+Governor of Tianshui for Wei.\n{1B}C4{uE06E}{1B}C2On Deng Ai's invasion he ambushed and beat Zhuge Zhan with Qian Hong, took Mianzhu, and was made a governor in Yi.\n{1B}C6{uE06D}{1B}C2Joined Guanqiu Jian's eastern campaign. Urged Himiko, queen of Wa, to make peace with her neighbor.{05}{05}{05}
+@26
+Inspector of Yong for Wei, risen from commoner.\n{1B}C4{uE06E}{1B}C2Besieged at Didao by Jiang Wei, he was saved by Chen Tai and Deng Ai. He tried to stop Cao Mao's plot against Sima Zhao but refused to inform on him, and was executed with his mother, who laughed that they died well.\n{1B}C6{uE06D}{1B}C2Only he was executed; his mother was spared.{05}{05}{05}
+@27
+Governor of Yongchang for Shu.\n{1B}C4{uE06E}{1B}C2Refused to join Meng Huo's revolt and held his city with Lu Kai until Zhuge Liang came, winning high praise.\n{1B}C6{uE06D}{1B}C2Praised by Zhuge Liang for a decade of loyalty in a remote land.{05}{05}{05}
+@28
+Son of Wang Chang. Served Wei and Jin.\n{1B}C4{uE06E}{1B}C2Advised waiting a year before attacking Wu, then led an army down the Yangtze as Grand General.\n{1B}C6{uE06D}{1B}C2Slew Zhang Ti in the war on Wu and quarreled with Wang Jun over credit. Rose to Minister over the Masses.{05}{05}{05}
+@29
+One of the Seven Masters of Jian'an.\n{1B}C4{uE06E}{1B}C2Praised young by Cai Yong. Fled to Jing, then urged Liu Cong to surrender to Cao Cao, whom he came to admire, writing poems in his honor. Stopped by Xun You when he tried to make Cao Cao King of Wei.\n{1B}C6{uE06D}{1B}C2Plain and frail, he was ignored by Liu Biao. Under Wei his memory helped revive court customs.{05}{05}{05}
+@30
+Han attendant (a general in history).\n{1B}C4{uE06E}{1B}C2Joined Dong Cheng and Liu Bei in the emperor's secret plot against Cao Cao. A servant informed, and he died with his family.\n{1B}C6{uE06D}{1B}C2Hesitant at first, he joined once shown the other names.{05}{05}{05}
+@31
+Retainer of the Yuan, later of Cao Cao.\n{1B}C4{uE06E}{1B}C2Lost his post for urging Yuan Tan not to kill Yuan Shang. He defied a ban to mourn Yuan Tan, and Cao Cao rewarded his loyalty with office.\n{1B}C6{uE06D}{1B}C2Served Kong Rong and the Yuan, then governed well under Cao Cao.{05}{05}{05}
+@32
+Youngest of the Seven Sages of the Bamboo Grove.\n{1B}C4{uE06E}{1B}C2General of Jin in the 279 war on Wu; joined Wang Jun at Shitou.\n{1B}C6{uE06D}{1B}C2A prodigy, promoted by Sima Yi. Rose to Minister over the Masses but cared only for his own wealth.{05}{05}{05}
+@33
+Inspector of Yi for Jin.\n{1B}C4{uE06E}{1B}C2Petitioned to attack Wu and led the fleet down the Yangtze. Broke Wu's river spikes with rafts, defeated Zhang Xiang at Shitou and received Sun Hao's surrender.\n{1B}C6{uE06D}{1B}C2Quarreled with Wang Hun over credit for conquering Wu.{05}{05}{05}
+@34
+An officer of Wei.\n{1B}C4{uE06E}{1B}C2Met Jiang Wei's fifth campaign at Changcheng, was taken alive by Fu Qian, and butchered by Shu soldiers.\n{1B}C6{uE06D}{1B}C2No record.{05}{05}{05}
+@35
+A giant Wei warrior wielding a great glaive and meteor hammer.\n{1B}C4{uE06E}{1B}C2Recommended by Cao Zhen against Zhuge Liang. At Chencang he slew Xie Xiong and Gong Qi and wounded Zhang Ni, but was cut down by Wei Yan while pursuing.\n{1B}C6{uE06D}{1B}C2Killed pursuing Zhuge Liang's retreat.{05}{05}{05}
+@36
+Father of Wang Hun. Grand General of Wei.\n{1B}C4{uE06E}{1B}C2Led the attack on Jiangling in 252, withdrawing after Hu Zun lost to Ding Feng.\n{1B}C6{uE06D}{1B}C2Revered Wang Ling as an elder brother. Reclaimed land near Luoyang, put down Guanqiu Jian and became Minister of Works. Wrote on gentler laws.{05}{05}{05}
+@37
+An officer of Shu, formerly of Wei.\n{1B}C4{uE06E}{1B}C2Fell out with Xu Huang at Hanzhong and defected. At Jieting he tried in vain to restrain Ma Su. Named among the loyal in Zhuge Liang's last words.\n{1B}C6{uE06D}{1B}C2Born He Ping. Covered the retreat from Jieting and alone was promoted. Long guarded Hanzhong.{05}{05}{05}
+@38
+Guan Yu's army marshal.\n{1B}C4{uE06E}{1B}C2Built beacons along the Yangtze against Lu Meng. Holed up in Maicheng, he stayed behind with Zhou Cang, and on hearing of Guan Yu's death took his own life.\n{1B}C6{uE06D}{1B}C2A clerk under Liu Zhang. Died at Yiling. Loved debating people.{05}{05}{05}
+@39
+Liu Zhang's aide.\n{1B}C4{uE06E}{1B}C2Opposed inviting Liu Bei. When Liu Zhang went anyway, he hung upside down from the gate in protest, then cut the rope and fell to his death.\n{1B}C6{uE06D}{1B}C2Only the protest is recorded.{05}{05}{05}
+@40
+Father of Wang Su. Han governor of Kuaiji.\n{1B}C4{uE06E}{1B}C2Lost to Sun Ce and served Cao Cao. Helped force Emperor Xian to abdicate and rose to Minister over the Masses. Joined Cao Zhen against Zhuge Liang, lost a debate to him before the armies and died of rage.\n{1B}C6{uE06D}{1B}C2Took years to reach Cao Cao's court. No debate is recorded; he died of old age.{05}{05}{05}
+@41
+Brother of Kuai Liang. Liu Biao's adviser, a judge of horses.\n{1B}C4{uE06E}{1B}C2Ambushed Sun Jian with Cai Mao. Called Dilu ill-omened and joined Cai Mao's plot against Liu Bei. Urged Liu Cong to surrender; Cao Cao said gaining him was worth more than Jing.\n{1B}C6{uE06D}{1B}C2Advised that chaotic times need schemes as well as virtue.{05}{05}{05}
+@42
+Brother of Kuai Yue. Liu Biao's adviser, a judge of horses.\n{1B}C4{uE06E}{1B}C2Reading the stars, he gave Lu Gong the plan that killed Sun Jian. He urged abandoning the hostage Huang Zu to attack Jiangdong, but Liu Biao traded Sun Jian's body for him.\n{1B}C6{uE06D}{1B}C2Urged ruling by good faith and benevolence.{05}{05}{05}
+@43
+A minister of Wu.\n{1B}C4{uE06E}{1B}C2Urged Sun Hao to rule by virtue rather than attack Jin, and was banished, lamenting that the fair land would soon belong to others.\n{1B}C6{uE06D}{1B}C2Compiled the Book of Wu with Wei Zhao. Sent over a hundred remonstrances to Sun Hao.{05}{05}{05}
+@44
+A Qiang general.\n{1B}C4{uE06E}{1B}C2Sent by King Mi Dang to aid Jiang Wei. Tricked by Chen Tai into a pit at Nan'an, he cut his own throat.\n{1B}C6{uE06D}{1B}C2Ehe and Shaoge appear as separate rebels at Nan'an.{05}{05}{05}
+@45
+Father of Jia Chong. An officer of Wei.\n{1B}C4{uE06E}{1B}C2Made Cao Zhang give up his army after Cao Cao's death. Saw through Zhou Fang's false surrender, and when Cao Xiu was beaten at Shiting, saved him by feigning an ambush.\n{1B}C6{uE06D}{1B}C2Governed Yu, built canals and beat Lu Fan at Dongpu.{05}{05}{05}
+@46
+A Yellow Turban officer.\n{1B}C4{uE06E}{1B}C2Ravaged Runan with Huang Shao and others. Captured by Xu Chu, he was handed to Cao Cao and beheaded.\n{1B}C6{uE06D}{1B}C2Surrendered to Cao Cao in 196; no execution is recorded.{05}{05}{05}
+@47
+Han governor of Yuzhang. Served Sun Ce, then Cao Cao.\n{1B}C4{uE06E}{1B}C2Arrested Empress Fu for Cao Cao and forced Emperor Xian to abdicate for Cao Pi. Stripped Sima Yi of command under Cao Rui.\n{1B}C6{uE06D}{1B}C2A villain in the Romance, but an upright man in history.{05}{05}{05}
+@48
+Strategist for Li Jue, then Zhang Xiu and Cao Cao.\n{1B}C4{uE06E}{1B}C2Urged Li Jue to take Chang'an. Troubled Cao Cao with Zhang Xiu, then had Zhang Xiu surrender before Guandu. Split Ma Chao and Han Sui at the Wei River and backed Cao Pi as heir.\n{1B}C6{uE06D}{1B}C2Compared to Zhang Liang and Chen Ping.{05}{05}{05}
+@49
+Son of Guo Jia.\n{1B}C4{uE06E}{1B}C2Raised in Cao Cao's house after his father's death.\n{1B}C6{uE06D}{1B}C2Died young. His friend Wang Chang called him brilliant but narrow, a judgment Pei Songzhi thought unfair.{05}{05}{05}
+@50
+Cao Cao's strategist.\n{1B}C4{uE06E}{1B}C2Opposed killing Liu Bei lest it cost the people's trust. Listed ten reasons Cao Cao would beat Yuan Shao, predicted Sun Ce's death and the Yuan collapse, but died on campaign. After Chibi, Cao Cao wept that Guo Jia would never have let him lose so.\n{1B}C6{uE06D}{1B}C2Recommended by Xun Yu.{05}{05}{05}
+@51
+An officer of Dong Zhuo.\n{1B}C4{uE06E}{1B}C2Seized Chang'an and the emperor with Li Jue, but Yang Biao used his jealous wife to set them against each other. Defeated by Cao Cao, he was killed by his own man Wu Xi.\n{1B}C6{uE06D}{1B}C2His wife's jealousy, not a ploy, caused the feud.{05}{05}{05}
+@52
+Father of Huo Yi. Served Liu Biao, then Liu Bei.\n{1B}C4{uE06E}{1B}C2Held Jiameng Pass against Ma Chao and later Zhang He until help came.\n{1B}C6{uE06D}{1B}C2Held Jiameng a year against Liu Zhang's army with few men and slew Xiang Cun. Died before the battle for Hanzhong.{05}{05}{05}
+@53
+An officer of Wei.\n{1B}C4{uE06E}{1B}C2Held Chencang against Zhuge Liang, burning his siege weapons. Fell ill, and died when he heard the city was burning.\n{1B}C6{uE06D}{1B}C2Made a marquis for Chencang and died soon after; no second attack is recorded.{05}{05}{05}
+@54
+Cao Cao's officer. Father of Yue Chen.\n{1B}C4{uE06E}{1B}C2Shot Guo Tu, took Hu Pass, and helped Zhang Liao hold Hefei. At Xiaoyao Ford his feigned retreat set up Zhang Liao's raid. At Ruxu, Gan Ning's arrow saved Ling Tong from him.\n{1B}C6{uE06D}{1B}C2Small but fierce, one of Cao Cao's great generals. Slew Chunyu Qiong.{05}{05}{05}
+@55
+Son of Yue Jin. An officer of Wei.\n{1B}C4{uE06E}{1B}C2Captured at Mount Qi and sent back stripped, his face inked. Later inspector of Yang, he was killed by Zhuge Dan, who discovered Jia Chong's letter plotting his removal.\n{1B}C6{uE06D}{1B}C2As fierce as his father.{05}{05}{05}
+@56
+Yuan Shao's adviser.\n{1B}C4{uE06E}{1B}C2Pushed for war with Cao Cao. When Wuchao fell, his failed plan and blame drove Zhang He and Gao Lan to defect. Served Yuan Tan, and was shot by Yue Jin at Nanpi.\n{1B}C6{uE06D}{1B}C2Urged taking in Emperor Xian.{05}{05}{05}
+@57
+An officer of Lu Bu.\n{1B}C4{uE06E}{1B}C2Lured Cao Cao into Puyang but let him escape. Escorting envoys to Yuan Shu from Xiapi, he was caught by Zhang Fei and beheaded.\n{1B}C6{uE06D}{1B}C2Rebelled against Lu Bu, lost an arm dueling the traitor Cao Xing, and was beheaded by Gao Shun.{05}{05}{05}
+@58
+Palace attendant of Shu.\n{1B}C4{uE06E}{1B}C2Named with Fei Yi and Dong Yun in Zhuge Liang's memorial as loyal men to consult, and left in charge of Chengdu.\n{1B}C6{uE06D}{1B}C2Known for gentleness and learning; no promotion is recorded.{05}{05}{05}
+@59
+Son of Huo Jun. Governor of Jianning for Shu.\n{1B}C4{uE06E}{1B}C2Mourned three days when Chengdu fell, and surrendered only after learning Liu Shan was safe.\n{1B}C6{uE06D}{1B}C2Held his region and surrendered intact, earning Sima Zhao's praise. Under Jin he pacified Jiaozhi and two other commanderies.{05}{05}{05}
+@60
+An officer of Wei.\n{1B}C4{uE06E}{1B}C2Saved Zhang He from Cao Hong's wrath. Deputy commander against Zhuge Liang, he long held the west with Sima Yi. Chased the defector Xiahou Ba, but died from Jiang Wei's arrow while rescuing Sima Zhao.\n{1B}C6{uE06D}{1B}C2Marshal to Xiahou Yuan.{05}{05}{05}
+@61
+Second son of Xiahou Yuan.\n{1B}C4{uE06E}{1B}C2Vanguard with Xiahou Ba against Zhuge Liang; also fought Gongsun Yuan.\n{1B}C6{uE06D}{1B}C2A seer foretold disaster at 49. He fell ill that year, rejoiced at recovering on its last day, then relapsed after a feast and died.{05}{05}{05}
+@62
+Cao Cao's senior general, cousin of Xiahou Dun.\n{1B}C4{uE06E}{1B}C2Best archer at the Bronze Sparrow Terrace. Shot Cheng Yi and pacified Liang. Held Mount Dingjun, but despite Cao Cao's warning against rashness, he rushed out and was cut down by Huang Zhong.\n{1B}C6{uE06D}{1B}C2Excelled at swift raids.{05}{05}{05}
+@63
+Cao Cao's aide.\n{1B}C4{uE06E}{1B}C2Bore the sword Qinggang. Slain at Changban by Zhao Yun, who took the sword.\n{1B}C6{uE06D}{1B}C2No record.{05}{05}{05}
+@64
+Fourth son of Xiahou Yuan.\n{1B}C4{uE06E}{1B}C2Won easy victories at Shangfang Valley that lured Sima Yi into Zhuge Liang's trap.\n{1B}C6{uE06D}{1B}C2An eloquent debater. Envoy to Chengdu when Shu fell; refused to join Zhong Hui's revolt.{05}{05}{05}
+@65
+Third son of Xiahou Yuan.\n{1B}C4{uE06E}{1B}C2His easy wins at Shangfang Valley helped lure Sima Yi into the trap. Calmed Sima Yi when a statue of Zhuge Liang sent him fleeing.\n{1B}C6{uE06D}{1B}C2Talented and learned, he often won debates with Zhong Yu. Died at 37.{05}{05}{05}
+@66
+Son of Xiahou Shang. A philosopher.\n{1B}C4{uE06E}{1B}C2Ordered by Cao Fang to kill Sima Shi, but the plot was found; he was executed and his clan wiped out.\n{1B}C6{uE06D}{1B}C2A model official under Cao Shuang. Lost to Fei Yi in 244. Executed for plotting against the Sima.{05}{05}{05}
+@67
+Nephew of Xiahou Dun (of Xiahou Yuan in history). Younger brother of Xiahou De.\n{1B}C4{uE06E}{1B}C2At Hanzhong he lost to Huang Zhong at Wakou and again at Mount Tiandang. Captured at Dingjun, he was shot by Huang Zhong during a prisoner exchange. Later held Xiangyang and besieged Jiangling with Cao Zhen, but lost to Lu Xun.\n{1B}C6{uE06D}{1B}C2Crushed a revolt in Dai with Cao Zhang and took Shangyong. A close friend of Cao Pi, he died of grief for a beloved concubine.{05}{05}{05}
+@68
+Nephew of Xiahou Dun. Elder brother of Xiahou Shang.\n{1B}C4{uE06E}{1B}C2Guarded the supply base at Mount Tiandang and took in Xiahou Shang and Zhang He after their defeat. Scorning Huang Zhong as an old man, he sallied out, but Yan Yan set his camp ablaze and slew him as he fought the fire.\n{1B}C6{uE06D}{1B}C2No record.{05}{05}{05}
+@69
+Cao Cao's senior general, descended from Xiahou Ying of the Han.\n{1B}C4{uE06E}{1B}C2Always at Cao Cao's side. Rescued him from Xu Rong and slew Xu Rong. Shot in the left eye by Cao Xing, he still killed him. Routed by Zhuge Liang's fire attack at Bowang. Put down Geng Ji's revolt in Ye, and at Hanzhong asked Yang Xiu the meaning of "chicken rib" and led the retreat. Died soon after Cao Cao.\n{1B}C6{uE06D}{1B}C2Called "One-Eyed Xiahou." Grand General under Cao Pi.{05}{05}{05}
+@70
+Son of Xiahou Yuan.\n{1B}C4{uE06E}{1B}C2Vanguard against Zhuge Liang's fifth campaign; slew Bei Yan in Gongsun Yuan's revolt. Close to Cao Shuang, he fled to Shu after Cao Shuang's fall and warned Jiang Wei of Zhong Hui and Deng Ai. He fought on Jiang Wei's campaigns until 262, when he fell to an ambush of stones and arrows.\n{1B}C6{uE06D}{1B}C2His cousin was Zhang Fei's wife, whose daughter became Liu Shan's empress, so Shu treated him well.{05}{05}{05}
+@71
+Son of Xiahou Yuan, adopted by Xiahou Dun. Husband of Cao Cao's daughter.\n{1B}C4{uE06E}{1B}C2Courtesy name Zixiu. Ignoring Wang Lang's warning about his inexperience, he led the defense against Zhuge Liang, was captured by Wang Ping, and freed by a ruse. He then drove Jiang Wei to defect by suspecting him, and fled Tianshui with Ma Zun.\n{1B}C6{uE06D}{1B}C2Stationed at Chang'an under Cao Pi; recalled before Zhuge Liang came, he never fought him.{05}{05}{05}
+@72
+Son of Jia Kui. Father of Empress Jia of Jin. Sima Zhao's right hand.\n{1B}C4{uE06E}{1B}C2Schemed for Sima Zhao's rise and crushed the defiant Zhuge Dan. Had Cheng Ji kill Emperor Cao Mao, backed Sima Yan as heir and urged him to take the throne. He opposed attacking Wu, and when he mocked the captive Sun Hao, was shamed by mention of Cao Mao's murder.\n{1B}C6{uE06D}{1B}C2Drafted the Jin code and, as Jin's foremost founder, rose to Grand Steward.{05}{05}{05}
+@73
+Han Grand General. Half-brother of Empress He, a former butcher raised by the eunuchs.\n{1B}C4{uE06E}{1B}C2Sent Lu Zhi, Huangfu Song and Zhu Jun against the Yellow Turbans. Nearly killed by the eunuch Jian Shuo, he feuded with the Ten Eunuchs. He enthroned Liu Bian and had Empress Dong killed, then on Yuan Shao's advice summoned Dong Zhuo and others to purge the eunuchs. The plot leaked, and he was murdered on his way to see Empress He.\n{1B}C6{uE06D}{1B}C2A rare case of eunuchs raising an imperial in-law.{05}{05}{05}
+@74
+An officer of Wu.\n{1B}C4{uE06E}{1B}C2No record.\n{1B}C6{uE06D}{1B}C2As a youth he crushed the outlaw Si Cong and was feared by the Shanyue. Joining Sun Ce, he put down revolt after revolt and founded new counties. With Lu Xun he quelled Poyang. He loved splendor, and his gaudy, well-armed troops were so imposing that Cao Xiu's army turned back at the sight. Rose to General of the Rear.{05}{05}{05}
+@75
+A physician who operated using the anesthetic Mafeisan.\n{1B}C4{uE06E}{1B}C2Treated Dong Xi, Zhou Tai, Guan Yu and others and was called a divine doctor. He proposed opening Cao Cao's skull to cure his headaches, was jailed as an assassin, and died after entrusting his medical book to a jailer, whose wife burned it.\n{1B}C6{uE06D}{1B}C2Jailed for refusing to serve as Cao Cao's physician, he burned his own book when the jailer refused it. Cao Cao regretted killing him when his son Cao Chong died.{05}{05}{05}
+@76
+Chancellor of the Western Qiang.\n{1B}C4{uE06E}{1B}C2Sent by King Cheliji with Yueji to aid Wei. Beaten by Zhuge Liang and captured by Ma Dai, he was persuaded not to side with Wei and went home.\n{1B}C6{uE06D}{1B}C2No record.{05}{05}{05}
+@77
+Gongsun Yuan's lieutenant.\n{1B}C4{uE06E}{1B}C2Warned Gongsun Yuan that he could never beat Sima Yi, who had held off even Zhuge Liang, and was executed for it. Sima Yi later honored him with a tomb and gave his descendants rank.\n{1B}C6{uE06D}{1B}C2No record.{05}{05}{05}
+@78
+King of the Xianbei.\n{1B}C4{uE06E}{1B}C2At Cao Pi's request he attacked Xiping Pass with 100,000 troops, but fled without a fight when Ma Chao appeared.\n{1B}C6{uE06D}{1B}C2Paid tribute to Wei but wavered, besieging Tian Yu and joining Zhuge Liang. Killed by an assassin sent by Wang Xiong.{05}{05}{05}
+@79
+Meng Huo's daughter in Peking opera. Captured by Guan Suo on his southern campaign, she fell in love with him, and they wed after Meng Huo submitted to Shu.\n{1B}C4{uE06E}{1B}C2No record.\n{1B}C6{uE06D}{1B}C2No record.{05}{05}{05}
+@80
+An officer of Dong Zhuo, nine chi tall.\n{1B}C4{uE06E}{1B}C2Led Dong Zhuo's vanguard at Sishui Pass against the coalition. He beheaded Bao Zhong, routed Sun Jian, slew Zu Mao in his place, then slew Yu She and Pan Feng, terrifying the coalition, until the still-unknown Guan Yu cut him down.\n{1B}C6{uE06D}{1B}C2Killed fighting Sun Jian at Yangren.{05}{05}{05}
+@81
+Grandson of Guan Yu.\n{1B}C4{uE06E}{1B}C2Inherited Guan Yu's title when Guan Tong died childless. Killed by Wei soldiers in Zhong Hui's revolt after Shu fell.\n{1B}C6{uE06D}{1B}C2When Shu fell, Pang Hui, son of the Pang De whom Guan Yu killed, wiped out Guan Yu's line.{05}{05}{05}
+@82
+Sworn brother of Liu Bei and Zhang Fei. Father of Guan Ping, Guan Xing and Guan Suo.\n{1B}C4{uE06E}{1B}C2Swore brotherhood in the Peach Garden and won fame slaying Hua Xiong. Surrendering to Cao Cao to protect Liu Bei's wives, he repaid him by slaying Yan Liang and Wen Chou, then broke through five passes back to Liu Bei. Governed Jing and led the Five Tiger Generals north, but Sun Quan broke the alliance, took Jing and killed him at Maicheng.\n{1B}C6{uE06D}{1B}C2Loved and memorized the Zuo Commentary.{05}{05}{05}
+@83
+Sun Jian's clerk, later a minister of Wei.\n{1B}C4{uE06E}{1B}C2Negotiated with his old friend Liu Biao for Sun Jian's body. Under Wei he schemed for Cao Pi's accession and, with Hua Xin, forced Emperor Xian to abdicate.\n{1B}C6{uE06D}{1B}C2Risked his life to recover the body of Sun Jian, his patron. Urged Cao Cao to choose Cao Pi over Cao Zhi. Cao Pi mourned his death.{05}{05}{05}
+@84
+A Yellow Turban officer.\n{1B}C4{uE06E}{1B}C2Besieged Kong Rong at Beihai and slew Zong Bao. He let Taishi Ci slip out to Liu Bei, and was slain by Guan Yu when Liu Bei's relief army arrived.\n{1B}C6{uE06D}{1B}C2Only said to be routed by Taishi Ci with 3,000 of Liu Bei's men.{05}{05}{05}
+@85
+Inspector of You for Wei.\n{1B}C4{uE06E}{1B}C2Reported Gongsun Yuan's revolt. When Sima Shi deposed Cao Fang, he rose with Wen Qin, was crushed between Wu and Sima Shi, and was killed after being plied with wine by the magistrate Song Bai.\n{1B}C6{uE06D}{1B}C2A friend of Cao Rui. Fought Gongsun Yuan, campaigned east and held off Zhuge Ke. Shot by Zhang Shu while fleeing.{05}{05}{05}
+@86
+Han governor of Changsha.\n{1B}C4{uE06E}{1B}C2Brother of Han Hao. When Guan Yu attacked, Yang Ling fell; then, seeing Huang Zhong and Guan Yu spare each other, he suspected treason and tried to execute Huang Zhong, but Wei Yan cut him down. Han Hao later died seeking revenge on Huang Zhong.\n{1B}C6{uE06D}{1B}C2Surrendered to Liu Bei after Chibi. No link to Han Hao is recorded.{05}{05}{05}
+@87
+An officer of Wei.\n{1B}C4{uE06E}{1B}C2Brother of Han Xuan. Lost to Zhuge Liang's fire at Bowang. At Hanzhong he challenged Huang Zhong, his brother's killer, and was slain.\n{1B}C6{uE06D}{1B}C2Served Wang Kuang against Dong Zhuo, then Xiahou Dun. Proposed Cao Cao's farming colonies and commanded the guards. No link to Han Xuan is known.{05}{05}{05}
+@88
+Second son of Guan Yu.\n{1B}C4{uE06E}{1B}C2Reported Guan Yu's victories to Liu Bei. In the war to avenge his father he became sworn brother to Zhang Bao, slew Li Yi and Zhou Ping, and killed Pan Zhang to recover the Green Dragon blade. On the northern campaigns he slew Yueji, but died of illness before the fifth.\n{1B}C6{uE06D}{1B}C2Valued by Zhuge Liang, he became palace attendant at 20 but died a few years later.{05}{05}{05}
+@89
+Third son of Guan Yu.\n{1B}C4{uE06E}{1B}C2Wounded when his father fell, he recovered at the Bao family estate, rejoined for the southern campaign as vanguard, and helped capture Meng Huo again and again.\n{1B}C6{uE06D}{1B}C2No record, but he is a hero of many folk tales and operas. A tomb in Sichuan says he and his wife Bao Sanniang held Jiameng Pass.{05}{05}{05}
+@90
+Han inspector of Bing. A Liang warlord.\n{1B}C4{uE06E}{1B}C2Sworn brother of Ma Teng; together they lost to Li Jue. When Cao Cao murdered Ma Teng, he rose with Ma Chao and took Chang'an, but Jia Xu's ploy split them. Deciding to surrender, he lost his left hand to Ma Chao. After Ma Chao fled, he was made Marquis of Xiliang.\n{1B}C6{uE06D}{1B}C2Rose with Bian Zhang after the Yellow Turbans and long defied Han armies. Killed (or died of illness) at Jincheng.{05}{05}{05}
+@91
+Liu Biao's adviser, a renowned scholar of Jing.\n{1B}C4{uE06E}{1B}C2Urged siding with Cao Cao before Guandu. Sent to Xuchang, he warned that if the emperor gave him office he could no longer be Liu Biao's man. Made a governor by Cao Cao, he was jailed by Liu Biao on his return and freed when Cao Cao took Jing.\n{1B}C6{uE06D}{1B}C2With Kuai Yue and Fu Xun, urged Liu Cong to surrender.{05}{05}{05}
+@92
+Gongsun Zan's adviser.\n{1B}C4{uE06E}{1B}C2No record.\n{1B}C6{uE06D}{1B}C2A flatterer without foresight. At Yijing he stopped Gongsun Zan from breaking out to strike Yuan Shao's rear. When Gongsun Zan died, he said a gentleman must share the fate of one he has endangered, and charged to his death.{05}{05}{05}
+@93
+A Yellow Turban, leader of the White Wave.\n{1B}C4{uE06E}{1B}C2Escorted Emperor Xian from Chang'an and grew powerful, but fought Cao Cao and fled to Yuan Shu. Defected to Lu Bu through Chen Gui's ploy, then turned to banditry near Xu and was slain by Guan Yu and Zhang Fei.\n{1B}C6{uE06D}{1B}C2Isolated after Yang Feng's capture, he was killed by Zhang Xuan while fleeing to Bing.{05}{05}{05}
+@94
+Adviser of Wu.\n{1B}C4{uE06E}{1B}C2Delivered Huang Gai's false surrender at Chibi and fooled Cao Cao with his tongue, then tricked the spies Cai Zhong and Cai He so the self-injury ruse worked. When Liu Bei came for revenge, he alone recommended Lu Xun as commander.\n{1B}C6{uE06D}{1B}C2Tutor to the heir Sun He. Wrote a commentary on Wu's calendar; Yu Fan called him a Dong Zhongshu of his day.{05}{05}{05}
+@95
+A Yellow Turban officer.\n{1B}C4{uE06E}{1B}C2Held Wancheng with Zhao Hong after Zhang Jiao's death; killed by an arrow when Zhu Jun and Liu Bei attacked.\n{1B}C6{uE06D}{1B}C2Kept resisting after Zhao Hong fell. Zhu Jun refused his surrender, and he was captured in a sally and beheaded by Qin Jie.{05}{05}{05}
+@96
+Served Sun Jian, Sun Ce and Sun Quan. A glaive fighter.\n{1B}C4{uE06E}{1B}C2Fought Dong Zhuo under Sun Jian and Yan Yu under Sun Ce. Urged resisting Cao Cao and fought at Chibi under Zhou Yu. Took Jing with Lu Meng. Against Liu Bei he resented Lu Xun's command until he saw his plan.\n{1B}C6{uE06D}{1B}C2A fine archer and rider, loved by his men. His son Han Zong defected to Wei.{05}{05}{05}
+@97
+A brave general of Wu, once chief of the Jinfan pirates. Wore bells at his waist.\n{1B}C4{uE06E}{1B}C2Unvalued by Huang Zu though he slew Ling Cao, he joined Sun Quan, hunted down Huang Zu, and begged for Su Fei's life. Led Wu's van at Chibi and Hefei, and raided Cao Cao's camp at Ruxu with just a hundred men. Reconciled with Ling Cao's son Ling Tong by saving him in battle. Killed by Shamoke's arrow at Yiling.\n{1B}C6{uE06D}{1B}C2No record of dying at Yiling.{05}{05}{05}
+@98
+A minister of Wei called "the Bag of Wisdom." Cao Shuang's trusted adviser.\n{1B}C4{uE06E}{1B}C2Warned Cao Shuang about Sima Yi before his hunting trip, in vain. When Sima Yi seized Luoyang, he escaped alone and urged Cao Shuang to resist from Xuchang, again in vain. Executed with Cao Shuang's faction.\n{1B}C6{uE06D}{1B}C2Helped compile the imperial encyclopedia. Respected by Cao Shuang but not close to him.{05}{05}{05}
+@99
+Han inspector of Ji.\n{1B}C4{uE06E}{1B}C2Joined the coalition against Dong Zhuo; his officer Pan Feng fell to Hua Xiong. Frightened by Yuan Shao with tales of Gongsun Zan, he invited him in and lost his province. He then fled to Zhang Miao.\n{1B}C6{uE06D}{1B}C2Plotted with Yuan Shao to make Liu Yu emperor. Seeing Yuan Shao's envoy whisper to Zhang Miao, he feared for his life and killed himself.{05}{05}{05}

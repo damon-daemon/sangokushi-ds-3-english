@@ -1,0 +1,186 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+A few days later...{05}{05}{05}
+@4
+Lord Cao Cao, Lord Guan Yu\nwishes to speak with you.\nPlease hear him.{05}{05}{05}
+@5
+I learned just the other day\nthat my brother is alive.{05}{05}{05}
+@6
+I cannot forget my debt to my\nbrother. I must take my\nleave of you.{05}{05}{05}
+@7
+After the defeat at Xu, Guan Yu\nhad surrendered only to\nprotect Liu Bei's wives.{05}{05}{05}
+@8
+Let Guan Yu go now, and he\nwill surely bring you\ntrouble later.{05}{05}{05}
+@9
+I am firmly against\nletting Guan Yu go.{05}{05}{05}
+@10
+Lord Cao Cao, will you\nlet Guan Yu leave?{05}{05}{05}
+@11
+...That is a loyal man.\nPersonally, I'd dearly\nlike you to stay, but...{05}{05}{05}
+@12
+...It can't be helped. Guan Yu,\nwe will meet again someday...\nUntil then, be well.{05}{05}{05}
+@13
+...I will never forget your\nkindness, sir.\nFarewell!{05}{05}{05}
+@14
+Cao Cao's gracious act has\nwon praise even among\nthe people.{05}{05}{05}
+@15
+You are my subject now.\nI will not allow such\nselfishness. Understood?{05}{05}{05}
+@16
+I see...\nThen I take my leave.{05}{05}{05}
+@17
+Lord Cao Cao, trouble!\nGuan Yu has broken through\nthe gate and left!{05}{05}{05}
+@18
+What?!\nWhat were the gate\nguards doing?!{05}{05}{05}
+@19
+Did you really think mere gate\nguards could stop\nGuan Yu, sir?{05}{05}{05}
+@20
+I suppose not...\nI should have just sent\nhim off gladly.{05}{05}{05}
+@21
+Guan Yu set out on a journey\nto find his old lord,\nLiu Bei.{05}{05}{05}
+@22
+General Yuan, may I\nhave a word?{05}{05}{05}
+@23
+Ah, Governor of Yu.\nWhat is it?{05}{05}{05}
+@24
+Why not join hands with\nLord Liu Biao to defeat\nCao Cao?{05}{05}{05}
+@25
+Ally with Liu Biao, you say?\nHmm, that's one way.{05}{05}{05}
+@26
+I would gladly go as\nenvoy for the alliance.{05}{05}{05}
+@27
+Lord Yuan Shao, send Liu Bei\nas envoy to form a one-year\nalliance with Liu Biao?{05}{05}{05}
+@28
+Then I'll leave the embassy\nto you. I expect\ngreat things.{05}{05}{05}
+@29
+As you wish.\nAwait good news.{05}{05}{05}
+@30
+Lord Yuan Shao, I have\na feeling Liu Bei is\nup to something.{05}{05}{05}
+@31
+Let me keep watch on\nLiu Bei... I'll go\nwith him.{05}{05}{05}
+@32
+Hmm, I see.\nThen keep an eye on Liu Bei.\nI'm counting on you.{05}{05}{05}
+@33
+Trouble!\nWe've lost track of Liu Bei.\nHe seems to have fled.{05}{05}{05}
+@34
+Trouble, my lord!\nWe've lost track of Liu Bei's\nparty. Both have fled.{05}{05}{05}
+@35
+No, I don't really trust\nLiu Biao. There's no need\nfor an alliance.{05}{05}{05}
+@36
+I see...\nAs you wish.{05}{05}{05}
+@37
+What?!\nSo all that talk of an\nembassy was for this?!{05}{05}{05}
+@38
+He tricked me with his\nsilver tongue...\nI'll make him pay.{05}{05}{05}
+@39
+Searching for Liu Bei after\nleaving Cao Cao, Guan Yu met\na gang of bandits by a mountain.{05}{05}{05}
+@40
+I'm a Yellow Turban general!\nYou there, if you value\nyour life, leave that horse.{05}{05}{05}
+@41
+Heh, a Yellow Turban remnant.\nThen you must know the\nname Guan Yu?{05}{05}{05}
+@42
+Red face, long beard,\ncarries a crescent blade...\nEek! Th-then you're...{05}{05}{05}
+@43
+Yes, I am Guan Yu.\nAre you ready?!{05}{05}{05}
+@44
+Wh-what, the man himself...\nI-I humbly beg your\npardon!{05}{05}{05}
+@45
+Hey, Pei Yuanshao,\nwhat's going on...?{05}{05}{05}
+@46
+Wh-why, it's Lord Guan Yu!!\nTo think I'd meet you\nin a place like this...{05}{05}{05}
+@47
+What is it?\nWhy bow so suddenly...?{05}{05}{05}
+@48
+The bandit chief Zhou Cang had\nseen Guan Yu's valor in the\nYellow Turban war, admired him\nand longed to serve him.{05}{05}{05}
+@49
+This must be Heaven's doing.\nLord Guan Yu, please let me\nserve you, even as a soldier.{05}{05}{05}
+@50
+But I am a wanderer too.\nI can't offer you much.{05}{05}{05}
+@51
+I don't mind. For you, Lord\nGuan Yu, I'll follow you\nthrough fire and water.{05}{05}{05}
+@52
+Zhou Cang and Pei Yuanshao\nhave joined Guan Yu.{05}{05}{05}
+@53
+Searching for Liu Bei, Guan Yu\ncame upon a castle\nheld by Zhang Fei.{05}{05}{05}
+@54
+Oh, that's Zhang Fei's banner.\nSo Zhang Fei is safe.{05}{05}{05}
+@55
+Brother, are you all right?\n...What's wrong,\nZhang Fei?{05}{05}{05}
+@56
+Don't "brother" me! A man who\nbroke our oath and gave in to\nCao Cao is no brother of mine!{05}{05}{05}
+@57
+Zh-Zhang Fei,\ncalm down, calm down.{05}{05}{05}
+@58
+How can I calm down?\nTake this!{05}{05}{05}
+@59
+I gave in to Cao Cao only to\nprotect our brother's wives!\nDon't you understand?!{05}{05}{05}
+@60
+Huh?\nThe ladies?{05}{05}{05}
+@61
+Told why Guan Yu had\nsurrendered, Zhang Fei\nfinally calmed down.{05}{05}{05}
+@62
+...Sorry, brother.\nSo where's big brother\nLiu Bei now?{05}{05}{05}
+@63
+He was staying with\nYuan Shao, but...\nwhere he is now, I don't know.{05}{05}{05}
+@64
+I see...\nWell, rest up here\nfor now.{05}{05}{05}
+@65
+Guan Yu and his men stayed\nwith Zhang Fei.{05}{05}{05}
+@66
+Brother Guan Yu, good news!\nWe've found word of\nbig brother Liu Bei!{05}{05}{05}
+@67
+Truly?!\nWhere is he?{05}{05}{05}
+@68
+They say he's headed this way.\nLet's go meet him!{05}{05}{05}
+@69
+Zhang Fei and Guan Yu rode out\nwith their men to meet their\nold lord, Liu Bei.{05}{05}{05}
+@70
+Ah, Guan Yu! Zhang Fei!\nYou're both safe!{05}{05}{05}
+@71
+Glad you're safe too, brother!\nOh yeah, brother Guan Yu kept\nthe ladies safe.{05}{05}{05}
+@72
+I see...\nThank you, Guan Yu.{05}{05}{05}
+@73
+No need for thanks.\nHad I only held Xiapi,\nnone of this would have...{05}{05}{05}
+@74
+Enough, that's in the past.\nLet us work for the\nHan again!{05}{05}{05}
+@75
+Aye!{05}{05}{05}
+@76
+Lord Zhang Fei, hand\nthe leadership\nto Liu Bei?{05}{05}{05}
+@77
+Liu Bei has become\nthe ruler.{05}{05}{05}
+@78
+Zhang Fei! Is that you,\nZhang Fei? You're safe!{05}{05}{05}
+@79
+Brother! I heard you were\nwith Yuan Shao...\nHow'd you get away?{05}{05}{05}
+@80
+Well, now...\nI did Lord Yuan Shao\na bad turn.{05}{05}{05}
+@81
+Ah, who cares!\nAs long as you're safe.{05}{05}{05}
+@82
+On the way back, Pei Yuanshao\nand Zhou Cang, riding ahead,\nreturned wounded.{05}{05}{05}
+@83
+Up ahead, a warrior leading the\nbandits who were my men\nis blocking the way.{05}{05}{05}
+@84
+I took him for a common\nbandit, but my, was he strong...\nWe were no match for him.{05}{05}{05}
+@85
+Hmm...\nHe seems quite a warrior.\nWho could he be?{05}{05}{05}
+@86
+Liu Bei and the others decided\nto meet the new bandit\nchief.{05}{05}{05}
+@87
+So the bandits brought friends.\nCause any more trouble and\nI'll show no mercy!{05}{05}{05}
+@88
+Hm? Could it be...\nAren't you Zhao Zilong?{05}{05}{05}
+@89
+Eh?\nWh-why, Lord Liu Bei!\nIt's been a long time.{05}{05}{05}
+@90
+Zhao Yun told his story: after\nGongsun Zan's death, he had\nwandered from place to place.{05}{05}{05}
+@91
+Meeting you in such a place\nmust be Heaven's will.\nPlease, let me serve you.{05}{05}{05}
+@92
+With a warrior like Zilong\nat our side, I am truly\nheartened. Let us serve the Han.{05}{05}{05}
+@93
+The great warrior Zhao Yun\nhas joined Liu Bei.{05}{05}{05}

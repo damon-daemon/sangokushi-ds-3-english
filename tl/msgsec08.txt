@@ -1,0 +1,172 @@
+@0
+{01}C{09}{00}, let us hold a council. Please hear each minister's opinion.{05}{05}{05}
+@1
+Lord {02}{01}ﾈ, will you hold a council?{05}{05}{05}
+@2
+You chose not to hold a council. This year we'll proceed without a goal.{05}{05}{05}
+@3
+{05}{05}{04}{02}{01}{81}{01}JD{1F}{05}{05}{05}{01}S{02}e3The council is now in session. Speak freely about this year's policy, all of you.{05}{05}{05}We hold council to set this year's policy. Each minister, present your plan.{05}{05}{05}Everyone, the council begins. I want to hear each minister's plan. Speak freely.{05}{05}{05}
+@4
+{01}S{02}e3The council is now in session. Speak freely about this year's policy, all of you.{05}{05}{05}We hold council to set this year's policy. Each minister, present your plan.{05}{05}{05}Everyone, the council begins. I want to hear each minister's plan. Please speak freely.{05}{05}{05}
+@5
+Select the minister whose opinion you will adopt.{05}{05}{05}
+@6
+{05}{05}{04}{02}{01}{81}{01}JG{1F}{05}{05}{05}{01}S{02}e2Hmm... Whose opinion should I adopt{01}C4{00}...{05}{05}{05}It seems all opinions are in{01}C,{00}. Now, let us set our policy.{05}{05}{05}
+@7
+{01}S{02}e2Well... Whose opinion should I adopt{01}C4{00}...{05}{05}{05}It seems all opinions are in. Now, let us set our policy.{05}{05}{05}
+@8
+This year we'll proceed without any particular goal.\nIs that all right?{05}{05}{05}
+@9
+This year the realm will be governed by {02}{01}ﾈ's opinion.\nIs that all right?{05}{05}{05}
+@10
+{05}{05}{04}{02}{02}{81}{01}JK{1F}{05}{05}{05}{01}S{02}e3{02}{01}ﾈ's opinion will be this year's goal. The council is adjourned.{05}{05}{05}This year we'll follow {02}{01}ﾈ's opinion. No objections, everyone?{05}{05}{05}{02}{01}ﾈ's opinion is set as this year's goal. I expect much of every minister. That is all.{05}{05}{05}
+@11
+{01}S{02}e3{02}{01}ﾈ's opinion will be this year's goal. The council is adjourned.{05}{05}{05}This year we'll follow {02}{01}ﾈ's opinion. No objections, everyone?{05}{05}{05}{02}{01}ﾈ's opinion is set as this year's goal. I expect much of every minister.{05}{05}{05}
+@12
+{05}{05}{04}{02}{01}{81}{01}JM{1F}{05}{05}{05}{01}S{02}e3No goal this year{01}C-{00}. I look forward to each minister's results.{05}{05}{05}No opinion stands out{01}C2{00}{01}C8{00}. This year's goal is... none{01}C-{00}.{05}{05}{05}We need no goal this year. Give your all to your own work. I'm counting on you{01}C7{00}.{05}{05}{05}
+@13
+{01}S{02}e3No goal this year. I look forward to each minister's results.{05}{05}{05}No opinion stands out{01}C2{00}{01}C8{00}. This year's goal is... none{01}C-{00}.{05}{05}{05}We'll set no goal this year. Give your all to your own work. I'm counting on you.{05}{05}{05}
+@14
+{01}S{02}v5To raise the harvest of {02}{14}ﾈ, let us clear the forests and raise farming by {1B}C4{02}({1B}C1.{05}{05}{05}Much of {02}{14}ﾈ is still untilled. Let us raise farming by {1B}C4{02}({1B}C1.{05}{05}{05}Let us teach the people of {02}{14}ﾈ better farming and raise farming by {1B}C4{02}({1B}C1.{05}{05}{05}The people of {02}{14}ﾈ want broad fields. Let us raise farming by {1B}C4{02}({1B}C1.{05}{05}{05}Let us drain the marshes to give the people of {02}{14}ﾈ farmland, raising farming by {1B}C4{02}({1B}C1.{05}{05}{05}
+@15
+{01}S{02}v5To prepare for disasters, let us carry out flood works in {02}{14}ﾈ and raise flood control by {1B}C4{02}({1B}C1.{05}{05}{05}Preparation prevents trouble. Let us irrigate {02}{14}ﾈ and raise flood control by {1B}C4{02}({1B}C1.{05}{05}{05}To lessen damage from disasters, let us build levees in {02}{14}ﾈ and raise flood control by {1B}C4{02}({1B}C1.{05}{05}{05}The people of {02}{14}ﾈ fear disasters{01}C{17}{00}. Shouldn't we raise flood control by {1B}C4{02}({1B}C1?{05}{05}{05}The people of {02}{14}ﾈ suffer from flooding rivers{01}C{17}{00}. Let us raise flood control by {1B}C4{02}({1B}C1.{05}{05}{05}
+@16
+{01}S{02}v5We should build up {02}{14}ﾈ and raise commerce by {1B}C4{02}({1B}C1. That should increase our income.{05}{05}{05}Let us build roads to bring more people to {02}{14}ﾈ and raise commerce by {1B}C4{02}({1B}C1.{05}{05}{05}To develop trade in {02}{14}ﾈ, let us replan the town and raise commerce by {1B}C4{02}({1B}C1.{05}{05}{05}The people of {02}{14}ﾈ ask for a more livable town. We should raise commerce by {1B}C4{02}({1B}C1.{05}{05}{05}I wish to make {02}{14}ﾈ a bustling town{01}C{16}{00}. Let us raise commerce by {1B}C4{02}({1B}C1.{05}{05}{05}
+@17
+{01}S{02}v5I wish to prepare for attack{01}C{16}{00}. We should deepen the trenches of {02}{14}ﾈ and raise defense by {1B}C4{02}({1B}C1{01}C{17}{00}.{05}{05}{05}To prepare for invasion, let us shore up the walls of {02}{14}ﾈ and raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}The walls of {02}{14}ﾈ are damaged. We should repair them quickly and raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}The people of {02}{14}ﾈ are uneasy about the damaged walls. Let us raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}To reassure the people, I wish to rebuild the castle of {02}{14}ﾈ and raise defense by {1B}C4{02}({1B}C1{01}C{16}{00}.{05}{05}{05}
+@18
+{01}S{02}v3Let us raise farming in {02}{14}ﾈ and {02}{15}ﾈ, which still have room to grow, by {1B}C4{02}({1B}C1 each.{05}{05}{05}To raise the harvests of {02}{14}ﾈ and {02}{15}ﾈ, I wish to raise farming in each by {1B}C4{02}({1B}C1{01}C{16}{00}.{05}{05}{05}To feed the realm, we should raise farming in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}
+@19
+{01}S{02}v3Flood control is vital to the realm. Let us raise it in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}To guard against floods, let us raise flood control in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}Water disasters can't be taken lightly{01}C {00}. We should carry out flood works in {02}{14}ﾈ and {02}{15}ﾈ, raising flood control by {1B}C4{02}({1B}C1.{05}{05}{05}
+@20
+{01}S{02}v3Industry is the key to a rich realm. Let us raise commerce in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}I wish to improve the roads of {02}{14}ﾈ and {02}{15}ﾈ and raise commerce in each by {1B}C4{02}({1B}C1{01}C{16}{00}.{05}{05}{05}Let us support the merchants of {02}{14}ﾈ and {02}{15}ﾈ and raise commerce in each by {1B}C4{02}({1B}C1.{05}{05}{05}
+@21
+{01}S{02}v3To prepare for invasion, let us raise defense in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}The walls of {02}{14}ﾈ and {02}{15}ﾈ worry me. We should repair them quickly and raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}{02}{14}ﾈ and {02}{15}ﾈ are our strongholds... Let us fortify them, raising defense by {1B}C4{02}({1B}C1 each.{05}{05}{05}
+@22
+{01}S{02}v3{02}{14}ﾈ is vital to our realm... Let us patrol {02}{14}ﾈ and raise support there to {1B}C490{1B}C1 or more.{05}{05}{05}To reassure the people of {02}{14}ﾈ, I think we should patrol and raise support there to {1B}C490{1B}C1 or more{01}C{16}{00}.{05}{05}{05}A settled people is the basis of rule... Let us patrol {02}{14}ﾈ and raise support to {1B}C490{1B}C1 or more.{05}{05}{05}
+@23
+{01}S{02}v2Now is the time to secure our base. Let us raise support in every city to {1B}C480{1B}C1 or more.{05}{05}{05}A realm exists for its people{01}C{17}{00}. We should raise support in every city to {1B}C480{1B}C1 or more...{05}{05}{05}
+@24
+{01}S{02}v2Caring for the people is a king's duty. Let us raise support in every city to {1B}C490{1B}C1 or more.{05}{05}{05}Now let the realm know the virtue of {01}C{0A}{00}. Let us raise support in every city to {1B}C490{1B}C1 or more.{05}{05}{05}
+@25
+{05}{05}{04}{02}{01}u{04}=430{01}JZ{1F}{05}{05}{05}{01}S{02}v3To teach the hated {02}{02}ﾈ a lesson, we should take {02}{14}ﾈ{01}C{17}{00}.{05}{05}{05}So as to leave no worries behind, we should take {02}{14}ﾈ quickly{01}C{17}{00}.{05}{05}{05}There's no better time to take {02}{14}ﾈ{01}C{1C}{00}. {01}C{0A}{00}, your decision!{05}{05}{05}
+@26
+Our army's morale is high. We should strike {02}{14}ﾈ now while we're unstoppable.{05}{05}{05}
+@27
+Damn you, Mengde! You won't have my wife! Order the march on {02}{14}ﾈ!{05}{05}{05}
+@28
+=
+@29
+=
+@30
+{01}S{02}v3The might of {02}{14}ﾈ is a threat{01}C0{00}. Shouldn't we take it with our best troops?{05}{05}{05}The army of {02}{14}ﾈ is dangerous{01}C.{00}. We should take it now, before they strike first{01}C9{00}.{05}{05}{05}Reports say {02}{14}ﾈ has a huge army... There's not a moment to lose! Take it now!{05}{05}{05}
+@31
+{01}M{02}"{02}{01}{86}{01}M{02}{05}{02}"f{05}{05}{04}{02}{01}u{04}=430{01}JZ{1F}{05}{05}{05}{05}{05}{04}{02}{05}u{04}=374{01}J`{1F}{05}{05}{05}{05}{05}{04}{02}{05}u{04}=339{01}Ja{1F}{05}{05}{05}{01}S{02}v3To unify this chaotic age, invasion is unavoidable{01}C {00}. An attack on {02}{14}ﾈ...{05}{05}{05}I think we should expand our lands{01}C{16}{00}. Let us take {02}{14}ﾈ.{05}{05}{05}Let us invade {02}{14}ﾈ and expand our lands.{05}{05}{05}
+@32
+Let us invade {02}{14}ﾈ and spread the teachings of the Five Pecks of Rice.{05}{05}{05}
+@33
+Let us invade {02}{14}ﾈ and spread the teachings of the Way of Great Peace.{05}{05}{05}
+@34
+=
+@35
+=
+@36
+{01}S{02}v3It's a chance to expand{01}C{17}{00}. Let us hold {02}( cities by year's end.{05}{05}{05}The time is ripe... Let us march and aim to rule {02}( cities by year's end.{05}{05}{05}Our army's spirits are high! Let us increase our lands to {02}( cities this year.{05}{05}{05}
+@37
+=
+@38
+=
+@39
+{01}S{02}v3I wish to build up our forces for the battles ahead{01}C{16}{00}. Let us increase our troops by {1B}C4{02}({1B}C1.{05}{05}{05}We should increase our troops by {1B}C4{02}({1B}C1 to prepare for enemy attacks{01}C{17}{00}.{05}{05}{05}Let us increase our troops by {1B}C4{02}({1B}C1. Winning wars takes many soldiers{01}C8{00}.{05}{05}{05}
+@40
+=
+@41
+=
+@42
+{01}S{02}v2Now's our chance to strike the hated {02}{02}ﾈ! Let us destroy them this year.{05}{05}{05}We mustn't give {02}{02}ﾈ a chance to recover{01}C {00}! We should destroy them this year!{05}{05}{05}
+@43
+{01}S{02}v2The famed {02}{02}ﾈ is a thorn in our side. Let us capture them in battle.{05}{05}{05}{02}{02}ﾈ is a menace to our realm... Let us capture them in battle with our finest troops.{05}{05}{05}
+@44
+{01}S{02}v3As personnel minister, {01}C{00}{00} think we should add {02}( officers{01}C{16}{00}.{05}{05}{05}A great ruler needs many great generals{01}C{17}{00}. Let us add {02}( officers this year.{05}{05}{05}Thinking of future expansion, we lack talent{01}C{16}{00}. Let us gather {02}( capable people.{05}{05}{05}
+@45
+=
+@46
+=
+@47
+{01}S{02}v3We need people skilled in {02}-. Let us find officers with {02}- of {1B}C4{02}({1B}C1 or more: {02}) of them this year.{05}{05}{05}For our army's growth, let us add officers with {02}- of {1B}C4{02}({1B}C1 or more: {02}) of them.{05}{05}{05}Talent is the heart of a realm... We should add officers with {02}- of {1B}C4{02}({1B}C1 or more: {02}) of them.{05}{05}{05}
+@48
+=
+@49
+=
+@50
+=
+@51
+{05}{05}{04}{02}{02}u{04}=162{06}&{02}{02}t{04}>50{01}Jv{1F}{05}{05}{05}{05}{05}{04}{02}{02}u{04}=564{01}Jw{1F}{05}{05}{05}{05}{05}{04}{02}{02}g{04}>80{01}Jt{1F}{05}{05}{05}{05}{05}{04}{02}{02}h{04}>80{01}Ju{1F}{05}{05}{05}{01}S{02}v3With the politics of {02}{02}ﾈ of {02}{14}ﾈ, we could grow stronger. Let us recruit them{01}C{14}{00}.{05}{05}{05}Let us win over {02}{02}ﾈ in {02}{14}ﾈ... They're said to be a fine statesman{01}C{1B}{00}.{05}{05}{05}{02}{02}ﾈ of {02}{14}ﾈ has great political skill{01}C{1B}{00}. We should recruit them.{05}{05}{05}
+@52
+{01}S{02}v3Winning over {02}{02}ﾈ, a fierce warrior of {02}{14}ﾈ, would surely make our army stronger{01}C{1C}{00}.{05}{05}{05}There's a hero named {02}{02}ﾈ in {02}{14}ﾈ{01}C{1B}{00}. Let us recruit them to strengthen our generals{01}C{14}{00}.{05}{05}{05}Let us win over {02}{02}ﾈ of {02}{14}ﾈ. We need their might.{05}{05}{05}
+@53
+{01}S{02}v3Let us bring {02}{02}ﾈ of {02}{14}ﾈ to our side. Their wits would surely be useful{01}C{16}{00}.{05}{05}{05}We need the fine tactics of {02}{02}ﾈ in {02}{14}ﾈ{01}C{17}{00}. Let us bring them into our realm.{05}{05}{05}There's a cunning strategist named {02}{02}ﾈ in {02}{14}ﾈ{01}C{1B}{00}. They'd be a great help on our side{01}C{16}{00}.{05}{05}{05}
+@54
+I wish to recruit Huang Zhong in {02}{14}ﾈ, old but famed for his valor{01}C{16}{00}.{05}{05}{05}
+@55
+Let us recruit Lu Bu of {02}{14}ﾈ... In valor, no one surpasses him{01}C {00}.{05}{05}{05}
+@56
+{01}S{02}v2If we recruit {02}{02}ﾈ, {02}{03}ﾈ will be crushed. Shall we try to poach them?{05}{05}{05}{02}{02}ﾈ is {02}{03}ﾈ's right hand... Recruiting them would be a heavy blow{01}C{1A}{00}.{05}{05}{05}
+@57
+{01}S{02}v2Poaching {02}( of {02}{02}ﾈ's officers would give us an edge in future battles...{05}{05}{05}{02}{02}ﾈ's strength is talent. Let us poach {02}( of their officers.{05}{05}{05}
+@58
+{01}S{02}v3There are rumors of great talent in our lands. Why not search?{05}{05}{05}Rumor speaks of a sage in the wilds... We should search our lands for great people{01}C{17}{00}.{05}{05}{05}The general's star shines bright... Let us search our lands for talent to become a pillar of the realm.{05}{05}{05}
+@59
+{01}S{02}v3{02}{02}ﾈ has what it takes to be a pillar of our army... We should send them training{01}C{17}{00}.{05}{05}{05}Let us send {02}{02}ﾈ training to gain experience.{05}{05}{05}Lord {02}{02}ﾈ is able but still inexperienced... Why not send them training?{05}{05}{05}
+@60
+=
+@61
+{01}S{02}v3They say someone in {02}{02}ﾈ's realm is at odds with them. Let us use "Rival Tigers."{05}{05}{05}I wish to make one of {02}{02}ﾈ's officers rebel{01}C{16}{00}. Please, use "Rival Tigers"...{05}{05}{05}Let us use "Rival Tigers" on {02}{02}ﾈ's realm and break it from within.{05}{05}{05}
+@62
+{01}S{02}v3{02}{02}ﾈ of {02}{14}ﾈ seems to distrust {02}{03}ﾈ. A chance for "Rival Tigers"...{05}{05}{05}They say {02}{02}ﾈ of {02}{14}ﾈ resents {02}{03}ﾈ... A chance for "Rival Tigers"{01}C0{00}!{05}{05}{05}{02}{02}ﾈ of {02}{14}ﾈ and {02}{03}ﾈ have fallen out{01}C{1B}{00}. A chance to use "Rival Tigers."{05}{05}{05}
+@63
+{01}S{02}v3Let us use schemes to lower the people's support in {02}{14}ﾈ and spark a revolt.{05}{05}{05}Why not spread rumors in {02}{14}ﾈ and stir up a revolt there?{05}{05}{05}Let us spark a revolt in {02}{14}ﾈ and stain {02}{02}ﾈ's name.{05}{05}{05}
+@64
+{01}S{02}v3Let us spread rumors in {02}{14}ﾈ and lower the people's support by {1B}C4{02}({1B}C1.{05}{05}{05}Let us spread rumors in {02}{14}ﾈ, lower support by {1B}C4{02}({1B}C1, and pave the way to take it.{05}{05}{05}Let us use schemes to sway the people of {02}{14}ﾈ and lower support there by {1B}C4{02}({1B}C1.{05}{05}{05}
+@65
+=
+@66
+{01}S{02}v3Let us spread rumors in {02}{14}ﾈ and lower support to {1B}C4{02}({1B}C1 or less.{05}{05}{05}Let us spread ugly rumors about {02}{02}ﾈ in {02}{14}ﾈ, lowering support to {1B}C4{02}({1B}C1 or less.{05}{05}{05}Let us fill the people of {02}{14}ﾈ with lies until support falls to {1B}C4{02}({1B}C1 or less.{05}{05}{05}
+@67
+{01}S{02}v3Let us use "Turncoat" on {02}{02}ﾈ of {02}{14}ﾈ and have them defect with their troops.{05}{05}{05}{02}{02}ﾈ of {02}{14}ﾈ harbors treason... The stars agree: use "Turncoat" and make them defect.{05}{05}{05}They say {02}{02}ﾈ of {02}{14}ﾈ resents their poor treatment... Why not try "Turncoat"?{05}{05}{05}
+@68
+{01}S{02}v3The people of {02}{14}ﾈ are wavering{01}C.{00}. With "Incite" we could win their help now...{05}{05}{05}The people of {02}{14}ﾈ seem to doubt {02}{02}ﾈ... A chance for "Incite"{01}C0{00}!{05}{05}{05}Reports say order in {02}{14}ﾈ is breaking down{01}C{1B}{00}. Let us use "Incite."{05}{05}{05}
+@69
+{01}S{02}v3Taking {02}{14}ﾈ as things stand will be hard{01}C{17}{00}. Let us incite the people to help us.{05}{05}{05}To take {02}{14}ﾈ, we should break it from within{01}C{1A}{00}. Let us use "Incite."{05}{05}{05}Even the walls of {02}{14}ﾈ are weak from inside{01}C{17}{00}. "Incite" may be the clever move here...{05}{05}{05}
+@70
+{01}S{02}v3The walls of {02}{14}ﾈ are a nuisance. Let us use "Sabotage" there and lower defense by {1B}C4{02}({1B}C1.{05}{05}{05}To take {02}{14}ﾈ we must deal with those walls... We should lower defense by {1B}C4{02}({1B}C1.{05}{05}{05}The defenses of {02}{14}ﾈ are a worry{01}C0{00}... Let us use "Sabotage" to lower defense by {1B}C4{02}({1B}C1.{05}{05}{05}
+@71
+{01}S{02}v3Judging by the situation, we should ally with {02}{02}ﾈ for {02}( months or more{01}C{17}{00}.{05}{05}{05}To expand on good terms, let us make a pact with {02}{02}ﾈ for {02}( months or more.{05}{05}{05}Let us ally with {02}{02}ﾈ for {02}( months or more and make good use of them{01}C{14}{00}.{05}{05}{05}
+@72
+=
+@73
+{01}S{02}v2Fighting {02}{02}ﾈ is pointless... Let us ally with them for {02}( months or more.{05}{05}{05}We have other enemies to worry about{01}C{1B}{00}. We must ally with {02}{02}ﾈ for {02}( months or more and work together.{05}{05}{05}{02}{02}ﾈ is better as a friend than a foe... Let us ally with them for {02}( months or more.{05}{05}{05}
+@74
+{01}S{02}v3I wish to develop {02}- to build up our forces{01}C{16}{00}. Joint research with Lord {02}{02}ﾈ...{05}{05}{05}Let us pool our skills with our friend Lord {02}{02}ﾈ and develop {02}-{01}C{14}{00}.{05}{05}{05}I think we should develop {02}- with Lord {02}{02}ﾈ and unify this age as soon as we can{01}C{16}{00}.{05}{05}{05}
+@75
+{01}S{02}v3To deepen our friendship with Lord {02}{02}ﾈ, we should send envoys and lower their hostility to {1B}C4{02}({1B}C1 or less.{05}{05}{05}To become allies with Lord {02}{02}ﾈ, let us send envoys and lower their hostility to {1B}C4{02}({1B}C1 or less.{05}{05}{05}Opposing Lord {02}{02}ﾈ is foolish. Let us send envoys at once and lower hostility to {1B}C4{02}({1B}C1 or less.{05}{05}{05}
+@76
+=
+@77
+=
+@78
+{05}{05}{04}{02}{01}u{04}=430{01}JZ{1F}{05}{05}{05}{01}S{02}v3Unification is within reach; domestic affairs are a waste. Now finish off {02}{02}ﾈ...{05}{05}{05}The people long for peace{01}C{1B}{00}. We should attack {02}{14}ﾈ at once and end this chaotic age...{05}{05}{05}Let us march on {02}{14}ﾈ{01}C{14}{00}. Domestic affairs can wait until after unification.{05}{05}{05}
+@79
+{05}{05}{04}{02}{01}u{04}=430{01}JZ{1F}{05}{05}{05}{01}S{02}v3Only one city remains. Come, let us launch an all-out attack.{05}{05}{05}Only {02}{14}ﾈ remains. Let us crush it in one stroke without hesitation.{05}{05}{05}Unification is at hand{01}C{17}{00}. Now, order the attack on {02}{14}ﾈ!{05}{05}{05}
+@80
+{05}{05}{04}{02}{01}u{04}=430{01}JZ{1F}{05}{05}{05}{01}S{02}v3Our forces are strong{01}C{1B}{00}. I think we should finish off {02}{02}ﾈ{01}C{16}{00}.{05}{05}{05}Recruiting now is pointless{01}C{17}{00}. Let us invade {02}{14}ﾈ.{05}{05}{05}I think we should invade {02}{14}ﾈ at once{01}C{16}{00}. We're one step from unification{01}C0{00}!{05}{05}{05}
+@81
+{05}{05}{04}{02}{01}u{04}=430{01}JZ{1F}{05}{05}{05}{01}S{02}v3To finish off {02}{02}ﾈ, I think a direct assault is enough, without schemes{01}C{16}{00}.{05}{05}{05}Why do you hesitate{01}C{18}{00}? Let us invade {02}{14}ﾈ at once.{05}{05}{05}I think we should launch a swift attack on {02}{14}ﾈ{01}C{16}{00}.{05}{05}{05}
+@82
+{05}{05}{04}{02}{01}u{04}=430{01}JZ{1F}{05}{05}{05}{01}S{02}v3Negotiation, at this point... Come, decide to invade {02}{14}ﾈ at once...{05}{05}{05}Let us invade {02}{14}ﾈ. The people long for a peaceful world.{05}{05}{05}The end of this chaotic age is near{01}C{17}{00}. Invade {02}{14}ﾈ...{05}{05}{05}
+@83
+{01}S{02}v8For once, leave everything to us{01}C{13}{00}.{05}{05}{05}For once I'd like to work freely...{05}{05}{05}How about having no goal this year?{05}{05}{05}For once I'd like to spend a year without chasing goals...{05}{05}{05}Why not trust each minister's initiative this year?{05}{05}{05}I'd like to spend a relaxed year with no goal{01}C{16}{00}.{05}{05}{05}It's a passive suggestion, but I'd like no goal this year{01}C{16}{00}.{05}{05}{05}{01}C{00}{00} recommend no goal.{05}{05}{05}
+@84
+{01}S{02}v3I think Lord {02}{02}ﾈ's opinion is exactly right{01}C{16}{00}.{05}{05}{05}{01}C{00}{00} agree with Lord {02}{02}ﾈ{01}C!{00}. There's no other way{01}C{1C}{00}.{05}{05}{05}{01}C{00}{00} think exactly as Lord {02}{02}ﾈ does{01}C{17}{00}. Don't you all agree{01}C {00}?{05}{05}{05}
+@85
+{01}S{02}e8For once, leave everything to us{01}C{13}{00}.{05}{05}{05}For once I'd like to work freely...{05}{05}{05}How about having no goal this year?{05}{05}{05}For once I'd like to spend a year without chasing goals...{05}{05}{05}Why not trust each minister's initiative this year?{05}{05}{05}I'd like to spend a relaxed year with no goal{01}C{16}{00}.{05}{05}{05}It's a passive suggestion, but I'd like no goal this year{01}C{16}{00}.{05}{05}{05}{01}C{00}{00} recommend no goal.{05}{05}{05}

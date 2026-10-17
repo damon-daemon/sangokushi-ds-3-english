@@ -1,0 +1,80 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+Brother!\nAh, he is gone.{05}{05}{05}
+@3
+Bao, Liang...\nIt seems my time\nhas come.{05}{05}{05}
+@4
+Brother, how can\nyou say that?{05}{05}{05}
+@5
+A million people across\nthis land look up\nto you!{05}{05}{05}
+@6
+The Old Immortal of Nanhua,\nwho gave me the book, warned\nHeaven punishes an evil heart.{05}{05}{05}
+@7
+Our righteous Yellow Turbans\nhave become a mob. That is\nthe fruit of my evil heart.{05}{05}{05}
+@8
+After I die, shun evil,\ndo good and be kind\nto the people.{05}{05}{05}
+@9
+What will become of\nthe Way of Great Peace...?{05}{05}{05}
+@10
+The death of the Great Sage,\nZhang Jiao, shook the\nYellow Turban faithful.{05}{05}{05}
+@11
+Lord Liu Bei, that's\na fine horse\nyou ride.{05}{05}{05}
+@12
+Truly a steed that can\ngo a thousand li.{05}{05}{05}
+@13
+If you like the horse,\nLord Liu Biao, I will\ngive it to you.{05}{05}{05}
+@14
+How kind.\nI gratefully accept.{05}{05}{05}
+@15
+The day after Liu Bei\ngave away the horse...{05}{05}{05}
+@16
+It is a fine horse, but\nI think I should return\nit after all...{05}{05}{05}
+@17
+Why would Lord Liu Biao\nreturn the horse after\none day?{05}{05}{05}
+@18
+I think you'd better\nnot ride that horse.{05}{05}{05}
+@19
+Lord Liu Biao's adviser said\nit is a {1B}C6Dilu{1B}C1, a horse\nthat brings disaster.{05}{05}{05}
+@20
+So that's why Lord Liu Biao\nreturned it so soon?{05}{05}{05}
+@21
+Nonsense. Heaven decides\na man's fate. A mere horse\ncan bring no disaster.{05}{05}{05}
+@22
+What fine wisdom.\nI, Yi Ji, am\nimpressed.{05}{05}{05}
+@23
+Lord Cao Cao, a mystic named\nZuo Ci seeks an audience.\nWhat shall we do?{05}{05}{05}
+@24
+A mystic...\nWell, send him in.{05}{05}{05}
+@25
+Zuo Ci, is it?\nWhat brings you here?{05}{05}{05}
+@26
+You hold the Central Plain\nand the highest rank. Surely\nthe world holds nothing more.{05}{05}{05}
+@27
+Would you not come train\nwith me on Mount Emei\nand become an immortal?{05}{05}{05}
+@28
+Immortality sounds fun, but\nI have no one to leave\nthe court to.{05}{05}{05}
+@29
+Liu Xuande is of the Han's\nblood. Leave it to him and\nall the realm will be at peace.{05}{05}{05}
+@30
+You mock me!\nSomeone, seize him!{05}{05}{05}
+@31
+Hohoho! I have mastered magic\nfrom a heavenly book. Did you\nthink you could catch me?{05}{05}{05}
+@32
+Curse you, sorcerer...\nNo, I feel dizzy...{05}{05}{05}
+@33
+Cao Cao has fallen ill from\nZuo Ci's sorcery.{05}{05}{05}
+@34
+Don't mock me...\nLiu Bei is my sworn enemy.\nI could never hand it over.{05}{05}{05}
+@35
+Hohoho. When you tire of the\nworld, come and train\nunder me.{05}{05}{05}
+@36
+I'll leave you three heavenly\nbooks. How you use them\nis up to you.{05}{05}{05}
+@37
+Zuo Ci left the\n{1B}C6"Book of Escape"{1B}C1\nand vanished.{05}{05}{05}
+@38
+I'll share just a little\nof the art of agelessness...\nDrink this wine.{05}{05}{05}
+@39
+Cao Cao's lifespan has\nrisen slightly.{05}{05}{05}

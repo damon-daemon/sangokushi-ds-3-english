@@ -1,0 +1,184 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+Reports say a qilin, a phoenix\nand a yellow dragon have been\nseen across your lands.{05}{05}{05}
+@3
+This is what we\nhave long awaited.{05}{05}{05}
+@4
+Let us choose an auspicious\nday and hold the enthronement.{05}{05}{05}
+@5
+Your Majesty, congratulations\non your enthronement.{05}{05}{05}
+@6
+Take the throne at once and\nraise an army to unite\nthe realm.{05}{05}{05}
+@7
+These omens surely show\nthat Wei is to replace\nthe Han.{05}{05}{05}
+@8
+Now is the time to\ntake the throne!{05}{05}{05}
+@9
+What is all this\ncommotion?\nSpeak.{05}{05}{05}
+@10
+You know the Central Plain\nowes all its prosperity\nto Lord {02}{01}ﾈ, yes?{05}{05}{05}
+@11
+The stars show that the\nHan's fortune is spent, a\nflame flickering in the wind.{05}{05}{05}
+@12
+Wei's fortune, meanwhile,\nfills Heaven and Earth.{05}{05}{05}
+@13
+Yield the throne to Lord\n{02}{01}ﾈ, Your Majesty, and so\nprolong the Han's line.{05}{05}{05}
+@14
+You ask Us to abdicate...\nWe cannot cast aside the\ngreat work of Our ancestors.{05}{05}{05}
+@15
+If you do not yield the\nthrone, misfortune will surely\nbefall Your Majesty.{05}{05}{05}
+@16
+Yes or no on the abdication\nwe just proposed?\nAnswer us now.{05}{05}{05}
+@17
+Very well, We shall abdicate.\nIn return, at least let Us\nlive out Our days...{05}{05}{05}
+@18
+Ah, the edict of abdication\nhas come! I shall take the\nthrone at once.{05}{05}{05}
+@19
+Please wait... First decline\nonce, so that proper form\nis observed.{05}{05}{05}
+@20
+Let us build an abdication\nterrace and hold a grand\nenthronement.{05}{05}{05}
+@21
+{02}{01}ﾈ accepted Emperor Xian's\nabdication and took the\nthrone as emperor of Wei.{05}{05}{05}
+@22
+The Han dynasty, 400 years\nold, came to its end.{05}{05}{05}
+@23
+Decades since the war on the\nYellow Turbans... It has\nbeen a long struggle.{05}{05}{05}
+@24
+Father, please let me\nput down the frontiers.{05}{05}{05}
+@25
+Bandits still roam the\nfrontiers. Do not let your\nguard down as emperor.{05}{05}{05}
+@26
+Father, your deeds rival\nthose of the great rulers\nof any age.{05}{05}{05}
+@27
+Wei has usurped the throne.\nRumor says the Han emperor\nhas been murdered.{05}{05}{05}
+@28
+The realm cannot go\neven a single day\nwithout an emperor.{05}{05}{05}
+@29
+To restore the Han, you,\nImperial Uncle of the Han,\nmust take the throne.{05}{05}{05}
+@30
+But knowing our lord,\nhe will not be easily\npersuaded.{05}{05}{05}
+@31
+So we need the help\nof you two...{05}{05}{05}
+@32
+The traitor {02}{01}ﾈ murdered\nthe emperor, seized the throne\nand now calls himself emperor.{05}{05}{05}
+@33
+Unless you, Imperial Uncle,\ncarry on the true line,\nthe Han will perish.{05}{05}{05}
+@34
+Take the throne? I may be\nof the Han's blood, but I\nam still only a subject.{05}{05}{05}
+@35
+I will not stoop to the level\nof faithless traitors like\n{02}{01}ﾈ!{05}{05}{05}
+@36
+My lord, Lord Zhuge Liang\nhas fallen ill. They say\nhe may not last the night.{05}{05}{05}
+@37
+What?! I will go to him\nat once! Make ready\nimmediately!{05}{05}{05}
+@38
+Without you, I am a fish\nwithout water. Please,\nget well again.{05}{05}{05}
+@39
+Not even Hua Tuo could cure\nmy illness. Please hear\nmy last counsel.{05}{05}{05}
+@40
+If we let this chance slip,\nwe will never unite the\nsoldiers and people of Yi.{05}{05}{05}
+@41
+If the people's hearts turn\naway, no natural barrier\ncan save the state.{05}{05}{05}
+@42
+Hmm... What you say\nis true enough.{05}{05}{05}
+@43
+None can escape Heaven's\nwill. Your taking the throne\nis Heaven's will.{05}{05}{05}
+@44
+Your enthronement and my\nillness are both Heaven's will.\nWho can blame Heaven?{05}{05}{05}
+@45
+Very well, Kongming...\nWhen you are recovered,\nI will heed Heaven's will.{05}{05}{05}
+@46
+So for now, rest easy\nand get well.\nTake heart.{05}{05}{05}
+@47
+You mean it, then...?\nYou may come out now.{05}{05}{05}
+@48
+My lord, we heard\neverything from behind\nthe screen.{05}{05}{05}
+@49
+Wh-what is this...?\nKongming! So your illness\nwas a lie?!{05}{05}{05}
+@50
+My illness was a ruse,\nbut it was out of concern\nfor the Han. Forgive me.{05}{05}{05}
+@51
+To oppose Wei's usurpation,\nLiu Bei took the throne in\nShu and named his state Han.{05}{05}{05}
+@52
+The Han dynasty, once cut\noff, found new life in\nthe land of Ba and Shu.{05}{05}{05}
+@53
+Decades since our oath in the\nPeach Garden... It has been\na long struggle.{05}{05}{05}
+@54
+Back when I spoke to you at\nthat notice board in You,\nbrother, I felt something.{05}{05}{05}
+@55
+My hunch was right,\nbig brother...\nI mean, Your Majesty.{05}{05}{05}
+@56
+When you march on the\nCentral Plain, be sure\nto take me with you.{05}{05}{05}
+@57
+...I understand your view,\nbut they say, "Heaven has\none sun; the people, one king."{05}{05}{05}
+@58
+Without a proper cause, I\nthink taking the throne would\nmean nothing. What say you?{05}{05}{05}
+@59
+Now the only ones on this\ncontinent calling themselves\nemperor are false ones.{05}{05}{05}
+@60
+Indeed. None who now claims\nto be emperor in this land\nis a true emperor.{05}{05}{05}
+@61
+If we stay beneath these\nfalse emperors, our fathers'\ngreat work will come to naught.{05}{05}{05}
+@62
+Now you must shine upon\nthe people as the one\ntrue sun.{05}{05}{05}
+@63
+I, Sun Quan, have taken\nyour counsel to heart.{05}{05}{05}
+@64
+To guard my fathers' work\nfrom traitors and answer the\npeople's hopes, I will reign.{05}{05}{05}
+@65
+I was not wrong to\ntake you as my lord.{05}{05}{05}
+@66
+Sun Quan chose a lucky day\nand, at his ministers' urging,\ntook the throne as emperor of Wu.{05}{05}{05}
+@67
+He honored his father Sun Jian\nas Emperor Wulie and his\nbrother Sun Ce as Prince Huan.{05}{05}{05}
+@68
+After so many hardships you\nhave taken the throne.\nMy heartfelt congratulations.{05}{05}{05}
+@69
+From generals to the lowest\nsoldier, all celebrate\nYour Majesty's enthronement.{05}{05}{05}
+@70
+The tears of days past\nwere not in vain.{05}{05}{05}
+@71
+Now that you hold the highest\nseat, your father and brother\nmust rejoice in the afterlife.{05}{05}{05}
+@72
+Your Majesty, Lord Zhuge\nLiang wishes to speak\nwith you.{05}{05}{05}
+@73
+Ah, Prime Minister.\nWhat is it you\nwish to say?{05}{05}{05}
+@74
+Your servant Liang humbly\nspeaks. The late emperor died\nhalfway to restoring the Han.{05}{05}{05}
+@75
+Now the realm is in chaos and\nYi is exhausted. This is truly\na time of crisis.{05}{05}{05}
+@76
+Yet the loyal men who received\nthe late emperor's favor\nremain in high spirits.{05}{05}{05}
+@77
+To repay the late emperor's\ntrust, I will lead a great\narmy north.{05}{05}{05}
+@78
+I ask permission to go to\nXiabian and prepare the\ncampaign.{05}{05}{05}
+@79
+Move Zhuge Liang to\nXiabian on the front line?{05}{05}{05}
+@80
+If you feel that strongly,\nPrime Minister, We have\nno objection.{05}{05}{05}
+@81
+I cannot thank Your Majesty\nenough for your kindness.{05}{05}{05}
+@82
+We will leave the rear to\nothers, so go without worry.{05}{05}{05}
+@83
+I shall surely\ncrush the rebel army.{05}{05}{05}
+@84
+Zhuge Liang has moved\nto Xiabian.{05}{05}{05}
+@85
+Under Zhuge Liang, training\nand morale at Xiabian\nhave risen.{05}{05}{05}
+@86
+When my father Xuande lived,\nwe had many wise and brave\nmen, and the gap was small.{05}{05}{05}
+@87
+But sadly,\nthat is no longer so.{05}{05}{05}
+@88
+That is... indeed\nso, but...{05}{05}{05}
+@89
+Shu is strong enough to defend\nitself. I think it best to\nbide our time for now.{05}{05}{05}
+@90
+If Your Majesty insists,\nI will call it off\nthis time.{05}{05}{05}
+@91
+But one day we must\nattack. Please understand\nthat.{05}{05}{05}

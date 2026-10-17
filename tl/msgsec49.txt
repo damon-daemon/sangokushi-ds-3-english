@@ -1,0 +1,184 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+As you wish.{05}{05}{05}
+@3
+Just so.{05}{05}{05}
+@4
+Lord Cao Cao, I have news.\nA {1B}C6"Bronze Sparrow"{1B}C1 has\nbeen unearthed in Ji.{05}{05}{05}
+@5
+This is the\n{1B}C6"Bronze Sparrow"{1B}C1.{05}{05}{05}
+@6
+A sparrow carved of bronze\nwas presented to Cao Cao.{05}{05}{05}
+@7
+Oh, this is a fine piece...\nWhat a lovely dull\nsheen it has.{05}{05}{05}
+@8
+If I may, my lord, I believe\nthis bronze sparrow is\nan auspicious omen.{05}{05}{05}
+@9
+Why is that,\n{02}{01}ﾈ? Explain.{05}{05}{05}
+@10
+It concerns the birth of\nShun, the sage king\nof old.{05}{05}{05}
+@11
+His mother dreamed a jade\nsparrow flew into her bosom,\nand then bore Shun.{05}{05}{05}
+@12
+Your obtaining this bronze\nsparrow is an omen to rival\nthat of King Shun.{05}{05}{05}
+@13
+Oh, is that so?\nThen I will build a terrace\nat Ye to honor this omen.{05}{05}{05}
+@14
+Building the terrace will take\nabout 3 years and\n{1B}C410000{1B}C1 gold...{05}{05}{05}
+@15
+Build the Bronze\nSparrow Terrace?{05}{05}{05}
+@16
+Build a grand terrace,\none worthy of me,\nCao Cao! Hahaha!{05}{05}{05}
+@17
+Building the terrace\ncosts that much?{05}{05}{05}
+@18
+Hmm, we will not build it.\nBetter to spend the money\non the people or the army.{05}{05}{05}
+@19
+Lord Cao Cao,\nI have bad news.{05}{05}{05}
+@20
+Ye is no longer ours, so the\nBronze Sparrow Terrace\nhas been abandoned.{05}{05}{05}
+@21
+Lord Cao Cao,\nI have news.{05}{05}{05}
+@22
+The Bronze Sparrow Terrace,\nlong under construction,\nis finally complete.{05}{05}{05}
+@23
+Oh, the Bronze Sparrow\nTerrace is done at last?{05}{05}{05}
+@24
+Yes, yes. This is a fit\nplace to spend my\nlast years.{05}{05}{05}
+@25
+Right, a feast!\nLet us drink till dawn to\ncelebrate the terrace!{05}{05}{05}
+@26
+A grand feast was held for all\nofficials to celebrate the\nterrace's completion.{05}{05}{05}
+@27
+Twenty-odd years since the\nYellow Turbans... Unification\nno longer seems far off.{05}{05}{05}
+@28
+When peace has come, I want\nto spend my remaining days\nat ease on this terrace.{05}{05}{05}
+@29
+The Bronze Sparrow Terrace\nis complete at Ye. It will\nprosper all the more.{05}{05}{05}
+@30
+Lord Cao Cao, our spies say\nLiu Bei has gained a very\ncapable strategist.{05}{05}{05}
+@31
+A strategist for Liu Bei?\nAnd who might this\nstrategist be?{05}{05}{05}
+@32
+Liu Bei's strategist is\nXu Shu, styled\nYuanzhi.{05}{05}{05}
+@33
+{02}{02}ﾈ, you know of\nXu Shu, then?\nTell me more.{05}{05}{05}
+@34
+Xu Shu was once a swordsman,\nbut for certain reasons\nturned to scholarship.{05}{05}{05}
+@35
+He is a strategist fit to\naid a king, one of the\nwisest in the land.{05}{05}{05}
+@36
+And how does this Xu Shu's\ntalent compare to yours?{05}{05}{05}
+@37
+I would say he is at least\nten times my equal.{05}{05}{05}
+@38
+What a pity.\nWe have given wings\nto that tiger, Liu Bei.{05}{05}{05}
+@39
+I have a plan to win\nXu Shu over.{05}{05}{05}
+@40
+Xu Shu is a devoted son.\nWe use his mother,\nwho lives in Xuchang.{05}{05}{05}
+@41
+Send Xu Shu a forged letter\nfrom his mother, urging him\nto come to Xuchang.{05}{05}{05}
+@42
+Take {02}{02}ﾈ's advice and\ntry to win Xu Shu over?{05}{05}{05}
+@43
+Good, a clever plan.\nSend the forged letter\nat once.{05}{05}{05}
+@44
+Fool! Do you think I, who\nwalk the kingly path, would\nstoop to such base tricks?!{05}{05}{05}
+@45
+Enough. Leave the matter\nof Xu Shu for now.{05}{05}{05}
+@46
+Lord Liu Bei... I have come\nto take my leave.\nPlease forgive me.{05}{05}{05}
+@47
+What did you say?\nLord Xu Shu, what has\nhappened?{05}{05}{05}
+@48
+A letter came from Xuchang.\nIt says my mother has been\nseized by Cao Cao.{05}{05}{05}
+@49
+If I do not go to her now,\nI fail in my duty\nas a son.{05}{05}{05}
+@50
+I beg you, allow me\nto go to Xuchang.{05}{05}{05}
+@51
+Dismiss Xu Shu and\nsend him to Cao Cao?{05}{05}{05}
+@52
+Devotion makes true parent\nand child. Go without\nregret, Strategist.{05}{05}{05}
+@53
+Thank you, my lord. I swear\nI will never lend my plans\nto Cao Cao.{05}{05}{05}
+@54
+Before I go, let me recommend\nsomeone fit to be your\nright hand.{05}{05}{05}
+@55
+A schoolmate of mine is\na man named Zhuge Liang.{05}{05}{05}
+@56
+He lives on Wolong Ridge in\nNanyang. He truly has the\ntalent to aid a king.{05}{05}{05}
+@57
+If you can win his help,\nthe Han can surely be\nrestored.{05}{05}{05}
+@58
+Zhuge Liang of Wolong Ridge...\nCould he be the sage called\n"Sleeping Dragon"?{05}{05}{05}
+@59
+If he is the "Sleeping\nDragon," then are you the\n"Fledgling Phoenix"?{05}{05}{05}
+@60
+Not at all.\nThe Phoenix is Pang Shiyuan,\nanother sage.{05}{05}{05}
+@61
+Today at last I have learned\nthe names of the Dragon\nand the Phoenix.{05}{05}{05}
+@62
+Without you, Lord Xu Shu,\nI would never have known.{05}{05}{05}
+@63
+Then farewell.\nMay you stay in good\nhealth, Lord Liu Bei.{05}{05}{05}
+@64
+Xu Shu has left\nLiu Bei.{05}{05}{05}
+@65
+Lord Cao Cao, Lord Xu Shu\nhas come from Xinye.{05}{05}{05}
+@66
+Welcome. Now, why did a man\nlike you serve the likes\nof Liu Bei?{05}{05}{05}
+@67
+I met Liu Bei on my travels.\nWe hit it off, and I\nserved as his aide.{05}{05}{05}
+@68
+I see...\nFrom now on, serve here\nas my right hand.{05}{05}{05}
+@69
+But learning of her son's\nfolly, Xu Shu's mother\ntook her own life.{05}{05}{05}
+@70
+Ah, Mother...\nI, Yuanzhi, have been\nso blind.{05}{05}{05}
+@71
+Liu Bei did not let\nXu Shu go.{05}{05}{05}
+@72
+Xu Shu did not come.\nIt seems they saw through\nour scheme.{05}{05}{05}
+@73
+It was a fine plan,\nbut it can't be helped.{05}{05}{05}
+@74
+Lord {02}{01}ﾈ, I have devised\na new law. Please have\na look.{05}{05}{05}
+@75
+A new law, is it?\n..."The Nine Ranks System"?{05}{05}{05}
+@76
+Under the Han system, rank\nwas shown by the size\nof one's salary.{05}{05}{05}
+@77
+But this Nine Ranks System\nshows the rank of an office\nby grades one to nine.{05}{05}{05}
+@78
+So what matters is not the\nsalary but the rank of\nthe office itself.{05}{05}{05}
+@79
+Hmm, I see.\nI leave its running\nto you.{05}{05}{05}
+@80
+In Jian'an 25 (AD 220), the\nNine Ranks System was enacted\non Chen Qun's proposal.{05}{05}{05}
+@81
+With this law, Wei built\na new system of\ngovernment.{05}{05}{05}
+@82
+Lord Jiang Wei now leads the\narmy, but Chang'an has\nyet to fall.{05}{05}{05}
+@83
+This cannot go on.\nWe must do something,\nI believe.{05}{05}{05}
+@84
+Then what should\nWe do?{05}{05}{05}
+@85
+Let Yan Yu replace him.\nThen Chang'an will soon\nbe ours.{05}{05}{05}
+@86
+Oh, oh, is that so?\nThen arrange it.\nWe are bad at thinking...{05}{05}{05}
+@87
+Untalented though I am, I\nthink I can do better\nthan Jiang Wei. Heh heh.{05}{05}{05}
+@88
+Why has His Majesty called\nme back to Chengdu? And\nYan Yu is to replace me!{05}{05}{05}
+@89
+This is Huang Hao's doing.\nThat eunuch, meddling\nin affairs of state!{05}{05}{05}
+@90
+Yan Yu can't hold the front.\nIf they come crying later,\nit's not my problem.{05}{05}{05}
+@91
+The governor of Tianshui has\nbeen changed from Jiang Wei\nto Yan Yu.{05}{05}{05}

@@ -1,0 +1,64 @@
+@0
+Yuchi Gong　Jingde　596-658{05}{05}{05}
+@1
+Ying Zheng　259-210 BC{05}{05}{05}
+@2
+Ying Bu　?-195 BC{05}{05}{05}
+@3
+Wang Jian　?-?{05}{05}{05}
+@4
+Yue Yi　?-?{05}{05}{05}
+@5
+Huo Qubing　140-117 BC{05}{05}{05}
+@6
+Yue Fei　Pengju　1103-1141{05}{05}{05}
+@7
+Guan Yiwu　Zhong　?-645 BC{05}{05}{05}
+@8
+Han Xin　?-196 BC{05}{05}{05}
+@9
+Kong Qiu　Zhongni　551-479 BC{05}{05}{05}
+@10
+Xiang Ji　Yu　232-202 BC{05}{05}{05}
+@11
+Gao Changgong　?-573{05}{05}{05}
+@12
+Wu Qi　?-381 BC{05}{05}{05}
+@13
+Xiao He　?-193 BC{05}{05}{05}
+@14
+Qin Qiong　Shubao　?-638{05}{05}{05}
+@15
+Qin Liangyu　Zhensu　1574-1648{05}{05}{05}
+@16
+Sun Bin　?-?{05}{05}{05}
+@17
+Zhang Yi　?-309 BC{05}{05}{05}
+@18
+Zhang Liang　Zifang　?-186 BC{05}{05}{05}
+@19
+Chen Qingzhi　Ziyun　484-539{05}{05}{05}
+@20
+Zheng Chenggong　Mingyan　1624-1662{05}{05}{05}
+@21
+Bai Qi　?-257 BC{05}{05}{05}
+@22
+Fan Zeng　277-204 BC{05}{05}{05}
+@23
+Peng Yue　Zhong　?-196 BC{05}{05}{05}
+@24
+Bao Shuya　?-?{05}{05}{05}
+@25
+Meng Tian　?-210 BC{05}{05}{05}
+@26
+Yang Dayan　?-518{05}{05}{05}
+@27
+Li Si　?-208 BC{05}{05}{05}
+@28
+Li Ji　Maogong　583-669{05}{05}{05}
+@29
+Liu Bang　Ji　256 (247)-195 BC{05}{05}{05}
+@30
+Lu Shang　Ziya　?-?{05}{05}{05}
+@31
+{09}Lin Xiangru　?-?　{05}{05}{05}

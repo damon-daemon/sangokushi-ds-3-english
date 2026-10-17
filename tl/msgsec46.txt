@@ -1,0 +1,168 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+As you wish.{05}{05}{05}
+@3
+Just so.{05}{05}{05}
+@4
+Let us choose an auspicious\nday and hold the enthronement.{05}{05}{05}
+@5
+Take the throne at once and\nraise an army to unite\nthe realm.{05}{05}{05}
+@6
+Lord {02}{01}ﾈ, {02}{02}ﾈ wishes\nto speak with you.{05}{05}{05}
+@7
+My lord, I must ask\nyou to clear the room.{05}{05}{05}
+@8
+What is it, {02}{02}ﾈ?\nIs it so important?{05}{05}{05}
+@9
+You now rule most of the land.\nNo one in our time can match\nwhat you have done.{05}{05}{05}
+@10
+You even hold the imperial\nseal. Surely unification\nis near...{05}{05}{05}
+@11
+{02}{02}ﾈ, have you come\nhere just to flatter me?{05}{05}{05}
+@12
+Please, no jests.\nI am quite serious.{05}{05}{05}
+@13
+Now that most of the land is\nat peace, the people seek\na new leader.{05}{05}{05}
+@14
+Will you take the throne?{05}{05}{05}
+@15
+You are right.\nVery well, I will take\nthe throne.{05}{05}{05}
+@16
+You have heard our plea.\nMy heartfelt congratulations.{05}{05}{05}
+@17
+No...\nOn second thought,\nI will not.{05}{05}{05}
+@18
+What did you say?! Soldiers\nand people alike all wish\nto see you enthroned!{05}{05}{05}
+@19
+No. With the land not yet\nunited, seeking only the\nthrone won't win hearts.{05}{05}{05}
+@20
+I cannot halt my march to\nsupremacy. The throne can\nwait until the land is one.{05}{05}{05}
+@21
+I understand.\nThen we shall leave it\nfor another time.{05}{05}{05}
+@22
+{02}{01}ﾈ took the throne at\n{02}{14}ﾈ and vowed to unite\nthe land.{05}{05}{05}
+@23
+In Luoyang, Dong Zhuo has\nseized the army and runs riot.\nIt is a grave state of affairs.{05}{05}{05}
+@24
+But I cannot stand against\nDong Zhuo alone.\nI need a plan...{05}{05}{05}
+@25
+If I join with Yuan Shao,\nthen ally with the other\nlords and gather troops...{05}{05}{05}
+@26
+Then toppling Dong Zhuo is\nnot impossible... Yes, I will\nsend out a call to arms.{05}{05}{05}
+@27
+A call to arms from Cao Cao...\nHe means to strike\nDong Zhuo?{05}{05}{05}
+@28
+Topple Dong Zhuo now, and\nmy name will go down in history\nas a loyal servant of the Han.{05}{05}{05}
+@29
+Good, my mind is made up!\nI will bring down Dong Zhuo\nwith Cao Cao!{05}{05}{05}
+@30
+Cao Cao sent a call to arms\nto the lords, urging them to\nally against Dong Zhuo.{05}{05}{05}
+@31
+Lord {02}{01}ﾈ, a call to arms\nhas come from Lord Cao Cao.{05}{05}{05}
+@32
+By the Emperor's secret edict,\nI shall strike down the\ntraitor Dong Zhuo.{05}{05}{05}
+@33
+Lord {02}{01}ﾈ, join me, Cao\nCao, to defeat the traitor\nand serve the Han.{05}{05}{05}
+@34
+Lord {02}{01}ﾈ, will you heed\nCao Cao and join the\nalliance against Dong Zhuo?{05}{05}{05}
+@35
+The lords who answered Cao Cao\neach formed a one-year\nalliance against Dong Zhuo.{05}{05}{05}
+@36
+We form this coalition to\nbring down the traitor\nDong Zhuo.{05}{05}{05}
+@37
+I would ask Lord Yuan Shao,\nof noble birth, to lead us.\n...No objections, I see.{05}{05}{05}
+@38
+Unworthy though I am,\nI, Yuan Shao, humbly\naccept.{05}{05}{05}
+@39
+Let us join our strength to\ndefeat Dong Zhuo and save\nthe Han and its people!{05}{05}{05}
+@40
+Dong Zhuo, foe of the Han!\nFeel our might!{05}{05}{05}
+@41
+My lord! At Cao Cao's call,\nthe lords have formed\nan alliance!{05}{05}{05}
+@42
+What?!\nCurse you, Cao Cao...{05}{05}{05}
+@43
+Yuan Shao leads with Cao Cao\nat his side. They say their\nforce is like a stampede.{05}{05}{05}
+@44
+My lord, you have\nnothing to fear.{05}{05}{05}
+@45
+Ah, Lu Bu, Hua Xiong.\nYou've heard about this\nso-called coalition?{05}{05}{05}
+@46
+As long as we warriors are\nhere, you need not fear the\nlikes of Cao Cao or Yuan Shao.{05}{05}{05}
+@47
+Yes, yes.\nYou are dependable men.{05}{05}{05}
+@48
+Luoyang lies near the lords'\nterritories, which makes it\nhard to defend.{05}{05}{05}
+@49
+The old capital Chang'an is\nnear your former base in\nXiliang, ideal for defense.{05}{05}{05}
+@50
+We should move the capital\nat once to face the lords'\ncoalition, I believe.{05}{05}{05}
+@51
+How can you say that?!\nUrging a move with no thought\nfor the people is outrageous!{05}{05}{05}
+@52
+Besides, Chang'an is ruined\nfrom endless war. Moving the\ncapital there is pointless.{05}{05}{05}
+@53
+Please reconsider\nmoving the capital.{05}{05}{05}
+@54
+Follow Li Ru's advice and\nmove the capital\nto Chang'an?{05}{05}{05}
+@55
+Ignoring his loyal ministers,\nDong Zhuo moved the capital\nto Chang'an.{05}{05}{05}
+@56
+He set Luoyang ablaze as he\nleft, so that the people\ncould not return.{05}{05}{05}
+@57
+Hahaha! Burn, burn!\nFarewell to gloomy\nold Luoyang!{05}{05}{05}
+@58
+Ah... Luoyang, which flourished\nfor 200 years since Emperor\nGuangwu, is burning...{05}{05}{05}
+@59
+Dong Zhuo's move to Chang'an\nshocked even the coalition\nagainst him.{05}{05}{05}
+@60
+What?! Dong Zhuo fled?!\nTo Chang'an...{05}{05}{05}
+@61
+Setting Luoyang on fire\nand running... Dong Zhuo,\nhow could you!{05}{05}{05}
+@62
+The capital Luoyang has\nbeen burned to the ground.{05}{05}{05}
+@63
+It seems the Minister\nhas a point.{05}{05}{05}
+@64
+Then we will not\nmove the capital?{05}{05}{05}
+@65
+We will stay in\nLuoyang for now.{05}{05}{05}
+@66
+...Tch.\nWang Yun and his\nmeddling advice...{05}{05}{05}
+@67
+Our House of Yuan produced\nthe Three Excellencies for four\ngenerations. Is that not so, Ji Ling?{05}{05}{05}
+@68
+The Han's fortune is spent,\nand the Central Plain knows\nno end of war.{05}{05}{05}
+@69
+So, now that I hold the imperial\nseal, I am thinking of taking\nthe throne as Heaven wills...{05}{05}{05}
+@70
+The House of Yuan is noble,\nbut it has not yet won\nthe realm.{05}{05}{05}
+@71
+The Han may be in decline,\nbut many warlords still\nswear loyalty to it.{05}{05}{05}
+@72
+I believe patience\nis what matters now.{05}{05}{05}
+@73
+Bah, enough! Silence!\nMy enthronement has been\nforetold!{05}{05}{05}
+@74
+Foretold...?!{05}{05}{05}
+@75
+"He who replaces the Han\nshall be Dangtu Gao."{05}{05}{05}
+@76
+"Tu" means "road," the same\nas "lu" in your style name,\nGonglu.{05}{05}{05}
+@77
+Such a match can no\nlonger be called chance.{05}{05}{05}
+@78
+My name, "Shu," also means\n"road"! This is surely\nHeaven's will!{05}{05}{05}
+@79
+Any traitor who objects\nfurther will be cut down!\nNo objections...?!{05}{05}{05}
+@80
+Over his ministers' objections,\nYuan Shu took the throne and\nnamed his state Zhong.{05}{05}{05}
+@81
+He made Shouchun his capital\nand lived in imperial\nluxury.{05}{05}{05}
+@82
+That seal was only a pledge\nI left with Yuan Shu to\nborrow troops!{05}{05}{05}
+@83
+Using my father's keepsake to\nclaim the throne... outrageous!\nHeaven will punish him!{05}{05}{05}

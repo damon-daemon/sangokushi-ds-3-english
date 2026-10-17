@@ -1,0 +1,226 @@
+@0
+{1B}C3Recruit Officers{1B}C1\n Recruit officers using gems.\n Top row: gems needed to recruit.\n Bottom row: gems you have.{05}{05}{05}
+@1
+{1B}C3Train Officers{1B}C1\n Use items to raise\n officers' abilities.{05}{05}{05}
+@2
+{1B}C3Select Stage{1B}C1\n Choose the stage\n to advance to.{05}{05}{05}
+@3
+{1B}C3Select Stage{1B}C1\n Clear a stage to be able\n to advance to the\n neighboring stages.{05}{05}{05}
+@4
+{1B}C3Select Stage{1B}C1\n However, some stages\n can't be entered unless\n special conditions are met.{05}{05}{05}
+@5
+{1B}C3Organize Units{1B}C1\n Choose officers to deploy.\n You can't exceed the\n stage's deployment cost.{05}{05}{05}
+@6
+{1B}C3Results{1B}C1\n Clear a stage to win items\n and gems as spoils.{05}{05}{05}
+@7
+{1B}C3Results{1B}C1\n Use spoils to recruit and\n train, making your army\n even stronger.{05}{05}{05}
+@8
+{1B}C6Special Reward!{1B}C1\n Obtained the new weapon\n {1B}C3"%s"{1B}C1!{05}{05}{05}
+@9
+{1B}C6Special Reward!{1B}C1\n {1B}C3"%s"{1B}C1\n can now be selected!{05}{05}{05}
+@10
+More officers can be recruited\nwith {1B}C3"%s"{1B}C1!{05}{05}{05}
+@11
+In turbulent ancient China, countless stars of generals rose and fell...{05}{05}{05}
+@12
+And now a new heroic tale is about to be born.{05}{05}{05}
+@13
+Comrades gathered from across the land under the banner of unification, honing their arms and wisdom...{05}{05}{05}
+@14
+Through endless battles, forge the strongest army and carve out the path of conquest with your own hands!{05}{05}{05}
+@15
+From a small uprising, the %s army advanced at an astonishing pace... No one could stop the spreading blaze, and at last it subdued every power.{05}{05}{05}
+@16
+Its valor, which defeated famed heroes, wise generals, sages and even heroes of old, thundered across the land.{05}{05}{05}
+@17
+But this does not mean the fighting is over.{05}{05}{05}
+@18
+A splendid victory is a conqueror's victory. Earn an S rank on every stage and seek still greater strength!{05}{05}{05}
+@19
+Earned an S rank\non every stage!{05}{05}{05}
+@20
+Hidden scenario {1B}C3"%s"{1B}C1\nis now playable!{05}{05}{05}
+@21
+These officers can now be used\nin the Unify China scenario!\n {1B}C3Ying Zheng, Wang Jian, Meng Tian, Li Si{1B}C1{05}{05}{05}
+@22
+These officers can now be used\nin the Unify China scenario!\n {1B}C3Lu Shang, Kong Qiu{1B}C1{05}{05}{05}
+@23
+These officers can now be used\nin the Unify China scenario!\n {1B}C3Liu Bang, Xiang Ji, Zhang Liang, Han Xin,{1B}C1\n {1B}C3Xiao He, Fan Zeng, Ying Bu, Peng Yue{1B}C1{05}{05}{05}
+@24
+These officers can now be used\nin the Unify China scenario!\n {1B}C3Song Jiang, Li Kui, Dai Zong, Shi Jin,{1B}C1\n {1B}C3Lin Chong, Hua Rong, Gongsun Sheng, Wu Yong,{1B}C1{05}{05}{05}
+@25
+ {1B}C3Huyan Zhuo, Hu Sanniang, Gao Qiu{1B}C1{05}{05}{05}
+@26
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Yellow Turban Rebellion"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@27
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Coalition vs. Dong Zhuo"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@28
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Battle of Xu Province"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@29
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Conquest of Jiangdong"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@30
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Raid on Wan"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@31
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Against the False Emperor"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@32
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Defense of Yijing"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@33
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Guan Yu's Long Journey"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@34
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Sweeping Hebei"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@35
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Battle of Changban"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@36
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Battle of Chibi"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@37
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Pacifying Southern Jing"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@38
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Battle of the Wei River"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@39
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Conquest of Yi Province"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@40
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Battle for Hanzhong"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@41
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Subduing the Nanman"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@42
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Contest of Heroes"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@43
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Sacred Peak of the Ancients"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@44
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Xiang and Liu Return"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@45
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"Assault on Liangshan"\n\n\_\_\_\_\_\_\_\_\_\_\_\_Achieve the {1B}C5victory conditions{1B}C1!{05}{05}{05}
+@46
+{02}{01}ﾈ defeated\n{02}{02}ﾈ!{05}{05}{05}
+@47
+{02}{02}ﾈ was defeated\nby {02}{01}ﾈ!{05}{05}{05}
+@48
+{02}{01}ﾈ's unit's\nmorale fell!{05}{05}{05}
+@49
+{01}CA{00}! We finally did it{01}C.{00}!{05}{05}{05}
+@50
+Now no one can stand against us{01}C{1A}{00}.{05}{05}{05}
+@51
+It's not over{01}C/{00}? Oh dear...{05}{05}{05}
+@52
+Good news. I was just thinking I wanted to cut loose{01}C9{00}{01}C{12}{00}.{05}{05}{05}
+@53
+It was a hard road{01}C.{00}. All thanks to my might... No, it's the %s army's achievement{01}C,{00}.{05}{05}{05}
+@54
+{01}CA{00}! At any rate, now we can call ourselves conquerors{01}C{1A}{00}!{05}{05}{05}
+@55
+{05}{05}{04}{02}{01}g{04}>80{06}&{02}{01}{82}{01}J藁{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J冦{05}{05}{05}{01}S{02}e2{01}CA{00} When you put it like that, {01}C{00}{00} must go{01}C.{00}.{05}{05}{05}Now is the chance of a lifetime. {01}C{00}{00} will entrust my life to the %s army{01}C!{00}.{05}{05}{05}
+@56
+{01}S{02}e2So the time has come to wield my skill for the world. Watch me on the battlefield.{05}{05}{05}{01}CA{00} I'll show you how I fight like a demon.{05}{05}{05}
+@57
+Very well. With me here, the land is as good as yours{01}C-{00}.{05}{05}{05}
+@58
+{05}{05}{04}{02}{01}{81}{01}J｡m{05}{05}{05}{05}{05}{04}{02}{01}u{04}=122{06}&{02}d70{01}J嬶{05}{05}{05}{05}{05}{04}{02}{01}u{04}=365{06}&{02}d70{01}J徇{05}{05}{05}{05}{05}{04}{02}{01}u{04}=357{06}&{02}d70{01}J拯{05}{05}{05}{05}{05}{04}{02}{01}u{04}=400{06}&{02}d70{01}J枸{05}{05}{05}{05}{05}{04}{02}{01}u{04}=564{06}&{02}d70{01}J殞{05}{05}{05}{05}{05}{04}{02}{01}u{04}=309{06}&{02}d70{01}J{A0}m{05}{05}{05}{01}S{02}e3Take heart{01}C'{00}! Show them the true strength of the %s army{01}C'{00}!{05}{05}{05}Let's go{01}C7{00}! Fight like raging lions!{05}{05}{05}Let's do this{01}C7{00}! Raaaaah!{05}{05}{05}
+@59
+I'll show you how Xu Zhongkang runs wild! Uoraaaaah!{05}{05}{05}
+@60
+All right! Watch Zhang Fei of Yan run wild!!!{05}{05}{05}
+@61
+Zhang Ren, here I come! Uoooooh!!!{05}{05}{05}
+@62
+Behold the Evil Comer's rampage! Raaaaah!{05}{05}{05}
+@63
+I'll take you all on! Regret facing Lu Fengxian in hell!{05}{05}{05}
+@64
+I'll show you how Sun Bofu fights! Uoraaah!{05}{05}{05}
+@65
+{01}S{02}e2Don't underestimate me because I'm a woman. I'll finish you at once!{05}{05}{05}Here I come! I'll show you how a raging lion fights!{05}{05}{05}
+@66
+{05}{05}{04}{02}{01}u{04}=541{06}&{02}d50{01}J｣m{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J､m{05}{05}{05}{01}S{02}e3Listen, everyone! For the %s army's sake, we must win this battle, understood?{05}{05}{05}Hear me, all! We can win this battle{01}C7{00}! Follow me!{05}{05}{05}Believe in victory{01}C'{00}! Cast off doubt and think only of victory! Victory is near{01}C-{00}!{05}{05}{05}
+@67
+For the Han's restoration and for justice, we can't lose this battle! Fight with all your might!{05}{05}{05}
+@68
+Hey, what are you doing! Follow me{01}C#{00}! Let's scatter the enemy{01}C0{00}!{05}{05}{05}
+@69
+The %s army's\nmorale %s!{05}{05}{05}
+@70
+{05}{05}{04}{02}{01}d{04}=0{01}Jｧm{05}{05}{05}{01}S{02}e2The signs say the whole enemy army will be engulfed in flames. Fire, I think{01}C{16}{00}.{05}{05}{05}By the divination, fire will break out in the enemy camp{01}C{17}{00}.{05}{05}{05}
+@71
+Fire in the enemy camp! A blaze is sure to break out. Now, attack{01}C7{00}!{05}{05}{05}
+@72
+There is no suspended data to resume.{05}{05}{05}
+@73
+Resume the game from suspended data.{05}{05}{05}
+@74
+There is no data to resume.{05}{05}{05}
+@75
+Continue the game.{05}{05}{05}
+@76
+Start the game from the beginning.{05}{05}{05}
+@77
+Enter your army's name.{05}{05}{05}
+@78
+Select a stage.{05}{05}{05}
+@79
+Advance to this stage.{05}{05}{05}
+@80
+Clear the stage to recruit officers.{05}{05}{05}
+@81
+No officer can be recruited.{05}{05}{05}
+@82
+Recruit new officers.{05}{05}{05}
+@83
+First, select the officers to recruit.{05}{05}{05}
+@84
+Whom will you recruit?{05}{05}{05}
+@85
+Not enough gems.{05}{05}{05}
+@86
+Confirm army creation.{05}{05}{05}
+@87
+Confirm recruitment.{05}{05}{05}
+@88
+Exceeds the deployment cost.{05}{05}{05}
+@89
+No one has been selected.{05}{05}{05}
+@90
+Choose the officers to deploy.{05}{05}{05}
+@91
+Total cost ({1B}C4{02}({1B}C1/{02})){05}{05}{05}
+@92
+Obtained the following spoils.{05}{05}{05}
+@93
+Select the officer to train.{05}{05}{05}
+@94
+Train %s.{05}{05}{05}
+@95
+You have no items.{05}{05}{05}
+@96
+The suspended data will be erased after\nloading. Resume anyway?{05}{05}{05}
+@97
+The suspended data will be erased.\nIs that all right?{05}{05}{05}
+@98
+Start the game with the %s army.\nIs that all right?{05}{05}{05}
+@99
+Return to the mode select screen.\nIs that all right?{05}{05}{05}
+@100
+Challenge the %s army.\nIs that all right?{05}{05}{05}
+@101
+Save data already exists.\nOverwrite it?{05}{05}{05}
+@102
+Quit Hero Battle Road.\nIs that all right?{05}{05}{05}
+@103
+You still have recruiting items.\nUse this army anyway?{05}{05}{05}
+@104
+Leftover gems won't carry over.\nUse this army anyway?{05}{05}{05}
+@105
+Recruit the selected officers?{05}{05}{05}
+@106
+Return to army name entry.\nIs that all right?{05}{05}{05}
+@107
+The training will be canceled.\nIs that all right?{05}{05}{05}
+@108
+Clear the settings of all units.\nIs that all right?{05}{05}{05}
+@109
+Deploy with this lineup.\nIs that all right?{05}{05}{05}
+@110
+Stop the advance?{05}{05}{05}
+@111
+End the %s army's\norders?{05}{05}{05}
+@112
+Save data and quit.\nIs that all right?{05}{05}{05}

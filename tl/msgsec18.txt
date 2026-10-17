@@ -1,0 +1,182 @@
+@0
+This is our territory.{05}{05}{05}
+@1
+You cannot select an empty city.{05}{05}{05}
+@2
+No city has been selected.{05}{05}{05}
+@3
+Select the officer.{05}{05}{05}
+@4
+No officer has been selected.{05}{05}{05}
+@5
+Select the city to spread rumors in.{05}{05}{05}
+@6
+Turn an officer in which city?{05}{05}{05}
+@7
+No officer can be targeted by Turncoat.{05}{05}{05}
+@8
+You cannot use Turncoat on an ally's city.{05}{05}{05}
+@9
+Select the officer to turn.{05}{05}{05}
+@10
+Already promised to defect to us.{05}{05}{05}
+@11
+Scheme against the governor of which city?{05}{05}{05}
+@12
+No governor can be targeted.{05}{05}{05}
+@13
+Select the city to incite.{05}{05}{05}
+@14
+The people of {02}{14}ﾈ have promised to help us.{05}{05}{05}
+@15
+You cannot incite an ally's city.{05}{05}{05}
+@16
+Sabotage which city?{05}{05}{05}
+@17
+Plant an agent in which city?{05}{05}{05}
+@18
+This is an ally's city.{05}{05}{05}
+@19
+Select the officer to plant in {02}{14}ﾈ.{05}{05}{05}
+@20
+Support in {02}{14}ﾈ fell to\n{1B}C4{02}({1B}C1 (-{1B}C4{02}){1B}C1).{05}{05}{05}
+@21
+{02}{01}ﾈ's loyalty fell to\n{1B}C4{02}({1B}C1 (-{1B}C4{02}){1B}C1).{05}{05}{05}
+@22
+{02}{02}ﾈ's fame fell.{05}{05}{05}
+@23
+Defense of {02}{14}ﾈ fell to\n{1B}C4{02}({1B}C1 (-{1B}C4{02}){1B}C1).{05}{05}{05}
+@24
+Use Rumor on\n{02}{14}ﾈ?{05}{05}{05}
+@25
+Ugly rumors about {02}{01}ﾈ\nseem to be spreading in {02}{14}ﾈ.{05}{05}{05}
+@26
+{05}{05}{04}{02}{01}d{04}=0{01}JkF{05}{05}{05}{01}S{02}e2The people of {02}{14}ﾈ are stunned by the rumors{01}C{1B}{00}; some even call for their lord's ouster...{05}{05}{05}The rumors are spreading. Some tremble in fear, others try to leave town.{05}{05}{05}
+@27
+The people of {02}{14}ﾈ are in uproar{01}C-{00}. Now, {02}{04}ﾈ, how will you calm them{01}C4{00}?{05}{05}{05}
+@28
+{05}{05}{04}{02}{01}d{04}=0{01}JmF{05}{05}{05}{01}S{02}e2Our rumors have shaken {02}{03}ﾈ{01}C{1B}{00}. They may rebel{01}C0{00}.{05}{05}{05}The rumors have made {02}{03}ﾈ paranoid{01}C{1B}{00}. They may soon declare independence...{05}{05}{05}
+@29
+Misled by rumors, {02}{03}ﾈ is feigning illness and not attending court{01}C-{00}.{05}{05}{05}
+@30
+{05}{05}{04}{02}{01}d{04}=0{01}JoF{05}{05}{05}{01}S{02}e2{02}{04}ﾈ's officers and people are unhappy with their lord{01}C{1B}{00}. I'd love to see their face{01}C2{00}.{05}{05}{05}{02}{04}ﾈ seems shocked that bad talk about them suddenly spread among officers and people{01}C5{00}.{05}{05}{05}
+@31
+Rumors about {02}{04}ﾈ have spread beyond the castle into town; people and officers alike resent {02}{04}ﾈ.{05}{05}{05}
+@32
+{05}{05}{04}{02}{01}d{04}=0{01}JqF{05}{05}{05}{01}S{02}e2Talk of "the traitor {02}{04}ﾈ" has spread through town, and the whole realm eyes them with suspicion.{05}{05}{05}Ugly rumors about {02}{04}ﾈ are spreading through town, and they're losing the people's trust.{05}{05}{05}
+@33
+Distrust of {02}{04}ﾈ is growing; some even cry "Death to the traitor"{01}C2{00}.{05}{05}{05}
+@34
+{05}{05}{04}{02}{01}d{04}=0{01}JsF{05}{05}{05}{01}S{02}e2In {02}{14}ﾈ, the bad talk about {02}{04}ﾈ has people and officers distrustful. Total chaos{01}C{17}{00}.{05}{05}{05}With the rumors about {02}{04}ﾈ, a riot or rebellion could break out at any moment{01}C0{00}.{05}{05}{05}
+@35
+The rumors spread more than expected. The day {02}{14}ﾈ collapses from within is near{01}C2{00}.{05}{05}{05}
+@36
+{05}{05}{04}{02}{01}d{04}=0{01}JuF{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JvF{05}{05}{05}{01}S{02}e2Neither people nor officers would listen to the rumors{01}C {00}. {02}{04}ﾈ seems well trusted.{05}{05}{05}The agent sent to spread rumors was caught. Give me another chance{01}C{13}{00}.{05}{05}{05}
+@37
+No one believed the rumors{01}C9{00}... {02}{04}ﾈ must be very well trusted{01}C2{00}{01}C8{00}.{05}{05}{05}
+@38
+{01}S{02}e2Neither people nor officers would listen to the rumors. {02}{04}ﾈ... not to be underestimated.{05}{05}{05}The agent sent to spread rumors was caught. Another chance...{05}{05}{05}
+@39
+Support in {02}{14}ﾈ fell to {1B}C4{02}({1B}C1.{05}{05}{05}
+@40
+{02}{01}ﾈ's loyalty fell to {1B}C4{02}){1B}C1.{05}{05}{05}
+@41
+Support in {02}{14}ﾈ fell to {1B}C4{02}({1B}C1.\n{02}{01}ﾈ's loyalty fell to {1B}C4{02}){1B}C1.{05}{05}{05}
+@42
+{02}{02}ﾈ's fame fell.{05}{05}{05}
+@43
+Support in {02}{14}ﾈ fell to {1B}C4{02}({1B}C1.\n{02}{01}ﾈ's loyalty fell to {1B}C4{02}){1B}C1.\n{02}{02}ﾈ's fame fell.{05}{05}{05}
+@44
+Use Turncoat on {02}{01}ﾈ\nof {02}{14}ﾈ?{05}{05}{05}
+@45
+{02}{01}ﾈ is urging {02}{02}ﾈ\nto defect on the battlefield.{05}{05}{05}
+@46
+{05}{05}{04}{02}{01}d{04}=0{01}J{7F}F{05}{05}{05}{01}S{02}e5{02}{03}ﾈ agreed{01}C&{00}. I can't wait for the battle{01}C{17}{00}.{05}{05}{05}It worked. {02}{04}ﾈ would never dream there's a traitor among their men.{05}{05}{05}Success, as expected. I can just picture {02}{04}ﾈ's army in chaos on the field{01}C.{00}.{05}{05}{05}Rejoice{01}C{13}{00}! {02}{03}ﾈ promised to defect in the next battle{01}C&{00}.{05}{05}{05}They accepted{01}C&{00}. I can't wait to see {02}{04}ﾈ's shocked face{01}C{17}{00}.{05}{05}{05}
+@47
+{01}CA{00}, it worked{01}C2{00}. I can't wait for the next battle{01}C5{00}.{05}{05}{05}
+@48
+{05}{05}{04}{02}{01}d{04}=0{01}J：{05}{05}{05}{01}S{02}e5I'm ashamed{01}C{1C}{00}. {02}{03}ﾈ's loyalty is unshakable{01}C{17}{00}.{05}{05}{05}I'm sorry{01}C{1C}{00}. Now I'll make them pay on the battlefield.{05}{05}{05}They refused. I thought that one had foresight, but...{05}{05}{05}I couldn't persuade them. Their eyes said they'd live and die with their lord.{05}{05}{05}It didn't work. I'll make up for this failure on the battlefield, I think{01}C{16}{00}.{05}{05}{05}
+@49
+Couldn't persuade them{01}C9{00}... {02}{03}ﾈ's loyalty is admirable. I envy {02}{04}ﾈ.{05}{05}{05}
+@50
+Turncoat on {02}{01}ﾈ succeeded.\nUse "Defect" on the battlefield.{05}{05}{05}
+@51
+{02}{01}ﾈ's loyalty fell to {1B}C4{02}({1B}C1.{05}{05}{05}
+@52
+{05}{05}{04}{02}{01}d{04}=0{01}J{85}F{05}{05}{05}{01}S{02}e5The scheme failed, but it stirred {02}{03}ﾈ's ambition{01}C{17}{00}.{05}{05}{05}They didn't take the bait, but from {02}{03}ﾈ's face, their loyalty wavered quite a bit...{05}{05}{05}The plan failed, but judging by their confusion, something may have taken root...{05}{05}{05}Disappointing, but we shook their loyalty{01}C{17}{00}.{05}{05}{05}A loyal soul indeed... But I think even their deep loyalty is cracked now{01}C{16}{00}.{05}{05}{05}
+@53
+It failed, but {02}{03}ﾈ's heart wavered{01}C2{00}. One more push{01}C-{00}.{05}{05}{05}
+@54
+Use Rival Tigers on {02}{01}ﾈ,\ngovernor of {02}{14}ﾈ?{05}{05}{05}
+@55
+{02}{01}ﾈ is stirring up\n{02}{02}ﾈ's ambition.{05}{05}{05}
+@56
+{05}{05}{04}{02}{01}d{04}=0{01}J宇{05}{05}{05}{01}S{02}e5We stirred {02}{03}ﾈ's ambition nicely. I look forward to their next move{01}C2{00}.{05}{05}{05}A great success{01}C{17}{00}. {02}{03}ﾈ doesn't even know they're being played... Fool.{05}{05}{05}It worked. {02}{04}ﾈ would never dream of collapsing from within.{05}{05}{05}The plan went well{01}C{1B}{00}. Now if our army answers {02}{03}ﾈ's revolt... heh heh.{05}{05}{05}I egged them on nicely{01}C7{00}. Now let's wait for {02}{03}ﾈ to rise up.{05}{05}{05}
+@57
+{05}{05}{04}{02}{01}{81}{01}J皆{05}{05}{05}{02}{03}ﾈ has made up their mind. We march as soon as the revolt begins. Everyone, be ready.{05}{05}{05}
+@58
+{02}{03}ﾈ has made up their mind. We march as soon as the revolt begins. Everyone, be ready.{05}{05}{05}
+@59
+{05}{05}{04}{02}{01}d{04}=0{01}J熊{05}{05}{05}{01}S{02}e5I'm sorry{01}C{1C}{00}. That one's loyalty outweighs ambition; they'd never turn...{05}{05}{05}I failed. A general entrusted with a whole realm is not to be underestimated{01}C {00}.{05}{05}{05}I couldn't persuade them. Let's skip the petty schemes and make them yield by force.{05}{05}{05}Forgive me{01}C{13}{00}. It was the chance of a lifetime for {02}{03}ﾈ; I thought it would work...{05}{05}{05}{02}{03}ﾈ is hopeless. All talk, but no courage to break away.{05}{05}{05}
+@60
+{05}{05}{04}{02}{01}{81}{01}J孝{05}{05}{05}{02}{03}ﾈ wasn't moved... Admirable, for an enemy. Everyone, learn from their loyalty.{05}{05}{05}
+@61
+{02}{03}ﾈ... Admirable, for an enemy. I wish everyone would learn from that loyalty.{05}{05}{05}
+@62
+Rival Tigers on {02}{01}ﾈ\nsucceeded. A revolt\nshould break out soon.{05}{05}{05}
+@63
+Incite the people\nof {02}{14}ﾈ?{05}{05}{05}
+@64
+{02}{01}ﾈ is urging the people\nof {02}{14}ﾈ to help our army.{05}{05}{05}
+@65
+{05}{05}{04}{02}{01}d{04}=0{01}J巽{05}{05}{05}{01}S{02}e5I incited the people of {02}{14}ﾈ. They'll pay for neglecting domestic affairs{01}C{1A}{00}.{05}{05}{05}The people of {02}{14}ﾈ look ready to riot{01}C{17}{00}. I can't wait for the battle{01}C{17}{00}.{05}{05}{05}The people are ready to explode. {02}{04}ﾈ's army will be in chaos in battle{01}C{1A}{00}{01}C.{00}.{05}{05}{05}Inciting the people was easy. {02}{04}ﾈ must have ruled terribly{01}C.{00}.{05}{05}{05}I egged them on nicely. The people are eager to run riot for Lord {02}{02}ﾈ.{05}{05}{05}
+@66
+{05}{05}{04}{02}{01}{81}{01}J擢{05}{05}{05}It looks like it'll work{01}C-{00}. "People are the walls, people are the castle"... Hm, who said that...?{05}{05}{05}
+@67
+It looks like it'll work. "People are the walls, people are the castle"... Hm, who said that again...?{05}{05}{05}
+@68
+{05}{05}{04}{02}{01}d{04}=0{01}J彦{05}{05}{05}{01}S{02}e5The incitement failed. {02}{04}ﾈ seems to have won the people's hearts.{05}{05}{05}I couldn't incite them. The people of {02}{14}ﾈ are devoted to their governor; a riot is unthinkable{01}C {00}.{05}{05}{05}It didn't work. We shouldn't rely on the people; we should face them head-on in battle.{05}{05}{05}I'm ashamed{01}C{1C}{00}. The people saw right through me and I barely escaped with my life.{05}{05}{05}I'm sorry{01}C{1C}{00}. The people of {02}{14}ﾈ said they'd help no one but {02}{04}ﾈ.{05}{05}{05}
+@69
+{05}{05}{04}{02}{01}{81}{01}J芳{05}{05}{05}Couldn't persuade them... My archrival truly has the people's hearts.{05}{05}{05}
+@70
+Couldn't persuade them... My archrival truly has the people's hearts.{05}{05}{05}
+@71
+{05}{05}{04}{02}{01}d{04}=0{01}J炉{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J僥{05}{05}{05}{01}S{02}e5Blast, instead of revolting, the people united even more.{05}{05}{05}I'm sorry{01}C{1C}{00}. The people's bonds only grew stronger.{05}{05}{05}Bad... They grew suspicious of me and trust {02}{04}ﾈ all the more{01}C{1B}{00}.{05}{05}{05}My words only strengthened the people's unity... What a disaster...{05}{05}{05}It backfired. Now they trust {02}{04}ﾈ even more.{05}{05}{05}
+@72
+A blunder by me... I've made the people of {02}{14}ﾈ even more devoted to {02}{04}ﾈ.{05}{05}{05}
+@73
+{01}S{02}e5Blast, instead of revolting, the people united even more.{05}{05}{05}I'm sorry{01}C{1C}{00}. The people's bonds only grew stronger.{05}{05}{05}Bad... The people grew suspicious of me and trust {02}{04}ﾈ all the more{01}C{1B}{00}.{05}{05}{05}My words only strengthened the people's unity... What a disaster...{05}{05}{05}It backfired. Now the people trust {02}{04}ﾈ even more...{05}{05}{05}
+@74
+The scheme on {02}{14}ﾈ succeeded.\nAttack {02}{14}ﾈ and\nuse "Incite."{05}{05}{05}
+@75
+Support in {02}{14}ﾈ has risen.{05}{05}{05}
+@76
+Use Sabotage on\n{02}{14}ﾈ?{05}{05}{05}
+@77
+{02}{01}ﾈ is carrying out\nsabotage in {02}{14}ﾈ.{05}{05}{05}
+@78
+{05}{05}{04}{02}{01}d{04}=0{01}J檳{05}{05}{05}{01}S{02}e5Done. The castle is in uproar and easier to attack{01}C2{00}.{05}{05}{05}The sabotage succeeded. The castle's lax guard was a help.{05}{05}{05}Our spy just reported: scheme succeeded, attack at once.{05}{05}{05}I'd planted spies in advance, so it was easy. "Be prepared and you need not worry."{05}{05}{05}It worked. They seem to be repairing the walls all night{01}C{17}{00}.{05}{05}{05}
+@79
+Good, it worked{01}C2{00}. Now is the perfect chance. Prepare for battle{01}C'{00}!{05}{05}{05}
+@80
+{05}{05}{04}{02}{01}d{04}=0{01}J｡F{05}{05}{05}{01}S{02}e5The wind caught the fire and the castle went up in flames. Now's the perfect chance to attack.{05}{05}{05}Our saboteurs dealt the castle a heavy blow. Repairs will take a while.{05}{05}{05}Our elite did it. The castle of {02}{14}ﾈ is in ruins; repairs will be impossible for a while...{05}{05}{05}I'd studied the castle's weak points in advance, so it was a great success{01}C0{00}.{05}{05}{05}Luckily we had allies inside, so the results exceeded expectations.{05}{05}{05}
+@81
+To think it went this well... Careful planning really does pay off{01}C2{00}.{05}{05}{05}
+@82
+{05}{05}{04}{02}{01}d{04}=0{01}J｣F{05}{05}{05}{01}S{02}e5I'm sorry{01}C{1C}{00}. The guard was too tight; our spies couldn't get near{01}C {00}.{05}{05}{05}It failed. Our spy got in but was caught...{05}{05}{05}They stopped us. We set the fire, but were spotted and failed.{05}{05}{05}The scheme failed. That castle needs some other approach...{05}{05}{05}I'm ashamed{01}C{1C}{00}. In battle I'll be first into the castle to redeem myself.{05}{05}{05}
+@83
+{02}{04}ﾈ truly has no openings. Taking it will be hard{01}C2{00}.{05}{05}{05}
+@84
+Defense of {02}{14}ﾈ fell to {1B}C4{02}({1B}C1.{05}{05}{05}
+@85
+The sabotage in {02}{14}ﾈ was exposed,\nand {02}{01}ﾈ's hostility toward us\nhas grown.{05}{05}{05}
+@86
+Plant {02}{01}ﾈ\nin {02}{14}ﾈ?{05}{05}{05}
+@87
+They bluffed past the checkpoint\nand slipped into {02}{14}ﾈ\nsmoothly.{05}{05}{05}
+@88
+They were exposed at the checkpoint\nand barely escaped with their life.\nThe plant failed.{05}{05}{05}
+@89
+Whom will you send? Vigor needed: 40{05}{05}{05}
+@90
+Whom will you send? Vigor needed: 40{05}{05}{05}

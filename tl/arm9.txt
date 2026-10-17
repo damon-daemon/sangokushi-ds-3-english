@@ -1,0 +1,856 @@
+# arm9 UI string pool (tools/arm9str.py). jp<TAB>en ; @ADDR<TAB>en overrides one slot.
+# --- single characters (3-byte slots) ---
+@02100D84	 Army
+@02100D88	d
+@02100D8C	0k
+@02100D90	5
+@02100D94	Fort
+@02100D98	Rice
+@02100D9C	2
+@02100DA0	Mtn.
+@02100DA4	's
+@02100DA8	Itm
+@02100DAC	k
+@02100DB0	Road
+@02100DB4	1
+@02100DB8	Pass
+@02100DBC	N
+@02100DC0	4
+@02100DC4	3
+@02100DC8	men
+@02100DCC	7
+@02100DD0	E
+@02100DD4	8
+@02100DD8	9
+@02100DDC	Wood
+@02100DE0	S
+@02100DE8	Rd
+@02100DF8	Gold
+@02100DFC	W
+@02100E00	-
+@02100E04	OK
+@02100E08	River
+@02100E0C	6
+@02100E10	Rai
+@02100E14	Bog
+@02100E18	Med
+@02100E1C	Nm
+@02100E20	Cld
+@02100E24	0
+@02100E28	Grl
+# --- stats / attributes ---
+@02100F24	War
+@02100FBC	War
+@0210110C	War
+@02101344	War
+@021013CC	War
+@021014BC	War
+@021015D4	War
+@021016CC	War
+@02100F2C	Int
+@021012CC	Int
+@021014C4	Int
+@021015CC	Int
+@02101724	Int
+@02101A84	Pol
+@02100FE4	Cha
+@0210107C	Cha
+@021014E4	Cha
+@02101A74	Cha
+@02100FF4	Valor
+@02101014	Valor
+@021013F4	Valor
+@0210155C	Valor
+@021018B4	Valor
+@02100E94	Fame
+@02100EB4	Fame
+@0210120C	Fame
+@0210137C	Fame
+@02100E5C	Loyal
+@0210132C	Duty
+@02101314	Affin.
+@02101A6C	Life
+@02100E7C	Age
+@021014FC	Well
+@0210165C	Spirit
+@0210129C	Stam
+@02100E4C	Exp
+@021013EC	Exp
+@02101584	Exp
+@02101BA4	Exp
+@02100EA4	Mor.
+@02101504	Mor.
+@02101694	Mor.
+@02101054	Drill
+@0210116C	Drill
+@02101B1C	Training
+@02101C34	Training
+@02100E34	Men
+@0210146C	Men
+@02101AE4	Troops
+@021019DC	Attack
+@02101B74	Attack
+@02101CF4	Attack
+@021013FC	Def.
+@02101B84	Defense
+@02101CFC	Defense
+@02101B94	Move
+@02101D04	Move
+@021012DC	Mobility
+@02100F6C	Range
+@021019D4	Bow Atk
+@021019CC	Bow Def
+@02101AFC	Politics
+@02101B04	Politics
+@02101B8C	Politics
+@02101C54	Politics
+@02101CB4	Politics
+@02101CE4	Politics
+@02101094	Pop.
+@0210140C	Pop.
+@02101174	Support
+@02101404	Support
+@02101414	Farm
+@0210139C	Trade
+@021013DC	Flood
+@021020D4	Commerce
+@02101A64	Morality
+@0210123C	V.Good
+@02101634	V.Evil
+@021018BC	Good
+@0210186C	Evil
+@021011EC	Normal
+@02101A44	Brave
+@02101A4C	Calm
+@02101A34	Kin
+@02101384	Effect
+@021014AC	Cost
+@02101B14	Cost
+@02101A0C	Total
+@02102A94	Total Cost
+@021021DC	Cha 100
+@02101D2C	War%3d
+@021021E8	War+%u
+@02102200	Int+%u
+@02102218	Pol+%u
+@021021F4	Int up
+@0210220C	Pol up
+@02102BE4	+{1B}C4%3u{1B}C1
+@02102A64	High War
+@02102A70	Low Valor
+@02102A7C	High Cha
+# --- numbers / dates / counters ---
+@02100ECC	90
+@02100ED4	90
+@02100F44	80
+@021012E4	80
+@02100FCC	85
+@021013BC	85
+@02101004	40
+@0210162C	40
+@02101114	30
+@0210111C	30
+@021012D4	60
+@0210136C	50
+@021013A4	55
+@0210160C	20
+@021016A4	20
+@02101024	5 times
+@02101C3C	10 times
+@02101C44	15 times
+@02100E74	days
+@0210131C	days
+@02101664	--days
+@02102188	(--days)
+@02102788	(%2ddays)
+@0210191C	Days
+@02102194	Days
+@0210179C	Period
+@02101464	months
+@021019E4	months
+@02101CBC	3 months
+@02101514	1 year
+@0210151C	6 months
+@02101874	Jan
+@0210159C	Jul
+@02101C94	Dec
+@02101AA4	%3d
+@02101AAC	/%2d
+@02101AB4	/%2d
+@02101ABC	%3dp
+@02101AC4	%6d
+@02102248	------
+@02101D34	%2d units
+@02101C74	3 types
+@02101C84	4 types
+@02101C8C	5 types
+@02101C64	Cities
+@02102098	Officers
+@02102848	---/--
+@0210292C	---/--
+@02102758	208/-
+@021029C8	208/-
+@02102764	221/8
+@02102770	209/-
+@0210277C	238/-
+@02102794	210/-
+@021027A0	227/3
+@021027AC	210/4
+@021027B8	211/-
+@021027E8	211/-
+@021027C4	229/4
+@021027D0	184/3
+@021027DC	184/-
+@021027F4	251/-
+@02102800	184/8
+@0210280C	212/-
+@02102818	190/1
+@02102824	230/1
+@02102830	190/2
+@0210283C	212/10
+@02102854	192/-
+@02102860	193/-
+@0210286C	214/-
+@02102878	195/-
+@02102884	196/-
+@0210289C	196/-
+@021028B4	196/-
+@02102890	216/5
+@021028A8	234/4
+@021028C0	262/-
+@021028CC	197/3
+@021028D8	216/-
+@021028E4	200/-
+@02102908	200/-
+@02102914	200/-
+@02102938	200/-
+@021028F0	219/7
+@02102920	219/7
+@021028FC	23-/-
+@02102944	234/-
+@02102950	203/-
+@02102968	203/-
+@0210295C	220/-
+@02102974	205/-
+@02102980	266/-
+@0210298C	220/10
+@02102998	207/-
+@021029A4	208/1
+@021029B0	221/4
+@021029BC	237/-
+# --- yes/no/misc ---
+@0210148C	Yes
+@021016C4	Yes
+@02101794	Yes
+@02101BFC	No
+@02101C0C	No
+@02101C2C	No
+@02100E3C	None
+@0210117C	None
+@02101254	None
+@02101744	None
+@0210124C	Yes
+@02101124	No
+@02101134	Yes
+@0210113C	Ignore
+@0210118C	Agree
+@02101434	No
+@02100FA4	Refuse
+@02101714	Refuse
+@02101754	Defer
+@02101264	??
+@02101B5C	???
+@02102230	????
+@02101A54	----
+@02100DF4	--
+@02100DF0	10
+@02100DE4	x
+@02100DEC	o
+@02101BBC	Error
+@02101B54	Other
+@0210101C	General
+@02101354	Basic
+@0210172C	Content
+@0210167C	Terms
+@02101A24	Type
+@02101A7C	Target
+@02101964	Target
+@02100FEC	Place
+@021019BC	Owned
+@021019F4	Name
+@0210197C	Left
+@0210102C	Long
+@0210106C	Short
+@021017A4	Up
+@021011CC	Down
+@02101D0C	Up
+@02101D1C	Down
+@0210128C	Advance
+@02100EE4	Stop
+@02101644	Wait
+@021025D8	Display
+@021025E4	Apply
+@02102A58	Play Time
+@02101C6C	Mode
+@02101B6C	Level
+@02101C7C	Level
+@02101234	Easy
+@02100EF4	Normal
+@0210188C	Hard
+@02101244	Normal
+@0210122C	History
+@021015AC	Fiction
+@02101B0C	Unfound
+@02101B34	Owned
+@02101B3C	Not owned
+@02101B44	Done
+@02101B4C	Undone
+@02102BC0	None chosen
+@02102F08	Can't confirm
+@02102F68	Is that OK?
+@021031F8	Can't choose more.
+@021032EC	Can't use that formation.
+# --- people / roles ---
+@02100F1C	Officer
+@021010E4	Officer
+@0210121C	Officer
+@02101ADC	New Off.
+@02101AD4	New Ruler
+@0210182C	Ruler
+@02101884	Ruler
+@021018FC	Ruler
+@021015DC	Strateg.
+@0210169C	Adv.
+@0210130C	Gov.
+@021015C4	Gov.
+@0210166C	General
+@021017F4	Civil
+@0210141C	Retainer
+@021018A4	Free
+@0210193C	Free
+@02101ACC	Our army
+@0210127C	%s
+@021019B4	Main
+@02101A14	Rear
+@02102560	No reserve
+@02102B24	Reserve near
+@02100F04	Envoy
+@02101454	Merchant
+@021015E4	Scholar
+@0210168C	Gentry
+@0210156C	People
+@02101594	Child
+@02101424	Old Woman
+@0210150C	Old Man
+@02100F0C	Hermit
+@021015A4	Elder
+@02101C4C	Barmaid
+@02101B7C	Yel.Turban
+@02101B64	Wounded
+@0210184C	Spare
+@021015FC	Minor
+@0210194C	Serious
+@021011FC	Dead
+@021013E4	Task
+@021019A4	Task
+@021025CC	Ruler
+@021026C8	Domestic
+@021026D4	Military
+@021026E0	Personnel
+@021026EC	Schemes
+@021026F8	Diplomacy
+@02102F54	Officers in force
+@021020A4	SP Officer
+# --- commands ---
+@02100F8C	Domestic
+@02101534	Domestic
+@02101394	Military
+@021018AC	Military
+@0210100C	Personnel
+@0210138C	Personnel
+@021013B4	Diplomacy
+@0210143C	Diplomacy
+@02100FC4	Scheme
+@02101A2C	Scheme
+@021013AC	War
+@0210175C	War
+@02101294	Move
+@02100E2C	Develop
+@02101274	Develop
+@02100F34	Patrol
+@02101914	Patrol
+@02100F14	Enlist
+@02101324	Conscript
+@021017D4	Organize
+@02100EC4	Appoint
+@021010EC	Recruit
+@0210187C	Recruit
+@021017B4	Search
+@021017C4	Reward
+@02100FAC	Banish
+@0210177C	Execute
+@02101624	Execute
+@0210170C	Execute
+@021016FC	Release
+@021018F4	Council
+@02100F94	Training
+@021010F4	Training
+@021010CC	Res.
+@021017CC	Research
+@02102740	Research
+@02100F9C	Joint
+@021012FC	Joint
+@02102704	Joint Res.
+@02102710	Joint Op.
+@021011F4	Alliance
+@02101474	Alliance
+@02100F64	Gift
+@021014D4	Gift
+@021014DC	Aid
+@02101734	Aid
+@0210108C	Threaten
+@0210145C	Threaten
+@02101044	Trade
+@021010AC	Hostile
+@021010B4	Partner
+@02101614	Rumor
+@0210149C	Turncoat
+@02101654	Rival Tigers
+@0210114C	Incite
+@021016EC	Sabotage
+@0210142C	Plant
+@0210154C	Defeat
+@021017DC	Plunder
+@02101834	Scout
+@0210183C	Sneak
+@021010BC	Ambition
+@021012A4	Feast
+@0210180C	Feast
+@02101AEC	Cheer
+@021011DC	Cheer
+@021016D4	Cheer
+@02101034	Order
+@0210119C	Douse
+@021019C4	Hold
+@0210161C	Defender
+@0210103C	Attacker
+@02101984	Blitz
+@021019DC	Attack
+@02101804	Damage
+@021013C4	Weapon
+@021014A4	Weapon
+@02102734	Weapons
+@02102500	New envoy
+@02102524	New officer
+@02101164	Near
+@021015EC	Plains
+@02101BC4	Plains
+@02101BCC	Mountain
+@02101BD4	Water
+@02100F7C	Map
+@021010FC	City
+@0210174C	City
+@02101094	Pop.
+@0210140C	Pop.
+# --- skills ---
+@02100E6C	Divine
+@02100EAC	Mirage
+@02100EDC	Fire
+@02100F5C	Calm
+@02100FDC	Lurk
+@02100FFC	Heal
+@021011D4	Heal
+@0210104C	Fury
+@02101064	Spray
+@02101074	Awe
+@0210109C	Shift
+@021010DC	Rocks
+@02101104	Grit
+@02101144	Flame
+@021014EC	Flame
+@021011A4	Panic
+@021011AC	Rush
+@021011BC	Flood
+@0210126C	Flood
+@021011E4	Rouse
+@021018CC	Rouse
+@02101284	Wall
+@021012AC	Dark Cloud
+@021012B4	Dragon War
+@021012F4	Repeater
+@021018C4	Repeater
+@02100FB4	Infilt.
+@02100F84	Sense
+@02101544	Hex
+@02101784	Hex
+@02101564	W.God
+@0210157C	Mighty
+@021016AC	Reply
+@02101764	Feud
+@0210176C	Rain
+@02101774	Mystic
+@021017E4	Skies
+@02101864	Foil
+@0210189C	Snipe
+@0210190C	Pitfall
+@0210195C	M.Bow
+@0210198C	Sway
+@02101994	Taunt
+@02101A5C	March
+@02101974	F.God
+@02101554	Fire Wall
+@0210147C	Lightning
+@02101484	Meteor
+@0210152C	Beast
+@021017BC	Charm
+@021016DC	Luck
+@02100F54	Flash Fire
+@02102080	Skills
+@021026A4	Skills
+# --- formations ---
+@02100E44	None
+@02100E8C	Arrow
+@02101194	Arrow
+@021017FC	Arrow
+@02100EBC	Circle
+@021012C4	Circle
+@02101944	Circle
+@02100F3C	Yoke
+@021012BC	Yoke
+@021016F4	Yoke
+@02101924	Yoke
+@02101A3C	Yoke
+@02101304	Awl
+@0210135C	Awl
+@021014CC	Awl
+@0210115C	Moon
+@02101604	Moon
+@02101684	Moon
+@02101814	Moon
+@02101824	Moon
+@021018EC	Moon
+@02101184	Crane
+@021016B4	Crane
+@02101844	Crane
+@02101954	Crane
+@021013D4	Snake
+@0210153C	Snake
+@02101494	Scales
+@021014F4	Scales
+@02101574	Scales
+@02101704	Scales
+@02101854	Scales
+@02101524	Geese
+@02101674	Geese
+@021016BC	Hook
+@0210173C	Hook
+@021017EC	Hook
+@0210185C	Hook
+@021017AC	Fan
+@02101894	Fan
+@021018D4	Fan
+@021018E4	Fan
+@02101904	Fan
+@0210192C	Fan
+@0210196C	Fan
+@0210105C	Water
+@021015B4	Water
+@02100FD4	Formation
+@021019AC	Formation
+@021019FC	Formation
+@0210244C	No formation
+@02102458	Hook
+@02102464	Fan
+@02102470	Crane Wing
+@02102488	Crescent
+@02102494	Arrowhead
+@021024A0	Yoke
+@021024AC	Long Snake
+@021024B8	Circle
+@021024C4	Wild Geese
+@02102584	Fish Scale
+@021025F0	Awl
+@02102EE8	No formation
+@02102F2C	Water
+@02102F90	Winnow
+@02102FA4	Arrowhead
+@02103078	Awl
+@02103090	Hook
+@021030A8	Crane Wing
+@021030C0	Fish Scale
+@021030D8	Crescent
+@021030F0	Yoke
+@02103108	Long Snake
+@02103120	Square
+@02103138	Wild Geese
+# --- weapons / items ---
+@02100E54	Steed
+@02100E84	Seal
+@021019EC	B.Sparrow
+@021011B4	Vines
+@021016E4	Ram
+@0210171C	Tower Ship
+@0210181C	Chariot
+@021018DC	Wood Ox
+@02101CC4	Tiger Chariot
+@02101BDC	Sleeved Armor
+@02101BE4	Catapult
+@02101BEC	Band Tower
+@02101BF4	Light Armor
+@021021AC	Heavy Cav.
+@021024E8	Heavy Cav.
+@021021B8	Heavy Bow
+@021024F4	Heavy Bow
+@02101C04	Snake Fire
+@02101204	History
+@0210134C	Medicine
+@02101364	Strategy
+@02101374	Mystic
+@021015F4	Six Teachings
+@02102440	Items
+@02102650	Seven Star
+@02102674	Qinggang
+@02102680	Yitian
+@021026B0	Dilu
+@021026BC	Mengde's Book
+@02102ED8	Art of War 24
+@021021D0	Memorial
+@02101CCC	Huainanzi
+@02101CD4	Warring St.
+@02101CEC	Mtns & Seas
+# --- weather / terrain / directions ---
+@0210112C	Clear
+@02101154	Downpour
+@0210133C	Typhoon
+@0210164C	No wind
+@02101A8C	Flood
+@021010C4	Slide
+@0210163C	NW
+@0210178C	NE
+@021010A4	SW
+@021011C4	SE
+@021014B4	Huai R.
+@021015BC	Lu R.
+@02102518	Liao/Ru R.
+@02101C14	Mid Yellow
+@02101CA4	Up Yellow
+@02101C9C	Low Yellow
+@02101C1C	Up Yangtze
+@02101CAC	Mid Yangtze
+@02101C24	Low Yangtze
+# --- ranks ---
+@02101B9C	Grand Gen.
+@02102254	Gen. Cavalry
+@02102260	Gen. Chariots
+@02101B2C	Gen. Guard
+@02101D24	Gen. Van
+@02101CDC	Gen. Rear
+@02101BAC	Gen. Left
+@02101C5C	Gen. Right
+@02101AF4	Lt. General
+@02101BB4	Asst. Gen.
+@0210226C	Gen. Conq. E
+@02102278	Gen. Conq. S
+@02102284	Gen. Conq. W
+@021021A0	Gen. Conq. N
+@02102290	Gen. Guard E
+@0210229C	Gen. Guard S
+@021022A8	Gen. Guard W
+@021020B0	Gen. Guard N
+@021022B4	Gen. Calm E
+@021022C0	Gen. Calm S
+@021022CC	Gen. Calm W
+@021023BC	Gen. Calm N
+@021022D8	Gen. Pacify E
+@021022E4	Gen. Pacify S
+@021022F0	Gen. Pacify W
+@021022FC	Gen. Pacify N
+@02102308	Soaring Dragon
+@02102314	Gen. Conquest
+@02102320	Gen. Army
+@0210232C	Gen. Support
+@02102338	Gen. Might
+@02102350	Gen. Vigor
+@0210235C	Gen. Martial
+@02102368	Gen. Ardor
+@02102374	Gen. Glory
+@02102380	Gen. Valor
+@0210238C	Gen. Crossbow
+@02102398	Gen. Letters
+@021023A4	Gen. Rebel Foe
+@021023B0	Gen. Breaker
+@021023C8	Gen. Defense
+@021023D4	Gen. Fierce
+@021023E0	Gen. Far Might
+@021023EC	Gen. Waves
+@021023F8	Gen. Tiger
+@02102404	Gen. River
+@02102410	Gen. Nation
+@0210241C	Gen. Strategy
+@02102428	Gen. Gate
+@0210247C	Gen. Fury
+@02102548	Gen. Founding
+@02102554	Gen. Escort
+@0210223C	Gen. Bandit Foe
+@021021C4	Gen. Eagle
+@0210274C	Gen. Far Calm
+# --- names ---
+@02100E64	Emp. Xian
+@02101084	Liu Yan
+@021010D4	Sun Quan
+@02101934	Liu Bei
+@02101A9C	Cao Cao
+@02101334	Yuan Shao
+@02101A94	Dong Zhuo
+@021012EC	He Jin
+@02101A1C	Liu Biao
+@0210199C	Ma Teng
+@02101A04	Zhang Jiao
+@02101214	Ma Xiu
+@02100EFC	Ma Tie
+@02101224	Ma Wan
+@0210125C	Zhang Xiang
+@0210144C	Zhang Xiu
+@0210158C	Zhang Zhao
+@02100EEC	Fenglan
+@02101444	Fangchun
+@02100F4C	Wolf
+@0210271C	plain
+@02102728	sengoku
+@02101D14	sento
+@02100E9C	Emperor
+# --- events / scenario titles ---
+@0210256C	Yellow Turbans
+@02102578	Luoyang Burns
+@02102590	Storm in Hebei
+@0210259C	Dragon Rises
+@021025A8	Three Kingdoms
+@021025B4	Liu Bei in Shu
+@021025C0	Heroes Unite
+@021025FC	Summer Hills
+@02102608	Winter Stars
+@02102614	Jade Feast
+@02102620	Thunder Dragon
+@0210262C	Flower Dragon
+@02102638	Sea Dragon
+@02102644	Demon General
+@0210265C	Radiant Dragon
+@02102668	Peach Land
+@0210268C	"War"
+@02102E98	"Strategy: Spr"
+@02102EA8	"Strategy: Sum"
+@02102EB8	"Strategy: Aut"
+@02102EC8	"Strategy: Win"
+@021024DC	Event
+@0210208C	Three Visits
+@02102434	Chain Ploy
+@02102698	Idle Thighs
+@02102224	Wa Tribute
+@02102344	To Jianye
+@021024D0	Enthroned
+@02102AAC	Wu Emperor
+@02102BB4	Wei Emperor
+@02102E48	Shu Emperor
+@02102AA0	Peach Garden
+@02102AB8	Anti-Dong Zhuo
+@02103008	Coalition\n
+@02102AC4	Yizhou Raid
+@02102AD0	Xu Chu vs Dian
+@02102A88	Terrace Done
+@02102BA8	Build Terrace
+@02102B30	Cao Cao Rises
+@02102B3C	Star Falls
+@02102B48	Wandering Sage
+@02102B54	Turbans/Hanzhong
+@02102B60	Guandu
+@02102B6C	Guan Yu's Ride
+@02102B78	Slander
+@02102E68	Duke of Wei
+@02102E78	Xutian Hunt
+@02102E88	Five Tigers
+@02102EF8	Nine Ranks
+@02102F40	Beard Unmatched
+@02102F18	Zhang Jiao Dies
+@02102F7C	To Chang'an
+@02102FB8	King of Wei
+@02102FCC	Talk of Heroes
+@02102FE0	Yuan Shu Emperor
+@02103030	Gan Ning to Wu
+@02103048	King of Yan
+@02103060	Dian Wei's Tiger
+@02103150	King of Hanzhong
+@02103168	King of Wu
+@02103180	Zhou Yu's Envy
+@02103198	Lu Bu, Red Hare
+@021031B0	Military Farms
+@021031C8	Zhang Fei Yields
+@021031E0	Guo Jia's Fate
+@02103210	Xu Shu Leaves
+@02103228	White Brows
+@02103260	Sima Yi's Will
+@0210327C	Xian Dies
+@02103298	Zuo Ci Visits
+@021032B4	Lu Su's Grain
+@021032D0	Zhuge Jin Warns
+@02103324	Zhang Song's Map
+@02103340	Jiang Wei's Duty
+# --- event choices ---
+@021020BC	Give gold
+@021020C8	Give rice
+@021020E0	Pay gold
+@021020EC	Talk
+@021020F8	Negotiate
+@02102104	Subdue
+@02102110	Suppress
+@0210211C	Join
+@02102128	Watch
+@02102134	Invest
+@02102140	Mediate
+@0210214C	Capture
+@02102158	Demolish
+@02102164	Repair
+@02102170	Pray
+@0210217C	Send troops
+@02102530	Persuade
+@0210253C	Suppress
+@021029E0	Do nothing
+@021029EC	Stop it
+@021029F8	Flood work
+@02102A04	Treat
+@02102A10	Help shop
+@02102A1C	Drink
+@02102A28	Buy a drink
+@02102A34	More guards
+@02102A40	Patrol
+@02102ADC	Promise
+@02102AE8	Give gold
+@02102AF4	Call officer
+@02102B00	Leave it
+@02102B18	Leave it
+@02102B0C	Explore
+@02102B84	Beat ruler
+@02102B90	Take grain
+@02102B9C	Rout enemy
+@02102BCC	Merchant
+@021029D4	{1B}C6Max{1B}C1
+# --- save data messages ---
+@02103244	Initializing data...
+@02103308	Data deleted.
+@0210335C	Data initialized.
+@0210337C	The save data is corrupted\nand will be deleted.
+@021033B0	The system data is corrupted\nand will be reset.
+@021033E8	The officer data is corrupted\nand will be reset.
+@02103420	The Battle Road data\nis corrupted and\nwill be reset.
+@021034E4	Deleting suspend data.\nDo not turn off the power\nor remove the card.
+@02103534	Deleting save data.\nDo not turn off the power\nor remove the card.
+@02103584	Resetting system data.\nDo not turn off the power\nor remove the card.
+@021035D8	Resetting officer data.\nDo not turn off the power\nor remove the card.
+@0210362C	Could not read\nthe data.\nTurn off the power and\nreinsert the card.
+@02103680	Could not write\nthe data.\nTurn off the power and\nreinsert the card.
+@021036D4	Resetting Battle\nRoad data.\nDo not turn off the power\nor remove the card.
+# --- slots with custom-glyph text (matched by address) ---
+@02100F74	Reading
+@02101B24	Gongsun Zan
+@0210250C	Xiang R.
+@02102A4C	Yang & Lu
+@02102E58	Pang Tong Idles

@@ -1,0 +1,196 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+As you wish.{05}{05}{05}
+@3
+Your Majesty, envoys from\nthe land of Wa have come\nbearing tribute.{05}{05}{05}
+@4
+Wa, you say...\nWhere is this Wa?\nWe have never heard of it.{05}{05}{05}
+@5
+East past Lelang, out to the\ngreat sea, then hundreds\nof li across it.{05}{05}{05}
+@6
+What? Envoys from\nso distant a land?{05}{05}{05}
+@7
+They say Wa was once a\npatchwork of small kingdoms\nat constant war.{05}{05}{05}
+@8
+But now a shrine maiden called\n"Himiko" rules the lands\nas their queen.{05}{05}{05}
+@9
+Hmm, then let Us name this\nmaiden queen of Wa.\nSee to it.{05}{05}{05}
+@10
+A generous heart is the first\nstep to being a\nbenevolent ruler.{05}{05}{05}
+@11
+Tribute has been sent\nfrom the land of Wa.{05}{05}{05}
+@12
+Near the border of\n{02}{14}ﾈ and {02}{15}ﾈ{05}{05}{05}
+@13
+Lord Yang Hu, I believe\nthat's the enemy general\nLu Kang hunting there.{05}{05}{05}
+@14
+What, we're near the border?\nListen, no one chases game\nacross it.{05}{05}{05}
+@15
+So Yang Hu has come\nhunting too...{05}{05}{05}
+@16
+Discerning officers and\ndisciplined men.\nA fine elite force.{05}{05}{05}
+@17
+Back from the hunt, Yang Hu\nhad his men check\nthe game.{05}{05}{05}
+@18
+Check the arrows in the game.\nSend any with enemy arrows\nto Lu Kang.{05}{05}{05}
+@19
+He went to the trouble of\npicking out the game\nand sending it...{05}{05}{05}
+@20
+Truly Lord Yang Hu.\nA man of great\ncharacter.{05}{05}{05}
+@21
+Is anyone free?{05}{05}{05}
+@22
+Lord Lu Kang,\nyou called?{05}{05}{05}
+@23
+I have some wine I brewed\nmyself. Would you take it\nto Yang Hu?{05}{05}{05}
+@24
+Sending wine to an\nenemy general?\nWhat for?{05}{05}{05}
+@25
+It's thanks for the game\nfrom the hunt. Don't\nargue.{05}{05}{05}
+@26
+Lord Yang Hu, Lu Kang\nhas sent wine in thanks\nfor the game.{05}{05}{05}
+@27
+Oh, he knew I liked wine?\nWell, well,\nlet's have a cup...{05}{05}{05}
+@28
+This wine is from the enemy.\nMight it not be\npoisoned?{05}{05}{05}
+@29
+Lu Kang is not one to kill\nwith poisoned wine.\nNo need for doubt.{05}{05}{05}
+@30
+Yang Hu drank the\nwine all by himself.{05}{05}{05}
+@31
+Hmm, fine wine.\nI must thank him.{05}{05}{05}
+@32
+Lord Yang Hu, an envoy\nhas come from Lu Kang.{05}{05}{05}
+@33
+Ah, you're the one who\nbrought the wine.\nIs Lord Lu Kang well?{05}{05}{05}
+@34
+In truth... Lord Lu Kang\nhas been bedridden with\nillness since last night.{05}{05}{05}
+@35
+What? What are\nhis symptoms?{05}{05}{05}
+@36
+...I see. For that illness\nI have good medicine.\nWould you take it to him?{05}{05}{05}
+@37
+Er...\nAs you wish.{05}{05}{05}
+@38
+Lord Lu Kang, Yang Hu sent\nmedicine he says will\ncure you...{05}{05}{05}
+@39
+Ah, I see.\nThen I will take it.{05}{05}{05}
+@40
+It's medicine from the enemy\ngeneral. Surely it must\nbe poison.{05}{05}{05}
+@41
+Yang Hu is no petty man\nto send poison.\nNo need for doubt.{05}{05}{05}
+@42
+Lu Kang took the\nmedicine.{05}{05}{05}
+@43
+Lord Lu Kang,\nhow do you feel?{05}{05}{05}
+@44
+Hmm, much better.\nThe medicine worked\nafter all.{05}{05}{05}
+@45
+With so honest a man on\nthe border, taking it will\nnot be easy.{05}{05}{05}
+@46
+Lu Kang is the finest general\nof our time. If war gains\nnothing, make peace by virtue.{05}{05}{05}
+@47
+The friendship of these great\ngenerals is said to have\nbeen told for ages after.{05}{05}{05}
+@48
+Yang Hu's and Lu Kang's\nfame for valor has risen.{05}{05}{05}
+@49
+I will serve Lord Liu Bei\nwith my peerless valor.{05}{05}{05}
+@50
+With me here, Lord Liu Bei's\ngreat cause will surely\nsucceed.{05}{05}{05}
+@51
+Lord Liu Bei, a letter has\ncome from Lord Guan Yu.{05}{05}{05}
+@52
+I have heard of the valor of\nthe newcomer, Lord Ma Chao,\neven here.{05}{05}{05}
+@53
+I would very much like to\ntest my skill against him.\nMay I?{05}{05}{05}
+@54
+So my brother says, but if\nthose two fight, one is\nsure to get hurt.{05}{05}{05}
+@55
+Kongming, what\nshould I do?{05}{05}{05}
+@56
+I see...\nI understand.{05}{05}{05}
+@57
+I will send Lord Guan Yu\na letter myself.{05}{05}{05}
+@58
+A letter from Lord Kongming?\nLet's see...{05}{05}{05}
+@59
+Lord Ma Chao is a fine warrior,\na worthy match for Lord\nZhang Fei.{05}{05}{05}
+@60
+Yet he falls far short of the\npeerless valor of the Lord\nof the Beautiful Beard.{05}{05}{05}
+@61
+Lord Guan Yu, please keep\nfirm guard over {02}{14}ﾈ.{05}{05}{05}
+@62
+Heh heh, everyone,\nread this letter.{05}{05}{05}
+@63
+Lord Kongming knows best.\nHe knew my strength\nall along...{05}{05}{05}
+@64
+Not only Lord Zhang Fei,\nbut Lord Guan Yu too...{05}{05}{05}
+@65
+What a wealth of talent!\nI can't act so proud\nhere.{05}{05}{05}
+@66
+Guan Yu's fame for valor\nhas risen.{05}{05}{05}
+@67
+My lord...\nI bring sad news.{05}{05}{05}
+@68
+What is it, Lord Zhang?\nWhat has happened?{05}{05}{05}
+@69
+Zhang Hong fell ill and,\ndespite all care,\nhas passed away.{05}{05}{05}
+@70
+What? Lord Zhang Hong\nhas died...?{05}{05}{05}
+@71
+Zhang Hong left a last\nletter for you, my lord.\nPlease read it.{05}{05}{05}
+@72
+My lord, I, Zhang Hong, have\nseen that Jianye bears\nthe aura of emperors.{05}{05}{05}
+@73
+Move the capital to Jianye\nand there build your\nroyal cause.{05}{05}{05}
+@74
+But I humbly beg you,\ndo not burden the people\nwhen you move.{05}{05}{05}
+@75
+Follow Zhang Hong's advice\nand move the capital\nto Jianye?{05}{05}{05}
+@76
+Lord Zhang Hong's last\ncounsel... I take it to heart.\nWe move the capital at once.{05}{05}{05}
+@77
+On Zhang Hong's advice,\nSun Quan moved the capital\nto Jianye.{05}{05}{05}
+@78
+It is his last wish, but...\nthe state has its own needs.\nWe'll move another time.{05}{05}{05}
+@79
+As a loyal servant of the Han,\nLord Cao Cao's deeds are\nunmatched in any age.{05}{05}{05}
+@80
+It is not right that Lord Cao\nCao, who crushed the rebels,\nshould rank as a mere subject.{05}{05}{05}
+@81
+Accept the title Duke of Wei\nand the Nine Bestowments to\nshow your merit to the realm.{05}{05}{05}
+@82
+My lord,\nyou must not.{05}{05}{05}
+@83
+You raised your army to aid\nthe Han. To keep a subject's\nplace is true righteousness.{05}{05}{05}
+@84
+If you seek high rank without\nregard for righteousness,\ndisaster will surely follow.{05}{05}{05}
+@85
+Lord Cao Cao, will you take\nthe title Duke of Wei?{05}{05}{05}
+@86
+It is wrong to thwart the\nwill of all on the word of\nLord Wenruo alone.{05}{05}{05}
+@87
+It's decided.\nNo more arguing.{05}{05}{05}
+@88
+To take the title of Duke of\nWei, Cao Cao had Dong Zhao\nand others submit a petition.{05}{05}{05}
+@89
+Ah, that it should\ncome to this...{05}{05}{05}
+@90
+I no longer wish to serve\nCao Cao. But that would betray\nmy duty as his retainer...{05}{05}{05}
+@91
+Lord Cao Cao, terrible news!\nLord Xun Yu has taken poison\nand killed himself.{05}{05}{05}
+@92
+How cruel...\nHonor him as Marquis Jing\nand bury him with honors.{05}{05}{05}
+@93
+No, Wenruo has\na point.{05}{05}{05}
+@94
+As a servant of the Han,\nit is still far too soon\nto seek a royal title.{05}{05}{05}
+@95
+I am most grateful\nthat you understand.{05}{05}{05}
+@96
+Once the realm is united and\nthe Han secure, the title will\ncome to me in due course.{05}{05}{05}
+@97
+Lord {02}{01}ﾈ, {02}{02}ﾈ\nof {02}{15}ﾈ has died.{05}{05}{05}

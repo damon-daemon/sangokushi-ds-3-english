@@ -1,0 +1,200 @@
+@0
+Lord {02}{01}ﾈ, we beg you, save us from {02}{02}ﾈ's tyranny!{05}{05}{05}
+@1
+It isn't much, but we have some food stored here. Please make use of it.{05}{05}{05}
+@2
+The attackers' provisions\nrose by %u.{05}{05}{05}
+@3
+Welcome! The people here are all on {02}{01}ﾈ's army's side.{05}{05}{05}
+@4
+Your army seems to have many wounded. We'll all help care for them.{05}{05}{05}
+@5
+Thanks to the devoted care of\nthe people of {02}{14}ﾈ, the wounded recovered.{05}{05}{05}
+@6
+Our only lord is Lord {02}{01}ﾈ! Get out!{05}{05}{05}
+@7
+The people's resistance dealt\nthe unit heavy damage.{05}{05}{05}
+@8
+We've given up on Lord {02}{02}ﾈ and formed a volunteer army to serve Lord {02}{01}ﾈ.{05}{05}{05}
+@9
+Please let us join Lord {02}{01}ﾈ's unit.{05}{05}{05}
+@10
+{02}{01}ﾈ's unit's\ntroops increased.{05}{05}{05}
+@11
+{05}{05}{04}{02}{01}{81}{01}Jﾐ]{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}Jﾏ]{05}{05}{05}{05}{05}{04}{02}{01}p{04}<3{01}Jﾌ]{05}{05}{05}{05}{05}{04}{02}{01}p{04}>13{06}&{02}d50{01}Jﾍ]{05}{05}{05}{05}{05}{04}{02}{01}u{04}=98{01}Jﾎ]{05}{05}{05}{01}S{02}e3{02}{01}ﾈ is first in{01}C-{00}!{05}{05}{05}{01}C{03}{00} has taken the castle! Victory is as good as ours{01}C-{00}!{05}{05}{05}The castle has fallen{01}C0{00}! {01}CA{00} Look{01}C'{00} at their bitter faces!{05}{05}{05}
+@12
+{01}S{02}e3{01}CA{00} The castle is ours{01}C0{00}! Men, ransack the treasury{01}C7{00}!{05}{05}{05}The castle has fallen! Hey, where's the treasury{01}C-{00}?{05}{05}{05}{01}C{03}{00} has taken the castle! I can't wait for the spoils{01}C-{00}!{05}{05}{05}
+@13
+{01}S{02}e3{02}{01}ﾈ has taken the castle! Don't harm those who submit. Keep discipline!{05}{05}{05}{01}C{03}{00} has taken the castle! Don't harm the people!{05}{05}{05}The castle has fallen! Everyone, treat the people with respect!{05}{05}{05}
+@14
+Well done, boys! We're first into this castle! Keep it up!{05}{05}{05}
+@15
+{01}S{02}e2From now on {01}C{00}{00} rule this castle! Everyone, raise a victory cry{01}C'{00}!{05}{05}{05}{01}C{03}{00} has taken the castle!{05}{05}{05}
+@16
+{01}S{02}e4{02}{01}ﾈ is first in!{05}{05}{05}{01}C{03}{00} has taken the castle! Victory is as good as ours!{05}{05}{05}The castle has fallen. Heh, look at their bitter faces.{05}{05}{05}The castle has fallen. Heh, I'm not bad at all.{05}{05}{05}
+@17
+Ambush which unit?\n(Stamina needed: 30){05}{05}{05}
+@18
+{05}{05}{04}{02}{01}{81}{01}Jﾓ]{05}{05}{05}Right! We'll get ahead of the enemy unseen, hide and lie in wait.{05}{05}{05}
+@19
+Right! Let's get ahead of the enemy unseen, hide and lie in wait.{05}{05}{05}
+@20
+{05}{05}{04}{02}{01}{81}{01}Jﾕ]{05}{05}{05}Blast! An ambush here... Everyone, regroup at once!{05}{05}{05}
+@21
+Eh, an ambush!? Everyone, regroup quickly!{05}{05}{05}
+@22
+{05}{05}{04}{02}{01}{81}{01}Jﾗ]{05}{05}{05}{01}S{02}e2{01}CA{00} Naive{01}C7{00}! I saw that ambush coming{01}C7{00}!{05}{05}{05}Useless{01}C-{00}. I'm not one to fall for such petty tricks{01}C%{00}.{05}{05}{05}
+@23
+Heh heh... Ambushing me? A hundred years too soon.{05}{05}{05}
+@24
+Damage enemies on mountains.\nIs that all right?\n(Stamina needed: 50){05}{05}{05}
+@25
+Now{01}C-{00}! Release the earth dam we set on the mountain{01}C-{00}!{05}{05}{05}
+@26
+Drop rocks on which unit?\n(Stamina needed: 30){05}{05}{05}
+@27
+{05}{05}{04}{02}{01}{81}{01}Jﾜ]{05}{05}{05}Give those climbing the walls a rain of rocks!{05}{05}{05}
+@28
+Heh, let's give those climbing the walls a rain of rocks!{05}{05}{05}
+@29
+Set a trap.\nIs that all right?\n(Stamina needed: 45){05}{05}{05}
+@30
+{05}{05}{04}{02}{01}{81}{01}Jﾟ]{05}{05}{05}{05}{05}{04}{02}{01}p{04}<4{01}J濔{05}{05}{05}{01}S{02}e3Heh heh... Now we just wait for the enemy.{05}{05}{05}That should do... I can picture the enemy's surprise{01}C,{00}.{05}{05}{05}Now then... How to lure the enemy in{01}C,{00}...{05}{05}{05}
+@31
+{01}S{02}e2Phew... The trap is set!{05}{05}{05}Trap complete! They'll never notice this.{05}{05}{05}
+@32
+{01}S{02}e2Ha ha! I can't wait to see the face of whoever falls in!{05}{05}{05}I love trapping the enemy{01}C-{00}!{05}{05}{05}
+@33
+{05}{05}{04}{02}{01}{81}{01}J秕{05}{05}{05}{05}{05}{04}{02}{01}p{04}<3{01}J緇{05}{05}{05}{05}{05}{04}{02}{01}r{04}>5{01}J臂{05}{05}{05}{01}S{02}e3Blast! An enemy trap here!!{05}{05}{05}Whoa! What!? What happened!?{05}{05}{05}Hm, an enemy trap! Gwah...!!{05}{05}{05}
+@34
+{01}S{02}e2Eeeeek! Why is there an enemy trap here!{05}{05}{05}Eh, wh-what!? An enemy trap!? Eek!!{05}{05}{05}
+@35
+{01}S{02}e2Gyaaaah!!{05}{05}{05}Wh-what!? Gwaaah!!{05}{05}{05}
+@36
+{01}S{02}e2Ugh, an enemy trap...! A blunder!{05}{05}{05}Blast, an enemy trap{01}C-{00}! Calm down! Regroup at once{01}C-{00}!{05}{05}{05}
+@37
+{05}{05}{04}{02}{01}{81}{01}J訃{05}{05}{05}{01}S{02}e6Wahaha! Look at that cowering! That's no way to fight!{05}{05}{05}{02}{02}ﾈ, rumor says you're quite the reckless boar.{05}{05}{05}Hey, {02}{02}ﾈ! Shouldn't you go home to the country?{05}{05}{05}Wahaha! Look at {02}{02}ﾈ's unit! Nothing but sad sacks{01}C-{00}!{05}{05}{05}I'd rather not fight {02}{02}ﾈ's unit. It'd be bullying the weak{01}C-{00}.{05}{05}{05}Hey, look at {02}{02}ﾈ's unit... Their ranks are pitiful{01}C-{00}.{05}{05}{05}
+@38
+{01}S{02}e3So that's {02}{02}ﾈ... As dull as rumored. I'll finish you quickly.{05}{05}{05}So you're {02}{02}ﾈ. If you're scared of me, run on home!{05}{05}{05}Heh, scared of me? If you're such a coward, go home to bed.{05}{05}{05}
+@39
+{05}{05}{04}{02}{01}{81}{01}J鐓{05}{05}{05}{01}S{02}e3Why you... You'll pay for that!{05}{05}{05}Grrr... Unforgivable! Unforgivable!!{05}{05}{05}Mocking me, {02}{01}ﾈ... Regret it in hell!{05}{05}{05}
+@40
+{01}S{02}e3Ugh, mocking me... You'll pay for that!{05}{05}{05}I can't let that slide! Just you wait!!{05}{05}{05}You want to fight me? Fine. Just you wait!{05}{05}{05}
+@41
+{05}{05}{04}{02}{01}{81}{01}J鷯{05}{05}{05}{01}S{02}e3Heh... Let them talk. The weakest dogs bark loudest.{05}{05}{05}Such an obvious provocation... Ignore it.{05}{05}{05}What was that...? I couldn't hear.{05}{05}{05}
+@42
+{01}S{02}e3My... It's true the weakest dogs bark loudest.{05}{05}{05}Oh, you want attention? Sorry, maybe if I'm in the mood...{05}{05}{05}If you want to flirt, try someone else. I'm not interested in you.{05}{05}{05}
+@43
+{02}{01}ﾈ is no longer\nprovoked.{05}{05}{05}
+@44
+{05}{05}{04}{02}{01}{81}{01}J偰{05}{05}{05}{01}S{02}e3An intruder... Gwah!!{05}{05}{05}An enemy spy... Someone, come! Ugh, urgh!{05}{05}{05}Who's there...? An enemy spy!? Gweh!{05}{05}{05}
+@45
+{01}S{02}e3An intruder!? Eek!!{05}{05}{05}An enemy spy!? Careless...!{05}{05}{05}Wh-who's there...? An enemy spy!? Eeek!!{05}{05}{05}
+@46
+{05}{05}{04}{02}{01}{81}{01}J{EF}]{05}{05}{05}{01}S{02}e3Tch... The infiltration failed...{05}{05}{05}What, the infiltration failed? Their guard is tighter than I thought.{05}{05}{05}What!? You couldn't get into their camp? Pathetic...{05}{05}{05}
+@47
+{01}S{02}e3Tch, the infiltration seems to have failed...{05}{05}{05}Eh, the infiltration failed? Their guard is tighter than I thought.{05}{05}{05}Eh!? You couldn't get into their camp? Pathetic...{05}{05}{05}
+@48
+{02}{01}ﾈ's stamina\nis now {02}(.{05}{05}{05}
+@49
+{02}{01}ﾈ was hurt;\nstamina is now {02}(!{05}{05}{05}
+@50
+{05}{05}{04}{02}{01}{81}{01}J{uE3C9}{05}{05}{05}{01}S{02}e3You serve a traitor to the realm!{05}{05}{05}Soldiers, no good will come of serving {02}{02}ﾈ.{05}{05}{05}Listen, all of you! {02}{02}ﾈ is a great traitor who defies the realm!{05}{05}{05}
+@51
+{05}{05}{04}{02}{01}{81}{01}J{uE485}{05}{05}{05}{01}S{02}e3Rather than serve such a one, won't you fight for justice with me?{05}{05}{05}Instead, won't you fight with me for peace and the people?{05}{05}{05}{01}C{00}{00} fight for justice, for peace in the land.{05}{05}{05}
+@52
+{05}{05}{04}{02}{01}{81}{01}J{uE541}{05}{05}{05}{01}S{02}e3For the great cause, fight with me!{05}{05}{05}Let's take the land together!{05}{05}{05}Fight with me!{05}{05}{05}
+@53
+{01}S{02}e2Soldiers, no good will come of serving {02}{02}ﾈ.{05}{05}{05}Soldiers, serving {02}{02}ﾈ can't be any fun.{05}{05}{05}
+@54
+{01}S{02}e2Come to me instead, and I'll reward you well.{05}{05}{05}I could give you much bigger dreams.{05}{05}{05}
+@55
+Why stay with someone like that? Won't you fight with me?{05}{05}{05}
+@56
+{01}S{02}e3I wanna fight with Lord {02}{01}ﾈ!{05}{05}{05}Guess I'm better off with that side.{05}{05}{05}Truth is, Lord {02}{02}ﾈ's attitude made me mad... I'm switching sides!{05}{05}{05}
+@57
+{01}S{02}e3Silence! We're ready to die with Lord {02}{01}ﾈ!{05}{05}{05}We won't be fooled by those words! You're the traitor!{05}{05}{05}We're grateful to Lord {02}{01}ﾈ. Stop badmouthing them!{05}{05}{05}
+@58
+{05}{05}{04}{02}{01}{81}{01}J{FB}]{05}{05}{05}{01}S{02}e3Defensive stance! Time to show the fruits of training!{05}{05}{05}Shields up! Don't die so easily!{05}{05}{05}Right, show them our iron defense!{05}{05}{05}
+@59
+{01}S{02}e3Defensive stance! Time to show the fruits of training!{05}{05}{05}Shields up! We won't go down so easily!{05}{05}{05}Let's show them our iron defense!{05}{05}{05}
+@60
+{05}{05}{04}{02}{01}{81}{01}J{FD}]{05}{05}{05}{01}S{02}e3God of war, protect us!{05}{05}{05}Now, I'll show you a real charge!{05}{05}{05}Don't fear death! Follow me, {02}{01}ﾈ!{05}{05}{05}
+@61
+God of war, protect us!{05}{05}{05}I'll show you my final charge!{05}{05}{05}Not yet! Follow me, {02}{01}ﾈ!{05}{05}{05}
+@62
+{05}{05}{04}{02}{01}{81}{01}J{FF}]{05}{05}{05}{01}S{02}e3Right, now{01}C-{00}! Release the beasts!{05}{05}{05}Heh... I kept them hungry... Beasts, run wild!{05}{05}{05}Give them a taste of the beasts' terror!{05}{05}{05}
+@63
+{01}S{02}e3Right, now! Release the beasts!{05}{05}{05}Heh... They look hungry. Beasts, run wild!{05}{05}{05}Give them a taste of the beasts' terror!{05}{05}{05}
+@64
+{05}{05}{04}{02}{01}{82}{06}&t{04}>40{06}&{02}d50{01}J{01}^{05}{05}{05}{05}{05}{04}{02}{01}r{04}>5{06}&{02}d50{01}J{02}^{05}{05}{05}{01}S{02}e3What a beautiful woman... and strong...{05}{05}{05}{02}{02}ﾈ... I think I've fallen for her{01}C-{00}...{05}{05}{05}S-so pretty{01}C-{00}...{05}{05}{05}
+@65
+{01}S{02}e2{02}{02}ﾈ, what a beautiful woman. It reminds me of my youth...{05}{05}{05}{02}{02}ﾈ, a lovely woman... She torments even an old heart like my...{05}{05}{05}
+@66
+{01}S{02}e2{02}{02}ﾈ, so beautiful... Ugh, this isn't like me... What's wrong{01}C-{00}...?{05}{05}{05}{02}{02}ﾈ, so pretty{01}C-{00}... Ah, where's the cool me...{05}{05}{05}
+@67
+{05}{05}{04}{02}{01}u{04}=564{06}&{02}d60{01}J{04}^{05}{05}{05}{05}{05}{04}{02}{01}u{04}=365{06}&{02}d60{01}J{05}^{05}{05}{05}{05}{05}{04}{02}{01}u{04}=83{06}&{02}d60{01}J{06}^{05}{05}{05}{05}{05}{04}{02}{01}u{04}=331{06}&{02}d60{01}J{07}^{05}{05}{05}{05}{05}{04}{02}{01}u{04}=70{06}&{02}d60{01}J{08}^{05}{05}{05}{05}{05}{04}{02}{01}u{04}=248{06}&{02}d60{01}J{09}^{05}{05}{05}{05}{05}{04}{02}{01}u{04}=325{06}&{02}d60{01}J{0A}^{05}{05}{05}{05}{05}{04}{02}{01}u{04}=371{06}&{02}d60{01}J{0B}^{05}{05}{05}{05}{05}{04}{02}{01}u{04}=400{06}&{02}d60{01}J{0C}^{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{0D}^{05}{05}{05}{01}S{02}e3My name is {01}C{03}{00}! If you don't want to die, make way!{05}{05}{05}{01}C{02}{00} am {01}C{03}{00}! Only those ready to die, come at me{01}C#{00}!{05}{05}{05}{01}C{03}{00} is here! Rest easy{01}C({00}, I'll at least give you a grave{01}C7{00}.{05}{05}{05}
+@68
+Make way, rabble! Stand before the Flying General Lu Bu and you die!{05}{05}{05}
+@69
+I'm Zhang Yide! {1B}K{1B}HSmall fry, out of my way!{05}{05}{05}
+@70
+My name is Guan Yunchang! I'll cut down any who stand in my way!!{05}{05}{05}
+@71
+Zhao Zilong is here! Will you face my spear!!{05}{05}{05}
+@72
+Rabble! Don't make me too angry.{05}{05}{05}
+@73
+Rabble like you standing before Xu Gongming? Ridiculous!{05}{05}{05}
+@74
+Taishi Ziyi is here! You'll regret challenging me!{05}{05}{05}
+@75
+Challenging Zhang Wenyuan? You've got nerve. See you in hell!{05}{05}{05}
+@76
+Stand before me! The Evil Comer will send you to the next world.{05}{05}{05}
+@77
+{01}S{02}e2My name is {01}C{03}{00}! If you don't want to die, make way!{05}{05}{05}Oh, you haven't heard of {01}C{03}{00}? Study up in hell!{05}{05}{05}
+@78
+{01}S{02}e8Eeek! It's {02}{01}ﾈ!{05}{05}{05}Aaaaah! So that's {02}{01}ﾈ!{05}{05}{05}Damn! My legs won't stop shaking!{05}{05}{05}It's {02}{01}ﾈ! {02}{01}ﾈ is here!{05}{05}{05}Waaaah! {02}{01}ﾈ is here!{05}{05}{05}Yikes! It's {02}{01}ﾈ! I don't wanna die yet!{05}{05}{05}It's {02}{01}ﾈ... I don't want to fight them!{05}{05}{05}Hey, it's {02}{01}ﾈ... Nobody told me they were on the enemy side!{05}{05}{05}
+@79
+{02}{01}ﾈ's unit's\nmorale fell.{05}{05}{05}
+@80
+{01}S{02}e3The best in the land with fire! Behold {01}C{03}{00}'s fire attack!{05}{05}{05}God of fire, protect us!{05}{05}{05}Fire, rise up! Along with my ambition!{05}{05}{05}
+@81
+{01}S{02}e3Found an enemy trap{01}C0{00}! That was close...{05}{05}{05}One of my men seems to have found an enemy trap{01}C{17}{00}.{05}{05}{05}Hm!? Isn't that an enemy trap over there?{05}{05}{05}
+@82
+{02}{01}ﾈ found\nand disarmed a trap.{05}{05}{05}
+@83
+{05}{05}{04}{02}{01}{81}{01}J{14}^{05}{05}{05}{01}S{02}e3There's an enemy trap nearby...{05}{05}{05}A trap is nearby! Stay alert!{05}{05}{05}Hmm, I have a bad feeling... An enemy trap?{05}{05}{05}
+@84
+{01}S{02}e3There's an enemy trap nearby...{05}{05}{05}A trap is nearby! Stay alert!{05}{05}{05}I have a bad feeling... There seems to be an enemy trap nearby.{05}{05}{05}
+@85
+{05}{05}{04}{02}{01}{81}{01}J{16}^{05}{05}{05}{01}S{02}e3Now, I'll show you the strength of {02}{01}ﾈ's unit!{05}{05}{05}Not yet{01}C-{00}, we can still fight!{05}{05}{05}What's my name{01}C-{00}? Say it! The one who thrives in adversity, {01}C{03}{00}!{05}{05}{05}
+@86
+{01}S{02}e2Now, I'll show you the strength of {02}{01}ﾈ's unit!{05}{05}{05}Everyone, trust me and hold on a little longer!{05}{05}{05}
+@87
+{02}{01}ﾈ's unit's\nwounded recovered.{05}{05}{05}
+@88
+{05}{05}{04}{02}{01}{81}{01}J{19}^{05}{05}{05}{01}S{02}e3Hm, the shadow of death over {02}{02}ﾈ's family... Heaven's will?{05}{05}{05}What, {02}{02}ﾈ's kin is dying and they retreated{01}C-{00}? Our luck has turned.{05}{05}{05}Good news{01}C-{00}! {02}{02}ﾈ's kin is dying, so they're retreating{01}C-{00}.{05}{05}{05}
+@89
+{01}S{02}e2Eh, {02}{02}ﾈ's kin is dying and they retreated? Our luck has turned.{05}{05}{05}Good news! {02}{02}ﾈ's kin is dying, so they're retreating.{05}{05}{05}
+@90
+{05}{05}{04}{02}{01}{81}{01}J{1B}^{05}{05}{05}{01}S{02}e2Hm, I dreamed of a dragon... A good omen! Everyone, raise a war cry{01}C-{00}!{05}{05}{05}Hm, I dreamed of a war god... Tell{01}C{13}{00} everyone and stir their fighting spirit.{05}{05}{05}
+@91
+Oh, I dreamed of a dragon... A good omen! Everyone, let's attack at once.{05}{05}{05}
+@92
+{05}{05}{04}{02}{01}{81}{01}J{1D}^{05}{05}{05}{01}S{02}e3The waters are rough... They're sure to suffer flooding.{05}{05}{05}The enemy units on the water look odd... Surely a flood.{05}{05}{05}The current is strange... Whoa, a torrent is heading for their camp!{05}{05}{05}
+@93
+The waters are rough... Eek! A torrent is heading for the enemy camp!{05}{05}{05}
+@94
+{05}{05}{04}{02}{01}{81}{01}J{1F}^{05}{05}{05}{01}S{02}e3{02}{02}ﾈ was attacked by an assassin!? Hmm, unlucky...{05}{05}{05}What, {02}{02}ﾈ was badly hurt!? The wind is turning our way.{05}{05}{05}{02}{02}ﾈ was wounded in battle? A chance{01}C,{00}.{05}{05}{05}
+@95
+{01}S{02}e3{02}{02}ﾈ was attacked by an assassin!? Some people are just unlucky...{05}{05}{05}Eh, {02}{02}ﾈ was badly hurt!? Is the wind turning our way?{05}{05}{05}{02}{02}ﾈ was wounded in battle? What a chance!{05}{05}{05}
+@96
+{05}{05}{04}{02}{01}{81}{01}J!^{05}{05}{05}{01}S{02}e3Oh, dark clouds gather and lightning heads for {02}{02}ﾈ's camp...{05}{05}{05}Hm, thunderclouds over {02}{02}ﾈ's camp... Lightning will strike.{05}{05}{05}Lightning is striking {02}{02}ﾈ's camp... Heaven's wrath, its grudge...{05}{05}{05}
+@97
+{01}S{02}e3Oh, dark clouds gather and lightning heads for {02}{02}ﾈ's camp.{05}{05}{05}Oh, thunderclouds over {02}{02}ﾈ's camp... Will lightning strike?{05}{05}{05}My, lightning is striking {02}{02}ﾈ's camp. Heaven's grudge, perhaps...{05}{05}{05}
+@98
+{05}{05}{04}{02}{01}{81}{01}J#^{05}{05}{05}{01}S{02}e3Flames from the castle? Hm, the castle's on fire...{05}{05}{05}Flames from the castle... A traitor inside?{05}{05}{05}Hm, what's this... The castle's burning!{05}{05}{05}
+@99
+{01}S{02}e3Flames from the castle? Eh, the castle's on fire...{05}{05}{05}Flames from the castle... Do I have allies inside?{05}{05}{05}Huh, what's this? Unbelievable, the castle's burning!{05}{05}{05}

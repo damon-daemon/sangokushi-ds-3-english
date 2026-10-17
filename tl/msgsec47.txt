@@ -1,0 +1,220 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+As you wish.{05}{05}{05}
+@3
+Just so.{05}{05}{05}
+@4
+Will you visit\nLord Zhuge Liang?{05}{05}{05}
+@5
+Liu Bei has come. Is Master\nSleeping Dragon at home?{05}{05}{05}
+@6
+Brother, why not visit the\ncottage of Master Sleeping\nDragon now?{05}{05}{05}
+@7
+Xu Shu recommended him,\nso he must be something.{05}{05}{05}
+@8
+Yes, Guan Yu is right.\nLet us go to Longzhong.{05}{05}{05}
+@9
+Brother, this Kongming\nlives on Wolong Ridge,\nright?{05}{05}{05}
+@10
+That's right. They say he\nfarms on fair days and\nreads when it rains.{05}{05}{05}
+@11
+Hmm... I have no reason,\nbut somehow I'm not\nin the mood.{05}{05}{05}
+@12
+Brother, would you waste\nXu Shu's kind\nrecommendation?{05}{05}{05}
+@13
+Let's just meet him\nand decide then.{05}{05}{05}
+@14
+No, as long as I have you\ntwo, I am content. There's\nno need to rush.{05}{05}{05}
+@15
+You think that highly\nof us...?{05}{05}{05}
+@16
+At the cottage on Wolong Ridge,\na boy came out to greet\nLiu Bei and his men.{05}{05}{05}
+@17
+I am Liu Bei, Imperial Uncle,\nGeneral of the Left and Governor\nof Yu. I would see the Master.{05}{05}{05}
+@18
+Brother, how's he going to\nremember a title that long?{05}{05}{05}
+@19
+I suppose you're right...\nThen just tell him that\nLiu Bei has come.{05}{05}{05}
+@20
+But Zhuge Liang was out.\nHe had left somewhere\nthat morning.{05}{05}{05}
+@21
+Hmm, he is out.\nThen we will wait\nfor a while...{05}{05}{05}
+@22
+Brother, let us go home\nand come back another day.{05}{05}{05}
+@23
+I suppose so...\nWe'll go home for today.{05}{05}{05}
+@24
+Brother, they say the Master\nis at home, but...\nthe sky looks threatening.{05}{05}{05}
+@25
+Yeah, it's gotten real\ncloudy, big brother.{05}{05}{05}
+@26
+Never mind the weather.\nLet us go.{05}{05}{05}
+@27
+Very well,\nI will come with you.{05}{05}{05}
+@28
+Why not just send someone\nto summon him?{05}{05}{05}
+@29
+True, the weather\ndoesn't look good.{05}{05}{05}
+@30
+In weather like this,\nyou're better off\nstaying home.{05}{05}{05}
+@31
+But if I miss this chance,\nwho knows when I will\nmeet him?{05}{05}{05}
+@32
+No need to go out in\nbad weather. We'll leave\nit for today.{05}{05}{05}
+@33
+We left word, so he'll\nprobably come to us.{05}{05}{05}
+@34
+The boy said the Master was\nreading at the cottage today.{05}{05}{05}
+@35
+Ah, it seems I can finally\nmeet Master Sleeping\nDragon.{05}{05}{05}
+@36
+Our second visit\nwas worth it.{05}{05}{05}
+@37
+I got kind of a bad\nfeeling about this...{05}{05}{05}
+@38
+At last, on my second visit,\nI meet you, Master.{05}{05}{05}
+@39
+I would be honored to\nreceive your teaching.{05}{05}{05}
+@40
+But the man at the cottage\nwas not Zhuge Liang, but\nhis brother Zhuge Jun.{05}{05}{05}
+@41
+Two visits and still\nnot to meet him...{05}{05}{05}
+@42
+Can't be helped.\nLet's go home, brother.{05}{05}{05}
+@43
+Then I will write a letter.\nWait a moment.{05}{05}{05}
+@44
+The wind is rising.\nLet us go home quickly.{05}{05}{05}
+@45
+Lord Zhuge Jun, please give\nmy regards to your brother.\nI will come again.{05}{05}{05}
+@46
+I am going to Wolong Ridge.\nGuan Yu, Zhang Fei,\ncome with me.{05}{05}{05}
+@47
+Enough of this! Even\ntwo visits were more\nthan he deserved.{05}{05}{05}
+@48
+This Zhuge Liang must really\nhave no learning and so\nhe hides from us.{05}{05}{05}
+@49
+Bah! He's troubled\nmy brother enough!{05}{05}{05}
+@50
+If he still won't come,\nI'll tie him up and\ndrag him here!{05}{05}{05}
+@51
+You know how King Wen of Zhou\nwon Taigong Wang? A wise man\nis won only by respect.{05}{05}{05}
+@52
+You need not come.\nI will go alone.{05}{05}{05}
+@53
+It is dangerous alone.\nI will go with you.{05}{05}{05}
+@54
+...I'm coming too. No way\nI'm staying behind when both\nmy brothers go.{05}{05}{05}
+@55
+The boy said the Master was\ntaking a nap at the cottage.{05}{05}{05}
+@56
+He is napping...\nThen we will wait until\nhe wakes.{05}{05}{05}
+@57
+Napping?! He's faking it,\nI bet... I'll set the place\non fire to wake him!{05}{05}{05}
+@58
+Stop it, Zhang Fei!\nBe quiet!{05}{05}{05}
+@59
+It seems someone has come...\nI must make myself\npresentable.{05}{05}{05}
+@60
+It is an honor to meet you.\nI am Zhuge Liang.{05}{05}{05}
+@61
+A pleasure. I am\nLiu Bei of Xinye.{05}{05}{05}
+@62
+I have read your letter, but\nI have no talent and would\nbe of little use to you.{05}{05}{05}
+@63
+A man recommended by Xu Shu\nhas no need for such\nmodesty.{05}{05}{05}
+@64
+I beg you, teach me a\nplan to restore the Han.{05}{05}{05}
+@65
+Since the Yellow Turbans, the\nland has known fierce war,\nand still there is no rest.{05}{05}{05}
+@66
+Traitors abound north and east.\nEven if you sought to expand\nthere now, you could not.{05}{05}{05}
+@67
+Leave the north and east to\nthe traitors for now and take\nJing, then Yi.{05}{05}{05}
+@68
+Jing, then Yi...{05}{05}{05}
+@69
+Then wait for upheaval in the\ncenter and march from both;\nthe realm can be yours.{05}{05}{05}
+@70
+...Hearing your counsel,\nMaster, I feel I have seen\nlight through dark clouds.{05}{05}{05}
+@71
+Master, I beg you to leave\nyour cottage and teach me\nday and night.{05}{05}{05}
+@72
+I am but a humble scholar\nof Nanyang. Please, do not\noverrate me.{05}{05}{05}
+@73
+For the Han, and for the\npeople, I must have\nyour help.{05}{05}{05}
+@74
+Such words, wasted on a\nyoung man of no talent.{05}{05}{05}
+@75
+Then will you lend\nme your aid?{05}{05}{05}
+@76
+...Yes. To repay your three\nvisits, I will serve you,\nImperial Uncle.{05}{05}{05}
+@77
+Sleeping Dragon Zhuge Liang\nhas become Liu Bei's\nstrategist.{05}{05}{05}
+@78
+True, perhaps I have gone\ntoo far for one man.{05}{05}{05}
+@79
+If you understand that,\nI have nothing more to say.{05}{05}{05}
+@80
+Right, I'll go drag that\nSleeping Dragon back here.{05}{05}{05}
+@81
+Zhang Fei! Hey, wait...\nAh, he's gone.{05}{05}{05}
+@82
+Brother, I've brought\nLord Zhuge Liang.{05}{05}{05}
+@83
+Zh-Zhang Fei!\nBah, you fool!{05}{05}{05}
+@84
+I'm so sorry, Master.\nPlease forgive my brother's\nrudeness.{05}{05}{05}
+@85
+No, I was coming today\nanyway, and met the General\nat the city gate.{05}{05}{05}
+@86
+If you hadn't come today,\nI'd have tied you up\nand dragged you here.{05}{05}{05}
+@87
+Zhang Fei! Don't be so\nrude! You fool!{05}{05}{05}
+@88
+Rough, but brimming with\nloyalty. That's Lord\nZhang Fei.{05}{05}{05}
+@89
+By the way, Master, could it\nbe that you came all the way\nto Xinye today because...{05}{05}{05}
+@90
+I have read the letter\nyou sent the other day.{05}{05}{05}
+@91
+I am moved by your heart,\nImperial Uncle, worried for\nthe state and the people.{05}{05}{05}
+@92
+Young and untalented though\nI am, I will serve you\nwith all my heart, Lord Liu Bei.{05}{05}{05}
+@93
+It seems my time\nhas come at last.{05}{05}{05}
+@94
+Lord Kongming,\nstay strong!{05}{05}{05}
+@95
+Jiang Wei, I shall pass\nall my art of war\non to you.{05}{05}{05}
+@96
+Of all the army, Jiang Wei,\nyou alone are worthy\nof my writings.{05}{05}{05}
+@97
+Zhuge Liang passed on his\n{1B}C6"Art of War in 24 Chapters"{1B}C1\nto Jiang Wei.{05}{05}{05}
+@98
+I will give my all to carry\non your work, Lord Kongming,\nand restore the Han.{05}{05}{05}
+@99
+Restore the Han...\nI could not even retake\nthe old capital, Chang'an.{05}{05}{05}
+@100
+I have failed my lord,\nwho came to me three\ntimes...{05}{05}{05}
+@101
+Lord Kongming!\nHold on!{05}{05}{05}
+@102
+...After I die,\nentrust all to Jiang Wan.{05}{05}{05}
+@103
+When Jiang Wan is gone,\nFei Yi will support\nthe state.{05}{05}{05}
+@104
+And after Lord Fei Yi,\nwho should we entrust\nthe state to?{05}{05}{05}
+@105
+...Lord Kongming!\nAh, he is gone.{05}{05}{05}
+@106
+To think the Prime Minister\nthought so highly of us.{05}{05}{05}
+@107
+I will serve faithfully to\nanswer the Prime Minister's\nhopes.{05}{05}{05}
+@108
+News of Zhuge Liang's death\nreached {02}{01}ﾈ in {02}{14}ﾈ\nat once.{05}{05}{05}
+@109
+The Prime Minister is dead...\nHas Heaven abandoned\nthe Han...?{05}{05}{05}

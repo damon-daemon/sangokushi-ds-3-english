@@ -1,0 +1,24 @@
+@0
+An assault formation built for mobility, good for closing on the enemy fast. Its archery attack and defense are the lowest, so it is poor at ranged fighting. "Heavy Cavalry" raises its attack and defense further.{05}{05}{05}
+@1
+Suited to mountains and forests. When attacked, soldiers are more likely to be wounded than killed. Wounded men can recover, so real losses are reduced. A defensive formation.{05}{05}{05}
+@2
+A formation for flat ground. When attacked, losses are more often wounds than deaths. Effective when posted where troops can recover, such as on a castle. Better suited to ranged fighting.{05}{05}{05}
+@3
+The only formation that can use "Joint Attack." Joint Attack is very powerful, so use it often when several units surround an enemy in a castle. High archery attack also helps at range.{05}{05}{05}
+@4
+A flat-ground formation that can "Charge." Its attack is among the highest of all, but its defense and archery defense are the lowest. Use it to defeat foes fast, at the cost of some losses.{05}{05}{05}
+@5
+Raises the chance of "critical hits" that deal double damage. Critical hits come more often to officers with high valor, so give this formation to them.{05}{05}{05}
+@6
+An aggressive mountain formation that can "Charge," with good mobility in hills and forests. Its defense is weak, but developing the new "Chariot" helps make up for it.{05}{05}{05}
+@7
+Boasts high defense in mountains and forests, with no loss of defense against attacks from the side. With impassable terrain at its back, it can hold out long even when surrounded.{05}{05}{05}
+@8
+Shows amazing mobility in mountains and forests. Attack and defense are modest, so use it to close on distant foes. New "Sleeved Armor" raises its defense and archery defense.{05}{05}{05}
+@9
+A purely defensive formation. Its defense is the same from every direction, so being surrounded is no disadvantage. Attack is low, but a "Catapult" greatly raises archery attack.{05}{05}{05}
+@10
+A formation specialized in archery, with the best archery attack, defense and range of all. Its melee attack is the lowest, so use it to give covering fire from behind allies.{05}{05}{05}
+@11
+The only formation for water. On land its defense plummets and it is useless, but on water it is invincible. The new "Tower Ship" raises its attack, defense and archery defense.{05}{05}{05}

@@ -1,0 +1,372 @@
+@0
+Select the city.{05}{05}{05}
+@1
+This is not our territory.{05}{05}{05}
+@2
+No city has been selected.{05}{05}{05}
+@3
+Select the officer.{05}{05}{05}
+@4
+No officer has been selected.{05}{05}{05}
+@5
+You cannot select an empty city.{05}{05}{05}
+@6
+No officer can be recruited.{05}{05}{05}
+@7
+Not enough funds (Gold {1B}C4500{1B}C1 needed).{05}{05}{05}
+@8
+Select the officer to recruit.{05}{05}{05}
+@9
+Whom will you reward?{05}{05}{05}
+@10
+Select a command.{05}{05}{05}
+@11
+There are no {1B}K{1B}Hitems to give.{05}{05}{05}
+@12
+There are no {1B}K{1B}Hitems to take.{05}{05}{05}
+@13
+Select the officer to give an {1B}K{1B}Hitem to.{05}{05}{05}
+@14
+Select the officer to take an {1B}K{1B}Hitem from.{05}{05}{05}
+@15
+Select the {1B}K{1B}Hitem to give.{05}{05}{05}
+@16
+Select the {1B}K{1B}Hitem to take.{05}{05}{05}
+@17
+No {1B}K{1B}Hitem has been selected.{05}{05}{05}
+@18
+Select the ministers to assign.{05}{05}{05}
+@19
+No officer can be assigned.{05}{05}{05}
+@20
+Select the city to assign ministers in.{05}{05}{05}
+@21
+No officer can be assigned.{05}{05}{05}
+@22
+{02}- ministers of {02}{14}ﾈ (Now: {1B}C4{02}({1B}C1){05}{05}{05}
+@23
+Our {02}- ministers (Now: {1B}C4{02}({1B}C1){05}{05}{05}
+@24
+Already assigned as a {02}- minister.{05}{05}{05}
+@25
+Select a command.{05}{05}{05}
+@26
+No officer can be appointed.{05}{05}{05}
+@27
+No city can be assigned.{05}{05}{05}
+@28
+No officer can be banished.{05}{05}{05}
+@29
+Whom will you appoint as advisor?{05}{05}{05}
+@30
+Which city's governor will you appoint?{05}{05}{05}
+@31
+This is your home city.{05}{05}{05}
+@32
+No officer can be appointed.{05}{05}{05}
+@33
+Select the governor of {02}{14}ﾈ.{05}{05}{05}
+@34
+Whose general rank will you set?{05}{05}{05}
+@35
+Which general rank will you give {02}{01}ﾈ?{05}{05}{05}
+@36
+No general rank has been appointed.{05}{05}{05}
+@37
+Whom will you banish?{05}{05}{05}
+@38
+Who will attend? (Each: Gold {1B}C4100{1B}C1, Food {1B}C4500{1B}C1){05}{05}{05}
+@39
+No more can be selected (not enough {02}-).{05}{05}{05}
+@40
+Search for talent\nin {02}{14}ﾈ?{05}{05}{05}
+@41
+{05}{05}{04}{02}{01}u{04}=196{01}Jﾀ>{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}Jｪ>{05}{05}{05}{05}{05}{04}{02}{03}u{04}=247{06}&{02}d40{01}Jｫ>{05}{05}{05}{05}{05}{04}{02}{03}u{04}=213{06}&{02}d40{01}Jｬ>{05}{05}{05}{05}{05}{04}{02}{03}u{04}=484{06}&{02}d40{01}Jｭ>{05}{05}{05}{05}{05}{04}{02}{03}g{04}>80{01}Jｮ>{05}{05}{05}{05}{05}{04}{02}{03}h{04}>90{06}&{02}{03}i{04}>80{01}Jｯ>{05}{05}{05}{05}{05}{04}{02}{03}i{04}>80{01}Jｰ>{05}{05}{05}{01}S{02}e4There's one called {02}{03}ﾈ, whom the neighbors call a prodigy{01}C{12}{00}.{05}{05}{05}{02}{03}ﾈ is here{01}C{12}{00}. They lament this chaotic age and want to change the world{01}C{12}{00}.{05}{05}{05}I met {02}{03}ﾈ. Of high ambition, they'd be a great help to our realm{01}C{1A}{00}.{05}{05}{05}I met someone promising named {02}{03}ﾈ. I judge them a person of national caliber{01}C7{00}.{05}{05}{05}
+@42
+I met one called {02}{03}ﾈ{01}C0{00}. We talked all night and lost track of time{01}C5{00}.{05}{05}{05}
+@43
+I met the famed "Sleeping Dragon." With such a one, the day we rule the land must be near.{05}{05}{05}
+@44
+I met the famed "Handsome Zhou." With such a one, the day we rule the land must be near.{05}{05}{05}
+@45
+I met the famed "Young Phoenix." With such a one, the day we rule the land must be near.{05}{05}{05}
+@46
+{01}S{02}e2I found a hero worth a thousand men, named {02}{03}ﾈ{01}C7{00}.{05}{05}{05}I met {02}{03}ﾈ. In these turbulent times, we need such a warrior{01}C{17}{00}.{05}{05}{05}
+@47
+{01}S{02}e2I found one named {02}{03}ﾈ, a match for the great Taigong Wang{01}C7{00}.{05}{05}{05}I found one named {02}{03}ﾈ{01}C{11}{00}. Shrewd and adaptable, strategist material, I think...{05}{05}{05}
+@48
+{01}S{02}e2I met someone with policies that suit our realm now{01}C0{00}. Their name is {02}{03}ﾈ.{05}{05}{05}There's one named {02}{03}ﾈ{01}C{1B}{00}. Skilled in politics, they could become a statesman like Guan Zhong.{05}{05}{05}
+@49
+{05}{05}{04}{02}{01}u{04}=196{01}Jﾀ>{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}Jｲ>{05}{05}{05}{05}{05}{04}{02}{01}g{04}>80{01}Jｳ>{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}Jｴ>{05}{05}{05}{05}{05}{04}{02}{14}e{04}>80{06}&{02}d40{01}Jｵ>{05}{05}{05}{01}S{02}e2I'm sorry{01}C {00}. I searched everywhere but met no one of exceptional talent.{05}{05}{05}I followed rumors and met many people, but none seemed useful{01}C {00}.{05}{05}{05}
+@50
+A pity{01}C2{00}. I was looking for someone to be my right hand.{05}{05}{05}
+@51
+I fought a man who boasted of his strength, but he was all bluster, so I flattened him.{05}{05}{05}
+@52
+I'm terribly sorry{01}C {00}. I went to a tavern to hear rumors and got dead drunk.{05}{05}{05}
+@53
+I found no great talent. But the town was full of talk about {01}C{09}{00}{01}C{17}{00}.{05}{05}{05}
+@54
+{05}{05}{04}{02}{01}u{04}=196{01}Jﾀ>{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}Jｷ>{05}{05}{05}{05}{05}{04}{02}{03}u{04}=247{06}&{02}d40{01}Jｸ>{05}{05}{05}{05}{05}{04}{02}{03}u{04}=213{06}&{02}d40{01}Jｹ>{05}{05}{05}{05}{05}{04}{02}{03}u{04}=484{06}&{02}d40{01}Jｺ>{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{06}&{02}{03}h{04}>70{01}Jｻ>{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}Jｼ>{05}{05}{05}{05}{05}{04}{02}{03}g{04}>80{01}Jｾ>{05}{05}{05}{05}{05}{04}{02}{03}h{04}>80{01}Jｿ>{05}{05}{05}{01}S{02}e2{02}{03}ﾈ was eager to work for our realm, so I brought them{01}C0{00}.{05}{05}{05}{02}{03}ﾈ wished to serve {01}C{09}{00}, so I brought them.{05}{05}{05}
+@55
+I hit it off with one named {02}{03}ﾈ and brought them along{01}C5{00}.{05}{05}{05}
+@56
+Why, the famed "Sleeping Dragon" will lend us their strength{01}C{17}{00}!{05}{05}{05}
+@57
+Why, the famed "Handsome Zhou" will lend us their strength{01}C{17}{00}!{05}{05}{05}
+@58
+Why, the famed "Young Phoenix" will lend us their strength{01}C{17}{00}!{05}{05}{05}
+@59
+I met one named {02}{03}ﾈ, but they argued so much I just brought them along{01}C7{00}.{05}{05}{05}
+@60
+{05}{05}{04}{02}{01}{81}{01}Jｽ>{05}{05}{05}We met at a tavern (*burp*) and drank all night{01}C5{00}. This one is... useful{01}C7{00}.{05}{05}{05}
+@61
+We met at a tavern (*hic*) and drank all night. This one is... useful{01}C7{00}.{05}{05}{05}
+@62
+I treated a hero named {02}{03}ﾈ to a meal in town, and they followed me back{01}C0{00}.{05}{05}{05}
+@63
+I was taken with {02}{03}ﾈ's strategy and brought them, wanting to entrust them with troops.{05}{05}{05}
+@64
+Good, good.{05}{05}{05}
+@65
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾃ>{05}{05}{05}I met Hua Tuo, the greatest physician in the land.{05}{05}{05}
+@66
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾄ>{05}{05}{05}When I told him of the plague, he said he'd prepare to leave at once.{05}{05}{05}
+@67
+I got to meet the great physician Hua Tuo{01}C0{00}.{05}{05}{05}
+@68
+{05}{05}{04}{02}{01}{81}{01}Jﾅ>{05}{05}{05}When I told him of the plague-stricken village, he said he'd go at once...{05}{05}{05}
+@69
+When I told him of the plague-stricken village, he said he'd go at once...{05}{05}{05}
+@70
+Found a free officer in {02}{14}ﾈ.{05}{05}{05}
+@71
+Lord {02}{02}ﾈ, {02}{03}ﾈ has joined\nour army in {02}{14}ﾈ.{05}{05}{05}
+@72
+No talent could be found\nin {02}{14}ﾈ.{05}{05}{05}
+@73
+Found Hua Tuo in {02}{14}ﾈ.\nHearing of the plague, Hua Tuo\nwent straight to the village.{05}{05}{05}
+@74
+Recruit {02}{01}ﾈ?{05}{05}{05}
+@75
+It will cost Gold {1B}C4500{1B}C1.\nRecruit {02}{01}ﾈ?{05}{05}{05}
+@76
+{05}{05}{04}{02}{01}u{04}=196{01}J{E9}>{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}Jﾍ>{05}{05}{05}{05}{05}{04}{02}{02}{81}{06}&{02}{01}s{04}>5{01}Jﾏ>{05}{05}{05}{05}{05}{04}{02}{01}d{04}=1{06}&{02}{02}h{04}>80{01}Jﾐ>{05}{05}{05}{05}{05}{04}{02}{01}h{04}>80{01}Jﾑ>{05}{05}{05}{05}{05}{04}{02}{01}g{04}>80{01}Jﾒ>{05}{05}{05}{01}S{02}e2I heard of {01}C{07}{00} in town and came here{01}C{11}{00}. Lend us your strength{01}C{13}{00}.{05}{05}{05}History calls for you{01}C{1B}{00}. Please aid my lord{01}C{13}{00}.{05}{05}{05}
+@77
+{05}{05}{04}{02}{01}{81}{01}Jﾎ>{05}{05}{05}This chaotic age needs heroes like {01}C{07}{00}. Will you entrust me with your life?{05}{05}{05}
+@78
+This chaotic age needs heroes like {01}C{07}{00}. Will you entrust me with your life?{05}{05}{05}
+@79
+Just follow me{01}C#{00}.{05}{05}{05}
+@80
+Won't you put your talents to use and work under Lord {02}{03}ﾈ with me{01}C4{00}?{05}{05}{05}
+@81
+With my wisdom and your talent, we'll have nothing to fear. Come with me{01}C{13}{00}.{05}{05}{05}
+@82
+You have a fine face{01}C,{00}. How about serving my lord{01}C4{00}?{05}{05}{05}
+@83
+{05}{05}{04}{02}{01}u{04}=432{01}Jﾚ>{05}{05}{05}{05}{05}{04}{02}{01}u{04}=487{01}Jﾛ>{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}Jﾔ>{05}{05}{05}{05}{05}{04}{02}{01}t{04}>49{06}&{02}{01}{82}{01}Jﾕ>{05}{05}{05}{05}{05}{04}{02}{01}t{04}>49{06}&{02}{01}{81}{01}Jﾖ>{05}{05}{05}{05}{05}{04}{02}{01}g{04}>80{06}&{02}{01}{82}{01}Jﾗ>{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{06}&{02}{01}{82}{01}Jﾘ>{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{06}&{02}{01}{81}{01}Jﾙ>{05}{05}{05}{01}S{02}e5To think you'd value a youngster like me so highly... I'll serve Lord {02}{03}ﾈ.{05}{05}{05}{01}CA{00} When you put it like that, {01}C{00}{00} must go{01}C.{00}.{05}{05}{05}Now is the chance of a lifetime. {01}C{00}{00} will entrust my life to {01}C{07}{00}{01}C!{00}.{05}{05}{05}I've long been interested in your lord{01}C{12}{00}. I look forward to serving{01}C!{00}.{05}{05}{05}It seems my luck has turned{01}C2{00}{01}C8{00}. Under Lord {02}{03}ﾈ, I can work to my heart's content.{05}{05}{05}
+@84
+Lord {02}{02}ﾈ came to me in person... I'm moved{01}C{17}{00}. I'll serve with my life.{05}{05}{05}
+@85
+If these old bones will do, I'll gladly lend my strength.{05}{05}{05}
+@86
+If an old lady like me will do, I'll gladly lend my strength.{05}{05}{05}
+@87
+{01}S{02}e3For a rough soldier like me to be valued so... No greater honor for a man.{05}{05}{05}So the time has come to wield my skill for the world. Watch me on the battlefield.{05}{05}{05}{01}CA{00} I'll show you how I fight like a demon.{05}{05}{05}
+@88
+Very well. With me, the land is as good as yours{01}C-{00}.{05}{05}{05}
+@89
+Fine. With me, the land is as good as yours{01}C-{00}.{05}{05}{05}
+@90
+When you put it like that, I have no choice but to go.{05}{05}{05}
+@91
+If these old bones will do, I'll gladly lend my strength.{05}{05}{05}
+@92
+{05}{05}{04}{02}{02}d{04}=0{01}Jﾝ>{05}{05}{05}{05}{05}{04}{02}{01}s{04}>5{01}Jﾟ>{05}{05}{05}{05}{05}{04}{02}{01}p{04}>13{01}J{E1}>{05}{05}{05}{01}S{02}e4{01}C{00}{00} have no wish to give up my current life{01}C{1C}{00}.{05}{05}{05}I have no intention whatsoever of serving your lord{01}C{1C}{00}.{05}{05}{05}What nonsense{01}C9{00}{01}C,{00}... {01}C{00}{00} was a fool to listen to {01}C{07}{00}{01}C2{00}.{05}{05}{05}I have no wish to help {01}C{10}{00}{01}C%{00}.{05}{05}{05}
+@93
+{05}{05}{04}{02}{01}{81}{01}Jﾞ>{05}{05}{05}{01}C{10}{00}... I won't fall for that.{05}{05}{05}
+@94
+{01}C{10}{00}... I won't fall for that.{05}{05}{05}
+@95
+{05}{05}{04}{02}{01}{81}{01}J{E0}>{05}{05}{05}{01}S{02}e2So you want me to come with {01}C{10}{00}? Nonsense. I refuse{01}C-{00}.{05}{05}{05}Don't be absurd... I have no wish to work under {01}C{06}{00}'s lord{01}C5{00}.{05}{05}{05}
+@96
+{01}S{02}e2So you want me to come with you...? Nonsense. I refuse{01}C-{00}.{05}{05}{05}Don't be absurd... I have no wish to work under your lord.{05}{05}{05}
+@97
+{05}{05}{04}{02}{01}{81}{01}J{E2}>{05}{05}{05}I refuse... I won't serve someone without honor or loyalty.{05}{05}{05}
+@98
+I refuse... I won't serve someone without honor or loyalty.{05}{05}{05}
+@99
+{05}{05}{04}{02}{02}p{04}<5{01}J{E4}>{05}{05}{05}{05}{05}{04}{02}{01}h{04}>85{01}J{E5}>{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{E6}>{05}{05}{05}{01}S{02}e3Rather, wouldn't you like to serve my lord{01}C{1C}{00}? {01}C{06}{00} could do even more there.{05}{05}{05}Changing the subject, won't you fight with my lord{01}C9{00}? {01}C{00}{00} will recommend you as grand general{01}C7{00}.{05}{05}{05}By the way, {01}C{07}{00} seem unhappy with your treatment. If you like, I'll recommend you to my lord{01}C{14}{00}.{05}{05}{05}
+@100
+Rather, come to my lord... You'll surely get what you want{01}C{1A}{00}.{05}{05}{05}
+@101
+Someone like you... A pity{01}C2{00}. Why can't you see which lord you truly should serve?{05}{05}{05}
+@102
+{01}S{02}e2Rather, wouldn't you like to serve my lord{01}C{1C}{00}? I'll recommend you as grand general{01}C7{00}.{05}{05}{05}By the way, {01}C{07}{00} seem unhappy with your treatment. If you like, I'll recommend you to my lord{01}C{14}{00}.{05}{05}{05}
+@103
+{05}{05}{04}{02}{01}{81}{01}J{E8}>{05}{05}{05}{01}S{02}e5I refuse{01}C-{00}. I can't betray Lord {02}{03}ﾈ's trust{01}C9{00}.{05}{05}{05}I refuse{01}C-{00}. {01}C{00}{00} will serve no one but Lord {02}{03}ﾈ.{05}{05}{05}Don't joke. {01}C{00}{00} became envoy because Lord {02}{03}ﾈ trusts me{01}C-{00}.{05}{05}{05}How dare you! This is offensive{01}C2{00}. Just seeing your face makes me sick{01}C-{00}.{05}{05}{05}Such nonsense... It seems further persuasion is pointless{01}C2{00}...{05}{05}{05}
+@104
+{01}S{02}e4I refuse. I can't betray Lord {02}{03}ﾈ's trust.{05}{05}{05}I refuse. {01}C{00}{00} will serve no one but Lord {02}{03}ﾈ.{05}{05}{05}Don't joke. {01}C{00}{00} became envoy because Lord {02}{03}ﾈ trusts me.{05}{05}{05}How dare you! This is offensive. Just seeing your face makes me feel ill.{05}{05}{05}
+@105
+Good, good.{05}{05}{05}
+@106
+Lord {02}{02}ﾈ, {02}{03}ﾈ has joined\nour army in {02}{14}ﾈ.{05}{05}{05}
+@107
+Failed to recruit {02}{03}ﾈ.{05}{05}{05}
+@108
+Lord {02}{02}ﾈ! Our envoy\n{02}{01}ﾈ seems to have\ndefected to {02}{03}ﾈ!{05}{05}{05}
+@109
+Give {02}{01}ﾈ Gold {1B}C4100{1B}C1?{05}{05}{05}
+@110
+{05}{05}{04}{02}{01}u{04}=432{01}J{F2}>{05}{05}{05}{05}{05}{04}{02}{01}u{04}=487{01}J{F3}>{05}{05}{05}{05}{05}{04}{02}{01}u{04}=196{01}J{F4}>{05}{05}{05}{05}{05}{04}{02}{01}p{04}>10{01}J{EF}>{05}{05}{05}{05}{05}{04}{02}{01}p{04}<2{01}J{F0}>{05}{05}{05}{01}S{02}e5I'm deeply grateful.{05}{05}{05}Is it all right to receive so much{01}C{18}{00}? Thank you truly.{05}{05}{05}{01}C{09}{00}, so much for the likes of me... I'm grateful.{05}{05}{05}For me... I'll keep serving faithfully.{05}{05}{05}I swear even greater loyalty.{05}{05}{05}
+@111
+{01}S{02}e3For me... I'll stake my life working for {01}C{09}{00}.{05}{05}{05}Thank you very much. I'll share it with my men right away. They'll be thrilled{01}C0{00}.{05}{05}{05}You needn't worry so. My loyalty to {01}C{09}{00} won't change{01}C0{00}.{05}{05}{05}
+@112
+{05}{05}{04}{02}{01}{81}{01}J{F1}>{05}{05}{05}{01}S{02}e3{01}CA{00} Gold{01}C-{00}! (Guess I'll obey a little.){05}{05}{05}Oh, gold{01}C-{00}! Money really is everything in this world{01}C-{00}.{05}{05}{05}I worked for it, so of course{01}C-{00}{01}C8{00}. It's a bit little{01}C-{00}.{05}{05}{05}
+@113
+{01}S{02}e3{01}CA{00} Money, money! (Maybe I'll listen to them a little.){05}{05}{05}Oh, you're giving me money? Money really is everything in this world.{05}{05}{05}I've been working hard, so of course. It's a bit little.{05}{05}{05}
+@114
+A reward for me...{05}{05}{05}
+@115
+A reward for me...{05}{05}{05}
+@116
+Good, good.{05}{05}{05}
+@117
+{02}{01}ﾈ's loyalty is now\n{1B}C4{02}({1B}C1 (+{1B}C4{02}){1B}C1).{05}{05}{05}
+@118
+{01}S{02}e3Please, not that... I beg you, please...{05}{05}{05}Did {01}C{00}{00} do something wrong{01}C{18}{00}? Please stop{01}C{13}{00}.{05}{05}{05}That's more precious to me than life... no, it is my life. Please... {01}C{09}{00}!{05}{05}{05}
+@119
+Give {02}{01}ﾈ\n{1B}C6{02}-{1B}C1?{05}{05}{05}
+@120
+Take {1B}C6{02}-{1B}C1\nfrom {02}{01}ﾈ?{05}{05}{05}
+@121
+{01}S{02}e3Such an item for me... I'm deeply grateful. It'll be our family treasure{01}C!{00}.{05}{05}{05}Eh, for me? Is it all right{01}C{18}{00}? Ah, I'll never forget this kindness{01}C {00}.{05}{05}{05}This is a legendary item... I may really have it{01}C{18}{00}?{05}{05}{05}
+@122
+{05}{05}{04}{02}{01}{81}{01}J{FB}>{05}{05}{05}{01}S{02}e3I risked my life fighting for {01}C{09}{00}, and this is my reward? Confiscation... Absurd...{05}{05}{05}Why is it being taken{01}C-{00}? After all {01}C{00}{00} did for {01}C{09}{00}...{05}{05}{05}After all my loyalty to {01}C{09}{00}, to be treated like this...{05}{05}{05}
+@123
+{01}S{02}e2I've risked my life for {01}C{09}{00} all this time. Why take it from me...?{05}{05}{05}Why is it being taken? After all {01}C{00}{00} did for {01}C{09}{00}...{05}{05}{05}
+@124
+Gave {02}- to\n{02}{01}ﾈ. {02}{01}ﾈ's loyalty\nis now {1B}C4{02}({1B}C1 (+{1B}C4{02}){1B}C1).{05}{05}{05}
+@125
+Took {02}- from\n{02}{01}ﾈ. {02}{01}ﾈ's loyalty\nis now {1B}C4{02}({1B}C1 (-{1B}C4{02}){1B}C1).{05}{05}{05}
+@126
+Lord {02}{02}ﾈ! {02}{01}ﾈ has left\nour service!{05}{05}{05}
+@127
+Change the {02}- ministers of {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@128
+Change the {02}- ministers.\nIs that all right?{05}{05}{05}
+@129
+Changed the {02}- ministers of {02}{14}ﾈ.{05}{05}{05}
+@130
+Changed the {02}- ministers.{05}{05}{05}
+@131
+It will cost Gold {1B}C4{02}({1B}C1 and Food {1B}C4{02}){1B}C1.\nHold a banquet in {02}{14}ﾈ?{05}{05}{05}
+@132
+The banquet in {02}{14}ﾈ\nseems to be a great success.{05}{05}{05}
+@133
+{05}{05}{04}{02}{01}u{04}=365{01}J{06}?{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{07}?{05}{05}{05}{01}S{02}e3More wine{01}C-{00}! Wine! *urp*{05}{05}{05}Ugh, I feel sick. Where's the privy?{05}{05}{05}Another battle tomorrow... *hic*, time for bed. Niiight.{05}{05}{05}
+@134
+One more cup! What? Enough, you say? Shut up! I'm the great Zhang Fei!{05}{05}{05}
+@135
+{01}S{02}e3More wine! Wine... *hic*{05}{05}{05}Ugh, I feel sick... Where was the privy again?{05}{05}{05}Another battle tomorrow... Yawn, time for bed. Night...{05}{05}{05}
+@136
+{05}{05}{04}{02}{01}{81}{01}J{09}?{05}{05}{05}{01}S{02}e3Whoa, {01}C{07}{00}, don't pour your own{01}C7{00}. Let me pour for you.{05}{05}{05}Drink{01}C7{00}, drink{01}C7{00}! Come on, bottoms up{01}C6{00}!{05}{05}{05}You know, wine is great{01}C@{00}. It's what life's all about{01}C@{00}.{05}{05}{05}
+@137
+{01}S{02}e3My, {01}C{07}{00}, don't pour your own. Let me pour for you.{05}{05}{05}Drink{01}C7{00}, drink{01}C7{00}! Come on, bottoms up!{05}{05}{05}You know, wine is great. It's what life's all about...{05}{05}{05}
+@138
+{05}{05}{04}{02}{01}u{04}=365{01}J{0B}?{05}{05}{05}{05}{05}{04}{02}{01}u{04}=213{01}J{0D}?{05}{05}{05}{05}{05}{04}{02}{01}{82}{06}&{02}d10{01}J{0C}?{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{0E}?{05}{05}{05}{01}S{02}e3Now then, let's drink our fill tonight. Cheers!{05}{05}{05}Oh, what a drinker! Then {01}C{00}{00} too... Ahh, delicious!{05}{05}{05}Ha ha, what fun! If every day were like this, it'd be the best{01}C@{00}.{05}{05}{05}
+@139
+Y-you spilled it on my clothes! Step outside, let's settle this!{05}{05}{05}
+@140
+I'd like to drink with women once in a while. It's too stuffy with just men.{05}{05}{05}
+@141
+Hey, you there. You just hit a wrong note. Drunk or not, you can't fool me.{05}{05}{05}
+@142
+{01}S{02}e3Now then, let's drink our fill tonight. Cheers!{05}{05}{05}Oh, what a drinker! Then {01}C{00}{00} too... Mmm, delicious.{05}{05}{05}What fun! If only every day were like this!{05}{05}{05}
+@143
+{05}{05}{04}{02}{01}{81}{01}J{10}?{05}{05}{05}{01}S{02}e3Wh-what{01}C-{00}, this wine is salty{01}C7{00}! Who put salt in it{01}C2{00}{01}C8{00}?{05}{05}{05}Why are you stripping? I don't want to see you naked{01}C5{00}.{05}{05}{05}Look out{01}C7{00}! (Crash) Uh-oh, not that jar{01}C7{00}.{05}{05}{05}
+@144
+{01}S{02}e3Wh-what{01}C-{00}, this wine is salty{01}C7{00}! Who put salt in it{01}C2{00}{01}C8{00}?{05}{05}{05}H-hey, what!? I don't want to watch your dancing!{05}{05}{05}Hey, look out{01}C7{00}! (Crash) Uh-oh, not my fault~{05}{05}{05}
+@145
+{05}{05}{04}{02}{01}{81}{01}J{12}?{05}{05}{05}{01}S{02}e3Get up{01}C'{00}! You'll catch cold sleeping here{01}C7{00}.{05}{05}{05}*hic*, whoo... I'm drunk{01}C2{00}. Someone take me to bed~{05}{05}{05}{01}CA{00} I can't stop laughing! Everything's so fun{01}C7{00}!{05}{05}{05}
+@146
+{01}S{02}e3Get up{01}C'{00}! You'll catch cold sleeping here{01}C7{00}.{05}{05}{05}*hic*... *hic* I'm drunk{01}C2{00}. I'm dru... zzz...{05}{05}{05}{01}CA{00} What fun~ Everything's so fun{01}C0{00}!{05}{05}{05}
+@147
+{05}{05}{04}{02}{01}{81}{01}J{14}?{05}{05}{05}{01}S{02}e3{01}C{00}{00} am so unlucky{01}C-{00}. Ugh, someone pour me wine{01}C{13}{00}.{05}{05}{05}Now that I'm nicely tipsy, {01}C{00}{00} will sing you a song{01}C{14}{00}.{05}{05}{05}I can't, I'm full. I can't drink any more. *hic* I feel sick.{05}{05}{05}
+@148
+{01}S{02}e3{01}C{00}{00} am so unlucky{01}C-{00}. Ugh, someone pour me wine.{05}{05}{05}{01}CA{00} All right... Shall {01}C{00}{00} sing you a song?{05}{05}{05}I can't, I'm full. I can't drink any more. *hic*... Ugh...{05}{05}{05}
+@149
+The vigor of the officers at the\nbanquet in {02}{14}ﾈ was restored.{05}{05}{05}
+@150
+But it seems to have had\nno effect on some officers.{05}{05}{05}
+@151
+The banquet in {02}{14}ﾈ\nhad no effect.{05}{05}{05}
+@152
+Send {02}{01}ﾈ on\na year of training?{05}{05}{05}
+@153
+{02}{01}ﾈ has set out on training.\nLet's look forward to the results\nin a year.{05}{05}{05}
+@154
+{1B}C4{02}({1B}C1 of {02}{01}ﾈ's troops\njoined the reserves of {02}{14}ﾈ.{05}{05}{05}
+@155
+Appoint {02}{01}ﾈ\nas advisor?{05}{05}{05}
+@156
+{05}{05}{04}{02}{01}h{04}>90{01}J{1E}?{05}{05}{05}{05}{05}{04}{02}{01}h{04}<40{01}J ?{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{1D}?{05}{05}{05}{01}S{02}e3I'm deeply grateful. I humbly accept this honorable post{01}C!{00}.{05}{05}{05}Making me {01}C{09}{00}'s right hand{01}C/{00}... It's like a dream{01}C{17}{00}.{05}{05}{05}Yes, I gratefully accept the post{01}C!{00}. Count{01}C{13}{00} on me.{05}{05}{05}
+@157
+{01}S{02}e3I'm honored. I humbly accept this honorable post{01}C!{00}.{05}{05}{05}Making me {01}C{09}{00}'s right hand... It's like a dream.{05}{05}{05}Yes, I gratefully accept the post{01}C!{00}. Count{01}C{13}{00} on me.{05}{05}{05}
+@158
+{05}{05}{04}{02}{01}{81}{01}J{1F}?{05}{05}{05}{01}S{02}e3Such a post for me... I'll work to live up to {01}C{09}{00}'s hopes{01}C!{00}.{05}{05}{05}I humbly accept{01}C!{00}. I'll give advice worthy of {01}C{09}{00}'s hopes{01}C!{00}.{05}{05}{05}Yes, leave it to me{01}C{13}{00}. I'll always analyze the situation and give sound, reliable advice.{05}{05}{05}
+@159
+{01}S{02}e3Such a post for me... I'll work to live up to {01}C{09}{00}'s hopes{01}C!{00}.{05}{05}{05}I humbly accept{01}C!{00}. I'll give advice worthy of {01}C{09}{00}'s hopes{01}C!{00}.{05}{05}{05}Leave it to me. I'll always analyze the situation and give sound, reliable advice.{05}{05}{05}
+@160
+{01}S{02}e3Eh, me...? Not that I object{01}C {00}, but you should think this over carefully.{05}{05}{05}W-wait{01}C{13}{00}. Am {01}C{00}{00} really right for such a post{01}C{18}{00}?{05}{05}{05}Really{01}C{18}{00}? Yay, yay{01}C7{00}! {01}C{00}{00} am advisor{01}C-{00}!{05}{05}{05}
+@161
+{05}{05}{04}{02}{01}{81}{01}J"?{05}{05}{05}Appointed {02}{01}ﾈ as advisor. Let's count on their wisdom.{05}{05}{05}
+@162
+Appointed {02}{01}ﾈ as advisor. Let's count on their wisdom.{05}{05}{05}
+@163
+Appoint {02}{01}ﾈ as\ngovernor of {02}{14}ﾈ?{05}{05}{05}
+@164
+{05}{05}{04}{02}{01}{81}{01}J%?{05}{05}{05}Appointed {02}{01}ﾈ governor of {02}{14}ﾈ. Let's count on their skill.{05}{05}{05}
+@165
+Appointed {02}{01}ﾈ governor of {02}{14}ﾈ. Let's count on their skill.{05}{05}{05}
+@166
+Appoint {02}{01}ﾈ as\n{1B}C6{02}-{1B}C1?{05}{05}{05}
+@167
+Appoint {02}{01}ﾈ as {1B}C6{02}-{1B}C1.\n{02}{01}ﾈ's troops will be reduced.\nIs that all right?{05}{05}{05}
+@168
+Appoint {02}{01}ﾈ as {1B}C6{02}-{1B}C1\nin place of {02}{02}ﾈ?{05}{05}{05}
+@169
+Appoint {02}{01}ﾈ as {1B}C6{02}-{1B}C1\nin place of {02}{02}ﾈ.{05}{05}{05}
+@170
+{02}{01}ﾈ's troops will be reduced.\nIs that all right?{05}{05}{05}
+@171
+{02}{02}ﾈ's troops will be reduced.\nIs that all right?{05}{05}{05}
+@172
+{02}{01}ﾈ's and {02}{02}ﾈ's troops\nwill be reduced. Is that all right?{05}{05}{05}
+@173
+Appointed {02}{01}ﾈ as {1B}C6{02}-{1B}C1.{05}{05}{05}
+@174
+{02}{01}ﾈ's troops were reduced.{05}{05}{05}
+@175
+{02}{01}ﾈ's and {02}{02}ﾈ's troops\nwere reduced.{05}{05}{05}
+@176
+{05}{05}{04}{02}{01}{81}{01}J1?{05}{05}{05}{01}S{02}e3Eh, why me...? Did someone inform on me{01}C{18}{00}? No... I see, it was that one.{05}{05}{05}You must be joking... What have {01}C{00}{00} done{01}C{18}{00}?{05}{05}{05}Wait{01}C{13}{00}! If that happens now, my family will be out on the street...{05}{05}{05}
+@177
+{01}S{02}e2I've risked my life for {01}C{09}{00} all this time. So why...?{05}{05}{05}Surely you're joking? After all {01}C{00}{00} did for {01}C{09}{00}...{05}{05}{05}
+@178
+Banish {02}{01}ﾈ?{05}{05}{05}
+@179
+{05}{05}{04}{02}{01}{81}{01}J4?{05}{05}{05}{01}S{02}e3Hear me out{01}C{13}{00}... {01}C{09}{00}, please!{05}{05}{05}Curse you, {02}{02}ﾈ! I'll never forget this humiliation, this grudge. Never!{05}{05}{05}You'll regret this, {02}{02}ﾈ! Someday on the battlefield I'll have your head{01}C7{00}!{05}{05}{05}
+@180
+{01}S{02}e2A woman's grudge is a fearsome thing.{05}{05}{05}This humiliation, this grudge... I'll never forget it. Never...{05}{05}{05}
+@181
+Banished {02}{01}ﾈ.{05}{05}{05}
+@182
+Lord {02}{02}ﾈ's fame fell.{05}{05}{05}
+@183
+{02}{01}ﾈ has vanished. Just as\nLord {02}{02}ﾈ suspected, they were a\n"planted agent" in our army.{05}{05}{05}
+@184
+No officer can be appointed.{05}{05}{05}
+@185
+No officer can be\ngiven {1B}K{1B}Hitems.{05}{05}{05}

@@ -1,0 +1,184 @@
+@0
+Select officers to deploy ({1B}C4{02}({1B}C1 more).{05}{05}{05}
+@1
+The maximum number of officers is already selected.{05}{05}{05}
+@2
+This officer is already set to deploy.{05}{05}{05}
+@3
+No one has been selected.{05}{05}{05}
+@4
+Select officers to deploy.{05}{05}{05}
+@5
+No officer can deploy.{05}{05}{05}
+@6
+Change or cancel deployed officers.{05}{05}{05}
+@7
+This officer is already set to deploy.{05}{05}{05}
+@8
+No officers have been selected to deploy.{05}{05}{05}
+@9
+Change {02}{01}ﾈ's formation.{05}{05}{05}
+@10
+Confirm these settings.{05}{05}{05}
+@11
+No officers have been selected to deploy.{05}{05}{05}
+@12
+Select all deploying officers at once.{05}{05}{05}
+@13
+No officer can be added here.{05}{05}{05}
+@14
+Select officers to deploy.{05}{05}{05}
+@15
+Food for {1B}C430{1B}C1 days: {1B}C4{02}({1B}C1{05}{05}{05}
+@16
+Enter the amount of food to take.{05}{05}{05}
+@17
+Attack {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@18
+Deploy with these settings.\nIs that all right?{05}{05}{05}
+@19
+Send a joint army to {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@20
+Send reinforcements to {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@21
+Cancel the attack on {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@22
+Lord {02}{01}ﾈ, abandon\n{02}{14}ﾈ without a fight?{05}{05}{05}
+@23
+Lord {02}{01}ﾈ's fame will suffer.\nCancel the joint army\nto {02}{14}ﾈ anyway?{05}{05}{05}
+@24
+Lord {02}{01}ﾈ's fame will suffer.\nCancel the reinforcements\nto {02}{14}ﾈ anyway?{05}{05}{05}
+@25
+{02}{01}ﾈ's army\nhas attacked {02}{14}ﾈ.{05}{05}{05}
+@26
+Lord {02}{01}ﾈ's fame rose.{05}{05}{05}
+@27
+Lord {02}{01}ﾈ's fame fell.{05}{05}{05}
+@28
+Select the city to retreat to.{05}{05}{05}
+@29
+You cannot retreat to that city.{05}{05}{05}
+@30
+No city has been selected.{05}{05}{05}
+@31
+Abandon {02}{14}ﾈ and\nretreat to {02}{15}ﾈ.\nIs that all right?{05}{05}{05}
+@32
+Facing {02}{01}ﾈ's invasion,\nour army withdrew from {02}{14}ﾈ.{05}{05}{05}
+@33
+Lord {02}{01}ﾈ, {02}{02}ﾈ's army\nfeared us and fled\nwithout a fight.{05}{05}{05}
+@34
+{02}{02}ﾈ's army fled\nwithout a fight.{05}{05}{05}
+@35
+{05}{05}{04}{02}{01}d{04}=0{01}Jｼ:{05}{05}{05}{01}S{02}e2Let's set fire to the castle so {02}{02}ﾈ can't use it{01}C{14}{00}.{05}{05}{05}This place is key to {02}{02}ﾈ's campaign{01}C{1E}{00}. We should burn it first...{05}{05}{05}
+@36
+{05}{05}{04}{02}{01}{81}{01}Jｽ:{05}{05}{05}If this land is to be taken, perhaps I should just burn it...{05}{05}{05}
+@37
+If this land is to be taken, perhaps I should just burn it...{05}{05}{05}
+@38
+Set fire to {02}{14}ﾈ.\nLord {02}{01}ﾈ's fame will suffer.\nIs that all right?{05}{05}{05}
+@39
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾁ:{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}Jﾀ:{05}{05}{05}{01}S{02}e2Ah, our castle is burning. Someday I'll take this land back, I swear{01}C0{00}.{05}{05}{05}To watch our castle burn... it's painful{01}C.{00}. This humiliation... someday...{05}{05}{05}
+@40
+{01}S{02}e2Ah, the castle is burning... Someday I'll take this land back, I swear.{05}{05}{05}To watch our castle burn... it's painful{01}C.{00}. This humiliation... someday...{05}{05}{05}
+@41
+All turned to ash... Just watch{01}C'{00}. I'll take this land back{01}C0{00}.{05}{05}{05}
+@42
+{02}{02}ﾈ's army set fire to\n{02}{14}ﾈ and fled.\nThe town is a sea of flames.{05}{05}{05}
+@43
+{01}S{02}e2{02}{02}ﾈ set fire to {02}{14}ﾈ and retreated{01}C{1D}{00}. How cruel...{05}{05}{05}{02}{02}ﾈ seems to have burned the castle while retreating{01}C{17}{00}. Fields and town are burning{01}C{1B}{00}.{05}{05}{05}
+@44
+{01}S{02}e2Lord {02}{01}ﾈ, the town is in flames, and even the crops are burned... Please help us.{05}{05}{05}Lord {02}{01}ﾈ, please help... Our homes and food are ash. How are we to live... Ah...{05}{05}{05}
+@45
+Give Gold {02}( and Food {02})\nto the people of {02}{14}ﾈ?\nIs that all right?{05}{05}{05}
+@46
+{01}S{02}e2They don't care about our suffering... We were fools to have hopes.{05}{05}{05}The castle must have plenty of gold and food... It's always us who suffer.{05}{05}{05}
+@47
+{01}S{02}e5Thank you very much. Now we might manage.{05}{05}{05}With this money we can start rebuilding.{05}{05}{05}Is it all right to take so much? We can rebuild a lot with this.{05}{05}{05}What a help. Now, I'll take it to my wife and kids right away.{05}{05}{05}With this much... everyone will be overjoyed. Thank you very much.{05}{05}{05}
+@48
+Thanks to Lord {02}{01}ﾈ's alms,\n{02}{14}ﾈ is coming back to life.{05}{05}{05}
+@49
+{01}S{02}e2The people beg us to take them along{01}C{1B}{00}. Shall we take them?{05}{05}{05}The people say they want to come with us{01}C{1B}{00}. Shall we take them?{05}{05}{05}
+@50
+Lord {02}{01}ﾈ, we risk pursuit by\n{02}{02}ﾈ's army. Take the people\nof {02}{14}ﾈ with us?{05}{05}{05}
+@51
+{02}{01}ﾈ's army seems to have\nheaded for {02}{14}ﾈ with the people.{05}{05}{05}
+@52
+{01}S{02}e2{02}{02}ﾈ's army is leaving the people behind and fleeing first.{05}{05}{05}{02}{02}ﾈ's army abandoned the people who begged to come and retreated.{05}{05}{05}
+@53
+In {02}{02}ﾈ's pursuit,\n{02}{01}ﾈ seems to have been captured.{05}{05}{05}
+@54
+Captured {02}{01}ﾈ.{05}{05}{05}
+@55
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾑ:{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}Jﾐ:{05}{05}{05}{01}S{02}e2The people fled too{01}C{17}{00}. They all seem devoted to {02}{02}ﾈ{01}C-{00}.{05}{05}{05}{02}{02}ﾈ retreated with the people{01}C{17}{00}. Admirable, for an enemy{01}C-{00}.{05}{05}{05}
+@56
+{01}S{02}e2The people fled too{01}C{17}{00}. They all seem devoted to {02}{02}ﾈ.{05}{05}{05}{02}{02}ﾈ retreated with the people{01}C{17}{00}. Fine character, for an enemy...{05}{05}{05}
+@57
+{05}{05}{04}{02}{01}{81}{01}Jﾒ:{05}{05}{05}{01}S{02}e2The people fled too. They all seem devoted to {02}{02}ﾈ.{05}{05}{05}{02}{02}ﾈ retreated with the people, it seems... Admirable, for an enemy{01}C-{00}.{05}{05}{05}
+@58
+{01}S{02}e2The people fled too. So they're all devoted to {02}{02}ﾈ...{05}{05}{05}{02}{02}ﾈ retreated with the people... Splendid, for an enemy.{05}{05}{05}
+@59
+Whom will you ask for reinforcements?{05}{05}{05}
+@60
+You can only ask allies for reinforcements.{05}{05}{05}
+@61
+Cannot send reinforcements.{05}{05}{05}
+@62
+No ruler has been selected.{05}{05}{05}
+@63
+Select the officer to send as envoy.{05}{05}{05}
+@64
+No officer has been selected.{05}{05}{05}
+@65
+Lord {02}{01}ﾈ, {02}{02}ﾈ's army\nhas invaded {02}{14}ﾈ!\n{02}{02}ﾈ's army numbers\nabout {1B}C4%s{1B}C1.{05}{05}{05}
+@66
+Lord {02}{01}ﾈ, no officer in\n{02}{14}ﾈ can deploy.{05}{05}{05}
+@67
+Request reinforcements?{05}{05}{05}
+@68
+Ask {02}{01}ﾈ for reinforcements\nfor {02}{14}ﾈ.\nIs that all right?{05}{05}{05}
+@69
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾞ:{05}{05}{05}Rest assured. I'll be back with a great force of reinforcements.{05}{05}{05}
+@70
+{05}{05}{04}{02}{01}{81}{01}Jﾟ:{05}{05}{05}I'll be back with reinforcements. Until then, please hold out.{05}{05}{05}
+@71
+I'll be back with reinforcements. Until then, please hold out.{05}{05}{05}
+@72
+Lord {02}{02}ﾈ, our partner\n{02}{01}ﾈ has attacked\n{02}{14}ﾈ!{05}{05}{05}
+@73
+Lord {02}{01}ﾈ, we are allied\nwith {02}{02}ﾈ. We cannot\nattack {02}{14}ﾈ.{05}{05}{05}
+@74
+Send a joint army to {02}{14}ﾈ\nas promised?{05}{05}{05}
+@75
+Sent a joint army\nto {02}{14}ﾈ.{05}{05}{05}
+@76
+Did not send a joint army\nto {02}{14}ﾈ.{05}{05}{05}
+@77
+Lord {02}{01}ﾈ's fame fell\nfor breaking a promise.{05}{05}{05}
+@78
+{05}{05}{04}{02}{01}d{04}=0{01}J{E7}:{05}{05}{05}Lord {02}{04}ﾈ, {02}{01}ﾈ of {02}{02}ﾈ's army seems to be on the way here as an envoy seeking reinforcements.{05}{05}{05}
+@79
+Lord {02}{04}ﾈ, {02}{01}ﾈ is coming here in person to ask for reinforcements.{05}{05}{05}
+@80
+{05}{05}{04}{02}{01}d{04}=0{01}J{E9}:{05}{05}{05}{02}{14}ﾈ has been attacked by {02}{03}ﾈ's army. Please, send reinforcements...{05}{05}{05}
+@81
+{05}{05}{04}{02}{01}{81}{01}J{EA}:{05}{05}{05}{02}{14}ﾈ has been invaded and our army can't hold alone. Will you send reinforcements?{05}{05}{05}
+@82
+{02}{14}ﾈ has been invaded and our army alone can't... Will you send reinforcements?{05}{05}{05}
+@83
+Lord {02}{01}ﾈ, we are allied\nwith {02}{02}ﾈ. We cannot\nattack {02}{14}ﾈ.{05}{05}{05}
+@84
+Answer {02}{01}ﾈ's request and send\nreinforcements to {02}{14}ﾈ?{05}{05}{05}
+@85
+Sent reinforcements\nto {02}{14}ﾈ.{05}{05}{05}
+@86
+Declined to send reinforcements\nto {02}{14}ﾈ.{05}{05}{05}
+@87
+Lord {02}{01}ﾈ's fame fell for not\nsending reinforcements\nto an ally.{05}{05}{05}
+@88
+No city can go to war.{05}{05}{05}
+@89
+Who will deploy? Vigor needed: 40{05}{05}{05}
+@90
+Select the city to attack.{05}{05}{05}
+@91
+No officer can\nbe sent.{05}{05}{05}

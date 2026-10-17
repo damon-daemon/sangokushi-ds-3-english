@@ -1,0 +1,160 @@
+@0
+...{05}{05}{05}
+@1
+In the castle of {02}{14}ﾈ{05}{05}{05}
+@2
+Lousang Village, Zhuo County,\nYou Province{05}{05}{05}
+@3
+The Yellow Turbans claim to\nsave the people, but they're\njust bandits who torment them.{05}{05}{05}
+@4
+Sigh...\nIs there no way to bring\ntrue peace to this land...?{05}{05}{05}
+@5
+Hey, you there!\nWhat're you sighing about\nin times like these?!{05}{05}{05}
+@6
+In such troubled times, it\npains me to do nothing for\nmy country. So I sighed...{05}{05}{05}
+@7
+I see...\nThen you're just\nlike me.{05}{05}{05}
+@8
+The man invited the youth\ninto a nearby tavern.{05}{05}{05}
+@9
+All right, then how about\nyou and me working\nfor the Han?{05}{05}{05}
+@10
+Oh, so you're patriots too...\nWhat say you let me\njoin you?{05}{05}{05}
+@11
+The three hit it off and swore\nbrotherhood in a peach garden,\nresolved to serve the Han.{05}{05}{05}
+@12
+We three become brothers and\nswear to fight until peace\ncomes to the land!{05}{05}{05}
+@13
+Aye!{05}{05}{05}
+@14
+Though we were not born on\nthe same day, may we die on\nthe same day!{05}{05}{05}
+@15
+This "Oath of the Peach Garden"\nbegan the journey of the three\nbrothers Liu, Guan and Zhang.{05}{05}{05}
+@16
+Zhang Lu of Hanzhong bears\nyou a grudge, my lord.\nThis is cause for concern.{05}{05}{05}
+@17
+You're right...\nIs there a good plan?{05}{05}{05}
+@18
+Lord Liu Bei of Jing is your\nkinsman and a man of virtue.\nWe should turn to him.{05}{05}{05}
+@19
+Lord Liu Zhang, follow Zhang\nSong's advice and ally\nwith Liu Bei?{05}{05}{05}
+@20
+We'll turn to Lord Liu Bei.\nI leave the details\nto you.{05}{05}{05}
+@21
+No, there's no need\nto go that far yet.{05}{05}{05}
+@22
+Lord Liu Bei, an envoy has\ncome from Lord Liu Zhang.{05}{05}{05}
+@23
+Lord Liu Bei, for peace in\nShu, would you form a\none-year alliance?{05}{05}{05}
+@24
+Lord Liu Bei, form a\none-year alliance with\nLiu Zhang?{05}{05}{05}
+@25
+Very well.\nIf I will do, I gladly\naccept the alliance.{05}{05}{05}
+@26
+Thank you for agreeing.\nHere is a small token of\nour thanks.{05}{05}{05}
+@27
+I hope this map will serve\nyou in the future, Imperial\nUncle... Now, farewell.{05}{05}{05}
+@28
+I'm sorry, Lord Zhang Song,\nbut let us leave the\nalliance for another time.{05}{05}{05}
+@29
+I see...\n...Then I take my leave.{05}{05}{05}
+@30
+Ah, Zhang Song.\nHow did it go?{05}{05}{05}
+@31
+We have formed a one-year\nalliance with Lord Liu Bei.\nWe can rest easy for now.{05}{05}{05}
+@32
+I could not form the alliance.\nThe fault is all mine...{05}{05}{05}
+@33
+I see.\nYou may go.{05}{05}{05}
+@34
+With warlords rising and the\nrealm in chaos, the Han must\nrestore its prestige.{05}{05}{05}
+@35
+How about a royal hunt outside\nXuchang to show the Han's\nvalor to the realm?{05}{05}{05}
+@36
+Very well, We will go.\n...Oh, and will\nLiu Bei come?{05}{05}{05}
+@37
+If Your Majesty wishes,\nI will arrange it\nat once.{05}{05}{05}
+@38
+Cao Cao has invited us to a\nhunt. His Majesty will\nattend too, they say.{05}{05}{05}
+@39
+Then this invitation is\nan imperial command?{05}{05}{05}
+@40
+That's big!\nBrother, we'd better\nget ready.{05}{05}{05}
+@41
+A hunt was held outside\nXuchang. Cao Cao turned it into\na show of his own power.{05}{05}{05}
+@42
+Well, Cao Cao,\nwhy don't you shoot\nthat deer?{05}{05}{05}
+@43
+Yes, Majesty.\nWith your leave.{05}{05}{05}
+@44
+Ah! Th-that bow and arrow\nare Ours...{05}{05}{05}
+@45
+Oh, that is His\nMajesty's arrow!{05}{05}{05}
+@46
+His Majesty has shot\nthe deer! Long live\nthe Emperor!{05}{05}{05}
+@47
+Hahaha, calm down!\nI'm the one who shot\nthat deer!{05}{05}{05}
+@48
+(Wh-what is this...!\n No subject would do this!\n What is he thinking?){05}{05}{05}
+@49
+(Curse you, Cao Cao!\n Such insolence!\n ...I can't allow it!){05}{05}{05}
+@50
+(Wait, Guan Yu! Act now and\n His Majesty will be in danger!\n Hold back!){05}{05}{05}
+@51
+Hahaha!\nWhat a fun hunt today,\nisn't it, Lord Xuande?{05}{05}{05}
+@52
+Brother, I don't think I'm\ncut out to be in charge\nafter all...{05}{05}{05}
+@53
+Oh, don't say that.\nYou're doing pretty\nwell.{05}{05}{05}
+@54
+You think so?\nI sure don't...{05}{05}{05}
+@55
+Lord Zhang Fei, hand\nthe leadership\nto Liu Bei?{05}{05}{05}
+@56
+Folks won't follow anyone\nbut you, big brother.{05}{05}{05}
+@57
+If you insist,\nI will lead again.{05}{05}{05}
+@58
+Liu Bei has become\nthe ruler.{05}{05}{05}
+@59
+Then I'll try a little\nharder.{05}{05}{05}
+@60
+Lord Liu Bei, Lord Cao Cao\nsummons you to\n{02}{14}ﾈ.{05}{05}{05}
+@61
+What could it be?\nWell, I must go.{05}{05}{05}
+@62
+Welcome, Lord Liu Bei.\nI just thought we might share\na drink in the plum garden.{05}{05}{05}
+@63
+Oh, an invitation to drink.\nI wondered what it\nwas about...{05}{05}{05}
+@64
+Cao Cao and Liu Bei drank\nin the plum garden.\nAs the feast went on,\nCao Cao asked about heroes.{05}{05}{05}
+@65
+Tell me, Lord Liu Bei,\nwho do you think are\nthe heroes of our time?{05}{05}{05}
+@66
+Heroes, you say?\nLet me see...{05}{05}{05}
+@67
+Lord Yuan Shu is of good\nfamily and might qualify\nas a hero.{05}{05}{05}
+@68
+Heh, Yuan Shu is no better\nthan a skeleton in the grave,\nold-fashioned and gutless.{05}{05}{05}
+@69
+Lord Yuan Shao comes of a\nline of great ministers and is\nwidely respected. A hero?{05}{05}{05}
+@70
+Yuan Shao is my friend, but\na timid man. He looks the\npart but is no hero.{05}{05}{05}
+@71
+What of Lord Liu Jingsheng,\none of the Eight Talents,\nrenowned for his wisdom?{05}{05}{05}
+@72
+Liu Biao is all empty fame.\nIt's only that his aides\nare able.{05}{05}{05}
+@73
+Then what of Sun Bofu, son\nof Lord Sun Jian? They say\nhe's quite a warrior.{05}{05}{05}
+@74
+Ah, Sun Ce... He has ability\nbut is too young.\nNot a hero yet.{05}{05}{05}
+@75
+Liu Jiyu is of the Han royal\nclan and a gentle man.\nWhat of him?{05}{05}{05}
+@76
+He's just a watchdog that\nwon't leave his master's door\neven in death. No hero.{05}{05}{05}
+@77
+Only those with great\nambition in their hearts are\nheroes. The rest are warlords.{05}{05}{05}
+@78
+Could there truly be\nsuch a man?{05}{05}{05}
+@79
+Let me see. Liu Xuande and\nCao Mengde, I'd say.\nHahahaha!{05}{05}{05}

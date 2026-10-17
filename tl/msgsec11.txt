@@ -1,0 +1,278 @@
+@0
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{00}+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J{01}+{05}{05}{05}{05}{05}{04}{02}{02}j{04}>80{01}J{02}+{05}{05}{05}{01}S{02}v4Lord {02}{02}ﾈ is a fine judge of people and will surely find good talent{01}C{1A}{00}.{05}{05}{05}They may be unknown{01}C{15}{00}, but I've heard rumors of a hermit of great promise{01}C{15}{00}.{05}{05}{05}If you don't judge by looks or rank, talent will turn up naturally{01}C{1A}{00}.{05}{05}{05}Don't rely on rumors; search carefully with your own eyes and ears{01}C{17}{00}.{05}{05}{05}
+@1
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J3+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J4+{05}{05}{05}{01}S{02}v5I think both sides gain from this alliance{01}C{16}{00}; it will succeed{01}C{1A}{00}.{05}{05}{05}If you explain our shared interests, an alliance is possible{01}C{1A}{00}.{05}{05}{05}Keep Lord {02}{04}ﾈ's character in mind as you talk, and you'll win them over{01}C{1A}{00}.{05}{05}{05}That realm seems very friendly toward us. An alliance will be easy{01}C{1A}{00}.{05}{05}{05}A fine idea{01}C{17}{00}. Let us send Lord {02}{02}ﾈ at once{01}C{14}{00}.{05}{05}{05}
+@2
+{05}{05}{04}{02}{01}{81}{01}J{FB}*{05}{05}{05}{01}S{02}v5Don't fixate on results... the will to seek great people is what matters{01}C{17}{00}{01}C0{00}.{05}{05}{05}Hmm... The hexagram says success is uncertain... The rest is up to you...{05}{05}{05}Doing is easier than worrying... Action is all that counts{01}C{17}{00}.{05}{05}{05}Bonds between people can't be planned... All the more reason to do our part{01}C{16}{00}.{05}{05}{05}Sages are hard to find... But seek nothing and you'll gain nothing{01}C {00}{01}C0{00}.{05}{05}{05}
+@3
+{01}S{02}v5Don't fixate on results... the will to seek great people is what matters{01}C{17}{00}{01}C0{00}.{05}{05}{05}I see... The hexagram says success is uncertain... The rest is up to you...{05}{05}{05}Doing is easier than worrying... Action is all that counts{01}C{17}{00}.{05}{05}{05}Bonds between people can't be planned... All the more reason to do our part{01}C{16}{00}.{05}{05}{05}Sages are hard to find... But seek nothing and you'll gain nothing{01}C0{00}.{05}{05}{05}
+@4
+{01}S{02}v2If only we could find Master Hua Tuo...{05}{05}{05}We must find Master Hua Tuo as soon as possible{01}C.{00}.{05}{05}{05}
+@5
+{05}{05}{04}{02}{01}{81}{01}J{FE}*{05}{05}{05}{01}S{02}v5My teacher always said{01}C{12}{00}: "Just go for it..."{05}{05}{05}According to the stars... hmm... the sky is cloudy{01}C.{00}...{05}{05}{05}I read the fortunes of Lord {02}{03}ﾈ and {01}C{0A}{00}... well, it's only fortune-telling{01}C2{00}.{05}{05}{05}If they can't see {01}C{0A}{00}'s worth{01}C9{00}, Lord {02}{03}ﾈ isn't worth much{01}C2{00}.{05}{05}{05}{01}C{00}{00} truly hope it goes well{01}C{1B}{00}...{05}{05}{05}
+@6
+{01}S{02}v5My teacher always said{01}C{12}{00}: "Just go for it..."{05}{05}{05}According to the stars... um, er... the sky is cloudy{01}C.{00}...{05}{05}{05}I read the fortunes of Lord {02}{03}ﾈ and {01}C{0A}{00}... well, it's only fortune-telling{01}C2{00}.{05}{05}{05}If they can't see {01}C{0A}{00}'s worth{01}C9{00}, Lord {02}{03}ﾈ isn't worth much{01}C2{00}.{05}{05}{05}{01}C{00}{00} truly hope it goes well{01}C{1B}{00}...{05}{05}{05}
+@7
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y20{01}J{FA}*{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{00}+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J{01}+{05}{05}{05}{05}{05}{04}{02}{02}j{04}>80{01}J{02}+{05}{05}{05}{01}S{02}v4Lord {02}{02}ﾈ is a fine judge of people and will surely find good talent{01}C{1A}{00}.{05}{05}{05}They may be unknown{01}C{15}{00}, but I've heard rumors of a hermit of great promise{01}C{15}{00}.{05}{05}{05}If you don't judge by looks or rank, talent will turn up naturally{01}C{1A}{00}.{05}{05}{05}Don't rely on rumors; search carefully with your own eyes and ears{01}C{17}{00}.{05}{05}{05}
+@8
+I think if {01}C{09}{00} searches personally{01}C{15}{00}, we'll find great generals{01}C{16}{00}.{05}{05}{05}
+@9
+{01}C{00}{00} have someone in mind{01}C{15}{00}, so look forward to it{01}C{13}{00}.{05}{05}{05}
+@10
+Lord {02}{02}ﾈ is a person of virtue{01}C{17}{00}. Let us await good news{01}C{14}{00}.{05}{05}{05}
+@11
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y10{01}J{FA}*{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{04}+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J{05}+{05}{05}{05}{05}{05}{04}{02}{02}p{04}<5{01}J{06}+{05}{05}{05}{05}{05}{04}{02}{02}r{04}<3{01}J{08}+{05}{05}{05}{01}S{02}v3It would be a waste of effort{01}C{17}{00}. Please don't{01}C{13}{00}.{05}{05}{05}Hmm, I've heard no rumors of worthy people{01}C1{00}. Search anyway...?{05}{05}{05}Finding great people is hard{01}C{17}{00}. Try again another time{01}C{13}{00}.{05}{05}{05}
+@12
+Even for {01}C{09}{00}, I think this one is impossible{01}C{16}{00}.{05}{05}{05}
+@13
+Not even {01}C{00}{00} can be sure of finding talent{01}C{17}{00}.{05}{05}{05}
+@14
+{05}{05}{04}{02}{01}{81}{01}J{07}+{05}{05}{05}Lord {02}{02}ﾈ judges people by only one side. It won't go well.{05}{05}{05}
+@15
+Lord {02}{02}ﾈ judges people by only one side. It won't go well.{05}{05}{05}
+@16
+{05}{05}{04}{02}{01}{81}{01}J{09}+{05}{05}{05}With Lord {02}{02}ﾈ's temperament, they won't find hidden talent in the wilds.{05}{05}{05}
+@17
+With Lord {02}{02}ﾈ's temperament, they won't find hidden talent in the wilds.{05}{05}{05}
+@18
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y15{01}J{FD}*{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{0C}+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J{0D}+{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{0B}+{05}{05}{05}{01}S{02}v5Lord {02}{02}ﾈ will hit it off with them and surely bring them into our realm{01}C{1A}{00}.{05}{05}{05}Approach them sincerely and they'll surely understand{01}C{1A}{00}.{05}{05}{05}Once they meet Lord {02}{02}ﾈ, they'll surely want to serve{01}C{1A}{00}.{05}{05}{05}Approach them humbly{01}C{13}{00}. Then you can't fail.{05}{05}{05}Heroes will surely get along; we can win them over{01}C{1A}{00}.{05}{05}{05}
+@19
+{01}S{02}v5Lord {02}{02}ﾈ will hit it off with them and surely bring them into our realm.{05}{05}{05}Approach them sincerely and they'll surely understand.{05}{05}{05}Once they meet Lord {02}{02}ﾈ, I think they'll surely want to serve.{05}{05}{05}Approach them humbly{01}C{13}{00}. Then you can't fail.{05}{05}{05}Heroes will surely get along; I think we can win them over.{05}{05}{05}
+@20
+If {01}C{09}{00} goes to persuade them, Lord {02}{03}ﾈ will be moved{01}C{1A}{00}.{05}{05}{05}
+@21
+I'm interested in that person{01}C{15}{00}. Give me permission{01}C{13}{00}.{05}{05}{05}
+@22
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}z{02}{03}{02}{02}{01}J{14}+{05}{05}{05}{05}{05}{04}{02}y5{01}J{FD}*{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{10}+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J{11}+{05}{05}{05}{05}{05}{04}{02}{03}s{04}>5{01}J{12}+{05}{05}{05}{05}{05}{04}{02}{02}p{04}<5{01}J{13}+{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{0F}+{05}{05}{05}{01}S{02}v3Lord {02}{03}ﾈ seems content with life. It would be a wasted trip{01}C{1A}{00}.{05}{05}{05}Lord {02}{03}ﾈ is a busy person{01}C{17}{00}. You won't even get to meet.{05}{05}{05}I think you'd best not{01}C{16}{00}. Give it up this time{01}C{13}{00}.{05}{05}{05}
+@23
+{01}S{02}v3Lord {02}{03}ﾈ seems content with life. Won't it be a wasted trip?{05}{05}{05}Lord {02}{03}ﾈ is a busy person{01}C{17}{00}. You won't even get to meet.{05}{05}{05}I think you'd best not{01}C{16}{00}. Give it up this time{01}C{13}{00}.{05}{05}{05}
+@24
+Even {01}C{09}{00} won't move Lord {02}{03}ﾈ's heart{01}C{1A}{00}.{05}{05}{05}
+@25
+{01}C{00}{00} can't get that one to budge{01}C{1A}{00}.{05}{05}{05}
+@26
+Lord {02}{03}ﾈ is unbending. I doubt you'll get a good answer so easily{01}C {00}.{05}{05}{05}
+@27
+Please don't{01}C{13}{00}. With Lord {02}{02}ﾈ's arrogance, no good will come of it{01}C {00}.{05}{05}{05}
+@28
+{01}S{02}e3I hear Lord {02}{03}ﾈ holds a grudge against {01}C{0A}{00}. Don't expect a good answer{01}C {00}.{05}{05}{05}Rumor says they've sworn they can't live under the same sky as {01}C{0A}{00}. It'll come to nothing.{05}{05}{05}I can't agree{01}C.{00}. Lord {02}{03}ﾈ thinks ill of {01}C{0A}{00}.{05}{05}{05}
+@29
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}{01}{87}{04}<2{06}&{02}{01}u{04}={02}{02}u{01}J{18}+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J{17}+{05}{05}{05}{05}{05}{04}{02}{01}{87}{04}<2{06}&{02}{02}d{04}=0{01}J{1A}+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{19}+{05}{05}{05}{05}{05}{04}{02}{01}{87}{04}<2{01}J{16}+{05}{05}{05}{01}S{02}v4Rob the people? Out of the question{01}C{1C}{00}. Please don't{01}C{13}{00}.{05}{05}{05}What are you thinking{01}C{18}{00}? That makes us no better than bandits{01}C0{00}!{05}{05}{05}{01}C{00}{00} will never allow such beastly conduct{01}C0{00}!{05}{05}{05}Please stop{01}C{13}{00}. Didn't you rise up for the sake of the suffering people?{05}{05}{05}
+@30
+{01}S{02}v2A splendid idea. I think we should do it at once{01}C{16}{00}.{05}{05}{05}All the wealth of the people here belongs to Lord {02}{03}ﾈ. Let us take it all.{05}{05}{05}
+@31
+{01}S{02}v2I don't like it{01}C {00}, but if it's an order, it can't be helped{01}C2{00}.{05}{05}{05}Why would you... {01}C{00}{00} cannot do something so cruel{01}C {00}.{05}{05}{05}
+@32
+{01}S{02}v3As expected of {01}C{09}{00}, a brilliant plan{01}C{17}{00}. Then at once...{05}{05}{05}For {01}C{09}{00}, the people will gladly give. I'll be on my way.{05}{05}{05}A splendid idea. I'll go and collect at once.{05}{05}{05}
+@33
+{01}S{02}v3Please reconsider{01}C{13}{00}. That's not how a ruler should act{01}C {00}.{05}{05}{05}Do you realize what you're doing? Think it over carefully{01}C{13}{00}.{05}{05}{05}Please stop{01}C{13}{00}. This is not how a savior of the people acts{01}C0{00}.{05}{05}{05}
+@34
+{01}S{02}v2{01}C{09}{00} doing it personally... impressive{01}C{17}{00}. I'll follow you anywhere{01}C0{00}.{05}{05}{05}Splendid... a truly splendid idea{01}C{17}{00}.{05}{05}{05}
+@35
+Very good, very good.{05}{05}{05}
+@36
+{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J{1D}+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{1E}+{05}{05}{05}{01}S{02}v5Listening to the people matters too{01}C{17}{00}. I think it's a good idea{01}C{16}{00}.{05}{05}{05}Meet the people and listen, and you'll understand how they suffer in this chaotic age.{05}{05}{05}The people must be grieving in this chaos. Listen closely to them and save them{01}C{13}{00}.{05}{05}{05}Listen to the people well and think carefully about what you should do{01}C{13}{00}.{05}{05}{05}Contact with the people matters{01}C{17}{00}. Never forget that a realm exists for its people...{05}{05}{05}
+@37
+I wish to meet the people directly to guide future policy{01}C{16}{00}.{05}{05}{05}
+@38
+{01}S{02}v2The people are exhausted by this chaotic age. Please be kind to them{01}C{13}{00}.{05}{05}{05}A good chance to hear the people... You'll surely learn what benevolent rule means.{05}{05}{05}
+@39
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}n{03}/5{04}>{02}o{01}J +{05}{05}{05}{05}{05}{04}{02}n{03}/2{04}>{02}o{01}J!+{05}{05}{05}{05}{05}{04}{02}n{04}>{02}o{01}J"+{05}{05}{05}{05}{05}{04}{02}n{04}>{02}o{03}/2{01}J$+{05}{05}{05}{01}S{02}v2The gap in strength is hopeless{01}C{17}{00}. {01}C{09}{00}, don't mistake recklessness for courage{01}C7{00}.{05}{05}{05}However elite they are, fighting with these forces is madness... Reconsider{01}C{13}{00}.{05}{05}{05}
+@40
+{01}S{02}v2We have an overwhelming advantage{01}C{17}{00}. Let us crush them.{05}{05}{05}I promise you certain victory. Come, prepare to march.{05}{05}{05}
+@41
+{01}S{02}v2I think we have the edge{01}C{16}{00}, but we can't let our guard down{01}C7{00}. Fight with all you have{01}C{13}{00}.{05}{05}{05}We have the advantage{01}C{15}{00}, but we can't relax{01}C7{00}.{05}{05}{05}
+@42
+{05}{05}{04}{02}{01}{81}{01}J#+{05}{05}{05}{01}S{02}v2I judge our forces evenly matched{01}C7{00}. The rest depends on the generals who lead them{01}C{17}{00}.{05}{05}{05}Hmm... evenly matched{01}C{17}{00}. Now is when {01}C{09}{00}'s command will tell{01}C{17}{00}.{05}{05}{05}
+@43
+{01}S{02}v2I judge our forces evenly matched{01}C7{00}. The rest depends on the generals who lead them{01}C{17}{00}.{05}{05}{05}Oh my... evenly matched{01}C{17}{00}. Now is when {01}C{09}{00}'s command will tell.{05}{05}{05}
+@44
+{01}S{02}v3There's a gap in strength{01}C{15}{00}. Let us at least use some scheme first.{05}{05}{05}A gap like this is nothing... {01}C{00}{00} have a plan{01}C{15}{00}. Leave it to me{01}C{13}{00}.{05}{05}{05}The enemy may have a slight edge{01}C{16}{00}, but they're a rabble. This battle is ours{01}C7{00}!{05}{05}{05}
+@45
+Very good, very good.{05}{05}{05}
+@46
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{03}u{01}J*+{05}{05}{05}{05}{05}{04}{02}{03}g{04}>85{01}J'+{05}{05}{05}{05}{05}{04}{02}{03}h{04}>85{01}J)+{05}{05}{05}{05}{05}{04}{02}{03}i{04}>85{01}J(+{05}{05}{05}{01}S{02}v3Lord {02}{03}ﾈ, take care on the road{01}C{13}{00}. I look forward to seeing you in a year{01}C2{00}.{05}{05}{05}I hear many lands are lawless. Please come back safely{01}C{13}{00}.{05}{05}{05}On the road you'll meet many people and learn much. Off you go.{05}{05}{05}
+@47
+I'd like Lord {02}{03}ﾈ to protect this realm... No, I won't insist...{05}{05}{05}
+@48
+Lord {02}{03}ﾈ's political skill is needed most right now. Training can wait for another time...{05}{05}{05}
+@49
+I don't want to be without Lord {02}{03}ﾈ's wisdom for a moment{01}C1{00}.{05}{05}{05}
+@50
+{01}S{02}v2Understood. I'll set out on a journey to find myself.{05}{05}{05}Then in a year... I'll strive to become known as {01}C{09}{00}'s right hand.{05}{05}{05}
+@51
+{01}S{02}v6With Lord {02}{04}ﾈ, their heart is like the wind... Success is up to luck.{05}{05}{05}Heroes know heroes... {01}C{0A}{00} understands Lord {02}{04}ﾈ's heart best.{05}{05}{05}The odds are even... Success depends on {01}C{0A}{00}'s caliber{01}C.{00}.{05}{05}{05}Foreseeing the outcome is far beyond shallow minds like me...{05}{05}{05}It'll go well... just a hunch, but...{05}{05}{05}It's worth a try{01}C{1A}{00}. "Impossible" is just a coward's excuse{01}C {00}.{05}{05}{05}Be confident{01}C{13}{00}. {01}C{04}{00} will only follow {01}C{0A}{00}{01}C{17}{00}.{05}{05}{05}
+@52
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y15{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J-+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J.+{05}{05}{05}{01}S{02}v5Well done, my lord. Sometimes courtesy must not be forgotten{01}C0{00}.{05}{05}{05}This will improve relations with Lord {02}{04}ﾈ{01}C{1A}{00}.{05}{05}{05}This will clear Lord {02}{04}ﾈ's doubts{01}C{1A}{00}.{05}{05}{05}A fine plan{01}C{17}{00}. We mustn't spare any effort to make it work{01}C.{00}.{05}{05}{05}I hear Lord {02}{04}ﾈ loves gifts{01}C{1B}{00}. Let us send envoys at once.{05}{05}{05}
+@53
+If {01}C{09}{00} delivers the gift, it will be more than effective{01}C{17}{00}. Bold of you{01}C.{00}.{05}{05}{05}
+@54
+I think I'll deliver the gift and scout out that realm while I'm there{01}C{16}{00}.{05}{05}{05}
+@55
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y5{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J0+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J1+{05}{05}{05}{01}S{02}v5I doubt Lord {02}{04}ﾈ cares for gifts{01}C {00}. Please don't{01}C{13}{00}.{05}{05}{05}Please don't{01}C{13}{00}. It may only make Lord {02}{04}ﾈ wary of us.{05}{05}{05}I think a gift won't change Lord {02}{04}ﾈ's mind{01}C{16}{00}. It'll be wasted{01}C{1A}{00}.{05}{05}{05}A gift to the suspicious Lord {02}{04}ﾈ might only make things worse...{05}{05}{05}A gift like this won't move Lord {02}{04}ﾈ{01}C {00}. Don't expect good news{01}C0{00}.{05}{05}{05}
+@56
+If {01}C{09}{00} delivers a gift, they'll suspect a hidden motive{01}C7{00}.{05}{05}{05}
+@57
+I think it's better to send someone more suited to diplomacy than me{01}C{16}{00}.{05}{05}{05}
+@58
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y15{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J3+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J4+{05}{05}{05}{01}S{02}v5I think both sides gain from this alliance{01}C{16}{00}; it will succeed{01}C{1A}{00}.{05}{05}{05}If you explain our shared interests, an alliance is possible{01}C{1A}{00}.{05}{05}{05}Keep Lord {02}{04}ﾈ's character in mind as you talk, and you'll win them over{01}C{1A}{00}.{05}{05}{05}That realm seems very friendly toward us. An alliance will be easy{01}C{1A}{00}.{05}{05}{05}A fine idea{01}C{17}{00}. Let us send Lord {02}{02}ﾈ at once{01}C{14}{00}.{05}{05}{05}
+@59
+If {01}C{09}{00} goes in person, Lord {02}{04}ﾈ will understand{01}C{1A}{00}.{05}{05}{05}
+@60
+{01}C{00}{00} am confident of persuading Lord {02}{04}ﾈ{01}C{15}{00}. May I{01}C{18}{00}?{05}{05}{05}
+@61
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y5{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J6+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J7+{05}{05}{05}{05}{05}{04}{02}{02}i{04}<50{01}J8+{05}{05}{05}{01}S{02}v4Lord {02}{04}ﾈ doesn't seem fond of us. I think an alliance is impossible{01}C{16}{00}.{05}{05}{05}That realm has nothing to gain from allying with us{01}C {00}. They'll refuse{01}C{1A}{00}.{05}{05}{05}Please don't{01}C{13}{00}. Lord {02}{02}ﾈ might be killed{01}C {00}.{05}{05}{05}We should deepen our friendship first{01}C{17}{00}. An alliance can come later...{05}{05}{05}
+@62
+{01}C{09}{00} going in person would be walking to your death at Lord {02}{04}ﾈ's hands{01}C0{00}!{05}{05}{05}
+@63
+I doubt even {01}C{00}{00} could persuade Lord {02}{04}ﾈ... I'll only disappoint you.{05}{05}{05}
+@64
+Please don't{01}C{13}{00}. Lord {02}{02}ﾈ would be talked into a corner{01}C0{00}.{05}{05}{05}
+@65
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y15{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J:+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J;+{05}{05}{05}{05}{05}{04}{02}{01}i{04}>79{01}J=+{05}{05}{05}{01}S{02}v4Lord {02}{04}ﾈ is friendly to us. They'll surely cooperate gladly{01}C{1A}{00}.{05}{05}{05}This will make both our realms stronger{01}C{1E}{00}. They can't refuse.{05}{05}{05}For them it's probably an unexpected stroke of luck. It'll go well{01}C{1A}{00}.{05}{05}{05}Explain the importance of this joint project well{01}C{13}{00}. Then you can't fail{01}C{1C}{00}.{05}{05}{05}
+@66
+{01}C{09}{00} can explain the merits of joint development{01}C{1A}{00}.{05}{05}{05}
+@67
+{05}{05}{04}{02}{01}{81}{01}J<+{05}{05}{05}"Leave it to me"? Are you sure you can? An advisor doesn't lie{01}C {00}.{05}{05}{05}
+@68
+"Leave it to me"? Are you sure you can? An advisor doesn't lie.{05}{05}{05}
+@69
+With Lord {02}{02}ﾈ's eloquence, they'll see the benefits of this project too{01}C{1A}{00}.{05}{05}{05}
+@70
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y5{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J?+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J@+{05}{05}{05}{05}{05}{04}{02}{01}i{04}<50{01}JA+{05}{05}{05}{01}S{02}v3Please don't{01}C{13}{00}. Lord {02}{04}ﾈ doesn't trust us yet{01}C {00}.{05}{05}{05}Lord {02}{04}ﾈ is uncooperative. They'd never agree to joint development{01}C{1C}{00}.{05}{05}{05}Lord {02}{04}ﾈ would surely keep the results for themselves. I think we'd better not{01}C{16}{00}.{05}{05}{05}
+@71
+Joint development should be left to others{01}C{17}{00}. It's not a ruler's job{01}C{1C}{00}.{05}{05}{05}
+@72
+I'd rather not{01}C {00}... I'm a bit unwell and have felt sick since morning.{05}{05}{05}
+@73
+{01}S{02}v2I think this task doesn't suit Lord {02}{02}ﾈ{01}C{16}{00}. Better to send another envoy...{05}{05}{05}I think it's better to send someone who knows about this project...{05}{05}{05}
+@74
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y15{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JC+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}JD+{05}{05}{05}{05}{05}{04}{02}{02}i{04}>80{01}JE+{05}{05}{05}{01}S{02}v4That realm must be a thorn in their side too. Let us await good news.{05}{05}{05}Lord {02}{04}ﾈ must want {02}{14}ﾈ taken too{01}C{17}{00}. Let us await a good answer.{05}{05}{05}For an attack on {02}{14}ﾈ, Lord {02}{04}ﾈ will agree in a heartbeat{01}C{1A}{00}.{05}{05}{05}A fine plan{01}C{17}{00}. We should plan the operation with Lord {02}{04}ﾈ at once{01}C{17}{00}.{05}{05}{05}
+@75
+If {01}C{09}{00} goes, even Lord {02}{04}ﾈ will finally act{01}C{1A}{00}.{05}{05}{05}
+@76
+{01}C{00}{00} will go myself and win over Lord {02}{04}ﾈ and their ministers.{05}{05}{05}
+@77
+If Lord {02}{02}ﾈ's eloquence wins Lord {02}{04}ﾈ over, the operation will succeed.{05}{05}{05}
+@78
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y5{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JG+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}JH+{05}{05}{05}{05}{05}{04}{02}{02}i{04}<50{01}JI+{05}{05}{05}{01}S{02}v4Lord {02}{04}ﾈ has nothing to gain from taking {02}{14}ﾈ. They'll refuse.{05}{05}{05}Lord {02}{04}ﾈ is suspicious. Winning them over will be extremely hard{01}C0{00}.{05}{05}{05}For Lord {02}{04}ﾈ, attacking {02}{14}ﾈ is all harm and no gain. It's pointless{01}C{1A}{00}.{05}{05}{05}Rumor says Lord {02}{04}ﾈ is on friendly terms with that realm... Don't expect a good answer{01}C {00}.{05}{05}{05}
+@79
+Even {01}C{09}{00} can't do it{01}C7{00}. Let us take {02}{14}ﾈ alone{01}C{14}{00}.{05}{05}{05}
+@80
+I think we'd better attack with our own army alone this time{01}C{16}{00}.{05}{05}{05}
+@81
+Lord {02}{02}ﾈ can't persuade Lord {02}{04}ﾈ{01}C {00}. Please don't{01}C{13}{00}.{05}{05}{05}
+@82
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y15{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JK+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}JL+{05}{05}{05}{01}S{02}v5If Lord {02}{02}ﾈ explains our plight, Lord {02}{04}ﾈ will understand.{05}{05}{05}Lord {02}{04}ﾈ is warm-hearted. They'll surely agree to give aid{01}C{1A}{00}.{05}{05}{05}We're bound as allies, so they'll surely give us aid.{05}{05}{05}Lord {02}{04}ﾈ is a hero of rare caliber. They'll surely give us aid.{05}{05}{05}For talks like these Lord {02}{02}ﾈ is ideal. It'll go well{01}C{1A}{00}.{05}{05}{05}
+@83
+I can't recommend {01}C{09}{00} begging for aid in person{01}C {00}, but it would be the most effective{01}C{17}{00}.{05}{05}{05}
+@84
+If {01}C{00}{00}, "my lord's right hand," go, it'll all work out{01}C{1A}{00}.{05}{05}{05}
+@85
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y5{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JN+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}JO+{05}{05}{05}{01}S{02}v5Money doesn't come easily{01}C{1C}{00}; it's earned by sweat{01}C{17}{00}.{05}{05}{05}Such naive talks will never work in this chaotic age{01}C{1C}{00}.{05}{05}{05}Please don't{01}C{13}{00}. Relying on others won't get us through this age{01}C0{00}.{05}{05}{05}Lord {02}{04}ﾈ is by no means rich either. Those talks won't go well.{05}{05}{05}Lord {02}{04}ﾈ must be short of money too. Let's work hard ourselves.{05}{05}{05}
+@86
+Even if {01}C{09}{00} negotiates in person, Lord {02}{04}ﾈ will refuse{01}C{1A}{00}.{05}{05}{05}
+@87
+Even {01}C{00}{00} would find it hard to get Lord {02}{04}ﾈ to agree to aid...{05}{05}{05}
+@88
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y15{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JQ+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}JR+{05}{05}{05}{01}S{02}v5A fine idea{01}C{17}{00}. This brings us a step closer to conquering the land{01}C{1A}{00}.{05}{05}{05}If Lord {02}{04}ﾈ submits to us, it will cow the other realms too.{05}{05}{05}If Lord {02}{04}ﾈ yields the castle without bloodshed, everyone rejoices. Well done, my lord.{05}{05}{05}Faced with our mighty realm's demand, even Lord {02}{04}ﾈ will have to nod...{05}{05}{05}A fine plan{01}C{17}{00}. Sometimes a heavy-handed approach is needed{01}C{17}{00}.{05}{05}{05}
+@89
+If {01}C{09}{00} goes to persuade them, Lord {02}{04}ﾈ will accept{01}C{1A}{00}.{05}{05}{05}
+@90
+I'll go and explain to Lord {02}{04}ﾈ how wise it would be to submit to us.{05}{05}{05}
+@91
+{05}{05}{04}{02}{01}u{04}=196{01}J{1B}+{05}{05}{05}{05}{05}{04}{02}y5{01}J++{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JT+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}JU+{05}{05}{05}{05}{05}{04}{02}{04}s{04}>4{01}JV+{05}{05}{05}{01}S{02}v3Lord {02}{04}ﾈ can still fight. I don't think they'll submit{01}C {00}.{05}{05}{05}Lord {02}{04}ﾈ's morale is high. A demand now would only pour oil on the fire.{05}{05}{05}Please don't{01}C{13}{00}. I don't think they'd surrender to our current strength{01}C {00}.{05}{05}{05}
+@92
+That's too bold{01}C7{00}. Think more about your own position{01}C{13}{00}.{05}{05}{05}
+@93
+If {01}C{00}{00} go, it'll only anger Lord {02}{04}ﾈ. Please reconsider{01}C{13}{00}.{05}{05}{05}
+@94
+{01}S{02}v2Lord {02}{04}ﾈ is a brave soul who'd rather die than surrender. Please don't{01}C{13}{00}.{05}{05}{05}I can't imagine the proud Lord {02}{04}ﾈ accepting such a demand{01}C {00}.{05}{05}{05}
+@95
+{01}S{02}v7Only Heaven knows whether it will succeed...{05}{05}{05}This time even {01}C{00}{00} can't predict it{01}C {00}. As you wish...{05}{05}{05}"Where there's a will there's a way" doesn't always hold{01}C {00}; that's what makes life interesting...{05}{05}{05}A hero shouldn't be swayed by the words of someone like me{01}C {00}.{05}{05}{05}Believe{01}C{17}{00}. Then Heaven will hear you{01}C{1A}{00}.{05}{05}{05}Yin and yang are uncertain... Lucky or not, regrets are useless{01}C{17}{00}.{05}{05}{05}{01}C{00}{00} am always on {01}C{0A}{00}'s side{01}C{17}{00}{01}C0{00}.{05}{05}{05}
+@96
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y20{01}JW+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JY+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}JZ+{05}{05}{05}{01}S{02}v5Lord {02}{02}ﾈ has fine spies at their command{01}C.{00}. I'll await good news.{05}{05}{05}As {02}{14}ﾈ is now, rumors will spread easily.{05}{05}{05}Rumors about {02}{04}ﾈ{01}C{18}{00}? Lord {02}{02}ﾈ could pull it off.{05}{05}{05}I'll give Lord {02}{02}ﾈ a sure-fire plan. Now, lend me your ear...{05}{05}{05}Lord {02}{02}ﾈ is right for the job{01}C{1A}{00}. I have high hopes{01}C{1B}{00}.{05}{05}{05}
+@97
+{01}C{09}{00} intends to lead the scheme personally{01}C{18}{00}... Then I'll trust your confidence.{05}{05}{05}
+@98
+Leave it to me. I'll prove the title of advisor isn't just for show.{05}{05}{05}
+@99
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y10{01}JW+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J\+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J]+{05}{05}{05}{01}S{02}v5In that realm, people and officers alike are devoted to {02}{04}ﾈ; rumors won't sway them{01}C {00}.{05}{05}{05}{02}{04}ﾈ is popular in {02}{14}ﾈ. Rumors are a poor move; "Plant Agent" would be better here.{05}{05}{05}I have another request for Lord {02}{02}ﾈ{01}C{15}{00}. Please don't this time{01}C{13}{00}.{05}{05}{05}{02}{14}ﾈ is a land {02}{04}ﾈ rules with great care. Petty tricks won't work{01}C {00}.{05}{05}{05}I think it's beyond Lord {02}{02}ﾈ... Everyone has their strengths and weaknesses{01}C{15}{00}.{05}{05}{05}
+@100
+{01}C{09}{00} must have other things to do. Leave this to your officers...{05}{05}{05}
+@101
+I have no confidence{01}C{1C}{00}. Could you at least target another realm{01}C {00}?{05}{05}{05}
+@102
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y20{01}JW+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J_+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J`+{05}{05}{05}{01}S{02}v5I hear that person is on bad terms with their lord. It will go well{01}C{1A}{00}.{05}{05}{05}Lord {02}{03}ﾈ seems unhappy with their treatment. Await good news{01}C{13}{00}.{05}{05}{05}Let us explain to Lord {02}{03}ﾈ the benefits of joining us and get them to promise to defect.{05}{05}{05}Lord {02}{03}ﾈ seems to want a lord who values them. Let us go and persuade them at once.{05}{05}{05}Lord {02}{02}ﾈ can persuade that person{01}C{1A}{00}.{05}{05}{05}
+@103
+If {01}C{09}{00} persuades them, Lord {02}{03}ﾈ will decide to defect{01}C{1A}{00}.{05}{05}{05}
+@104
+I know Lord {02}{03}ﾈ{01}C{15}{00}. Await good news{01}C{13}{00}.{05}{05}{05}
+@105
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y10{01}JW+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}Jb+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}Jc+{05}{05}{05}{05}{05}{04}{02}{03}g{04}>85{06}|{02}{03}h{04}>85{06}|{02}{03}i{04}>85{01}Jd+{05}{05}{05}{05}{05}{04}{02}{03}p{04}>10{01}Je+{05}{05}{05}{05}{05}{04}{02}{03}s{04}>4{01}Jf+{05}{05}{05}{01}S{02}v2Lord {02}{03}ﾈ is treated well in that realm. It won't go well.{05}{05}{05}It's pointless{01}C{17}{00}. Sometimes force is needed instead of schemes{01}C7{00}.{05}{05}{05}
+@106
+If this scheme fails, you'll be in danger yourself{01}C7{00}.{05}{05}{05}
+@107
+I have a bad feeling about this scheme. We should hold off.{05}{05}{05}
+@108
+Please don't{01}C{13}{00}. Lord {02}{03}ﾈ is renowned as a great general in that realm{01}C7{00}.{05}{05}{05}
+@109
+Lord {02}{03}ﾈ is a loyal soul. I think persuading them will be difficult{01}C{16}{00}.{05}{05}{05}
+@110
+{05}{05}{04}{02}{01}{81}{01}Jg+{05}{05}{05}A poor move, a poor move. I doubt that stubborn one would join us{01}C {00}.{05}{05}{05}
+@111
+A poor move. I doubt that stubborn one would join us{01}C {00}.{05}{05}{05}
+@112
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y20{01}JW+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}Ji+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}Jj+{05}{05}{05}{05}{05}{04}{02}{03}q{04}>12{01}Jk+{05}{05}{05}{01}S{02}v3A rebellion in {02}{14}ﾈ would be like holding a sword to Lord {02}{04}ﾈ's throat{01}C{17}{00}.{05}{05}{05}If Lord {02}{03}ﾈ declares independence now, we can pin Lord {02}{04}ﾈ down.{05}{05}{05}If {02}{14}ﾈ rebels, a joint operation with Lord {02}{03}ﾈ becomes possible{01}C.{00}.{05}{05}{05}
+@113
+{01}C{09}{00} can stir that person up{01}C{1A}{00}.{05}{05}{05}
+@114
+If we make Lord {02}{03}ﾈ independent, I'd like to plan a joint operation too{01}C.{00}.{05}{05}{05}
+@115
+Rumor says that one has long aimed to rule a realm. Let us await good news.{05}{05}{05}
+@116
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y10{01}JW+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}Jm+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}Jn+{05}{05}{05}{05}{05}{04}{02}{03}q{04}<2{01}Jo+{05}{05}{05}{05}{05}{04}{02}{03}p{04}>10{01}Jp+{05}{05}{05}{01}S{02}v3Lord {02}{03}ﾈ was entrusted with a key post and is well trusted. It'll come to nothing.{05}{05}{05}I can't imagine Lord {02}{04}ﾈ's trusted right hand falling for such a scheme{01}C {00}.{05}{05}{05}I think persuading that person is beyond Lord {02}{02}ﾈ{01}C{16}{00}.{05}{05}{05}
+@117
+Please don't{01}C{13}{00}. Instead of driving the tiger, we'll become its prey{01}C0{00}.{05}{05}{05}
+@118
+I consulted the oracle and this scheme came out ill-omened. Unlucky{01}C{17}{00}.{05}{05}{05}
+@119
+That one is timid{01}C{17}{00}. I can't imagine them plotting independence{01}C {00}.{05}{05}{05}
+@120
+I can't imagine the honorable Lord {02}{03}ﾈ taking such bait{01}C {00}.{05}{05}{05}
+@121
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y20{01}JW+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}Jr+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}Js+{05}{05}{05}{05}{05}{04}{02}{14}e{04}<60{01}Jt+{05}{05}{05}{01}S{02}v4Let us stir up the people and start a revolt at once.{05}{05}{05}A clever plan{01}C{17}{00}. They'll never dream their own people would turn on them...{05}{05}{05}That's what they get for neglecting domestic affairs. Don't you neglect them either, my lord.{05}{05}{05}A fine plan. Let us seize the moment and crush them in one stroke.{05}{05}{05}
+@122
+If {01}C{09}{00} speaks before the people, their hearts will be moved{01}C{1A}{00}.{05}{05}{05}
+@123
+{01}C{00}{00} have a plan{01}C{15}{00}. Leave it to me...{05}{05}{05}
+@124
+The people of {02}{14}ﾈ seem unhappy with their rule. A rare chance{01}C.{00}.{05}{05}{05}
+@125
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y10{01}JW+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}Jv+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}Jw+{05}{05}{05}{05}{05}{04}{02}{14}e{04}>80{01}Jx+{05}{05}{05}{01}S{02}v3The people of that realm are all gentle souls{01}C{17}{00}. I doubt the scheme will work.{05}{05}{05}I think stirring up the people under that rule is impossible{01}C{16}{00}.{05}{05}{05}In {02}{14}ﾈ, soldiers and people alike are united{01}C{1B}{00}. There's no opening to incite{01}C {00}.{05}{05}{05}
+@126
+{01}C{09}{00} is hated there{01}C{1B}{00}. You mustn't go{01}C {00}.{05}{05}{05}
+@127
+Forgive me, but {01}C{00}{00} cannot use the people that way{01}C {00}.{05}{05}{05}
+@128
+{01}S{02}v2The people of that realm are devoted to Lord {02}{04}ﾈ{01}C{1B}{00}. It'll come to nothing.{05}{05}{05}The people of {02}{14}ﾈ are content with their rule{01}C{1B}{00}. That plan is pointless{01}C{1A}{00}.{05}{05}{05}
+@129
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y20{01}JW+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}Jz+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J{7B}+{05}{05}{05}{01}S{02}v5A clever plan. Let us wreck their fortifications at once and gain the upper hand.{05}{05}{05}Their guard seems thin right now. A golden opportunity{01}C.{00}.{05}{05}{05}That's no trouble for Lord {02}{02}ﾈ. Let us await good news.{05}{05}{05}That realm's sturdy castle stands in our way{01}C{1E}{00}. I'll sabotage it at once.{05}{05}{05}Sabotage before battle... well done, my lord{01}C.{00}. A fine plan, I think{01}C2{00}.{05}{05}{05}
+@130
+You seem to have some plan in mind. Let me see what you can do.{05}{05}{05}
+@131
+I looked at that castle and found one weak point. Leave it to me{01}C{13}{00}.{05}{05}{05}
+@132
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y10{01}JW+{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J}+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J~+{05}{05}{05}{01}S{02}v5I think sabotage under {02}{14}ﾈ's tight guard will be difficult{01}C{16}{00}.{05}{05}{05}Sabotaging that sturdy castle is a drop in the ocean. A poor move...{05}{05}{05}I can't agree{01}C {00}. Sabotage under the guards' eyes is extremely hard.{05}{05}{05}If the castle is strong, think about how to lure out the troops inside. That is strategy{01}C7{00}.{05}{05}{05}Sadly, it would fail. Why not try another scheme?{05}{05}{05}
+@133
+I can't agree. Another scheme would work better on that castle, I think{01}C{16}{00}.{05}{05}{05}
+@134
+That castle has no weak points{01}C {00}. Sadly, let us rethink our plans.{05}{05}{05}
+@135
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y20{01}JW+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J{80}+{05}{05}{05}{01}S{02}v5Lord {02}{02}ﾈ's face isn't known there{01}C {00}. They can slip in easily.{05}{05}{05}{02}{14}ﾈ isn't so heavily guarded{01}C {00}. It'll go well{01}C{1A}{00}.{05}{05}{05}We have a mole in that realm; we'll have them help.{05}{05}{05}A clever plan{01}C{17}{00}. Let us make arrangements and send them there at once.{05}{05}{05}I've slipped into that realm several times. It'll go well{01}C{1A}{00}.{05}{05}{05}
+@136
+I foresaw this and have already made preparations.{05}{05}{05}
+@137
+{05}{05}{04}{02}{01}u{04}=196{01}J%+{05}{05}{05}{05}{05}{04}{02}y10{01}JW+{05}{05}{05}{05}{05}{04}{02}{01}u{04}={02}{02}u{01}J{82}+{05}{05}{05}{01}S{02}v5It's dangerous{01}C{17}{00}. Lord {02}{02}ﾈ's face is too well known{01}C{1B}{00}.{05}{05}{05}{02}{14}ﾈ is heavily guarded; I think slipping in will be hard{01}C{16}{00}.{05}{05}{05}{02}{14}ﾈ is hostile to outsiders; I think it's impossible{01}C{16}{00}.{05}{05}{05}Please don't{01}C{13}{00}. I think this role is too hard for Lord {02}{02}ﾈ{01}C{16}{00}.{05}{05}{05}No one who slipped into {02}{14}ﾈ has ever come back{01}C {00}. Please reconsider{01}C{13}{00}.{05}{05}{05}
+@138
+My face is known there too{01}C{1B}{00}.{05}{05}{05}

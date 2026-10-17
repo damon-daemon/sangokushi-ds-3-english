@@ -1,0 +1,524 @@
+@0
+No ruler has been selected.{05}{05}{05}
+@1
+Select the officer to send as envoy.{05}{05}{05}
+@2
+No officer has been selected.{05}{05}{05}
+@3
+No city has been selected.{05}{05}{05}
+@4
+Select a gift for {02}{01}ﾈ.{05}{05}{05}
+@5
+What will you offer as terms of alliance?{05}{05}{05}
+@6
+What will you offer as payment?{05}{05}{05}
+@7
+Not enough gold.{05}{05}{05}
+@8
+Not enough food.{05}{05}{05}
+@9
+Lord {02}{01}ﾈ has no {1B}K{1B}Hitems.{05}{05}{05}
+@10
+How much gold will you send {02}{01}ﾈ?{05}{05}{05}
+@11
+How much food will you send {02}{01}ﾈ?{05}{05}{05}
+@12
+How much gold will you offer as payment?{05}{05}{05}
+@13
+How much food will you offer as payment?{05}{05}{05}
+@14
+What will you send {02}{01}ﾈ?{05}{05}{05}
+@15
+What will you offer as payment?{05}{05}{05}
+@16
+No {1B}K{1B}Hitem has been selected.{05}{05}{05}
+@17
+Select the ruler to send a gift to.{05}{05}{05}
+@18
+Select the ruler to ally with.{05}{05}{05}
+@19
+Already allied.{05}{05}{05}
+@20
+Ally with {02}{01}ﾈ for how many {1B}K{1B}Hmonths?{05}{05}{05}
+@21
+Select the ruler to research with.{05}{05}{05}
+@22
+You can't research with a ruler you're not allied with.{05}{05}{05}
+@23
+The alliance term is too short for research.{05}{05}{05}
+@24
+What will you research with {02}{01}ﾈ?{05}{05}{05}
+@25
+No weapon has been selected for research.{05}{05}{05}
+@26
+You cannot march on that city.{05}{05}{05}
+@27
+You cannot attack an empty city.{05}{05}{05}
+@28
+You cannot attack an ally.{05}{05}{05}
+@29
+No ally can attack.{05}{05}{05}
+@30
+Whom will you ask to help take {02}{14}ﾈ?{05}{05}{05}
+@31
+You cannot ask that ruler for help.{05}{05}{05}
+@32
+Select the target city of the joint operation.{05}{05}{05}
+@33
+Select the ruler to ask for aid.{05}{05}{05}
+@34
+You can only ask allied rulers for aid.{05}{05}{05}
+@35
+Select the ruler to demand surrender from.{05}{05}{05}
+@36
+You cannot demand an ally's surrender.{05}{05}{05}
+@37
+{05}{05}{04}{02}{01}d{04}=0{01}J^J{05}{05}{05}{01}S{02}e3I nearly lost my life. What an outrageous scoundrel{01}C2{00}.{05}{05}{05}That was close. I want nothing to do with people like that{01}C{17}{00}.{05}{05}{05}Drawing a blade on an envoy is unforgivable{01}C{17}{00}. That wretch will pay{01}C'{00}!{05}{05}{05}
+@38
+{01}C{00}{00} came in person, and they drew blades on me... Grrr...{05}{05}{05}
+@39
+{05}{05}{04}{02}{01}{81}{01}J`J{05}{05}{05}{01}S{02}e3What, {02}{02}ﾈ was cut down? Curse you, {02}{03}ﾈ! What a vile wretch{01}C-{00}!{05}{05}{05}{02}{02}ﾈ was cut down? Is it true? You'll pay for this{01}C'{00}, {02}{03}ﾈ!{05}{05}{05}{02}{02}ﾈ was cut down! {02}{03}ﾈ, killing an envoy is unforgivable{01}C {00}!{05}{05}{05}
+@40
+{01}S{02}e3{02}{02}ﾈ was cut down... Curse you, {02}{03}ﾈ! What a vile wretch...{05}{05}{05}{02}{02}ﾈ was cut down? Is it true? You'll pay for this{01}C'{00}, {02}{03}ﾈ!{05}{05}{05}{02}{02}ﾈ was cut down!? {02}{03}ﾈ, killing an envoy is unforgivable!{05}{05}{05}
+@41
+Send an envoy to {02}{01}ﾈ?\n(Gift: {02}- {1B}C4{02}({1B}C1){05}{05}{05}
+@42
+Send an envoy to {02}{01}ﾈ?\n(Gift: {1B}C6{02}-{1B}C1){05}{05}{05}
+@43
+{05}{05}{04}{02}{01}d{04}=0{01}JdJ{05}{05}{05}{01}S{02}e3Rejoice{01}C{13}{00}! I persuaded them{01}C7{00}.{05}{05}{05}The talks went well. Now, on to the next plan.{05}{05}{05}They accepted it gladly. I'm glad {01}C{09}{00}'s goodwill got through{01}C.{00}.{05}{05}{05}
+@44
+It was worth going{01}C5{00}. My sincerity seems to have gotten through{01}C2{00}.{05}{05}{05}
+@45
+{05}{05}{04}{02}{01}d{04}=0{01}JfJ{05}{05}{05}{01}S{02}e3I'm sorry{01}C{1C}{00}. They refused.{05}{05}{05}I'm ashamed{01}C{1C}{00}. I couldn't persuade them.{05}{05}{05}They wouldn't accept the gift. I'm sorry{01}C{1C}{00}.{05}{05}{05}
+@46
+{05}{05}{04}{02}{01}{81}{01}JgJ{05}{05}{05}To spurn my goodwill... Did my sincerity not get through?{05}{05}{05}
+@47
+To spurn my goodwill... Did my sincerity not get through?{05}{05}{05}
+@48
+{02}{01}ﾈ's hostility toward us\nis now {1B}C4{02}({1B}C1 (-{1B}C4{02}){1B}C1).{05}{05}{05}
+@49
+Bring a gift along?{05}{05}{05}
+@50
+Send an envoy to {02}{01}ﾈ?\n(Alliance - Term: {02}( {1B}K{1B}Hmonths\nTerms: None){05}{05}{05}
+@51
+Send an envoy to {02}{01}ﾈ?\n(Alliance - Term: {02}( {1B}K{1B}Hmonths\nTerms: {02}- {1B}C4{02}){1B}C1){05}{05}{05}
+@52
+Send an envoy to {02}{01}ﾈ?\n(Alliance - Term: {02}( {1B}K{1B}Hmonths\nTerms: {1B}C6{02}-{1B}C1){05}{05}{05}
+@53
+{05}{05}{04}{02}{01}d{04}=0{01}JnJ{05}{05}{05}{01}S{02}e3Rejoice{01}C{13}{00}! I persuaded them{01}C7{00}.{05}{05}{05}The talks went well. Now, on to the next plan.{05}{05}{05}The alliance is made. A reliable ally is a great comfort{01}C{17}{00}.{05}{05}{05}
+@54
+It was worth going in person{01}C5{00}.{05}{05}{05}
+@55
+{05}{05}{04}{02}{01}d{04}=0{01}JpJ{05}{05}{05}{01}S{02}e3I'm sorry{01}C{1C}{00}. They refused.{05}{05}{05}I'm ashamed{01}C{1C}{00}. I couldn't persuade them.{05}{05}{05}They refused the alliance. Someday I'll make up for this failure...{05}{05}{05}
+@56
+{05}{05}{04}{02}{01}{81}{01}JqJ{05}{05}{05}Even though {01}C{00}{00} begged them, no good... A pity{01}C-{00}.{05}{05}{05}
+@57
+Even though {01}C{00}{00} begged them, no good... What a pity.{05}{05}{05}
+@58
+Formed a {02}(-{1B}K{1B}Hmonth alliance with {02}{01}ﾈ.{05}{05}{05}
+@59
+Send an envoy to {02}{01}ﾈ?\n(Joint research - Weapon: {1B}C6{02}-{1B}C1){05}{05}{05}
+@60
+{05}{05}{04}{02}{01}d{04}=0{01}JuJ{05}{05}{05}{01}S{02}e3Rejoice{01}C{13}{00}! I persuaded them{01}C7{00}.{05}{05}{05}The talks went well. Now, on to the next plan.{05}{05}{05}They agreed to the research. Let's get started right away.{05}{05}{05}
+@61
+I'm glad it worked{01}C2{00}. Once this weapon is developed, the war is sure to end sooner.{05}{05}{05}
+@62
+{05}{05}{04}{02}{01}d{04}=0{01}JwJ{05}{05}{05}{01}S{02}e3I'm sorry{01}C{1C}{00}. They refused.{05}{05}{05}I'm ashamed{01}C{1C}{00}. I couldn't persuade them.{05}{05}{05}They didn't accept the research.{05}{05}{05}
+@63
+To think they'd refuse{01}C8{00}... I thought it would work. I overrated myself.{05}{05}{05}
+@64
+Began researching {1B}C6{02}-{1B}C1\nwith {02}{01}ﾈ. It will be done\nin {02}( {1B}K{1B}Hmonths.\nI look forward to the results.{05}{05}{05}
+@65
+Offer payment for their help?{05}{05}{05}
+@66
+Send an envoy to {02}{01}ﾈ?\n(Joint op - Target: {02}{14}ﾈ\nTerms: None){05}{05}{05}
+@67
+Send an envoy to {02}{01}ﾈ?\n(Joint op - Target: {02}{14}ﾈ\nTerms: {02}- {1B}C4{02}({1B}C1){05}{05}{05}
+@68
+Send an envoy to {02}{01}ﾈ?\n(Joint op - Target: {02}{14}ﾈ\nTerms: {1B}C6{02}-{1B}C1){05}{05}{05}
+@69
+{05}{05}{04}{02}{01}d{04}=0{01}J~J{05}{05}{05}{01}S{02}e3Rejoice{01}C{13}{00}! I persuaded them{01}C7{00}.{05}{05}{05}The talks went well. Now, on to the next plan.{05}{05}{05}They agreed to the joint operation. Let's be ready to sortie at any time.{05}{05}{05}
+@70
+Since {01}C{00}{00} went to negotiate, they trusted us{01}C0{00}. Everyone, prepare to sortie{01}C-{00}!{05}{05}{05}
+@71
+{05}{05}{04}{02}{01}d{04}=0{01}J{80}J{05}{05}{05}{01}S{02}e3I'm sorry{01}C{1C}{00}. They refused.{05}{05}{05}I'm ashamed{01}C{1C}{00}. I couldn't persuade them.{05}{05}{05}They refused the joint operation. Lord {02}{02}ﾈ must have their reasons{01}C{1A}{00}.{05}{05}{05}
+@72
+Even going in person, {01}C{00}{00} failed... I must lack the caliber of a ruler{01}C2{00}.{05}{05}{05}
+@73
+Agreed with {02}{01}ﾈ to take {02}{14}ﾈ.\nLet's attack {02}{14}ﾈ\nwithin 3 {1B}K{1B}Hmonths.{05}{05}{05}
+@74
+We've promised {02}{01}ﾈ to attack\n{02}{14}ﾈ together.\nCancel it?{05}{05}{05}
+@75
+Ask {02}{02}ﾈ for aid.\nIs that all right?{05}{05}{05}
+@76
+{02}{01}ﾈ gave us\n{1B}C4%u{1B}C1 %s\nin aid.{05}{05}{05}
+@77
+{05}{05}{04}{02}{01}d{04}=0{01}J{86}J{05}{05}{05}{01}S{02}e3As you see, they granted the aid. Good news{01}C.{00}.{05}{05}{05}They agreed without hesitation. I can't believe it{01}C {00}... Is there a catch?{05}{05}{05}To agree so readily... That one is a rare hero too. Someday we must settle things...{05}{05}{05}
+@78
+{05}{05}{04}{02}{01}{81}{01}J⑪{05}{05}{05}Such generous aid, given so freely... I'll send a letter of thanks later.{05}{05}{05}
+@79
+Such generous aid, given so freely... I'll send a letter of thanks later.{05}{05}{05}
+@80
+{05}{05}{04}{02}{01}d{04}=0{01}J雨{05}{05}{05}{01}S{02}e3I'm sorry{01}C{1C}{00}. They refused the aid. The world is not so kind.{05}{05}{05}It seems you can't count on aid in this chaotic age{01}C{17}{00}.{05}{05}{05}We begged so hard and they still refused... How petty...{05}{05}{05}
+@81
+{05}{05}{04}{02}{01}{81}{01}J開{05}{05}{05}I misjudged them{01}C5{00}. I thought they were bigger than that...{05}{05}{05}
+@82
+I misjudged them. I took them for a big-hearted hero...{05}{05}{05}
+@83
+Lord {02}{01}ﾈ's fame fell.{05}{05}{05}
+@84
+Demand that {02}{01}ﾈ\nsurrender?{05}{05}{05}
+@85
+{05}{05}{04}{02}{01}d{04}=0{01}J捌{05}{05}{05}{01}S{02}e3Rejoice{01}C{13}{00}! I persuaded them{01}C7{00}.{05}{05}{05}The talks went well. Now, on to the next plan.{05}{05}{05}The demand succeeded{01}C{17}{00}. I was impressed by how gracefully Lord {02}{02}ﾈ accepted.{05}{05}{05}
+@86
+Going in person so they could save face was the key{01}C2{00}.{05}{05}{05}
+@87
+{05}{05}{04}{02}{01}d{04}=0{01}J辱{05}{05}{05}{01}S{02}e3I'm sorry{01}C{1C}{00}. They refused.{05}{05}{05}I'm ashamed{01}C{1C}{00}. I couldn't persuade them.{05}{05}{05}They flatly rejected the demand. Admirable, for an enemy. Too good to kill, I think{01}C{16}{00}.{05}{05}{05}
+@88
+{01}C{00}{00} respected {02}{02}ﾈ's honor and came in person, and they rejected me...{05}{05}{05}
+@89
+{02}{01}ﾈ has surrendered to us.{05}{05}{05}
+@90
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}J褒{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J寧{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J笛{05}{05}{05}{01}S{02}e3Ah, {02}{02}ﾈ. What business brings you here?{05}{05}{05}{02}{02}ﾈ, welcome after your long journey. Is Lord {02}{03}ﾈ well{01}C4{00}?{05}{05}{05}Why, it's {02}{02}ﾈ. No need for formalities{01}C9{00}. Come right in{01}C#{00}.{05}{05}{05}
+@91
+{01}S{02}e3Ah, {02}{02}ﾈ. What business brings you here?{05}{05}{05}{02}{02}ﾈ, welcome after your long journey. Is Lord {02}{03}ﾈ well{01}C4{00}?{05}{05}{05}Why, it's {02}{02}ﾈ. No need for formalities{01}C9{00}. Come right in{01}C#{00}.{05}{05}{05}
+@92
+{05}{05}{04}{02}{01}{81}{01}J弼{05}{05}{05}Lord {02}{02}ﾈ, coming in person... Is it something serious? Speak freely.{05}{05}{05}
+@93
+Lord {02}{02}ﾈ, coming in person... Is it something serious? Please, speak freely.{05}{05}{05}
+@94
+{05}{05}{04}{02}{02}d{04}=0{01}J憂{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J労{05}{05}{05}{01}S{02}e3{02}{02}ﾈ. What have you come for?{05}{05}{05}{02}{03}ﾈ's envoy, eh? State your business and be gone.{05}{05}{05}Oh, it's you. So, what do you want{01}C-{00}? Out with it.{05}{05}{05}
+@95
+{05}{05}{04}{02}{01}{81}{01}J價{05}{05}{05}You... I ought to kill you, but I'll at least hear you out.{05}{05}{05}
+@96
+{01}S{02}e3{02}{02}ﾈ. What have you come for?{05}{05}{05}{02}{03}ﾈ's envoy? State your business and leave at once.{05}{05}{05}Oh, it's you. So, what do you want? Out with it.{05}{05}{05}
+@97
+You... By rights you'd be dead, but I'll at least hear you out.{05}{05}{05}
+@98
+Good, good.{05}{05}{05}
+@99
+Good, good.{05}{05}{05}
+@100
+{05}{05}{04}{02}{01}{81}{01}J扣{05}{05}{05}{01}S{02}v5Coming alone takes nerve{01}C-{00}. I hope you're prepared.{05}{05}{05}Before {01}C{09}{00} answers, my sword will answer for them.{05}{05}{05}You came all this way just to be killed... Regret it in the next world.{05}{05}{05}You mean to fool {01}C{09}{00} with your silver tongue, but it won't work{01}C7{00}.{05}{05}{05}You call yourself an envoy, but you're really an assassin. I'll cut you down.{05}{05}{05}
+@101
+{01}S{02}v5Coming alone takes nerve. I hope you're prepared?{05}{05}{05}Before {01}C{09}{00} answers, my sword will answer for them.{05}{05}{05}You came all this way just to be killed... Regret it in the next world.{05}{05}{05}You mean to fool {01}C{09}{00} with your silver tongue, but it won't work{01}C7{00}.{05}{05}{05}Aren't you an assassin posing as an envoy!? I'll cut you down.{05}{05}{05}
+@102
+{02}{01}ﾈ, sent as {02}{02}ﾈ's envoy,\nwas cut down by {02}{03}ﾈ\nduring the talks.{05}{05}{05}
+@103
+{05}{05}{04}{02}{02}d{04}=0{01}J{A0}J{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J｡J{05}{05}{05}{01}S{02}e5Don't move. Someone, cut this one down.{05}{05}{05}Why, you... Unforgivable{01}C9{00}{01}C0{00}! Someone, cut this one down.{05}{05}{05}You won't get off lightly. If you think you'll leave alive, you're dead wrong{01}C-{00}.{05}{05}{05}{01}CA{00} A moth flying into the flame, that's you!{05}{05}{05}Coming here to die... Someone, cut this wretch down!{05}{05}{05}
+@104
+{05}{05}{04}{02}{01}{81}{01}J｢J{05}{05}{05}A ruler coming in person... I hope you're prepared.{05}{05}{05}
+@105
+{01}S{02}e3Don't move. Someone, cut this one down.{05}{05}{05}{01}CA{00} A moth flying into the flame, that's you!{05}{05}{05}Coming here to die... Someone, cut this one down!{05}{05}{05}
+@106
+A ruler coming in person... I hope you're prepared.{05}{05}{05}
+@107
+{05}{05}{04}{02}{01}{81}{01}J､J{05}{05}{05}{01}S{02}e3Killing an envoy... Remember, no ruler without benevolence has ever prospered!{05}{05}{05}Gwaah... Lord {02}{03}ﾈ, forgive me...{05}{05}{05}Curse you! What kind of person kills an envoy without a second thought...{05}{05}{05}
+@108
+{01}S{02}e3Killing an envoy... Remember! No ruler without benevolence has ever prospered!{05}{05}{05}Aah... Lord {02}{03}ﾈ, forgive me...{05}{05}{05}Curse you! What kind of person kills an envoy without a second thought...{05}{05}{05}
+@109
+{05}{05}{04}{02}{01}d{04}=0{01}JｦJ{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JｨJ{05}{05}{05}{01}S{02}e3I won't be cut down so easily!{05}{05}{05}Whoa, close one. I won't die in a place like this!{05}{05}{05}Killing an envoy... What a coward. You'll pay{01}C'{00}!{05}{05}{05}
+@110
+{05}{05}{04}{02}{01}{81}{01}JｧJ{05}{05}{05}{01}C{00}{00} won't be killed by the likes of you{01}C5{00}!{05}{05}{05}
+@111
+{01}C{00}{00} won't be killed by the likes of you!{05}{05}{05}
+@112
+{01}S{02}e3I won't be cut down so easily!{05}{05}{05}Whoa, close one. I won't die in a place like this!{05}{05}{05}Killing an envoy... What a coward. You'll pay for this!{05}{05}{05}
+@113
+We cannot agree due to financial trouble.{05}{05}{05}
+@114
+That weapon has already been developed.{05}{05}{05}
+@115
+Researching {1B}C6{02}-{1B}C1 with {02}{01}ﾈ.{05}{05}{05}
+@116
+We cannot agree to attack an ally.{05}{05}{05}
+@117
+You cannot kill an ally's envoy.{05}{05}{05}
+@118
+Lord {02}{01}ﾈ, an envoy\nhas been sent by\n{02}{02}ﾈ.{05}{05}{05}
+@119
+Accept {02}{02}ﾈ's\noffer?{05}{05}{05}
+@120
+{05}{05}{04}{02}{01}u{04}=196{01}J妍{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}JｱJ{05}{05}{05}{01}S{02}e4My lord entrusted me with these gifts{01}C{11}{00}. Please accept{01}C{13}{00}.{05}{05}{05}My lord asks you to accept these gifts as a greeting{01}C{17}{00}.{05}{05}{05}This is but a fraction of our realm's wealth. Be our friend and we'll send more{01}C0{00}.{05}{05}{05}I'm honored to meet you. Please accept these as a token of friendship{01}C{13}{00}.{05}{05}{05}
+@121
+I, {02}{01}ﾈ, have come to deepen our friendship. Please accept{01}C{13}{00}.{05}{05}{05}
+@122
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}JｺJ{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JｴJ{05}{05}{05}{05}{05}{04}{02}l{02}{01}{02}{03}{04}<31{01}JｶJ{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}JｸJ{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JｳJ{05}{05}{05}{01}S{02}e3I'm glad of these many gifts. Give my regards{01}C{13}{00} to Lord {02}{03}ﾈ.{05}{05}{05}I've received Lord {02}{03}ﾈ's sincerity{01}C0{00}. I truly wish both our realms prosperity{01}C0{00}.{05}{05}{05}I'm truly grateful for your kindness{01}C!{00}. Tell{01}C{13}{00} them I hope for lasting friendship.{05}{05}{05}
+@123
+{01}S{02}e3Thank you for these many gifts... Give my regards{01}C{13}{00} to Lord {02}{03}ﾈ.{05}{05}{05}I've received Lord {02}{03}ﾈ's sincerity. I truly wish both our realms prosperity.{05}{05}{05}I'm truly grateful for your kindness{01}C!{00}. Please tell them I hope for lasting friendship.{05}{05}{05}
+@124
+{05}{05}{04}{02}{01}{81}{01}JｵJ{05}{05}{05}Thank you for your kindness. More than the gifts, I'm glad to meet Lord {02}{02}ﾈ{01}C0{00}.{05}{05}{05}
+@125
+Thank you for your kindness. More than the gifts, I'm glad to meet Lord {02}{02}ﾈ.{05}{05}{05}
+@126
+{05}{05}{04}{02}{01}{81}{01}JｷJ{05}{05}{05}I gratefully accept{01}C0{00}. Tell Lord {02}{03}ﾈ I'm thankful.{05}{05}{05}
+@127
+I gratefully accept. Please tell Lord {02}{03}ﾈ I'm thankful.{05}{05}{05}
+@128
+{05}{05}{04}{02}{01}{81}{01}JｹJ{05}{05}{05}What rare items. Thank you{01}C0{00}. (What a soft touch...){05}{05}{05}
+@129
+What rare items. Thank you{01}C0{00}. (What a soft touch...){05}{05}{05}
+@130
+{05}{05}{04}{02}{02}d{04}=0{01}JｻJ{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}JｼJ{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JｽJ{05}{05}{05}{01}S{02}e3I'm glad of these many gifts. {02}{03}ﾈ isn't bad...{05}{05}{05}Well, I'll keep them.{05}{05}{05}Since you insist, I'll take them.{05}{05}{05}
+@131
+{05}{05}{04}{02}{01}{81}{01}JｾJ{05}{05}{05}Coming in person... Fine, I'll accept{01}C0{00}.{05}{05}{05}
+@132
+{05}{05}{04}{02}{01}{81}{01}JｿJ{05}{05}{05}Leave them there... (What a soft touch...){05}{05}{05}
+@133
+{01}S{02}e3I'm glad of these many gifts. {02}{03}ﾈ seems to have some caliber...{05}{05}{05}Well, shall I keep them?{05}{05}{05}Since you insist, I'll accept them.{05}{05}{05}
+@134
+Coming in person... Very well, I'll accept.{05}{05}{05}
+@135
+Leave them there. (What a soft touch...){05}{05}{05}
+@136
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}JﾅJ{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JﾂJ{05}{05}{05}{05}{05}{04}{02}{01}s{04}>5{01}JﾃJ{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JﾁJ{05}{05}{05}{01}S{02}e3Hmm, suspicious{01}C0{00}. There must be a catch. Please take these back.{05}{05}{05}I can't accept this{01}C9{00}{01}C2{00}. We have plenty of such things already{01}C7{00}.{05}{05}{05}Useless, useless. No pile of riches will sway me{01}C9{00}.{05}{05}{05}
+@137
+{01}S{02}e3...Suspicious. There must be a catch. Please take these back.{05}{05}{05}I can't accept this{01}C9{00}{01}C2{00}. We have plenty of such things already{01}C7{00}.{05}{05}{05}Useless, useless. No pile of riches will sway me.{05}{05}{05}
+@138
+Trying to sway people with riches... Lord {02}{02}ﾈ, {01}C{01}{00} misjudged you{01}C0{00}.{05}{05}{05}
+@139
+{05}{05}{04}{02}{01}{81}{01}JﾄJ{05}{05}{05}Begone! {01}C{03}{00} accepts no charity!{05}{05}{05}
+@140
+Begone! {01}C{03}{00} accepts no charity!{05}{05}{05}
+@141
+{05}{05}{04}{02}{02}d{04}=0{01}JﾆJ{05}{05}{05}{05}{05}{04}{02}{01}s{04}>5{01}JﾇJ{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JﾈJ{05}{05}{05}{01}S{02}e3Gifts from them... Hmm, suspicious{01}C0{00}. There must be a catch{01}C9{00}. Go home, go home.{05}{05}{05}I can't accept this{01}C9{00}{01}C2{00}. We have plenty of such things already{01}C7{00}.{05}{05}{05}Useless, useless. As if such things could sway me.{05}{05}{05}
+@142
+{05}{05}{04}{02}{01}{81}{01}JﾉJ{05}{05}{05}Trying to sway people with riches... Have you sunk so low!{05}{05}{05}
+@143
+{05}{05}{04}{02}{01}{81}{01}JﾊJ{05}{05}{05}Begone! {01}C{03}{00} accepts no charity!{05}{05}{05}
+@144
+{01}S{02}e3Gifts from them... Suspicious{01}C0{00}. There must be a catch{01}C9{00}. Please leave.{05}{05}{05}I can't accept this{01}C9{00}{01}C2{00}. We have plenty of such things already{01}C7{00}.{05}{05}{05}Useless, useless. As if such things could sway me.{05}{05}{05}
+@145
+Trying to sway people with riches... Have you sunk so low?{05}{05}{05}
+@146
+Begone! {01}C{03}{00} accepts no charity!{05}{05}{05}
+@147
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5I think we may accept their gifts... But don't let your guard down{01}C7{00}.{05}{05}{05}Let's gratefully accept Lord {02}{04}ﾈ's kindness.{05}{05}{05}We can't waste their long journey{01}C.{00}. Let's accept.{05}{05}{05}If we refuse, Lord {02}{04}ﾈ will be offended. Please accept{01}C{13}{00}.{05}{05}{05}Let's accept with a smile and show we welcome friendship too.{05}{05}{05}
+@148
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5Suspicious{01}C.{00}. Nothing is more expensive than a free gift{01}C{1C}{00}{01}C0{00}.{05}{05}{05}Lord {02}{04}ﾈ sending us gifts... Something smells fishy{01}C.{00}.{05}{05}{05}Lord {02}{04}ﾈ is scheming. We mustn't accept lightly{01}C {00}{01}C7{00}.{05}{05}{05}Don't fall for Lord {02}{03}ﾈ's smooth talk. Just brush them off.{05}{05}{05}Lord {02}{04}ﾈ may mean to lull us and then pull some trick... Refuse{01}C{13}{00} this time.{05}{05}{05}
+@149
+{05}{05}{04}{02}{01}u{04}=196{01}J妍{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}JﾎJ{05}{05}{05}{01}S{02}e4My lord wishes to ally with your realm. We'd like a prompt answer.{05}{05}{05}Ally with us, and let us share the land between us.{05}{05}{05}Become an ally of my lord {02}{03}ﾈ and join forces for our mutual benefit, I ask{01}C{16}{00}.{05}{05}{05}Allying with our realm is the best course for yours too, I think{01}C{16}{00}...{05}{05}{05}
+@150
+Won't you join hands with me and speak of peace together{01}C {00}?{05}{05}{05}
+@151
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}JﾕJ{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JﾐJ{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}JﾒJ{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JﾓJ{05}{05}{05}{01}S{02}e3I understand Lord {02}{03}ﾈ's wishes{01}C0{00}. I look forward to it.{05}{05}{05}Yes, {01}C{01}{00} too wished to ally with Lord {02}{03}ﾈ and set the world right.{05}{05}{05}No objection. {01}C{01}{00} and Lord {02}{03}ﾈ shall share the land.{05}{05}{05}
+@152
+{05}{05}{04}{02}{01}{81}{01}JﾑJ{05}{05}{05}Since you ask in person, {01}C{03}{00} can't refuse{01}C9{00}.{05}{05}{05}
+@153
+Since you ask in person, {01}C{03}{00} can't refuse.{05}{05}{05}
+@154
+{05}{05}{04}{02}{01}{81}{01}JﾔJ{05}{05}{05}Very well... (I'll use them for a while... and dispose of them when I'm done.){05}{05}{05}
+@155
+{01}S{02}e3I understand Lord {02}{03}ﾈ's wishes. I look forward to it.{05}{05}{05}Yes, {01}C{01}{00} too wished to ally with Lord {02}{03}ﾈ and set the world right.{05}{05}{05}No objection. {01}C{01}{00} and Lord {02}{03}ﾈ shall share the land.{05}{05}{05}
+@156
+Very well... (I'll use them for a while... and dispose of them when I'm done.){05}{05}{05}
+@157
+{05}{05}{04}{02}{02}d{04}=0{01}JﾖJ{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}JﾗJ{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}JﾘJ{05}{05}{05}{01}S{02}e3I understand your wishes{01}C0{00}. We'll ally.{05}{05}{05}If you mean to set the world right, {01}C{01}{00} don't mind being your ally{01}C7{00}.{05}{05}{05}No objection. I accept the alliance.{05}{05}{05}
+@158
+Since you ask in person, {01}C{03}{00} can't refuse{01}C9{00}.{05}{05}{05}
+@159
+{05}{05}{04}{02}{01}{81}{01}JﾙJ{05}{05}{05}Very well... (I'll use them for a while... and dispose of them when I'm done.){05}{05}{05}
+@160
+{01}S{02}e3I understand your wishes{01}C0{00}. We'll ally.{05}{05}{05}If you mean to set the world right, {01}C{01}{00} don't mind being your ally{01}C7{00}.{05}{05}{05}No objection. I accept the alliance.{05}{05}{05}
+@161
+Very well... (I'll use them for a while... and dispose of them when I'm done.){05}{05}{05}
+@162
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}JﾟJ{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}JﾛJ{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}JﾜJ{05}{05}{05}{05}{05}{04}{02}j{02}{01}{03}*4{04}<{02}j{02}{02}{01}JﾝJ{05}{05}{05}{05}{05}{04}{02}{01}s{04}>5{01}JﾞJ{05}{05}{05}{01}S{02}e3You'd ally with us to reap the rewards yourself, but I won't fall for it{01}C9{00}.{05}{05}{05}Please leave{01}C{13}{00}. {01}C{01}{00} trust only my own men{01}C9{00}{01}C2{00}.{05}{05}{05}{01}C{01}{00} have no interest in such cozy deals. I'll get through on my own.{05}{05}{05}
+@163
+Even at Lord {02}{02}ﾈ's request, this I cannot...{05}{05}{05}
+@164
+I'll think about it... (Hmm... A careless alliance only makes more enemies{01}C2{00}.){05}{05}{05}
+@165
+Our army is weak now. We'd only hold your realm back. I'm truly sorry.{05}{05}{05}
+@166
+Our realm has many brave generals and elite troops. We don't need your strength{01}C%{00}. Please leave{01}C{13}{00}.{05}{05}{05}
+@167
+{05}{05}{04}{02}{02}d{04}=0{01}J甄{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J絆{05}{05}{05}{05}{05}{04}{02}j{02}{01}{03}*4{04}<{02}j{02}{02}{01}J蕭{05}{05}{05}{05}{05}{04}{02}{01}s{04}>5{01}J覊{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J濳{05}{05}{05}{01}S{02}e3You'd ally with us to reap the rewards yourself, but that won't work{01}C9{00}{01}C7{00}.{05}{05}{05}Bah, withdraw! {01}C{01}{00} trust only my own men{01}C9{00}{01}C2{00}.{05}{05}{05}{01}C{01}{00} have no interest in such cozy deals. We don't need your strength{01}C-{00}.{05}{05}{05}
+@168
+{01}S{02}e3You'd ally with us to reap the rewards yourself, but that won't work{01}C9{00}{01}C7{00}.{05}{05}{05}Bah, withdraw! {01}C{01}{00} trust only my own men{01}C9{00}{01}C2{00}.{05}{05}{05}{01}C{01}{00} have no interest in such cozy deals. We don't need your strength{01}C-{00}.{05}{05}{05}
+@169
+{05}{05}{04}{02}{01}{81}{01}J祀{05}{05}{05}I have no ears for your talk{01}C9{00}.{05}{05}{05}
+@170
+I have no ears for your talk.{05}{05}{05}
+@171
+{05}{05}{04}{02}{01}{81}{01}J腴{05}{05}{05}I refuse{01}C-{00}... (Hmm... A careless alliance only makes more enemies{01}C2{00}.){05}{05}{05}
+@172
+I refuse{01}C-{00}... (A careless alliance only makes more enemies...){05}{05}{05}
+@173
+Your weak army would only hold us back. I refuse{01}C-{00}.{05}{05}{05}
+@174
+{05}{05}{04}{02}{01}{81}{01}J蹕{05}{05}{05}Our realm has many brave generals and elite troops. We don't need your strength{01}C%{00}. Go home.{05}{05}{05}
+@175
+Our realm has many brave generals and elite troops. We don't need your strength{01}C%{00}. Go home.{05}{05}{05}
+@176
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5There's no reason not to use that realm's army{01}C {00}. Please accept{01}C{13}{00}.{05}{05}{05}I think allying with Lord {02}{04}ﾈ is the better plan{01}C{16}{00}.{05}{05}{05}An alliance with Lord {02}{04}ﾈ is reassuring. {01}C{00}{00} am in favor{01}C{17}{00}.{05}{05}{05}I think an alliance is the shortcut to unifying the land{01}C{16}{00}.{05}{05}{05}Together we'd be a great threat to other realms{01}C7{00}. We should ally{01}C{17}{00}.{05}{05}{05}
+@177
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5This alliance benefits them, not us{01}C{17}{00}.{05}{05}{05}I can't agree{01}C {00}. {02}{04}ﾈ will use us and betray us in the end.{05}{05}{05}Please don't{01}C{13}{00}. I can only think there's a catch{01}C {00}.{05}{05}{05}Do you think {02}{04}ﾈ is a fit ally for {01}C{09}{00}{01}C{18}{00}?{05}{05}{05}Don't accept. An alliance on these terms is a bad joke.{05}{05}{05}
+@178
+{05}{05}{04}{02}{01}u{04}=196{01}J妍{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J{EB}J{05}{05}{05}{01}S{02}e5Let us pool our realms' wisdom and research together. We ask you to share the funds...{05}{05}{05}Would you fund the research? It's not a bad deal, I think...{05}{05}{05}Now is the time to cooperate. Please contribute funds{01}C!{00}.{05}{05}{05}This research needs funding from your realm. Please agree...{05}{05}{05}I've come for funds to strengthen both our armies.{05}{05}{05}
+@179
+{05}{05}{04}{02}{01}{81}{01}J{EC}J{05}{05}{05}Funds for research... Won't you grant this request from me, {02}{01}ﾈ?{05}{05}{05}
+@180
+Funds for research... Won't you grant this request from me, {02}{01}ﾈ?{05}{05}{05}
+@181
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}J{EF}J{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J珵{05}{05}{05}{01}S{02}e5Agreed{01}C!{00}. Now is the time to join forces{01}C{17}{00}.{05}{05}{05}Accepted{01}C!{00}. Hand in hand, nothing is impossible.{05}{05}{05}Since it's your realm asking, let's research for the prosperity of both.{05}{05}{05}Just what we hoped for. Let's start the research at once.{05}{05}{05}Very well. {01}C{01}{00} too wanted to research with your realm{01}C-{00}.{05}{05}{05}
+@182
+{01}S{02}e5Agreed{01}C!{00}. Now is the time to join forces{01}C{17}{00}.{05}{05}{05}Accepted{01}C!{00}. Hand in hand, nothing is impossible.{05}{05}{05}Since it's your realm asking, let's research for the prosperity of both.{05}{05}{05}Just what we hoped for. Let's start the research at once.{05}{05}{05}Very well. {01}C{01}{00} too wanted to research with your realm{01}C-{00}.{05}{05}{05}
+@183
+{05}{05}{04}{02}{01}{81}{01}J{uE00A}{05}{05}{05}{01}S{02}e5It can't be helped{01}C2{00}{01}C8{00}. I'll show you our realm's technology.{05}{05}{05}I'll accept. With our technology, nothing is impossible.{05}{05}{05}If you insist, I'll research for our realm's prosperity too...{05}{05}{05}It can't be helped... Then let's get to work on the research.{05}{05}{05}Very well. Of course your realm will put up funds too?{05}{05}{05}
+@184
+{01}S{02}e5It can't be helped{01}C2{00}{01}C8{00}. I'll show you our realm's technology.{05}{05}{05}I'll accept. With our technology, nothing is impossible.{05}{05}{05}If you insist, shall I research for our realm's prosperity too...{05}{05}{05}It can't be helped... Then shall we get to work on the research?{05}{05}{05}Very well. Of course your realm will put up funds too?{05}{05}{05}
+@185
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}J{uE23E}{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{uE182}{05}{05}{05}{01}S{02}e5I refuse{01}C-{00}. We can't have our technology stolen{01}C9{00}{01}C.{00}.{05}{05}{05}Please leave{01}C{13}{00}. I have no intention whatsoever of researching{01}C{1C}{00}.{05}{05}{05}I'm sorry{01}C{1C}{00}. We're busy with domestic and military affairs; research is out of the question...{05}{05}{05}Sorry{01}C9{00}, I'm the suspicious type{01}C.{00}. Even an ally can't be trusted that far{01}C-{00}.{05}{05}{05}I doubt your realm has the technology for research. Please leave{01}C{13}{00}.{05}{05}{05}
+@186
+{01}S{02}e4I refuse. We can't have our technology stolen.{05}{05}{05}Please leave{01}C{13}{00}. I have no intention whatsoever of researching{01}C{1C}{00}.{05}{05}{05}I'm sorry{01}C{1C}{00}. We're busy with domestic and military affairs; research is out of the question...{05}{05}{05}I doubt your realm has the technology for research. Please leave{01}C{13}{00}.{05}{05}{05}
+@187
+{05}{05}{04}{02}{01}{81}{01}J{uE2FA}{05}{05}{05}{01}S{02}e5I refuse{01}C-{00}. I have no intention of selling our technology{01}C{1C}{00}.{05}{05}{05}Go home, go home. I have no intention whatsoever of researching{01}C{1C}{00}.{05}{05}{05}We're busy with domestic and military affairs. There's no time for that{01}C2{00}.{05}{05}{05}I refuse. Even an ally can't be trusted that far.{05}{05}{05}I doubt your realm has the technology for research. Be gone.{05}{05}{05}
+@188
+{01}S{02}e5I refuse{01}C-{00}. I have no intention of selling our technology{01}C{1C}{00}.{05}{05}{05}Please leave. I have no intention whatsoever of researching{01}C{1C}{00}.{05}{05}{05}We're busy with domestic and military affairs. There's no time for that{01}C2{00}.{05}{05}{05}I refuse. Even an ally can't be trusted that far.{05}{05}{05}I doubt your realm has the technology for research. Please go.{05}{05}{05}
+@189
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}J{uE472}{05}{05}{05}{01}S{02}e5We need large sums to build up our strength. Money for research is out of the question...{05}{05}{05}We can't put that much into research{01}C {00}. Please leave{01}C{13}{00}.{05}{05}{05}Please leave{01}C{13}{00}. Don't you know how poor our realm is{01}C9{00}?{05}{05}{05}This money is the people's blood and sweat. It can't be used{01}C9{00} for that.{05}{05}{05}We're boosting domestic demand this time; there's no money for research{01}C9{00}. Sorry{01}C9{00}{01}C.{00}.{05}{05}{05}
+@190
+{05}{05}{04}{02}{01}{81}{01}J{uE52E}{05}{05}{05}{01}S{02}e5We need large sums to build up our strength. There's no money for research!{05}{05}{05}We can't put that much into research{01}C9{00}. Go home, go home.{05}{05}{05}Be gone! Don't you know how poor our realm is{01}C9{00}?{05}{05}{05}This money is the people's blood and sweat. It can't be used{01}C9{00} for that.{05}{05}{05}We're busy boosting domestic demand{01}C-{00}. There's no money for research{01}C9{00}{01}C2{00}.{05}{05}{05}
+@191
+{01}S{02}e5We need large sums to build up our strength. There's no money for research.{05}{05}{05}We can't put that much into research. Please go home.{05}{05}{05}Please leave. Don't you know how poor our realm is?{05}{05}{05}This money is the people's blood and sweat. It can't be used for that.{05}{05}{05}We're busy boosting domestic demand{01}C-{00}. There's no money for research{01}C9{00}{01}C2{00}.{05}{05}{05}
+@192
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5I think it's fine{01}C{16}{00}. If we pool our wisdom, we'll get good results.{05}{05}{05}Let's accept. It's a rare chance to steal another realm's technology...{05}{05}{05}We're allied after all, so isn't it fine{01}C{19}{00}?{05}{05}{05}Accept{01}C{13}{00}. Let's show how generous {01}C{09}{00} is.{05}{05}{05}I think it's wise to put {02}{04}ﾈ in our debt{01}C{16}{00}.{05}{05}{05}
+@193
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5Please don't{01}C{13}{00}. Spending so much on that...{05}{05}{05}Refuse{01}C{13}{00}. We have other things to do now. Research can wait, I think{01}C{16}{00}.{05}{05}{05}We mustn't{01}C {00}. This research brings us no benefit{01}C{1C}{00}.{05}{05}{05}I can't agree{01}C {00}. Ally or not, there's no need to go that far...{05}{05}{05}I'm against it{01}C{17}{00}. It would only help build up their army.{05}{05}{05}
+@194
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v2Our realm is in mortal danger. Where would we find that kind of money?{05}{05}{05}We can't waste a single coin now{01}C {00}. Refuse{01}C{13}{00}.{05}{05}{05}
+@195
+{05}{05}{04}{02}{01}u{04}=196{01}J妍{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J{FC}J{05}{05}{05}{01}S{02}e4We'd like to borrow Lord {02}{02}ﾈ's elite troops{01}C{11}{00}. Please{01}C!{00}.{05}{05}{05}Lord {02}{02}ﾈ, as allies, lend{01}C{13}{00} us your peerless troops.{05}{05}{05}We wish to fight for justice, I think{01}C{16}{00}. So please lend us troops for a while{01}C{16}{00}.{05}{05}{05}We want to invade our neighbor, but to break those solid defenses we need your strength{01}C{17}{00}.{05}{05}{05}
+@196
+I, {02}{01}ﾈ, swallow my pride and ask{01}C{11}{00}. Please lend us your strength.{05}{05}{05}
+@197
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}J{01}K{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{FE}J{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J{FF}J{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{00}K{05}{05}{05}{01}S{02}e3We can't abandon an ally. Send troops at once.{05}{05}{05}Very well. Hear me, everyone! We'll join Lord {02}{03}ﾈ in a joint operation. Prepare to march{01}C-{00}!{05}{05}{05}Agreed{01}C!{00}. We'll make them regret making enemies of us{01}C0{00}.{05}{05}{05}
+@198
+You want the strength of our elite troops{01}C/{00}? Lord {02}{02}ﾈ, we'll gladly help{01}C!{00}.{05}{05}{05}
+@199
+Very well... ({02}{03}ﾈ is still useful. I can't have them dying now...){05}{05}{05}
+@200
+{01}S{02}e3We can't abandon an ally. Let's send troops at once.{05}{05}{05}Very well... Everyone! We'll join Lord {02}{03}ﾈ in a joint operation. Prepare to march!{05}{05}{05}Agreed. We'll make the enemy regret making enemies of us.{05}{05}{05}
+@201
+{05}{05}{04}{02}{02}d{04}=0{01}J{02}K{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J{03}K{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{04}K{05}{05}{05}{01}S{02}e3It can't be helped. Send troops at once.{05}{05}{05}Well, very well. We'll join the operation. Everyone, prepare to march{01}C-{00}!{05}{05}{05}Nothing for it{01}C2{00}{01}C8{00}. Shall we send reinforcements?{05}{05}{05}
+@202
+{05}{05}{04}{02}{01}{81}{01}J{05}K{05}{05}{05}You want the strength of our elite troops? Well, very well...{05}{05}{05}
+@203
+Very well... ({02}{03}ﾈ is still useful. I can't have them dying now...){05}{05}{05}
+@204
+{01}S{02}e3It can't be helped. I'll send troops at once.{05}{05}{05}...Very well. We'll join the operation. Everyone, prepare to march{01}C-{00}!{05}{05}{05}Nothing for it{01}C2{00}{01}C8{00}. Let's send reinforcements.{05}{05}{05}
+@205
+You want to borrow the strength of our elite troops? Well, very well...{05}{05}{05}
+@206
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}J{0A}K{05}{05}{05}{05}{05}{04}{02}{02}d{04}=0{01}J{08}K{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J{09}K{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{07}K{05}{05}{05}{01}S{02}e3People and soldiers are exhausted; we can barely manage domestic affairs. I'm sorry, but I must refuse.{05}{05}{05}With our current army, defending our own realm is all we can do{01}C-{00}. Wait{01}C{13}{00} a little longer.{05}{05}{05}March with so few troops... I can't agree to such a plan{01}C9{00}{01}C2{00}.{05}{05}{05}
+@207
+{01}S{02}e3People and soldiers are exhausted; we can barely manage domestic affairs. I'm sorry, but I must refuse.{05}{05}{05}With our current army, defending our own realm is all we can do{01}C-{00}. Please wait a little longer.{05}{05}{05}March with so few troops... I can't agree to such a plan{01}C9{00}{01}C2{00}.{05}{05}{05}
+@208
+Lord {02}{02}ﾈ, even at your request, I can't send my soldiers to die{01}C9{00}{01}C2{00}.{05}{05}{05}
+@209
+A relative of mine is gravely ill... This is no time for war{01}C-{00}.{05}{05}{05}
+@210
+{05}{05}{04}{02}{02}d{04}=0{01}J{0C}K{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J{0D}K{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{0B}K{05}{05}{05}{01}S{02}e3People and soldiers are exhausted; we can barely manage domestic affairs. It's impossible.{05}{05}{05}With our current army, defending our own realm is all we can do{01}C-{00}. We can't spare any{01}C2{00}.{05}{05}{05}March with so few troops... I can't agree to such a foolish plan{01}C9{00}!{05}{05}{05}
+@211
+{01}S{02}e3People and soldiers are exhausted; we can barely manage domestic affairs. It's impossible.{05}{05}{05}With our current army, defending our own realm is all we can do{01}C-{00}. We can't spare any.{05}{05}{05}March with so few troops... I can't agree to such a foolish plan!{05}{05}{05}
+@212
+I refuse{01}C-{00}! I can't send my soldiers to die{01}C9{00}{01}C2{00}.{05}{05}{05}
+@213
+{05}{05}{04}{02}{01}{81}{01}J{0E}K{05}{05}{05}Go home... A relative of mine is gravely ill... This is no time for war{01}C-{00}.{05}{05}{05}
+@214
+Go home... A relative of mine is gravely ill... This is no time for war{01}C-{00}.{05}{05}{05}
+@215
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5As allies, refusing reinforcements would be against honor, I think{01}C{16}{00}.{05}{05}{05}Putting Lord {02}{04}ﾈ in our debt now may pay off later...{05}{05}{05}Our ally is in trouble{01}C7{00}. Why hesitate? It's not like {01}C{09}{00}{01}C0{00}.{05}{05}{05}A perfect chance to show the world our army's strength. Come, prepare to march.{05}{05}{05}I just read the stars, and that star shines brightly{01}C{1B}{00}. This battle bodes well, I think{01}C{16}{00}.{05}{05}{05}
+@216
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5Our forces aren't ready{01}C%{00}. I can't agree to a battle we might lose{01}C {00}.{05}{05}{05}Refuse{01}C{13}{00}. They only want to wear our realm down{01}C {00}.{05}{05}{05}Building our strength comes first{01}C0{00}. We must avoid losing troops now{01}C {00}.{05}{05}{05}Ally or not, there's no need to be that obliging...{05}{05}{05}War should wait until we're prosperous. It's too soon for us{01}C{17}{00}.{05}{05}{05}
+@217
+{05}{05}{04}{02}{01}u{04}=196{01}J妍{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J{12}K{05}{05}{05}{01}S{02}e5Our realm is short of funds now. If possible, we'd like aid from yours{01}C{17}{00}...{05}{05}{05}Could you give us aid{01}C {00}? Lord {02}{02}ﾈ is the only one we can ask{01}C{17}{00}.{05}{05}{05}Lord {02}{02}ﾈ, please give us aid. Only Lord {02}{02}ﾈ can save our realm{01}C{17}{00}.{05}{05}{05}Lord {02}{02}ﾈ, please lend{01}C{13}{00} Lord {02}{03}ﾈ your strength. You're our only hope...{05}{05}{05}Lord {02}{02}ﾈ, aid, please... Please{01}C{13}{00} understand we're clutching at straws.{05}{05}{05}
+@218
+Lord {02}{02}ﾈ, could we ask you for aid{01}C {00}? You're our only hope{01}C {00}.{05}{05}{05}
+@219
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}J{14}K{05}{05}{05}{01}S{02}e5You seem to be in real trouble{01}C.{00}. We all need help sometimes. Accept{01}C{13}{00} this.{05}{05}{05}Since it's Lord {02}{02}ﾈ asking, I, {02}{01}ﾈ, can't refuse{01}C.{00}.{05}{05}{05}We'll give aid{01}C{14}{00}. But promise{01}C{13}{00} to use it for the good of the world.{05}{05}{05}We can hardly refuse an ally. Please, take this...{05}{05}{05}I can't abandon someone in need{01}C {00}. We'll give aid{01}C{14}{00}.{05}{05}{05}
+@220
+{05}{05}{04}{02}{01}{81}{01}J{15}K{05}{05}{05}{01}S{02}e5{01}C{00}{00} am not heartless. We all need help sometimes. Take it.{05}{05}{05}If you beg like that... Fine, for your sake I'll give aid.{05}{05}{05}Well, very well... Here, take it.{05}{05}{05}Fine, fine. We're allies, so I can't refuse{01}C9{00}{01}C2{00}.{05}{05}{05}Very well... Honestly, begging another realm like this... Have you no pride?{05}{05}{05}
+@221
+{01}S{02}e5{01}C{00}{00} am not heartless. We all need help sometimes. I'll prepare it.{05}{05}{05}If you beg like that... Yes, for your sake I'll give aid.{05}{05}{05}Well, very well... Here, take it.{05}{05}{05}...Very well. We're allies, so I can't refuse.{05}{05}{05}Very well... Honestly, begging another realm like this... Have you no pride?{05}{05}{05}
+@222
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}J{17}K{05}{05}{05}{01}S{02}e5I'm sorry{01}C{1C}{00}. We can barely keep our own realm going; aid is out of the question...{05}{05}{05}I'd love to help{01}C{17}{00}, but our realm isn't rich either{01}C{17}{00}.{05}{05}{05}I pity Lord {02}{03}ﾈ, but Lord {02}{03}ﾈ brought this on themselves. I refuse.{05}{05}{05}We're scraping by just to survive. We have no money for aid...{05}{05}{05}It may seem cold, but we can't give aid{01}C {00}. Please don't hold it against us...{05}{05}{05}
+@223
+{05}{05}{04}{02}{01}{81}{01}J{18}K{05}{05}{05}{01}S{02}e4I refuse{01}C-{00}! We can barely keep our own realm going; aid is out of the question...{05}{05}{05}I have no intention whatsoever of giving aid. Go home, go home.{05}{05}{05}I refuse! What do {01}C{00}{00} care if your realm is broke!{05}{05}{05}We're scraping by just to survive. As if we had money for aid!{05}{05}{05}
+@224
+{01}S{02}e4I refuse{01}C-{00}! We can barely keep our own realm going; aid is out of the question...{05}{05}{05}I have no intention whatsoever of giving aid. Please go home.{05}{05}{05}I refuse! Your realm's money problems are no concern of me.{05}{05}{05}We're scraping by just to survive. We have no money for aid!{05}{05}{05}
+@225
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5We should accept{01}C{17}{00}. Let's show how big-hearted {01}C{09}{00} is.{05}{05}{05}If we put {02}{04}ﾈ in our debt now, it may prove useful later{01}C {00}.{05}{05}{05}Don't they say we all need help sometimes{01}C{1C}{00}? Give them aid{01}C{13}{00}.{05}{05}{05}They came relying on {01}C{09}{00}, so please be generous...{05}{05}{05}A ruler's caliber is being tested{01}C.{00}. Never forget to treat others with benevolence...{05}{05}{05}
+@226
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5Refuse{01}C{13}{00}. You mustn't fall for {02}{03}ﾈ's smooth talk{01}C {00}.{05}{05}{05}Please don't{01}C{13}{00}. If we aid {02}{04}ﾈ, they'll only repay kindness with treachery{01}C7{00}.{05}{05}{05}Aiding {02}{04}ﾈ is like sowing the seeds of disaster. I can't agree{01}C {00}.{05}{05}{05}If we have that kind of money, give{01}C{13}{00} it to the people. They're always suffering{01}C{1B}{00}.{05}{05}{05}This chaotic age is survival of the fittest. Show mercy and there's no end to it{01}C{1C}{00}.{05}{05}{05}
+@227
+{05}{05}{04}{02}{01}u{04}=196{01}J妍{05}{05}{05}{05}{05}{04}{02}{01}d{04}=0{01}J{1C}K{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J{1D}K{05}{05}{05}{01}S{02}e5Lord {02}{02}ﾈ, to prevent more deaths, have the courage to open your gates without bloodshed.{05}{05}{05}Make your decision. Who would laugh at you for surrendering after fighting this long?{05}{05}{05}Lord {02}{02}ﾈ, surrender{01}C{13}{00} to spare any more needless bloodshed.{05}{05}{05}From now on, lend{01}C{13}{00} your strength to my lord. You're too valuable to die{01}C0{00}.{05}{05}{05}Resisting for pride takes courage; so does surrendering to save your men{01}C7{00}.{05}{05}{05}
+@228
+Only a common man dies here... A hero must live on for those who died{01}C {00}.{05}{05}{05}
+@229
+If you don't join us, we can't guarantee your life{01}C9{00}{01}C7{00}. Now, choose: surrender or death.{05}{05}{05}
+@230
+{05}{05}{04}{02}l{02}{01}{02}{03}{04}>50{01}J!K{05}{05}{05}{05}{05}{04}{02}{01}p{04}<5{01}J{1F}K{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J"K{05}{05}{05}{01}S{02}e4I understand. Forgive me, everyone{01}C9{00}. I, {02}{01}ﾈ, am weary of war.{05}{05}{05}If you will spare my soldiers' lives, I accept{01}C!{00} your demand.{05}{05}{05}Forgive me, everyone. I can't watch any more die for me.{05}{05}{05}Has my luck in war run out...? From now on, I'll devote myself to Lord {02}{03}ﾈ.{05}{05}{05}
+@231
+{05}{05}{04}{02}{01}{81}{01}J K{05}{05}{05}You'll spare my life, won't you? {01}C{00}{00} don't want to die yet.{05}{05}{05}
+@232
+You'll spare my life, won't you? {01}C{00}{00} don't want to die yet.{05}{05}{05}
+@233
+{05}{05}{04}{02}{01}{81}{01}J#K{05}{05}{05}{01}S{02}e4Bitter, but it can't be helped. Forgive me, everyone{01}C9{00}. I, {02}{01}ﾈ, am weary of war.{05}{05}{05}C-curse you, is this the end...? You'll spare my soldiers, won't you?{05}{05}{05}To the likes of you... Forgive me, everyone.{05}{05}{05}Has my luck in war run out...? So now I work for the likes of you...{05}{05}{05}
+@234
+{01}S{02}e3I understand... I'm sorry, everyone. {01}C{00}{00} am weary of war.{05}{05}{05}If you will spare my soldiers' lives, I accept{01}C!{00} your demand.{05}{05}{05}Forgive me, everyone. I don't want to see any more die for me...{05}{05}{05}
+@235
+{01}S{02}e3Bitter, but it can't be helped. Forgive me, everyone{01}C9{00}. I, {02}{01}ﾈ, am weary of war.{05}{05}{05}Is this the end...? You'll spare my soldiers, won't you?{05}{05}{05}To the likes of {02}{03}ﾈ... Forgive me, everyone.{05}{05}{05}
+@236
+{05}{05}{04}{02}{01}p{04}<5{01}J%K{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J&K{05}{05}{05}{01}S{02}e3Leave at once. The battle has just begun. I haven't given up{01}C9{00}.{05}{05}{05}Silence! If I surrendered now, I couldn't face those who died.{05}{05}{05}Insolent cur! My name is {01}C{03}{00}! I'll go down in glory!{05}{05}{05}
+@237
+I refuse{01}C-{00}. This land belongs to me{01}C-{00}.{05}{05}{05}
+@238
+{01}S{02}e2Leave at once. The battle has just begun. I haven't given up.{05}{05}{05}Silence! If I surrendered now, I couldn't face those who died.{05}{05}{05}
+@239
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5{01}C{09}{00}, swallow your tears and decide{01}C{13}{00}. Our fate is already...{05}{05}{05}Let's accept. This too is fate; no one can defy it{01}C {00}.{05}{05}{05}Let's surrender gracefully. Even in defeat, there's a right way to lose.{05}{05}{05}Gracefully now... Lord {02}{04}ﾈ won't treat {01}C{09}{00} badly.{05}{05}{05}It's bitter, but it can't be helped. Let's give up and surrender.{05}{05}{05}
+@240
+{05}{05}{04}{02}{01}u{04}=196{01}J哽{05}{05}{05}{01}S{02}v5Yield after coming this far... {01}C{09}{00} must have a greater dream.{05}{05}{05}We can still fight. The soldiers' fighting spirit hasn't faded at all.{05}{05}{05}Refuse... They'd welcome you at first, but surely kill you someday.{05}{05}{05}Refuse{01}C{13}{00}. Those who died for {01}C{09}{00} would never rest{01}C0{00}.{05}{05}{05}Don't surrender{01}C{13}{00}. Let's fight on, {01}C{09}{00}. I'll follow you to the death.{05}{05}{05}
+@241
+{05}{05}{04}{02}{01}d{04}=0{01}J*K{05}{05}{05}{01}S{02}e3I was sure Lord {02}{02}ﾈ would give a good answer.{05}{05}{05}Thank you very much. Now I can return to Lord {02}{03}ﾈ with my head held high.{05}{05}{05}I'm glad of the good answer. A weight off my shoulders{01}C5{00}. Now, I take my leave.{05}{05}{05}
+@242
+Just as expected of Lord {02}{02}ﾈ. I knew you'd give a generous answer.{05}{05}{05}
+@243
+{05}{05}{04}{02}{01}d{04}=0{01}J,K{05}{05}{05}{01}S{02}e3Just as expected of Lord {02}{02}ﾈ. Your wise decision will be told for ages.{05}{05}{05}A splendid decision. Lord {02}{03}ﾈ will never treat you poorly{01}C{1A}{00}.{05}{05}{05}Your words, Lord {02}{02}ﾈ, have spared many lives.{05}{05}{05}
+@244
+It was worth the long journey. From now on, lend{01}C{13}{00} your strength to me.{05}{05}{05}
+@245
+{05}{05}{04}{02}{01}d{04}=0{01}J.K{05}{05}{05}{01}S{02}e3What... I can't face Lord {02}{03}ﾈ now.{05}{05}{05}Refusing such an offer... How shortsighted... A pity{01}C{17}{00}.{05}{05}{05}Is that so{01}C{18}{00}? A pity{01}C{17}{00}. Sigh...{05}{05}{05}
+@246
+A pity{01}C0{00}. I believed a hero like you would understand{01}C.{00}...{05}{05}{05}
+@247
+{05}{05}{04}{02}{01}d{04}=0{01}J1K{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J0K{05}{05}{05}{01}S{02}e3How foolish... What good is shedding more needless blood{01}C-{00}?{05}{05}{05}You'd sacrifice so many lives for such worthless pride...?{05}{05}{05}I thought someone like Lord {02}{02}ﾈ would surely understand...{05}{05}{05}
+@248
+{01}S{02}e3How foolish... What good is shedding more needless blood?{05}{05}{05}You'd sacrifice so many lives for such worthless pride...?{05}{05}{05}I thought someone like Lord {02}{02}ﾈ would surely understand...{05}{05}{05}
+@249
+{05}{05}{04}{02}{01}{81}{01}J2K{05}{05}{05}I offered to spare your life... Why can't you understand my heart{01}C9{00}?{05}{05}{05}
+@250
+I offered to spare your life... Why can't you understand my heart?{05}{05}{05}
+@251
+Received a gift\nfrom {02}{01}ﾈ.{05}{05}{05}
+@252
+Did not accept the gift\nfrom {02}{01}ﾈ.{05}{05}{05}
+@253
+Formed a {02}(-{1B}K{1B}Hmonth\nalliance with {02}{01}ﾈ.{05}{05}{05}
+@254
+Refused the offer\nfrom {02}{01}ﾈ.{05}{05}{05}
+@255
+Promised to help {02}{01}ﾈ take {02}{14}ﾈ.\nLet's prepare to march.{05}{05}{05}
+@256
+Accepting {02}{01}ﾈ's request,\nwe gave {02}- in aid: {1B}C4{02}({1B}C1.{05}{05}{05}
+@257
+Voices praising Lord {02}{01}ﾈ's\nvirtue are spreading across the land.{05}{05}{05}
+@258
+Bowing to {02}{01}ﾈ's threats,\nour army has surrendered.\nThough it was for peace,\nit is bitter indeed...{05}{05}{05}
+@259
+We rejected {02}{01}ﾈ's shameless\nthreats. They may attack soon.\nBe on your guard...{05}{05}{05}
+@260
+We cut down {02}{01}ﾈ,\nthe envoy from {02}{02}ﾈ.\nWar is now unavoidable.\nBe on your guard...{05}{05}{05}
+@261
+We tried to cut down {02}{01}ﾈ,\nthe envoy from {02}{02}ﾈ, but they\nescaped at the last moment.\nLet's prepare for the coming war.{05}{05}{05}

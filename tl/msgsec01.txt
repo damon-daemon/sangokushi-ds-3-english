@@ -1,0 +1,214 @@
+@0
+{1B}C6Continue{1B}C1\nResume a saved game.\n\nAim to unify China.{05}{05}{05}
+@1
+{1B}C6New Game{1B}C1\nStart a new game.\n\nAim to unify China.{05}{05}{05}
+@2
+{1B}C6Hero Battle Road{1B}C1\nBuild your own army and challenge the heroes of the Three Kingdoms.\n\nUse the spoils you win to recruit and train officers, and conquer every stage. Officers you raise can be carried over into the Unify China scenarios.{05}{05}{05}
+@3
+{1B}C6New Officers{1B}C1\nCreate and register new officers. Up to 100 can be registered.\n\nRegistered officers can appear in the game. Whether they appear is set when you start a new game.{05}{05}{05}
+@4
+{1B}C6Create{1B}C1\nCreate a new officer.\n\nTo set a family (parent and child) tie, the two officers must be at least 20 years apart in age.{05}{05}{05}
+@5
+{1B}C6Edit{1B}C1\nChange the settings of a new officer you created.{05}{05}{05}
+@6
+{1B}C6Delete{1B}C1\nDelete a new officer.{05}{05}{05}
+@7
+{1B}C6Tutorial{1B}C1\nExplains how to play the game. Please read it before you begin.{05}{05}{05}
+@8
+{1B}C6Gallery{1B}C1\nView officer cards and other things collected during the game.{05}{05}{05}
+@9
+{1B}C6Officer Card File{1B}C1\nView the officer cards you obtained during the game.{05}{05}{05}
+@10
+{1B}C6SP Officer Card File{1B}C1\nView the cards of SP (special) officers.\n\nSP officers are obtained by meeting certain conditions in the game.{05}{05}{05}
+@11
+{1B}C6Item File{1B}C1\nView the items you have obtained during the game.{05}{05}{05}
+@12
+{1B}C6Historical Event File{1B}C1\nView the historical events that occurred during the game.{05}{05}{05}
+@13
+{1B}C6Erase Data{1B}C1\nErase all data saved so far.\n\nRegistered new officers and other data will also be erased.{05}{05}{05}
+@14
+{1B}C6Select by Force{1B}C1\nOfficer cards are filed by force.\n\nForces with no cards obtained cannot be selected.{05}{05}{05}
+@15
+{1B}C6Historical Event List{1B}C1\nView information on the historical events that occurred during the game.{05}{05}{05}
+@16
+All family ties will be removed.\nIs that all right?{05}{05}{05}
+@17
+Cancel creation.\nIs that all right?{05}{05}{05}
+@18
+Cancel editing.\nIs that all right?{05}{05}{05}
+@19
+Save the new officer data.\nIs that all right?{05}{05}{05}
+@20
+{05}{05}{04}{02}({04}>1Delete {02}- and the others,\n{02}( officers in all. Are you sure?{05}{05}{05}Delete {02}-.\nIs that all right?{05}{05}{05}
+@21
+Deleted.{05}{05}{05}
+@22
+Erase all data.\nIs that all right?{05}{05}{05}
+@23
+Initializing. Do not turn off the power\nor remove the card.{05}{05}{05}
+@24
+The data has been erased.{05}{05}{05}
+@25
+The Later Han court had fallen into chaos and the people lived in misery. Then Zhang Jiao, founder of the Way of Great Peace, raised the Yellow Turban Rebellion: the dawn of a century of war.{05}{05}{05}
+@26
+Amid the turmoil after the Yellow Turbans, power was seized by Dong Zhuo, a warlord of Liang Province. Against his tyranny, backed by his great army, warlords rose up across the land.{05}{05}{05}
+@27
+After Dong Zhuo's death, the realm split among rival warlords: Yuan Shao, Lu Bu, Sun Ce, Yuan Shu, Liu Bei... Among them one man rose to prominence: Cao Cao. From then on, the realm turned around him.{05}{05}{05}
+@28
+Yuan Shao, master of Hebei, and Cao Cao clashed at Guandu for mastery of the Central Plains. Yuan Shao suffered a crushing defeat and his power waned. No rival now stood before Cao Cao.{05}{05}{05}
+@29
+Liu Bei, long in decline and hunted by Cao Cao's army, faced his darkest hour. But through Zhuge Liang he allied with Sun Quan, master of Jiangdong. A battle for survival begins.{05}{05}{05}
+@30
+After Chibi, Liu Bei swept on and expanded his lands until Cao Cao, Sun Quan and Liu Bei stood side by side. Zhuge Liang's plan to divide the realm in three was realized: the age of Wei, Wu and Shu.{05}{05}{05}
+@31
+Carrying out Liu Bei's last wish, Zhuge Liang launched the northern campaigns, but died suddenly at Wuzhang Plains with his goal unmet. His heir Jiang Wei fought on, but the end of the age was near.{05}{05}{05}
+@32
+Sages grieved over the fate of the crumbling Han empire. "Saving the lost and suffering people is our mission." Now the sages' struggle for peace was about to begin.{05}{05}{05}
+@33
+The Yellow Turbans grew ever stronger, took the capital Luoyang and seized the Central Plains. The imperial army, overpowered, crossed the Yangtze and fled south. The age awaited new heroes.{05}{05}{05}
+@34
+Cao Cao, who sought to rule the realm from Henan, and Yuan Shao of the great Hebei clan were about to clash for mastery of the Central Plains. Meanwhile the three brothers of Liu Bei bided their time.{05}{05}{05}
+@35
+Having won the genius strategist Zhuge Liang, Liu Bei followed his plan to divide the realm and resolved to enter Chengdu in Yi Province. But Yi Province resisted fiercely and refused him entry.{05}{05}{05}
+@36
+Heroes who burst onto the scene in an age of chaos, using all their valor and wisdom to vie for supremacy. Men who never met now gather across time. The battle to decide the true conqueror begins.{05}{05}{05}
+@37
+{1B}C4This scenario cannot be played yet. Progress through "Hero Battle Road" to unlock it.{1B}C4\n{05}{05}{05}
+@38
+{1B}C4This scenario cannot be played yet. Unify China to unlock it.{1B}C4\n{05}{05}{05}
+@39
+{1B}C6Add New Rulers{1B}C1\nChoose the new rulers who will appear in the game.{05}{05}{05}
+@40
+{1B}C6Set Cities{1B}C1\nSet the cities of the new rulers who will appear in the game.\n\nA new ruler cannot be selected until a city is set.{05}{05}{05}
+@41
+{1B}C6Reset{1B}C1\nReturn the new rulers' appearance and city settings to their initial state.\n\nUse this when you want to redo the settings from the start.{05}{05}{05}
+@42
+{1B}C6Confirm{1B}C1\nFinish the settings.{05}{05}{05}
+@43
+Disable the settings for %s.\nIs that all right?{05}{05}{05}
+@44
+The settings for %s will be disabled.\nIs that all right?{05}{05}{05}
+@45
+{1B}C6Add New Officers{1B}C1\nChoose the new officers who will appear in the game.{05}{05}{05}
+@46
+{1B}C6Set Location/Rank{1B}C1\nSet the location and rank of the new officers who will appear in the game.\n\nIf not set, a location is chosen automatically and the officer is free.{05}{05}{05}
+@47
+{1B}C6Change All Ages{1B}C1\nChange the ages of all new officers at once. The change applies to every new officer.\n\nUse this when you want them to appear at an age different from the one set when they were registered.{05}{05}{05}
+@48
+{1B}C6Change All Ages{1B}C1\nNot available in the Gathering of Heroes scenario.\n{05}{05}{05}
+@49
+{1B}C6Reset{1B}C1\nReturn the new officers' appearance and location/rank settings to their initial state.\n\nUse this when you want to redo the settings from the start.{05}{05}{05}
+@50
+{1B}C6Confirm{1B}C1\nFinish the settings.{05}{05}{05}
+@52
+Officers under 16 appear\nwhen they turn 16.{05}{05}{05}
+@53
+Age number1 -> number2 (%s){05}{05}{05}
+@54
+{05}{05}{04}{02}({04}>{02})Raise all new officers' ages by +{02}*.\nIs that all right?{05}{05}{05}{05}{05}{04}{02}({04}<{02})Lower all new officers' ages by -{02}*.\nIs that all right?{05}{05}{05}The ages have not been changed.\nIs that all right?{05}{05}{05}
+@55
+{1B}C6Add SP Officers{1B}C1\nChoose the SP officers who will appear in the game.\n\n{1B}C3However, SP officers aged 100 or more cannot be selected.{1B}C1\nTo make an SP officer appear during the game, choose [SP Officer] in the Function command.{05}{05}{05}
+@56
+{1B}C6Add SP Officers{1B}C1\nChoose the SP officers who will appear in the game.\n\n{1B}C3However, SP officers aged 100 or more cannot be selected.{1B}C1{05}{05}{05}
+@57
+{1B}C6Set Location/Rank{1B}C1\nSet the location and rank of the SP officers who will appear in the game.\n\nIf not set, a location is chosen automatically and the officer is free.{05}{05}{05}
+@58
+{1B}C6Reset{1B}C1\nDisable the SP officers' appearance and location/rank settings.\n\nUse this when you want to redo the settings from the start.{05}{05}{05}
+@59
+{1B}C6Confirm{1B}C1\nFinish the settings.{05}{05}{05}
+@60
+Select the ruler you will play.{05}{05}{05}
+@61
+{1B}C6Mode{1B}C1\nChoose {1B}C4Historical{1B}C1 or {1B}C4Fictional{1B}C1.\n\nIn {1B}C4Historical mode{1B}C1, all data follows the story of the Three Kingdoms.\nIn {1B}C4Fictional mode{1B}C1, all data is fictional.{05}{05}{05}
+@62
+{1B}C6Difficulty{1B}C1\nChoose the game's {1B}C4difficulty{1B}C1.\n\nThe higher the {1B}C4difficulty{1B}C1, the stronger the enemy rulers.{05}{05}{05}
+@63
+{1B}C6Message Speed{1B}C1\nChoose {1B}C4Normal{1B}C1 or {1B}C4Wait{1B}C1.\n\nWith {1B}C4Normal{1B}C1, messages advance automatically.\nWith {1B}C4Wait{1B}C1, messages advance each time you press a button.{05}{05}{05}
+@64
+{1B}C6Carry Over Stats{1B}C1\nChoose {1B}C4On or Off{1B}C1.\n\nWith {1B}C4"On"{1B}C1, the stats of officers raised in "Hero Battle Road" are carried over.{05}{05}{05}
+@65
+{1B}C6Confirm{1B}C1\nFinish the settings.{05}{05}{05}
+@66
+Select the chapter you want to view.{05}{05}{05}
+@67
+Select the item to change.{05}{05}{05}
+@68
+No name has been set.{05}{05}{05}
+@69
+Select a face.{05}{05}{05}
+@70
+Enter a name (up to 4 characters).{05}{05}{05}
+@71
+Enter a reading (up to 8 characters).{05}{05}{05}
+@72
+Set the stats.{05}{05}{05}
+@73
+Set up to 2 formations.{05}{05}{05}
+@74
+Set 6 special abilities.{05}{05}{05}
+@75
+6 special abilities have not been set.{05}{05}{05}
+@76
+Set the age.{05}{05}{05}
+@77
+Set the parent officer.{05}{05}{05}
+@78
+No new officer can be a parent.{05}{05}{05}
+@79
+Select a compatible officer.{05}{05}{05}
+@80
+Set morality and lifespan.{05}{05}{05}
+@81
+Set the personality.{05}{05}{05}
+@82
+Select the officer to edit.{05}{05}{05}
+@83
+Select the officer to delete.{05}{05}{05}
+@84
+This special ability is for female officers.{05}{05}{05}
+@85
+Male officers cannot have "Siren".{05}{05}{05}
+@86
+Voiced kana count as two characters,\nso anything over the limit\nis cut off.{05}{05}{05}
+@87
+Select the force to view.{05}{05}{05}
+@88
+No cards from this force have been obtained yet.{05}{05}{05}
+@89
+Select the item to view.{05}{05}{05}
+@90
+None obtained yet.{05}{05}{05}
+@91
+None have occurred yet.{05}{05}{05}
+@92
+This event has not occurred yet.{05}{05}{05}
+@93
+Show the officer's card.{05}{05}{05}
+@94
+Show item information.{05}{05}{05}
+@95
+Show historical event information.{05}{05}{05}
+@96
+Select a topic.{05}{05}{05}
+@97
+Select what you want to know.{05}{05}{05}
+@98
+Select the officer to become a new ruler.{05}{05}{05}
+@99
+Select the new ruler to set.{05}{05}{05}
+@100
+Select a city as the home city.{05}{05}{05}
+@101
+Select the officer to appear.{05}{05}{05}
+@102
+Select the officer to set.{05}{05}{05}
+@103
+Select a location (the city to appear in).{05}{05}{05}
+@104
+No one has been selected.{05}{05}{05}
+@105
+Which officer's age is the base for the change?{05}{05}{05}
+@106
+Set the age of {02}{01}ﾈ.{05}{05}{05}
+@107
+Select the officer to become ruler.{05}{05}{05}
