@@ -127,7 +127,7 @@ I'm glad it worked{01}C2{00}. Once this weapon is developed, the war is sure to 
 @63
 To think they'd refuse{01}C8{00}... I thought it would work. I overrated myself.{05}{05}{05}
 @64
-Began researching {1B}C6{02}-{1B}C1\nwith {02}{01}ﾈ. It will be done\nin {02}( {1B}K{1B}Hmonths.\nI look forward to the results.{05}{05}{05}
+Began researching {1B}C6{02}-{1B}C1\nwith {02}{01}ﾈ. It will be\ndone in {02}( months.\nI look forward to it.{05}{05}{05}
 @65
 Offer payment for their help?{05}{05}{05}
 @66
@@ -521,4 +521,4 @@ We rejected {02}{01}ﾈ's shameless\nthreats. They may attack soon.\nBe on your 
 @260
 We cut down {02}{01}ﾈ,\nthe envoy from {02}{02}ﾈ.\nWar is now unavoidable.\nBe on your guard...{05}{05}{05}
 @261
-We tried to cut down {02}{01}ﾈ,\nthe envoy from {02}{02}ﾈ, but they\nescaped at the last moment.\nLet's prepare for the coming war.{05}{05}{05}
+We tried to kill {02}{01}ﾈ,\nthe envoy from {02}{02}ﾈ, but they\nescaped at the last moment.\nLet's prepare for war.{05}{05}{05}

@@ -1,5 +1,5 @@
 @0
-As {02}{01}ﾈ, on a training journey, passed near {02}{14}ﾈ, an arrow suddenly struck the ground at {02}{01}ﾈ's feet!{05}{05}{05}
+As {02}{01}ﾈ traveled near {02}{14}ﾈ, an arrow suddenly struck the ground at {02}{01}ﾈ's feet!{05}{05}{05}
 @1
 {05}{05}{04}{02}{01}{81}{01}JZ{1B}{05}{05}{05}...Hm! Who goes there?!{05}{05}{05}
 @2
@@ -47,7 +47,7 @@ Well... If you walk the way of arms, we may meet again.{05}{05}{05}
 @23
 Until then, I'll leave my name to Heaven... Farewell!{05}{05}{05}
 @24
-Meanwhile, {02}{01}ﾈ, on a training journey, entered the deep mountains near {02}{14}ﾈ and came upon an old man and a youth playing go beneath a mulberry tree.{05}{05}{05}
+Deep in the hills near {02}{14}ﾈ, {02}{01}ﾈ found an old man and a boy playing go under a mulberry tree.{05}{05}{05}
 @25
 {01}S{02}e2Hmmm... Ah! Here! How about this?{05}{05}{05}There, there! With this move I'll corner you!{05}{05}{05}
 @26
@@ -179,7 +179,7 @@ Meanwhile, {02}{01}ﾈ, on a training journey, stopped in {02}{14}ﾈ to look ar
 @89
 {01}S{02}e3Hmm, I don't understand at all{01}C%{00}. I must need more training.{05}{05}{05}It's no good{01}C2{00}, it's too hard... I need to study the art of war more{01}C9{00}{01}C2{00}.{05}{05}{05}I just can't grasp it... I still lack the basics of the art of war.{05}{05}{05}
 @90
-Meanwhile, {02}{02}ﾈ, training in {02}{14}ﾈ, hit it off with {02}{01}ﾈ, whom they met in a tavern, and the two were sharing drinks.{05}{05}{05}
+Meanwhile, {02}{02}ﾈ, training in {02}{14}ﾈ, met {02}{01}ﾈ in a tavern; the two hit it off over drinks.{05}{05}{05}
 @91
 {05}{05}{04}{02}{01}{81}{01}Jｴ{1B}{05}{05}{05}{01}S{02}e3Come, Lord {02}{02}ﾈ, to our new friendship: another cup!{05}{05}{05}So you're Lord {02}{02}ﾈ? Training, eh... Come, have a drink!{05}{05}{05}Oh, you drink like a champion! Then {01}C{00}{00} will too... Ahh! Oh, your cup is empty{01}C.{00}.{05}{05}{05}
 @92
@@ -247,7 +247,7 @@ Meanwhile, {02}{02}ﾈ, training in {02}{14}ﾈ, challenged {02}{01}ﾈ to a bou
 @123
 {01}S{02}e3Losing to Lord {02}{02}ﾈ showed me how wide the world is. Please take me into your service...{05}{05}{05}Fighting Lord {02}{02}ﾈ, I feel I've found my purpose. Please take me into your service...{05}{05}{05}Thanks to Lord {02}{02}ﾈ, I found a lord worth serving. Lord {02}{03}ﾈ, please take me in...{05}{05}{05}
 @124
-Meanwhile, {02}{01}ﾈ, on a training journey, was asked by the people of {02}{14}ﾈ to drive off the mountain bandits plaguing them.{05}{05}{05}
+Meanwhile, the people of {02}{14}ﾈ asked the traveling {02}{01}ﾈ to drive off the mountain bandits.{05}{05}{05}
 @125
 {01}S{02}e3Bandits led by {02}{02}ﾈ are ravaging our village. Please, lend us a hand.{05}{05}{05}Bandits led by {02}{02}ﾈ are ravaging our town. Traveler, please help us.{05}{05}{05}{02}{02}ﾈ and his gang are after our town. Please help us.{05}{05}{05}
 @126
@@ -309,7 +309,7 @@ Meditation, huh? Kinda boring... Focus... Oops, I fell asleep.{05}{05}{05}
 @154
 {01}S{02}e3Not much progress, but it's the steady effort that counts.{05}{05}{05}Results don't come overnight{01}C9{00}. Well, no need to rush.{05}{05}{05}I still need more training. For now, I'll have something sweet and clear my head...{05}{05}{05}
 @155
-Meanwhile, {02}{01}ﾈ, on a training journey, was asked by the people of {02}{14}ﾈ to drive off the pirates plaguing them.{05}{05}{05}
+Meanwhile, the people of {02}{14}ﾈ asked the traveling {02}{01}ﾈ to drive off the pirates.{05}{05}{05}
 @156
 {01}S{02}e3Traveler, please help us! Pirates have come and are ravaging the town.{05}{05}{05}Pirates have appeared nearby; we can't even put out to sea. Please help us.{05}{05}{05}Because of the pirates, merchants rarely come and the town is withering. Traveler, please help us.{05}{05}{05}
 @157
@@ -331,7 +331,7 @@ Meanwhile, {02}{01}ﾈ, on a training journey, was asked by the people of {02}{1
 @165
 {01}S{02}e3We never should've asked you. They're furious now; they'll take revenge...{05}{05}{05}They say the pirates are angry and planning an all-out attack. What will you do about it, traveler?{05}{05}{05}Ah, this town is finished... Let's flee to some other town.{05}{05}{05}
 @166
-Meanwhile, {02}{01}ﾈ, on a training journey, witnessed the misery of the people in {02}{14}ﾈ, where an epidemic raged.{05}{05}{05}
+Meanwhile, the traveling {02}{01}ﾈ witnessed the misery of {02}{14}ﾈ, where an epidemic raged.{05}{05}{05}
 @167
 {01}S{02}e3It... it hurts. Traveler, please help me. I don't want to die yet.{05}{05}{05}*cough, cough, hack* M-my chest... Somebody help me.{05}{05}{05}Ugh, urgh, gah... Am I going to die like the others...{05}{05}{05}
 @168
@@ -351,7 +351,7 @@ Meanwhile, {02}{01}ﾈ, on a training journey, witnessed the misery of the peopl
 @175
 With the cheerful laughter of the recovered townsfolk behind them, {02}{01}ﾈ left {02}{14}ﾈ...{05}{05}{05}
 @176
-Meanwhile, {02}{01}ﾈ, on a training journey, heard the people of drought-stricken {02}{14}ﾈ fearing a failed harvest.{05}{05}{05}
+Meanwhile, the traveling {02}{01}ﾈ heard the people of drought-stricken {02}{14}ﾈ fear a failed harvest.{05}{05}{05}
 @177
 {01}S{02}e3Ah, no rain again today... At this rate the harvest will fail. Can nothing be done?{05}{05}{05}When will it rain? The livestock are dying one after another. At this rate...{05}{05}{05}No rain, no rain... At this rate the fields... I'm so afraid of a bad harvest.{05}{05}{05}
 @178

@@ -85,7 +85,7 @@ Support in {02}{14}ﾈ fell to {1B}C4{02}({1B}C1.\n{02}{01}ﾈ's loyalty fell to
 @42
 {02}{02}ﾈ's fame fell.{05}{05}{05}
 @43
-Support in {02}{14}ﾈ fell to {1B}C4{02}({1B}C1.\n{02}{01}ﾈ's loyalty fell to {1B}C4{02}){1B}C1.\n{02}{02}ﾈ's fame fell.{05}{05}{05}
+{02}{14}ﾈ support fell to {1B}C4{02}({1B}C1.\n{02}{01}ﾈ's loyalty fell to {1B}C4{02}){1B}C1.\n{02}{02}ﾈ lost fame.{05}{05}{05}
 @44
 Use Turncoat on {02}{01}ﾈ\nof {02}{14}ﾈ?{05}{05}{05}
 @45

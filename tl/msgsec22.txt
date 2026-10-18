@@ -601,7 +601,7 @@ Their troops are scattered and out of formation{01}C0{00}. Go, crush them at onc
 @300
 {01}S{02}e3Heh heh, they're fighting each other. What fools.{05}{05}{05}Go on, fight each other.{05}{05}{05}Wounding their own... Just a rabble. No match for us.{05}{05}{05}
 @301
-{05}{05}{04}{02}{01}{81}{01}J{1E}W{05}{05}{05}{01}S{02}e3Oh, you saw through my plan... {02}{02}ﾈ... {01}C{0C}{00} is not to be underestimated. I won't forget that name{01}C0{00}.{05}{05}{05}Foiling my clever plan... The enemy has a fine general, it seems{01}C2{00}.{05}{05}{05}Blast, they saw through it. It seems {01}C{02}{00} must get serious{01}C2{00}.{05}{05}{05}
+{05}{05}{04}{02}{01}{81}{01}J{1E}W{05}{05}{05}{01}S{02}e3You saw through my plan... {02}{02}ﾈ... {01}C{0C}{00} is not to be underestimated. I won't forget that name.{05}{05}{05}Foiling my clever plan... The enemy has a fine general, it seems{01}C2{00}.{05}{05}{05}Blast, they saw through it. It seems {01}C{02}{00} must get serious{01}C2{00}.{05}{05}{05}
 @302
 {01}S{02}e3Oh, you saw through my plan... {02}{02}ﾈ, not to be underestimated. I won't forget that name.{05}{05}{05}Foiling my plan... The enemy has a fine general, it seems.{05}{05}{05}They saw through it... It seems {01}C{02}{00} must get serious.{05}{05}{05}
 @303

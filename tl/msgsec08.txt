@@ -33,15 +33,15 @@ This year the realm will be governed by {02}{01}ﾈ's opinion.\nIs that all righ
 @16
 {01}S{02}v5We should build up {02}{14}ﾈ and raise commerce by {1B}C4{02}({1B}C1. That should increase our income.{05}{05}{05}Let us build roads to bring more people to {02}{14}ﾈ and raise commerce by {1B}C4{02}({1B}C1.{05}{05}{05}To develop trade in {02}{14}ﾈ, let us replan the town and raise commerce by {1B}C4{02}({1B}C1.{05}{05}{05}The people of {02}{14}ﾈ ask for a more livable town. We should raise commerce by {1B}C4{02}({1B}C1.{05}{05}{05}I wish to make {02}{14}ﾈ a bustling town{01}C{16}{00}. Let us raise commerce by {1B}C4{02}({1B}C1.{05}{05}{05}
 @17
-{01}S{02}v5I wish to prepare for attack{01}C{16}{00}. We should deepen the trenches of {02}{14}ﾈ and raise defense by {1B}C4{02}({1B}C1{01}C{17}{00}.{05}{05}{05}To prepare for invasion, let us shore up the walls of {02}{14}ﾈ and raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}The walls of {02}{14}ﾈ are damaged. We should repair them quickly and raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}The people of {02}{14}ﾈ are uneasy about the damaged walls. Let us raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}To reassure the people, I wish to rebuild the castle of {02}{14}ﾈ and raise defense by {1B}C4{02}({1B}C1{01}C{16}{00}.{05}{05}{05}
+{01}S{02}v5I wish to prepare for attack. Let us deepen the trenches of {02}{14}ﾈ, raising defense by {1B}C4{02}({1B}C1.{05}{05}{05}To prepare for invasion, let us shore up the walls of {02}{14}ﾈ and raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}The walls of {02}{14}ﾈ are damaged. We should repair them quickly and raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}The people of {02}{14}ﾈ are uneasy about the damaged walls. Let us raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}To reassure the people, I wish to rebuild the castle of {02}{14}ﾈ and raise defense by {1B}C4{02}({1B}C1{01}C{16}{00}.{05}{05}{05}
 @18
 {01}S{02}v3Let us raise farming in {02}{14}ﾈ and {02}{15}ﾈ, which still have room to grow, by {1B}C4{02}({1B}C1 each.{05}{05}{05}To raise the harvests of {02}{14}ﾈ and {02}{15}ﾈ, I wish to raise farming in each by {1B}C4{02}({1B}C1{01}C{16}{00}.{05}{05}{05}To feed the realm, we should raise farming in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}
 @19
-{01}S{02}v3Flood control is vital to the realm. Let us raise it in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}To guard against floods, let us raise flood control in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}Water disasters can't be taken lightly{01}C {00}. We should carry out flood works in {02}{14}ﾈ and {02}{15}ﾈ, raising flood control by {1B}C4{02}({1B}C1.{05}{05}{05}
+{01}S{02}v3Flood control is vital to the realm. Let us raise it in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}To guard against floods, let us raise flood control in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}Floods are no small matter. Let us raise flood control in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1.{05}{05}{05}
 @20
 {01}S{02}v3Industry is the key to a rich realm. Let us raise commerce in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}I wish to improve the roads of {02}{14}ﾈ and {02}{15}ﾈ and raise commerce in each by {1B}C4{02}({1B}C1{01}C{16}{00}.{05}{05}{05}Let us support the merchants of {02}{14}ﾈ and {02}{15}ﾈ and raise commerce in each by {1B}C4{02}({1B}C1.{05}{05}{05}
 @21
-{01}S{02}v3To prepare for invasion, let us raise defense in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}The walls of {02}{14}ﾈ and {02}{15}ﾈ worry me. We should repair them quickly and raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}{02}{14}ﾈ and {02}{15}ﾈ are our strongholds... Let us fortify them, raising defense by {1B}C4{02}({1B}C1 each.{05}{05}{05}
+{01}S{02}v3To prepare for invasion, let us raise defense in {02}{14}ﾈ and {02}{15}ﾈ by {1B}C4{02}({1B}C1 each.{05}{05}{05}The walls of {02}{14}ﾈ and {02}{15}ﾈ worry me. Let us repair them and raise defense by {1B}C4{02}({1B}C1.{05}{05}{05}{02}{14}ﾈ and {02}{15}ﾈ are our strongholds... Let us fortify them, raising defense by {1B}C4{02}({1B}C1 each.{05}{05}{05}
 @22
 {01}S{02}v3{02}{14}ﾈ is vital to our realm... Let us patrol {02}{14}ﾈ and raise support there to {1B}C490{1B}C1 or more.{05}{05}{05}To reassure the people of {02}{14}ﾈ, I think we should patrol and raise support there to {1B}C490{1B}C1 or more{01}C{16}{00}.{05}{05}{05}A settled people is the basis of rule... Let us patrol {02}{14}ﾈ and raise support to {1B}C490{1B}C1 or more.{05}{05}{05}
 @23
@@ -93,7 +93,7 @@ Let us invade {02}{14}ﾈ and spread the teachings of the Way of Great Peace.{05
 @46
 =
 @47
-{01}S{02}v3We need people skilled in {02}-. Let us find officers with {02}- of {1B}C4{02}({1B}C1 or more: {02}) of them this year.{05}{05}{05}For our army's growth, let us add officers with {02}- of {1B}C4{02}({1B}C1 or more: {02}) of them.{05}{05}{05}Talent is the heart of a realm... We should add officers with {02}- of {1B}C4{02}({1B}C1 or more: {02}) of them.{05}{05}{05}
+{01}S{02}v3We need {02}- talent. Let us find officers with {02}- of {1B}C4{02}({1B}C1 or more: {02}) this year.{05}{05}{05}For our army's growth, let us add officers with {02}- of {1B}C4{02}({1B}C1 or more: {02}) of them.{05}{05}{05}Talent is a realm's heart. Let us add officers with {02}- of {1B}C4{02}({1B}C1 or more: {02}) of them.{05}{05}{05}
 @48
 =
 @49
@@ -105,7 +105,7 @@ Let us invade {02}{14}ﾈ and spread the teachings of the Way of Great Peace.{05
 @52
 {01}S{02}v3Winning over {02}{02}ﾈ, a fierce warrior of {02}{14}ﾈ, would surely make our army stronger{01}C{1C}{00}.{05}{05}{05}There's a hero named {02}{02}ﾈ in {02}{14}ﾈ{01}C{1B}{00}. Let us recruit them to strengthen our generals{01}C{14}{00}.{05}{05}{05}Let us win over {02}{02}ﾈ of {02}{14}ﾈ. We need their might.{05}{05}{05}
 @53
-{01}S{02}v3Let us bring {02}{02}ﾈ of {02}{14}ﾈ to our side. Their wits would surely be useful{01}C{16}{00}.{05}{05}{05}We need the fine tactics of {02}{02}ﾈ in {02}{14}ﾈ{01}C{17}{00}. Let us bring them into our realm.{05}{05}{05}There's a cunning strategist named {02}{02}ﾈ in {02}{14}ﾈ{01}C{1B}{00}. They'd be a great help on our side{01}C{16}{00}.{05}{05}{05}
+{01}S{02}v3Let us bring {02}{02}ﾈ of {02}{14}ﾈ to our side. Their wits would surely be useful{01}C{16}{00}.{05}{05}{05}We need the fine tactics of {02}{02}ﾈ in {02}{14}ﾈ{01}C{17}{00}. Let us bring them into our realm.{05}{05}{05}There's a cunning strategist named {02}{02}ﾈ in {02}{14}ﾈ. They'd be a great help on our side.{05}{05}{05}
 @54
 I wish to recruit Huang Zhong in {02}{14}ﾈ, old but famed for his valor{01}C{16}{00}.{05}{05}{05}
 @55
@@ -145,11 +145,11 @@ Let us recruit Lu Bu of {02}{14}ﾈ... In valor, no one surpasses him{01}C {00}.
 @72
 =
 @73
-{01}S{02}v2Fighting {02}{02}ﾈ is pointless... Let us ally with them for {02}( months or more.{05}{05}{05}We have other enemies to worry about{01}C{1B}{00}. We must ally with {02}{02}ﾈ for {02}( months or more and work together.{05}{05}{05}{02}{02}ﾈ is better as a friend than a foe... Let us ally with them for {02}( months or more.{05}{05}{05}
+{01}S{02}v2Fighting {02}{02}ﾈ is pointless... Let us ally with them for {02}( months or more.{05}{05}{05}We have other enemies to worry about. Let us ally with {02}{02}ﾈ for {02}( months or more.{05}{05}{05}{02}{02}ﾈ is better as a friend than a foe... Let us ally with them for {02}( months or more.{05}{05}{05}
 @74
 {01}S{02}v3I wish to develop {02}- to build up our forces{01}C{16}{00}. Joint research with Lord {02}{02}ﾈ...{05}{05}{05}Let us pool our skills with our friend Lord {02}{02}ﾈ and develop {02}-{01}C{14}{00}.{05}{05}{05}I think we should develop {02}- with Lord {02}{02}ﾈ and unify this age as soon as we can{01}C{16}{00}.{05}{05}{05}
 @75
-{01}S{02}v3To deepen our friendship with Lord {02}{02}ﾈ, we should send envoys and lower their hostility to {1B}C4{02}({1B}C1 or less.{05}{05}{05}To become allies with Lord {02}{02}ﾈ, let us send envoys and lower their hostility to {1B}C4{02}({1B}C1 or less.{05}{05}{05}Opposing Lord {02}{02}ﾈ is foolish. Let us send envoys at once and lower hostility to {1B}C4{02}({1B}C1 or less.{05}{05}{05}
+{01}S{02}v3To befriend Lord {02}{02}ﾈ, let us send envoys and lower their hostility to {1B}C4{02}({1B}C1 or less.{05}{05}{05}To become allies with Lord {02}{02}ﾈ, let us send envoys and lower their hostility to {1B}C4{02}({1B}C1 or less.{05}{05}{05}Opposing Lord {02}{02}ﾈ is foolish. Let us send envoys at once and lower hostility to {1B}C4{02}({1B}C1 or less.{05}{05}{05}
 @76
 =
 @77

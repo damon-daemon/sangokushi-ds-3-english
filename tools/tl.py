@@ -83,6 +83,34 @@ def codes_outside_inline(s):
 
 KANA = re.compile(r'\{1B\}[KH]')
 
+# The dialogue window (ctor 0x0208FCB8, 0x3EC bytes) strcpy's the expanded message to +0x374
+# with no limit (0x020907BC): 119 bytes + NUL. Overflow smashes the next window/heap block
+# (GitHub issue #1: Yijing victory hang). The expander (0x02038C6C) reads until {05}, across
+# entry boundaries.
+WINDOW_BYTES = 119
+EXPAND_NAME = 11                  # longest English officer/city name inserted by a variable
+# files shown in other frames (description boxes, narration): over-limit lines only warn
+OTHER_FRAME = {'msgsec01', 'msgsec02', 'msgsec03', 'msgsec17', 'msgsec20', 'msgsec28',
+               'msgsec29', 'msgsec57', 'msgsec65'} | {'msgsec%02d' % n for n in range(30, 38)}   # + bios
+
+def expanded_bytes(text):
+    """Worst-case bytes the expander emits per variant: kana toggles vanish, {1B}C#/{1B}W#
+    keep 3 bytes, names/inserts count EXPAND_NAME, jumps/conditions emit nothing."""
+    out = []
+    for v in text.split(END):
+        v = KANA.sub('', v)
+        v = re.sub(SPEECH, '\0', v)
+        v = re.sub(VAR, '\0', v)
+        v = v.replace('%s', '\0')
+        v = re.sub(r'\{02\}(?:\{[0-9A-F]{2}\}|[!-~])', '\0', v)
+        v = re.sub(r'\{01\}[A-Z](?:\{[0-9A-F]{2}\}|.)(?:\{[0-9A-F]{2}\}|.)?', '', v)
+        v = re.sub(r'\{0[3-7]\}', '', v)
+        n = v.count('\0') * EXPAND_NAME
+        v = v.replace('\0', '')
+        v = CODE.sub('#', v)              # {0A} newline, {1B}: one byte each
+        out.append(n + len(v.encode('cp932', errors='replace')))
+    return out
+
 def check(jp, en):
     errs = []
     # half-width-kana mode toggles mean nothing in English: compare without them
@@ -228,8 +256,19 @@ def apply(name, batch):
         # speech insert with id 0x0A ({01}C<newline>{00}) must not look like a line break
         jp = jp.replace('{01}C\n{00}', '{01}C{0A}{00}')
         jp = re.sub(r'\{01\}J\n', '{01}J{0A}', jp)    # jump to entry 0x0A
+        if '{05}' not in jp and en.endswith(END):
+            # jp has no terminator (Koei data bug, msgsec60 @140) and runs on into the next
+            # entry; English may add the missing one
+            jp += END
         text, warns = prepare(jp, en)
         errs = check(jp, text)
+        for v, (a, b) in enumerate(zip(expanded_bytes(jp), expanded_bytes(text))):
+            if b > WINDOW_BYTES >= a:
+                msg = 'variant %d: %d bytes expanded > %d (dialogue window buffer)' % (v, b, WINDOW_BYTES)
+                if name in OTHER_FRAME:
+                    warns.append(msg)
+                else:
+                    errs.append(msg)
         for e in errs:
             print('%s@%d ERROR %s' % (name, i, e)); bad += 1
         for w in warns:
