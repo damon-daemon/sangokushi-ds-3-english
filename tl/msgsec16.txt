@@ -197,7 +197,7 @@ If these old bones will do, I'll gladly lend my strength.{05}{05}{05}
 @98
 I refuse... I won't serve someone without honor or loyalty.{05}{05}{05}
 @99
-{05}{05}{04}{02}{02}p{04}<5{01}J{E4}>{05}{05}{05}{05}{05}{04}{02}{01}h{04}>85{01}J{E5}>{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{E6}>{05}{05}{05}{01}S{02}e3Rather, wouldn't you like to serve my lord{01}C{1C}{00}? {01}C{06}{00} could do even more there.{05}{05}{05}Changing the subject, won't you fight with my lord{01}C9{00}? {01}C{00}{00} will recommend you as grand general{01}C7{00}.{05}{05}{05}By the way, {01}C{07}{00} seem unhappy with your treatment. If you like, I'll recommend you to my lord{01}C{14}{00}.{05}{05}{05}
+{05}{05}{04}{02}{02}p{04}<5{01}J{E4}>{05}{05}{05}{05}{05}{04}{02}{01}h{04}>85{01}J{E5}>{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}J{E6}>{05}{05}{05}{01}S{02}e3Rather, wouldn't you like to serve my lord{01}C{1C}{00}? {01}C{06}{00} could do even more there.{05}{05}{05}Won't you fight alongside my lord{01}C9{00}? {01}C{00}{00} will recommend you as grand general{01}C7{00}.{05}{05}{05}By the way, {01}C{07}{00} seem unhappy with your treatment. If you like, I'll recommend you to my lord{01}C{14}{00}.{05}{05}{05}
 @100
 Rather, come to my lord... You'll surely get what you want{01}C{1A}{00}.{05}{05}{05}
 @101

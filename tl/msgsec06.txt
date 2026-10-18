@@ -29,7 +29,7 @@ The typhoon struck {02}{14}ﾈ directly, badly damaging crops and trade.{05}{05}
 @14
 Heavy rain has made the rivers overflow, and floods have broken out.{05}{05}{05}
 @15
-{05}{05}{04}{02}({04}=1{01}J{80}{17}{05}{05}{05}The muddy torrents that struck {02}( cities, including {02}{14}ﾈ, swallowed farms and markets alike, devastating them.{05}{05}{05}
+{05}{05}{04}{02}({04}=1{01}J{80}{17}{05}{05}{05}Floods struck {02}( cities, including {02}{14}ﾈ, swallowing farms and markets alike.{05}{05}{05}
 @16
 In flood-stricken {02}{14}ﾈ the whole town is under water, and the people's lives are devastated.{05}{05}{05}
 @17
@@ -43,7 +43,7 @@ Our lands are celebrating a rich harvest too:\n%s  %s  %s  %s  %s\n%s  %s  %s  %
 @21
 Unusually bad weather has brought poor harvests across the land.{05}{05}{05}
 @22
-{05}{05}{04}{02}({04}=1{01}J{87}{17}{05}{05}{05}{02}( cities, including {02}{14}ﾈ, have suffered a terrible harvest; people don't know where tomorrow's food will come from.{05}{05}{05}
+{05}{05}{04}{02}({04}=1{01}J{87}{17}{05}{05}{05}{02}( cities, including {02}{14}ﾈ, suffered a terrible harvest; people fear for tomorrow's food.{05}{05}{05}
 @23
 {02}{14}ﾈ has suffered a terrible harvest; people don't know where tomorrow's food will come from.{05}{05}{05}
 @24
@@ -141,9 +141,9 @@ I am {02}{01}ﾈ... I shall dance for Lord {02}{02}ﾈ.{05}{05}{05}
 @70
 =
 @71
-{01}S{02}e3I am {02}{01}ﾈ{01}C{17}{00}. Like my father, now planted with the enemy, I am ready to give my all for {01}C{09}{00}{01}C{17}{00}.{05}{05}{05}I am {02}{01}ﾈ. Like my father, now planted with the enemy, I will fight to the death.{05}{05}{05}I am {02}{01}ﾈ{01}C{17}{00}. I wish to do even greater deeds than my father, now planted with the enemy{01}C{16}{00}.{05}{05}{05}
+{01}S{02}e3I am {02}{01}ﾈ. Like my father, now planted with the enemy, I will give my all for {01}C{09}{00}.{05}{05}{05}I am {02}{01}ﾈ. Like my father, now planted with the enemy, I will fight to the death.{05}{05}{05}I am {02}{01}ﾈ{01}C{17}{00}. I wish to do even greater deeds than my father, now planted with the enemy{01}C{16}{00}.{05}{05}{05}
 @72
-{01}S{02}e3I am {02}{01}ﾈ{01}C{17}{00}. Like my mother, now planted with the enemy, I am ready to give my all for {01}C{09}{00}{01}C{17}{00}.{05}{05}{05}I am {02}{01}ﾈ. Like my mother, now planted with the enemy, I will fight to the death.{05}{05}{05}I am {02}{01}ﾈ{01}C{17}{00}. I wish to do even greater deeds than my mother, now planted with the enemy{01}C{16}{00}.{05}{05}{05}
+{01}S{02}e3I am {02}{01}ﾈ. Like my mother, now planted with the enemy, I will give my all for {01}C{09}{00}.{05}{05}{05}I am {02}{01}ﾈ. Like my mother, now planted with the enemy, I will fight to the death.{05}{05}{05}I am {02}{01}ﾈ{01}C{17}{00}. I wish to do even greater deeds than my mother, now planted with the enemy{01}C{16}{00}.{05}{05}{05}
 @73
 =
 @74
@@ -239,7 +239,7 @@ That is why I called you here: there's something I must pass on to you. Now, lis
 @119
 I understand.{05}{05}{05}
 @120
-What they passed on was a "formation." Weak as they were, {02}{01}ﾈ desperately taught {02}{02}ﾈ the art of command honed over many years.{05}{05}{05}
+They passed on a "formation." Though weak, {02}{01}ﾈ taught {02}{02}ﾈ the art of command honed over many years.{05}{05}{05}
 @121
 {05}{05}{04}{02}{01}{81}{01}J{EA}{17}{05}{05}{05}*cough* That is everything I learned on the battlefield{01}C-{00}. Do you understand?{05}{05}{05}
 @122
@@ -257,7 +257,7 @@ And so {02}{01}ﾈ quietly breathed their last.{05}{05}{05}
 @128
 The renowned {02}{01}ﾈ falls here and now...{05}{05}{05}
 @129
-{02}{01}ﾈ has inherited the spirit of the fallen hero. All the senior retainers are striving to support their new lord.{05}{05}{05}
+{02}{01}ﾈ has inherited the fallen hero's spirit. All the senior retainers strive to support their new lord.{05}{05}{05}
 @130
 Select {02}{01}ﾈ's successor.{05}{05}{05}
 @131

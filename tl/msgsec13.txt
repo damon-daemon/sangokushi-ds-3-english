@@ -155,7 +155,7 @@ The people are all deeply unhappy with a ruler who turns a blind eye to the band
 @77
 Some questioned paying them off, but the bandits withdrew quietly and the matter seems settled.{05}{05}{05}
 @78
-We tried to pay them off, but the bandits vow to keep raiding the town. Things are at their worst, and the people are furious.{05}{05}{05}
+We tried paying them off, but the bandits vow to keep raiding. Things are at their worst; the people are furious.{05}{05}{05}
 @79
 {01}S{02}e3Lord {02}{01}ﾈ's fame has reached our village too. Let us join as volunteers!{05}{05}{05}We formed a volunteer army to be of use to the world. Please take us under your command.{05}{05}{05}Townsfolk formed a volunteer army to help Lord {02}{01}ﾈ. Please let us fight with you.{05}{05}{05}
 @80
@@ -287,7 +287,7 @@ Before my majesty and virtue, even barbarians will bow. No need for troops{01}C2
 @143
 {01}S{02}e2Well... Barbarians or not, they're people too... Let's try to persuade them.{05}{05}{05}Well... They must have their reasons{01}C{1A}{00}... Shall we hear them out?{05}{05}{05}
 @144
-After negotiations, the barbarians in {02}{14}ﾈ returned to their lands. The people all praise Lord {02}{01}ﾈ for settling it by talks.{05}{05}{05}
+After talks, the barbarians in {02}{14}ﾈ went home. The people praise Lord {02}{01}ﾈ for settling it peacefully.{05}{05}{05}
 @145
 {05}{05}{04}{02}{01}d{04}=0{01}JZ3{05}{05}{05}{01}S{02}e2Hmm... They don't understand a word{01}C9{00}{01}C0{00}. Then with gestures... No good after all.{05}{05}{05}Wh-why are they suddenly angry{01}C-{00}... This is no negotiation{01}C9{00}{01}C0{00}.{05}{05}{05}
 @146
@@ -387,9 +387,9 @@ Lord {02}{01}ﾈ ran wild, leaving the tavern half-wrecked. The townsfolk can be
 @193
 {01}S{02}e3Ha! Getting cocky! It's not over yet! Come on!{05}{05}{05}{01}C{03}{00} is nothing to fear! *hic*... I'm not done yet!{05}{05}{05}All right... the nuisance is gone! Now let's go at it for real!{05}{05}{05}
 @194
-{05}{05}{04}{02}{01}d{04}=0{01}J{8B}3{05}{05}{05}Having beaten {02}{01}ﾈ, the men grew even wilder and started a huge brawl that dragged everyone in. The townsfolk are appalled...{05}{05}{05}
+{05}{05}{04}{02}{01}d{04}=0{01}J{8B}3{05}{05}{05}Having beaten {02}{01}ﾈ, the men grew even wilder and started a huge brawl. The townsfolk are appalled...{05}{05}{05}
 @195
-Having beaten Lord {02}{01}ﾈ, the men grew even wilder and started a huge brawl that dragged everyone in. The townsfolk are appalled...{05}{05}{05}
+Having beaten Lord {02}{01}ﾈ, the men grew even wilder and started a huge brawl. The townsfolk are appalled...{05}{05}{05}
 @196
 Arresting both troublemakers without a word settled the matter, but the townsfolk call it merciless...{05}{05}{05}
 @197
@@ -503,7 +503,7 @@ Repair the shrine for Gold {1B}C41000{1B}C1.\nIs that all right?{05}{05}{05}
 @251
 {05}{05}{04}{02}{01}d{04}=0{01}Jﾄ3{05}{05}{05}With the shrine torn down by {02}{01}ﾈ, the strange events seem to have stopped. People admire the decisive action.{05}{05}{05}
 @252
-With the shrine torn down by Lord {02}{01}ﾈ, the strange events seem to have stopped. People admire the decisive action.{05}{05}{05}
+With the shrine torn down by Lord {02}{01}ﾈ, the strange events have stopped. People admire the bold move.{05}{05}{05}
 @253
 {05}{05}{04}{02}{01}{81}{01}Jﾆ3{05}{05}{05}{01}S{02}e2Smash it at once! ...Hm... What...? I feel dizzy... Ugh...{05}{05}{05}What could a mere shrine... Ugh... I feel sick...{05}{05}{05}
 @254
@@ -517,9 +517,9 @@ Lord {02}{01}ﾈ, who tore down the shrine, has fallen ill, and the people are m
 @258
 {01}S{02}e2How dreadful{01}C2{00}... Let's repair it and hold a ceremony.{05}{05}{05}How pitiful... Repair it at once and honor it properly.{05}{05}{05}
 @259
-{05}{05}{04}{02}{01}d{04}=0{01}Jﾌ3{05}{05}{05}Perhaps because {02}{01}ﾈ repaired the shrine, the strange events have stopped. Everyone praises Lord {02}{02}ﾈ's virtue.{05}{05}{05}
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾌ3{05}{05}{05}Since {02}{01}ﾈ repaired the shrine, the strange events have stopped. All praise Lord {02}{02}ﾈ's virtue.{05}{05}{05}
 @260
-Perhaps because Lord {02}{01}ﾈ repaired the shrine, the strange events have stopped. Everyone praises Lord {02}{02}ﾈ's virtue.{05}{05}{05}
+Since Lord {02}{01}ﾈ repaired the shrine, the strange events have stopped. All praise Lord {02}{02}ﾈ's virtue.{05}{05}{05}
 @261
 {05}{05}{04}{02}{01}u{04}=339ﾎ3{05}{05}{05}{05}{05}{04}{02}{01}u{04}=662ﾏ3{05}{05}{05}{05}{05}{04}{02}{01}{81}{01}Jﾐ3{05}{05}{05}{01}S{02}e2Hmm... Then I'll pray to Heaven and calm the spirit troubling the people... Hah!{05}{05}{05}This too is a sign of the turbulent times... I'll console the ancestral spirits with my prayers...{05}{05}{05}
 @262
@@ -529,9 +529,9 @@ With {01}C{03}{00}'s magic, I'll calm the spirit that troubles the world... Haaa
 @264
 {01}S{02}e2Well... Then I'll pray to Heaven and calm the spirit troubling the people... Hah!{05}{05}{05}This too is a sign of the turbulent times... I'll console the ancestral spirits with my prayers...{05}{05}{05}
 @265
-{05}{05}{04}{02}{01}d{04}=0{01}Jﾒ3{05}{05}{05}Perhaps {02}{01}ﾈ's prayers were heard; the strange events have stopped. People say it's thanks to Lord {02}{02}ﾈ's virtue.{05}{05}{05}
+{05}{05}{04}{02}{01}d{04}=0{01}Jﾒ3{05}{05}{05}Perhaps {02}{01}ﾈ's prayers were heard; the strange events have stopped. All credit Lord {02}{02}ﾈ's virtue.{05}{05}{05}
 @266
-Perhaps Lord {02}{01}ﾈ's prayers were heard; the strange events have stopped. People say it's thanks to Lord {02}{02}ﾈ's virtue.{05}{05}{05}
+Perhaps Lord {02}{01}ﾈ's prayers were heard; the strange events have stopped. All credit Lord {02}{02}ﾈ's virtue.{05}{05}{05}
 @267
 {05}{05}{04}{02}{01}{81}{01}Jﾔ3{05}{05}{05}{01}S{02}e2If I at least say a prayer, the people will feel better{01}C{1A}{00}... Abracadabra.{05}{05}{05}Um... For now, if I pray like this... Hya! Hya!{05}{05}{05}
 @268

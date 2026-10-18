@@ -63,7 +63,7 @@ We formed a {02}(-month alliance with {02}{02}ﾈ{01}C0{00}. Goal achieved{01}C-
 @61
 As planned, we researched {02}- with {02}{02}ﾈ{01}C0{00}.{05}{05}{05}
 @62
-We lowered {02}{02}ﾈ's hostility to {02}( or less; goal achieved{01}C-{00}. Well done, diplomacy minister{01}C2{00}{01}C8{00}.{05}{05}{05}
+Goal achieved: {02}{02}ﾈ's hostility is now {02}( or less. Well done, diplomacy minister.{05}{05}{05}
 @70
 This year's goal is already achieved{01}C6{00}.{05}{05}{05}
 @71

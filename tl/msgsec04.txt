@@ -209,7 +209,7 @@ Year {02}(, month {02}): {02}{01}ﾈ achieved the great feat of unifying the lan
 @104
 The house of %s vanished from history...{05}{05}{05}
 @105
-No hero appeared to unify the land... Will the day ever come when the people are freed from the misery of this chaotic age?{05}{05}{05}
+No hero appeared to unify the land... Will the people ever be freed from the misery of this chaotic age?{05}{05}{05}
 @106
 Ugly rumors about {02}{01}ﾈ are spreading in {02}{14}ﾈ.{05}{05}{05}
 @107

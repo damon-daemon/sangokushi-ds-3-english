@@ -316,7 +316,7 @@ Hey, Tian Feng!\nWho do you take for\nthe commander?!{05}{05}{05}
 @139
 Wha... Huh?\nHave you a plan to\nturn things around?{05}{05}{05}
 @140
-No, it's the commander's job...\nAhem...\nAll troops, retreat!\n
+No, it's the commander's job...\nAhem...\nAll troops, retreat!{05}{05}{05}
 @141
 Don't be so glum.\nYou were up against me,\nYuan Shao. Hahaha.{05}{05}{05}
 @142

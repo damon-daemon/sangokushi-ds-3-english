@@ -267,7 +267,7 @@ The people of {02}{14}ﾈ are saddened. Their support is now {1B}C4{02}({1B}C1 (
 @133
 {01}S{02}e3Thank you! Surely it will become a better place to live.{05}{05}{05}Lord {02}{01}ﾈ heard our plea... Now there's a truly wise ruler!{05}{05}{05}Wonderful, wonderful! Thank you so much, Lord {02}{01}ﾈ!{05}{05}{05}
 @134
-Lord {02}{02}ﾈ, nothing has been heard from {02}{01}ﾈ since going to {02}{14}ﾈ. It seems {02}{01}ﾈ was {02}{03}ﾈ's spy.{05}{05}{05}
+Lord {02}{02}ﾈ, {02}{01}ﾈ went to {02}{14}ﾈ and vanished. It seems {02}{01}ﾈ was {02}{03}ﾈ's spy.{05}{05}{05}
 @135
 Lord {02}{02}ﾈ, {02}{01}ﾈ, sent to {02}{14}ﾈ, is in {02}{03}ﾈ's realm. It seems they were a planted agent.{05}{05}{05}
 @136
