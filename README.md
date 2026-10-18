@@ -112,10 +112,15 @@ issues, credits). The ROM itself is never packaged.
 - If battles stop asking for your orders after the first turn on a 3DS, DSi or
   flashcart, update your loader or flashcart firmware. The unpatched Japanese game
   behaves the same way.
+- Some crashes have been observed that appear to be triggered by certain
+  translated text in the game. If the game freezes or crashes, please report it
+  (see below) with where it happened and, if possible, a save state from just before.
 
 Tested in melonDS and on a 3DS.
 
-Bug reports with a screenshot and where it happened are welcome.
+Please report bugs, including crashes and mistranslations, as
+[GitHub issues](https://github.com/damon-daemon/sangokushi-ds-3-english/issues), with a screenshot
+and where it happened.
 
 ## Credits
 
