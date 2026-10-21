@@ -56,7 +56,7 @@ original Japanese release.
    or the command line:
 
    ```
-   xdelta3 -d -s sangokushi_ds_3.nds sangokushi_ds_3_en_v<version>.xdelta sangokushi_ds_3_en.nds
+   xdelta3 -d -s sangokushi_ds_3.nds sangokushi_ds_3_en_v<version>.xdelta sangokushi_ds_3_en_v<version>.nds
    ```
 
 ## Building from source
