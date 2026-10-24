@@ -11,13 +11,14 @@ So each Latin character is entered as the pair 0x7F + ASCII. 0x7F is a blank
 glyph of width 0, so the pair draws as the plain letter and the 2-byte engine
 works unchanged. The 記号 page lists 0x7F20-0x7F7A, the name screens open on
 it, and the 0x7F bytes are stripped when the name is stored (and re-added when
-an existing name is edited). Names hold up to 8 characters (stock: 4).
+an existing name is edited). Names hold up to 8 characters (stock: 4); the
+officer record keeps 8 bytes, so a kana-only name is still cut to 4.
+
+Also: registering a new officer was refused for every name (see OV5_READING_CHECK).
 """
 import struct
 from keystone import Ks, KS_ARCH_ARM, KS_MODE_ARM
 import ndspy.code
-
-PAD = 0x7F
 
 SYMBOL_RANGES = 0x020FA04C     # 4 x (u16 lo, u16 hi) for the 記号 page
 SYMBOL_FILTER = 0x020B68C8     # bl has_glyph (range codes only; kana variants are unfiltered)

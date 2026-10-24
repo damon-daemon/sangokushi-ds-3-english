@@ -112,7 +112,8 @@ issues, credits). The ROM itself is never packaged.
 - A few screens have not been seen in an emulator yet (victory/defeat banners, gallery
   card and event screens, the ending); they were checked in previews only.
 - On the name entry screen, tapping the typed name to move the cursor only works
-  roughly (it still assumes the original 4 wide cells); use L and R instead. A new
+  roughly (it still assumes the original 4 wide cells); use L and R instead. The
+  letters page has no Confirm button: press B, then X on the kana page. A new
   officer's reading (sort name) is still entered in katakana.
 - On the tutorial's chapter buttons, the completion checkmark overlaps the "Chapter N"
   label.
