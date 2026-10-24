@@ -54,6 +54,14 @@ def apply(path):
     import tl
     rows = json.load(open(path, encoding='utf-8'))
     for i, words in EN.items():
+        if not any(words):
+            # All-empty entry: a bare return. Keeping the conditions would leave
+            # "{05}{05}{04}<cond>{05}{05}{05}": the if-handler (0x02038470) eats a
+            # token after the condition, so on the false branch the first return is
+            # swallowed and the expander runs on into the next entries (the
+            # blanked particles printed entry 59 "easily").
+            rows[i]['en'] = tl.END
+            continue
         jv = rows[i]['jp'].split(tl.END)
         out = []
         for k, v in enumerate(jv[:-1]):           # last split part is the empty tail
