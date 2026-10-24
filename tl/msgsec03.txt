@@ -339,7 +339,7 @@ What is the Circle formation?{05}{05}{05}
 @169
 What is the Crane formation?{05}{05}{05}
 @170
-{1B}C6What is the Crane formation?{1B}C1\nSending even one officer who can use Crane gives you an edge, because it's the only formation that can use {1B}C4"Surround"{1B}C1.\nSurround is an attack made when several units encircle an enemy. It deals huge damage, so go for it whenever you can.{05}{05}{05}
+{1B}C6What is the Crane formation?{1B}C1\nSending even one officer who can use Crane gives you an edge, because it's the only formation that can use {1B}C4"Joint Attack"{1B}C1.\nJoint Attack is an attack made when several units encircle an enemy. It deals huge damage, so go for it whenever you can.{05}{05}{05}
 @171
 What is the Geese formation?{05}{05}{05}
 @172
@@ -495,7 +495,7 @@ What is "Vines"?{05}{05}{05}
 @247
 What is "Mighty"?{05}{05}{05}
 @248
-{1B}C6What is "Mighty"?{1B}C1\nWhen surrounded by several enemies, their attack grows and you're at a disadvantage, especially against Surround attacks.\nBut officers with {1B}C4"Mighty"{1B}C1 suffer no penalty when surrounded. It's the mark of a warrior worth a thousand men.{05}{05}{05}
+{1B}C6What is "Mighty"?{1B}C1\nWhen surrounded by several enemies, their attack grows and you're at a disadvantage, especially against Joint Attacks.\nBut officers with {1B}C4"Mighty"{1B}C1 suffer no penalty when surrounded. It's the mark of a warrior worth a thousand men.{05}{05}{05}
 @249
 What is "Calm"?{05}{05}{05}
 @250
