@@ -60,6 +60,14 @@ def apply(path):
             w = words[k] if k < len(words) else words[-1]
             # jump-only variants ({01}J..) carry no text
             out.append(v if w is None or tl.invisible(v) else tl.header(v) + w)
+        if not any(words):
+            # All-empty entry: a bare return. Keeping the conditions would leave
+            # "{05}{05}{04}<cond>{05}{05}{05}": the if-handler (0x02038470) eats a
+            # token after the condition, so on the false branch the first return is
+            # swallowed and the expander runs on into the next entries (the
+            # blanked particles printed entry 59 "easily").
+            rows[i]['en'] = tl.END
+            continue
         rows[i]['en'] = tl.END.join(out + [jv[-1]])
     json.dump(rows, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
