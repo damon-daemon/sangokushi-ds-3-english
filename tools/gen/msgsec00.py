@@ -54,12 +54,6 @@ def apply(path):
     import tl
     rows = json.load(open(path, encoding='utf-8'))
     for i, words in EN.items():
-        jv = rows[i]['jp'].split(tl.END)
-        out = []
-        for k, v in enumerate(jv[:-1]):           # last split part is the empty tail
-            w = words[k] if k < len(words) else words[-1]
-            # jump-only variants ({01}J..) carry no text
-            out.append(v if w is None or tl.invisible(v) else tl.header(v) + w)
         if not any(words):
             # All-empty entry: a bare return. Keeping the conditions would leave
             # "{05}{05}{04}<cond>{05}{05}{05}": the if-handler (0x02038470) eats a
@@ -68,6 +62,12 @@ def apply(path):
             # blanked particles printed entry 59 "easily").
             rows[i]['en'] = tl.END
             continue
+        jv = rows[i]['jp'].split(tl.END)
+        out = []
+        for k, v in enumerate(jv[:-1]):           # last split part is the empty tail
+            w = words[k] if k < len(words) else words[-1]
+            # jump-only variants ({01}J..) carry no text
+            out.append(v if w is None or tl.invisible(v) else tl.header(v) + w)
         rows[i]['en'] = tl.END.join(out + [jv[-1]])
     json.dump(rows, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
