@@ -132,6 +132,8 @@ def table(game_glyph_bytes, vwf=True):
         w = 6
         if vwf and ch not in FIXED_WIDTH:
             rows, w = _trim(rows)
+        if vwf and ch == '\x7f':
+            w = 0                         # name-entry pad byte (nameentry.py): invisible
         glyphs += encode(rows); widths.append(w)
     return bytes(glyphs), bytes(widths)
 

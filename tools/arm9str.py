@@ -98,7 +98,8 @@ def plan(rows=None):
     return out, warns
 
 def apply(code):
-    """Write translations into an ndspy MainCodeFile (arm9). Returns (#in place, #moved)."""
+    """Write translations into an ndspy MainCodeFile (arm9).
+    Returns (#in place, #moved, free [lo, hi) spans left in the pool, zeroed)."""
     from patch_arm9 import Arm9
     a9 = Arm9(code)
     items, _ = plan()
@@ -132,7 +133,7 @@ def apply(code):
             a9.write(p, struct.pack('<I', dst))
     for g in free:                        # leave no stale Japanese bytes behind
         a9.write(g[0], b'\0' * (g[1] - g[0]))
-    return len(fits), len(moves)
+    return len(fits), len(moves), [g for g in free if g[1] > g[0]]
 
 def check():
     items, _ = plan()
