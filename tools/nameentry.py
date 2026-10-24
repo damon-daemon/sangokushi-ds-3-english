@@ -34,6 +34,10 @@ STRIDE = {0x020B63A8: 'r1', 0x020B53DC: 'r1', 0x020B63D4: 'r0', 0x020B5408: 'r0'
 OV5_STORE = 0x021315E0         # bl strncpy(record buf, name, 9)
 OV4_STORE = 0x0212568C         # bl set_army_name(obj, name): copies 8 + NUL
 SET_ARMY_NAME = 0x020CCF24
+# Registering a new officer requires a non-empty name and reading (vt+0x140).
+# patch_arm9 points that getter at the record's last byte (always empty) to hide
+# English names spilling into the reading, so check the name twice instead.
+OV5_READING_CHECK = 0x021346D8 # ldr r2, [r2, #0x140]
 STRNCPY = 0x0200F7E4
 STRCPY = 0x0200F7B0
 HAS_GLYPH = 0x020B67C8
@@ -171,6 +175,9 @@ def apply(rom, a9, free):
 
     # store: strip the 0x7F pads
     ovs = rom.loadArm9Overlays()
+    o = ovs[5]; off = OV5_READING_CHECK - o.ramAddress
+    assert bytes(o.data[off:off + 4]) == _asm(ks, 'ldr r2, [r2, #0x140]', OV5_READING_CHECK)
+    o.data[off:off + 4] = _asm(ks, 'ldr r2, [r2, #0x134]', OV5_READING_CHECK)
     for ov, site, old, new in [(5, OV5_STORE, STRNCPY, addr['strip']), (4, OV4_STORE, SET_ARMY_NAME, addr['army'])]:
         o = ovs[ov]; off = site - o.ramAddress
         assert bytes(o.data[off:off + 4]) == _asm(ks, 'bl %#x' % old, site), 'ov%d %#x' % (ov, site)

@@ -137,7 +137,7 @@ No name has been set.{05}{05}{05}
 @69
 Select a face.{05}{05}{05}
 @70
-Enter a name (up to 4 characters).{05}{05}{05}
+Enter a name (up to 8 characters).{05}{05}{05}
 @71
 Enter a reading (up to 8 characters).{05}{05}{05}
 @72
