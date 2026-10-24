@@ -32,6 +32,9 @@ your own copy of the game.
 - Menu and battle graphics: buttons, titles, column headers, labels and banners,
   redrawn with an original English font
 - A variable-width font, so English text is proportional and readable
+- Name entry (new officers, Hero Battle Road army name) opens on a page of Latin
+  letters, digits and punctuation, and names can be up to 8 characters. The kana
+  pages are still there: press Back to reach them, and tap ABC to return.
 
 Long names are shortened where the game's boxes are too small (e.g. a few city and
 skill names); full names are kept in `tl/names_*.json` (`full` field).
@@ -91,6 +94,7 @@ issues, credits). The ROM itself is never packaged.
 | `tools/setup.py` | Creates `script/` from your ROM and `tl/` |
 | `tools/tl.py` | Validates and word-wraps translations (`apply`, `show`, `stats`) |
 | `tools/patch_arm9.py` | Code patches: ASCII font, variable-width text, layout fixes |
+| `tools/nameentry.py` | Code patches: Latin letters on the name entry screen |
 | `tools/gfx.py`, `bgtext.py`, `gfxtext.py` | Redraw English labels into the game's graphics at build time |
 | `tools/font6x12.py`, `boldfont.py` | Original fonts drawn for this project |
 | `tools/package.py` | Makes the release zip (patch + README.txt with checksums) |
@@ -107,6 +111,9 @@ issues, credits). The ROM itself is never packaged.
   traces of the original Japanese text behind it.
 - A few screens have not been seen in an emulator yet (victory/defeat banners, gallery
   card and event screens, the ending); they were checked in previews only.
+- On the name entry screen, tapping the typed name to move the cursor only works
+  roughly (it still assumes the original 4 wide cells); use L and R instead. A new
+  officer's reading (sort name) is still entered in katakana.
 - On the tutorial's chapter buttons, the completion checkmark overlaps the "Chapter N"
   label.
 - If battles stop asking for your orders after the first turn on a 3DS, DSi or

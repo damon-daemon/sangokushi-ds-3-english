@@ -163,4 +163,6 @@ def apply(code):
     assert HOOK + len(code_bytes) <= 0x02043918
     a.write(HOOK, code_bytes)
 
-    return table_addr
+    # unused after this: the rest of the hook area and of the stock half-width
+    # search (up to the full-width path at 0x0204391C)
+    return table_addr, [[t, area_end], [HOOK + len(code_bytes), 0x0204391C]]

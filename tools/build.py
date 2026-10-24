@@ -6,7 +6,7 @@ import os, subprocess, sys
 import ndspy.rom
 
 sys.path.insert(0, os.path.dirname(__file__))
-import script, patch_arm9, names, arm9str, gfx, ovlstr
+import script, patch_arm9, names, arm9str, gfx, ovlstr, nameentry
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -59,9 +59,11 @@ def main():
     print('graphics: %d sheets edited' % gfx.apply(rom))
     print('overlay strings: %d' % ovlstr.apply(rom))
     arm9 = rom.loadArm9()
-    table = patch_arm9.apply(arm9)
-    n_in, n_moved = arm9str.apply(arm9)
+    table, free = patch_arm9.apply(arm9)
+    n_in, n_moved, pool_free = arm9str.apply(arm9)
     print('arm9 UI strings: %d in place, %d relocated' % (n_in, n_moved))
+    caves = nameentry.apply(rom, patch_arm9.Arm9(arm9), free + pool_free)
+    print('name entry: Latin page (caves %s)' % ' '.join('%s@%#x' % kv for kv in sorted(caves.items())))
     rom.arm9 = arm9.save(compress=True)
     print('arm9 patched (ASCII font table at %#x)' % table)
     os.makedirs(os.path.dirname(out), exist_ok=True)
