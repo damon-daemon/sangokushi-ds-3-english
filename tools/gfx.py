@@ -415,7 +415,7 @@ VTA_EDITS = [
         'Move', 'Attack', 'Scheme', 'Special', 'Formation', 'Facing']),
     # Battle tactics
     ('Hex/Command/VTA_hex_down_parts_subcmd', (3, 3, 50, 15), HEXTEXT, [
-        'Normal', 'Assault', 'Volley', 'Arrows', 'Flame', 'Fire', 'Panic', 'Feud',      # 通常 突撃 一斉 弓矢 火矢 火計 混乱 同討
+        'Normal', 'Assault', 'Joint', 'Arrows', 'Flame', 'Fire', 'Panic', 'Feud',      # 通常 突撃 一斉 弓矢 火矢 火計 混乱 同討
         'Order', 'Mystic', 'Rouse', 'Heal', 'Rain', 'Skies', 'Douse', 'Rocks',      # 収拾 仙術 鼓舞 治療 雨乞 天変 消火 落石
         'Divine', 'Lurk', 'Mirage', 'Hex', 'Cheer', 'Flood', 'Slide', 'Sneak',   # 占卜 伏兵 幻術 妖術 激励 水計 土砂 隠密
         'Pitfall', 'Taunt', 'Infiltrate', 'Sway', 'Incite', 'Turncoat', 'Fury', 'Spray',     # 落穴 挑発 潜入 心攻 扇動 寝返 奮迅 乱射

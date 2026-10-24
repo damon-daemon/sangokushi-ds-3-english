@@ -7,7 +7,7 @@ T = {  # jp: (new, [old...])
  '錐行': ('Awl', []), '鈎行': ('Hook', []), '箕形': ('Fan', ['Winnow']), '鶴翼': ('Crane', ['Crane Wing']),
  '魚鱗': ('Scales', ['Fish Scale', 'Fish Scales']), '偃月': ('Moon', ['Crescent']), '鋒矢': ('Arrow', ['Arrowhead']),
  '衡軛': ('Yoke', []), '長蛇': ('Snake', ['Long Snake']), '方円': ('Circle', ['Square']), '雁行': ('Geese', ['Wild Geese']),
- '突撃': ('Assault', ['Charge']), '特攻': ('Blitz', ['Charge']), '一斉': ('Volley', []),
+ '突撃': ('Assault', ['Charge']), '特攻': ('Blitz', ['Charge']), '一斉': ('Joint', ['Volley']),
  '混乱': ('Panic', ['Confuse', 'Confusion']), '同討': ('Feud', ['Infighting']), '収拾': ('Order', ['Restore']),
  '仙術': ('Mystic', ['Mystic Arts']), '鼓舞': ('Rouse', ['Inspire']), '雨乞': ('Rain', ['Rainmaker']),
  '天変': ('Skies', ['Weather']), '落石': ('Rocks', ['Rockfall']), '占卜': ('Divine', ['Divination']),
