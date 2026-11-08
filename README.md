@@ -78,8 +78,8 @@ cp /path/to/your/dump.nds sangokushi_ds_3.nds     # must match the checksums abo
 Japanese text from your ROM with the English from `tl/`. `script/` and `build/`
 are never committed. Re-run `setup.py` after editing anything in `tl/`.
 
-To make a release package, run `.venv/bin/python tools/package.py 0.9` after building:
-it writes `release/<name>_v0.9.zip` with the versioned xdelta patch and a plain-text
+To make a release package, run `.venv/bin/python tools/package.py <version>` after building:
+it writes `release/<name>_v<version>.zip` with the versioned xdelta patch and a plain-text
 README.txt (notice, patching instructions, clean and patched ROM checksums, known
 issues, credits). The ROM itself is never packaged.
 
